@@ -6,230 +6,44 @@
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
   "entries": [
     {
-      "id": "entry-1",
-      "title": "Topic: Malware Removal Live Project (Part 1)",
-      "author": "Bijoy Chandra Mondal",
-      "date": null,
-      "observedDate": "5 hours ago",
-      "source": "",
-      "text": "Topic: Malware Removal Live Project (Part 1)\nClass link :\nClass topic will start 9:45 PM",
-      "links": [
-        "https://meet.google.com/gts-wjtq-meq"
-      ],
-      "topic": "Malware Removal",
+      "id": "entry-15",
+      "title": "এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।",
+      "author": "Roman Moonshi updated the description.",
+      "date": "2026-07-12",
+      "observedDate": "July 12",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529",
+      "text": "এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।\nএখানে আমরা সাইবার সিকিউরিটি বিষয়ক বিভিন্ন প্রশ্ন এবং ক্লাস পরবর্তি যে কোন সাহায্য সহযোগিতা নিয়ে আলোচনা করবো।\nআমাদের লক্ষ্য থাকবে, আগামী চার মাসের মাঝে যাতে গ্রুপের সবাই নিজেকে একজন সাইবার সিকিউরিটি স্পেশালিষ্ট হিসেবে গড়ে তুলতে পারে এবং নিজের ক্যারিয়ার গড়া সহ দেশের জন্য কিছু করতে পারে।\nঅরিয়েন্টেশন ক্লাসঃ ১৯ জুলাই ২০২৬, রবিবার।\nরেগুলার ক্লাস শিডিউলঃ শুক্রবার এবং রবিবার,…",
+      "links": [],
+      "topic": "Orientation",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": true,
+      "collectionIndex": 14,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-16",
+      "title": "আসসালামু আলাইকুম",
+      "author": "Roman Moonshi",
+      "date": "2026-07-17",
+      "observedDate": "July 17",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1601798241522765",
+      "text": "আসসালামু আলাইকুম\nএরিনা ওয়েব সিকিউরিটি ৬৬ তম ডেল্টা ব্যাচের সকলকে জানাই স্বাগতম। আগামী রবিবার রাত ৯ টা ৩০ মিনিটে আপনাদের ওরিয়েন্টেশন ক্লাস আনুষ্ঠানিকভাবে অনুষ্ঠিত হবে। তাই সবাইকে যথাসময়ে ফেসবুক গ্রুপে ফলোআপ রাখার জন্য বলা হচ্ছে। এর পাশাপাশি\nআসুন দেখে নেই কিভাবে আমরা আমাদের হোমওয়ার্ক প্যানেল ব্যবহার করতে পারি।\nhttps://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view?usp=sharing\n0:00 / 14:38",
+      "links": [],
+      "topic": null,
       "category": "classes",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 0
-    },
-    {
-      "id": "entry-2",
-      "title": "INFORMATIONAL POST-04",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "September 16 at 4:14 PM",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1654330032936252",
-      "text": "INFORMATIONAL POST-04\nআমাদের গত ক্লাসে\nKeylogger, Spyware & RAT (Live/Practical)\nনিয়ে বিস্তারিত আলোচনা এবং প্র্যাকটিক্যাল ডেমো দেখানো হয়েছে। পোস্টের শুরুতেই জানিয়ে রাখি, এই ক্লাসটি সম্পূর্ণ শিক্ষার উদ্দেশ্যে (Educational/Learning Purpose) নেওয়া হয়েছিল।\nঅনেকেই হয়তো ক্লাসের পর ডিরেক্ট টুলস আশা করেছিলেন, কিন্তু সিকিউরিটি ও এথিক্যাল লার্নিংয়ের খাতিরে সরাসরি কোনো টুলস প্রোভাইড করা হয়নি। তবে আপনাদের গবেষণার জন্য একটি\nResearch PDF\nশেয়ার করা হয়েছে। ওই পিডিএফটি নিয়ে যদি আপনারা গভীর অ্যানালাইসিস ও রিসার্চ করেন, তাহলে নিজেরাই RAT টুলস এর মূল মেকানিজম বুঝতে পারবেন এবং টুলস অব্দি পৌঁছাতে পারবেন। আর একজন রিয়েল সিকিউরিটি রিসার্চার হওয়ার জন্য নিজে থেকে রিসার্চ করে বের করার (Self Research) এই দক্ষতাটি তৈরি হওয়া অত্যন্ত প্রয়োজনীয়।\nতাছাড়া, আপনাদের হ্যান্ডস অন লার্নিংকে আরেক ধাপ এগিয়ে নিতে আমি একটি পেইড কিলগার\nরিসোর্স শেয়ার করছি। আপনারা জানেন, কী-লগিংয়ের মাধ্যমে মূলত সিস্টেমের প্রতিটি কীস্ট্রোক রেকর্ড করা হয়। এই পেইড রিসোর্সটি ভালোভাবে অ্যানালাইসিস করলে আপনারা বুঝতে পারবেন একটি Keylogger কীভাবে ব্যাকগ্রাউন্ডে কাজ করে এবং কীভাবে আপনারা নিজেদের কাস্টম Keylogger Tool তৈরি করতে পারবেন।\n1nhlO07TA1i9lbmeLFVVqCyrYOHZonhao\nআজকের করণীয়:\n১. শেয়ার করা PDF টি নিয়ে রিসার্চ শুরু করে দিন। ২. পেইড রিসোর্সটি অ্যানালাইসিস করে কাস্টম কী-লগার বিল্ড করার মেকানিজমটি বুঝুন।\nরিসোর্সগুলো দিয়ে প্র্যাকটিস করার সময় কোনো জায়গায় বুঝতে অসুবিধা হলে অবশ্যই কমেন্টে জানাবেন, উত্তর দেওয়ার চেষ্টা করবো।\nধন্যবাদ!",
-      "links": [],
-      "topic": "Malware Concepts",
-      "category": "documents",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 1
-    },
-    {
-      "id": "entry-3",
-      "title": "Noredirect Practice",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 2",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614257613610161",
-      "text": "Noredirect Practice",
-      "links": [],
-      "topic": "Session & Redirect",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 2
-    },
-    {
-      "id": "entry-4",
-      "title": "INFORMATIONAL POST - 02",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 1",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614256456943610",
-      "text": "INFORMATIONAL POST - 02\nNO REDIRECT এর সামারী।\nএই বিষয়ে আগে একটি পোষ্ট করেছিলাম, পড়ে থাকলে আবার পড়ে নিন, তারপর এটা পড়ুন এবং একটু পরে একটি পুরনো ভিডিও শেয়ার করে দিব, সো আসুন জেনে নেই-৫ এবং এই পোষ্ট সাথে পরবর্তি ভিডিও দেখে নেমে পড়ুন যুদ্ধে .....\nNo Redirect এড-অন্স টি কাজ করার জন্য শর্ত ২টি -\nক) ঐ সাইট এ No Redirect এড-অন্স দিয়ে ট্রাই করা যাবে যে সকল সাইটের URL এ\n‍\nsite name(website name. net or .com or org or com.in or....) এর পর /admin বা /administrator থাকবে এমন কোন লিংক।\nএবং\nখ) সেই লিংকে ক্লিক করলে অন্য কোন লিংকে যদি সাইট রি-ডাইরেক্ট করে যায় (মানে আমি দিলাম www.ahaque .com/admin/menu.php কিন্তু URL এ লিংক চলে অসলো www.ahaque .com/login.php)\nতাহলেই বুঝতে হবে এই সাইটে নো-রিডাইরেক্ট বাগ আছে এবং শুধুমাত্র এই রকম সাইটেই আমরা ট্রাই করতে পারি।\nএই সকল সাইট পাবো কেমন করে?\nপ্রথম দিনে মনে আছে আমরা কিছু ডর্ক দিয়ে এডমিন প্যানেল সাইট খুঁজে ছিলাম, সেই টাইপ ডর্ক দিয়ে খুঁজতে হবে, যাতে শর্ত নাম্বার ”ক” ফুলফিল করে(মানে সাইটে /admin বা /administrator থাকে।\nএর বাইরেও আরো কিছু ডর্কঃ\n1: intitle:\"index\" of \"admin\" site:\n2: intitle:\"index\" of \"admin\" \"framework\" site:.in\n3: intitle:\"index\" of \"admin\" \"pdf\" site:\n4: intitle:\"index\" of \"admin\" \"gallery\" site:\n5: intitle:\"index\" of \"admin\" \"image\" site:\n6: intitle:\"index\" of \"admin\" \"upload\" site:\n7: intitle:\"index\" of \"admin\" \"banner\" site:\n8: intitle:\"index\" of \"admin\" \"file\" site:\n9: intitle:\"index\" of \"admin\" \"page\" site:\n10: intitle:\"index\" of \"admin\" \"news\" site:\n11: intitle:\"index\" of \"admin\" \"views\" site:\n12: intitle:\"index\" of \"admin\" \"include\" site:\n13: intitle:\"index\" of \"admin\" \"picture\" site:\n14: intitle:\"index\" of \"admin\" \"photos\" site:\n15. inurl: admin/login.php site:.in\nনিজে নিজে ডর্কগুলো মডিফাই করে নিন, কিছু নতুন বানিয়ে নিন ...\nকিছু কিছু সাইটে সাদা স্ক্রিন আসে??\nতার মানে ঐ লিংকএর বাগ সাইট এডমিন ফিক্স করে দিয়েছে, অন্য লিংক এ ট্রাই করতে হবে।\nযে সাইটে হবে না!\nঅবশ্যই ওয়ার্ড -প্রেস সাইটে হবে না।\nনো-রিডাইরেক্ট এর জন্য আমরা কিভাবে জানবো সাইটে কোন ফাইল এক্সেসেবল কিনা?\nসেজন্য হ্যাকবারে Cyber 71 Privet Exploits এর একটি লিংক দেয়া আছে সেটা ব্যবহার করতে পারেন।\nসেটাতে যে সকল লিংক গ্রীন কালারে ৩০০, ৩০১, ৩০২ দেখাবে সেই লিংকটাতে ট্রাই করবো।\nএবার নিচের ৪টি ছবি দেখুন।\n১) হোয়াইট স্ক্রিণ, মানে ঐ লিংকের নো-রিডাইরেক্ট বাগ ফিক্স হয়ে গেছে।\n‍\n২) হ্যাকবার থেকে Cyber 71 Privet Exploits এর লিংক\n৩) একটি সাইট ওয়েব সার্ভারে কেমন থাকে সেটার চিত্র।\n৪) এডমিনের কাজ করার জন্য কিছু ফাইল( যেমন addDate.php, addFestival.php,addLedger.php, adminHome.php,editInvoice.php, ইত্যাদি) যা আমরা ওয়েব পেইজে দেখতে পাইনা।\nআশাকরি আর বিস্তারিত কিছু লেখার প্রয়োজন হবে না।",
-      "links": [],
-      "topic": "File Upload",
-      "category": "documents",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 3
-    },
-    {
-      "id": "entry-5",
-      "title": "আসুন জেনে নেই- ৪",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 1",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614255560277033",
-      "text": "আসুন জেনে নেই- ৪\n(Session Hijacking)\nনো-রিডাইরেক্ট কি ও নো-রিডাইরেক্ট নিয়ে আলোচনা!!\nপ্রথম কথায় নো-রিডাইরেক্ট হলো সাইটের একটা বাগ।\nবিষয়টা বোঝার আগে একটি ওয়েবসাইটের ষ্ট্রাকচার জানা থাকলে বিষয়টি ভালো ভাবে বোঝা যাবে।",
-      "links": [],
-      "topic": "Session & Redirect",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": true,
-      "collectionIndex": 4
-    },
-    {
-      "id": "entry-6",
-      "title": "মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।",
-      "author": "Tanjim Al Fahim",
-      "date": null,
-      "observedDate": "July 31",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614226516946604",
-      "text": "মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।\nআর হ্যা, এরিনা ওয়েব সিকিউরিটি পেজে লাইক এন্ড রিভিউ মাস্ট।\nhttps://www.facebook.com/ArenaBangladesh",
-      "links": [],
-      "topic": null,
-      "category": "notices",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 5
-    },
-    {
-      "id": "entry-7",
-      "title": "ডিরেক্ট ক্লাস রিসোর্স লিংক",
-      "author": "Md. Khaledul Islam",
-      "date": null,
-      "observedDate": "July 31",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614143273621595",
-      "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক\ndocs.google.com\nSession hijacking / Blocking, Mid Exam prep - b66 Delta",
-      "links": [
-        "https://docs.google.com/document/d/1-GJQv075oX67PWxaSWyKnsUMWyLMWbtuZQfBB37UAwU/edit?tab=t.0"
-      ],
-      "topic": "Session & Redirect",
-      "category": "documents",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 6
-    },
-    {
-      "id": "entry-8",
-      "title": "আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 28",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1610713203964602",
-      "text": "আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন\n।\nটিউটোরিয়াল ভিডিও দেখে ব্রাউজার টি এক্সট্রেক্ট করে নিবেন । সবাই ভিডিওটি ডাউনলোড করে ভালোভাবে দেখবেন কোন প্রকার স্কিপ করবেন না । কারো যদি ব্রাউজার টি এক্সট্রেক্ট করতে কোন প্রকার প্রবলেম হয়ে থাকে তবে এ পোস্টে কমেন্টে জানাবেন ।\nধন্যবাদ সবাইকে ।\nBROWSER FILE:\nPassword: aws\nVIDEO:\ndrive.google.com\ncyberfox.mkv",
-      "links": [
-        "https://drive.google.com/file/d/1NNwOQSycjxYaQGynnvbUd7qGnb4Jp2UR/view?usp=drive_link",
-        "https://drive.google.com/file/d/10huk7zPRgzq-ip8nD-SE8_EpBtlsgAvb/view?usp=drive_link"
-      ],
-      "topic": "Session & Redirect",
-      "category": "tools",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 7
-    },
-    {
-      "id": "entry-9",
-      "title": "আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 27",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609866550715934",
-      "text": "আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!\nগুগল ডর্ক (Google Dork) কী?\nঅনেকেই একে স্বাভাবিকভাবেই গুগল ডর্কিং কিংবা গুগল হ্যাকিং বলে আখ্যায়িত করে। কিন্তু কেন এই নাম? চলুন একটু জেনে আসি।\nআমরা গতানুগতিকভাবেই যে কোন কিছু সার্চ করতে গেলে বা খুঁজে পেতে গেলে গুগল সার্চ ইঞ্জিন ব্যবহার করে থাকি যা খুবই স্বাভাবিক সার্চ কিংবা নরমাল সার্চ হিসেবে বিবেচিত। তবে এর বাইরে ও গুগল সার্চ করার কিছু এডভান্স টেকনিক/ কলাকৌশল প্রয়োগের মাধ্যমে আমরা আমাদের মতো করে আউটপুট নিয়ে আসতে পারি যা আসলেই আমরা চাচ্ছি! এখন এটা কিভাবে?\nচলুন তবে আমরা একটু এর ব্যবহার এবং কার্যকর দিকগুলো জেনে নেই আসলে কি কি কাজে আমরা গুগল ডর্ক ব্যবহার করতে পারি: কোন ওয়েবসাইটের দুর্বল পয়েন্ট খুঁজে বের করা, পাবলিকলি অ্যাক্সেসযোগ্য নয় এমন ডাটাবেস, লগ ফাইল বা কনফিগারেশন ফাইল বের করা, এর মধ্যে ব্যক্তিগত গুরুত্বপূর্ণ তথ্য থাকতে পারে পাশাপাশি আমরা গুগল ডর্কিং শিক্ষা এবং গবেষণার ক্ষেত্রে উল্লেখযোগ্য ভাবে ব্যবহার করতে পারি।\nগুগল ডর্কের কিছু গুরুত্বপূর্ণ কমান্ড:\nগুগল ডর্কিংয়ের জন্য কিছু বিশেষ\nসার্চ অপারেটর\nব্যবহার করা হয়, যেমন:\nঅপারেটর ও তার ব্যাখ্যা:\nনির্দিষ্ট ডোমেইনের ভেতরে সার্চ করে\nওয়েবসাইটের টাইটেলে এডমিন লেখা থাকলে খুঁজে দিবে\nURL-এ নির্দিষ্ট শব্দ বা স্ট্রিং আছে কিনা তা খোঁজে\nনির্দিষ্ট ফাইল টাইপ খুঁজে বের করে\nনির্দিষ্ট এক্সটেনশনের ফাইল খোঁজে\nওয়েবসাইটের কন্টেন্টে কোন শব্দ খুঁজতে চাইলে\nওয়েবসাইটের ক্যাশ করা সংস্করণ দেখায়\nনির্দিষ্ট ওয়েবসাইটে লিংক করা অন্য পেজ খুঁজে বের করে\nনির্দিষ্ট বাক্যাংশ বা শব্দ খোঁজার জন্য ডাবল কোটেশন ব্যবহার করা হয়\nএবার চলুন বাস্তবমুখী প্রয়োগ উদাহরণের সাথে মিলিয়ে নেই!\nআমরা সেই প্রথম ওরিয়েন্টেশন ক্লাসে একটা সিম্পল ডর্ক এর সাথে পরিচিত হয়েছি যা এডমিন প্যানেল খুজে দিত যে কোন ওয়েবসাইটের সেটা কিভাবে?\nযা ভেঙ্গে বুঝতে গেলে দাঁড়ায় ( ইউ আর এল এর ভেতর admin অথবা login.php থাকবে এমন সব ওয়েবসাইট আমার সামনে আসবে এবং তা অবশ্যই ইন্ডিয়ান ওয়েবসাইট হতে হবে যায় ইতিমধ্যেই কমান্ডে ক্লিয়ার করে দেওয়া হয়েছে .in এর মাধ্যমে। অন্যদিকে আমরা এস কিউ এল ইনজেকশন এর জন্য আরও একটি ডর্কের সাথে পরিচিত হয়েছি যা আমাদের রেনডম ওয়েবসাইটগুলোর আইডি প্যারামিটার খুঁজে দিত এটা কিভাবে?\nঅনেকটা একই রকম আমরা বুঝতেই পারছি ( ইউ আর এল এর ভিতর php?id= আইডি এবং প্যারামিটার থাকবে এমন সব ওয়েবসাইট আমার সামনে আসবে এবং তা অবশ্যই ইন্ডিয়ান হতে হবে ) আপনি চাইলে এখানে .in এর পরিবর্তে টার্গেট ওয়েবসাইটের ইউআরএল দিয়েও খুঁজে দেখতে পারেন যে ওই ওয়েবসাইটের আইডি প্যারামিটার আছে কিনা। উদাহরণস্বরূপ:\nএখন এতোটুকু যদি সত্যিই বুঝে থাকেন তাহলে মন দিয়ে প্র্যাকটিস করুন এবং আপনার ইচ্ছা অনুযায়ী গুগল ডর্ক মডিফাই করতে শিখতে থাকুন কোথাও যদি বুঝতে অসুবিধা হয় অবশ্যই কমেন্টে আমাকে জানাবেন ধন্যবাদ।",
-      "links": [],
-      "topic": "SQL Injection",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 8
-    },
-    {
-      "id": "entry-10",
-      "title": "অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।",
-      "author": "Tanjim Al Fahim",
-      "date": null,
-      "observedDate": "July 26",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609893780713211",
-      "text": "অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।\nআর অবশ্যই রিভিউ অপশনে গিয়ে আপনার মতামত জানাতে ভূলবেন না। বাংলা কিংবা ইংরেজি, যে কোন একভাবে রিভিউ দিলেই হবে।\nhttps://www.facebook.com/ArenaBangladesh/\nN.B: রিভিউ লিংক সরাসরি ওপেন না হলে পেজে গিয়ে recommendation এ ক্লিক করলেই রিভিউ দিতে পারবেন।",
-      "links": [
-        "https://www.facebook.com/ArenaBangladesh/reviews"
-      ],
-      "topic": null,
-      "category": "documents",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 9
-    },
-    {
-      "id": "entry-11",
-      "title": "আসুন জেনে নেই - ২",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 25",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1608246744211248",
-      "text": "আসুন জেনে নেই - ২\n(SQL Injection কেন করি??)\nডাটা বেইস(Database) কি?\nData শর্ব্দের অর্থ হলো তথ্য বা উপাত্ত এবং base শব্দের অর্থ হলো ভিত্তি। ডাটাবেস মানে হলো তথ্যভান্ডার। আগে ডাটা স্তুপীকৃত ফাইলে তথ্যসংক্ষন করা হতো এখন ডেটাবেসে সংরক্ষন করা হয়।তবে মনে রাখতে হবে এলোমেলো ভাবে ডাটা সংরক্ষন করার মানেই ডাটাবেস না। তাহলে ডাটাবেস হলো পরষ্পরসম্পর্কযুক্ত তথ্য বা ডাটাকে নির্দিষ্ট সিকোয়েন্সে সংরক্ষন করা। যেমন করে ফার্মেসিতে ঔষদগুলো বা লাইব্রেরীতে বইগুলো সংরক্ষন করে থাকে।\nআই টি ভাষায় যেমন- USER নামক একটি ডাটাবেস, তার মধ্যে থাকতে পারে User_Id, User_Name , User_Password, User_mail, User_Contact ইত্যাদি, ইত্যাদি হতে পারে।\nDBMS (ডাটাবেজম্যানেজমেন্ট সিস্টেম) কি?\nDBMS হলো একটি সফটওয়্যার যার সাহায্যে ডাটাবেজ তৈরি করা, ডাটাবেজ পরিবর্তন করা, ডাটা সংযোজন- বিয়োজন, রক্ষণাবেক্ষণ, চাহিদা অনুসারে ডাটা ম্যানেজ(কোয়েরী) ইত্যাদি যাবতীয় কাজ হয় । এই ডাটাবেস তৈরী, সংরক্ষন ও মেনেজ করার জন্য যা প্রয়োজন তা হলো- database, table, Columns, Data, ইত্যাদি।\nDBMS (ডাটাবেজম্যানেজমেন্ট সিস্টেম) সফটওয়্যার যেমনঃ MySQL, MS SQL, Oracle ইত্যাদি, ইত্যাদি।\nওয়েভ সাইটের ডাটাবেজে কি থাকে?\n- ওয়েভ সাইটের সকল রেজিষ্ট্রার্ড ইউজার ইনফরমেশন( নাম, পাসওয়ার্ড, মেইল, কন্টাক নাম্বার…)\n- ব্যবহৃত সকল ফাইল ইনফরমেশন\n- ব্যবহৃত সকল মিডিয়া ইনফরমেশন\n- সকল পোষ্ট ইনফরমেশন\n- ওয়েভ সার্ভার এক্সেস/ মডিফাই/ এডমিন ইউজার এবং তাদের লিমিটেশন ইনফরমেশন।\nইত্যাদি, ইত্যাদি,, মোট কথা হলো পুরো ওয়েভ সাইট এর\nমেইন ডাটাগুলোর ইনফরমেশন বা লিংক থাকে এই ডাটাবেজে।\nএখন যদি আমরা বা কেহ কোন একটি সাইটের ডাটাবেস এক্সেস নিতে পারে বা হ্যাক করতে পারে তাহলে সাইটের এক্সেস নিতে কি আর কোন সমস্যা??\nআর কোন সাইটের যদি একবার এক্সেস(এডমিন প্যাণেল) নেয়া যায় তাহলে সাইটের তথ্য পরিবর্তন করা কি খুব কঠিন??\n>> যদি এডমিন প্যাণেল/ডেসবোর্ড এক্সেস পাওয়া যায় তাহলে কি কি করা যাবে?\nসাইটের এডমিন যা যা করতে পরে এই প্যানেল থেকে আপনিও তাই করতে পারেবেন।\nআর যদি সেখান থেকে কোন ভাবে শেল(পরবর্তিতে ক্লাশ হবে) আপ করা সম্ভব হয় তাহলে কি হবে?\nহা –হা- হা… সাইটের ওয়েভ সার্ভার এক্সেস পেয়ে যাবেন। তখন সাইট আপনার মতো করে পরিচালনা করতে পারেবেন… ডিফেইস করতে পারবেন, হয়তো ঐ একটি শেল এক্সেস থেকে পুরো সার্ভার ও দখল দিতে পারবেন।\nএখন বুঝতে পারলেন তো ডাটাবেস কেন এতো গুরুত্বপূর্ণ?\nআর সেজন্যই তো যে কোন হ্যাকারের প্রাথমিক টার্গেট থাকে কোন সাইটের ডাটাবেস। ডাটাবেস থেকে তথ্য বের করার জন্য(মেইনলি এডমিন ইউজারের নাম, পাসওয়ার্ড, মেইল..) আমরা এস কিউ এল ইঞ্জেকশান ব্যাবহার করি।",
-      "links": [],
-      "topic": "SQL Injection",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 10
-    },
-    {
-      "id": "entry-12",
-      "title": "সবাই ক্লাসে চলে আসুন।",
-      "author": "Tanjim Al Fahim",
-      "date": null,
-      "observedDate": "July 24",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1608140980888491",
-      "text": "সবাই ক্লাসে চলে আসুন।\nposted to\nAdmin\n·\nCyber Safety, SQL Injection by tools",
-      "links": [
-        "https://www.facebook.com/groups/awsb66delta/posts/1608140980888491/",
-        "https://www.facebook.com/groups/awsb66delta/"
-      ],
-      "topic": "SQL Injection",
-      "category": "tools",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 11
-    },
-    {
-      "id": "entry-13",
-      "title": "INFORMATIONAL POST -01",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 20",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604208154615107",
-      "text": "INFORMATIONAL POST -01\n1 'or' 1 '=' 1 দিয়ে Site Access হলো কেন?\nUser: 1 'or' 1 '=' 1\nPass: 1 'or' 1 '=' 1\nকেন বা কিভাবে কাজ করে?\nw3schools.com\nW3Schools.com",
-      "links": [],
-      "topic": null,
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": true,
-      "collectionIndex": 12
+      "collectionIndex": 15,
+      "dateVerified": true
     },
     {
       "id": "entry-14",
-      "title": "অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্দেশনা দিয়ে দিচ্ছি। ধন্যবাদ।",
+      "title": "অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…",
       "author": "Tanjim Al Fahim",
-      "date": null,
+      "date": "2026-07-19",
       "observedDate": "July 19",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1604083781294211",
       "text": "অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্দেশনা দিয়ে দিচ্ছি। ধন্যবাদ।\nposted to\nAdmin\n·\nOrientation Class: B66 Delta",
@@ -242,87 +56,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 13
-    },
-    {
-      "id": "entry-15",
-      "title": "এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।",
-      "author": "Roman Moonshi updated the description.",
-      "date": null,
-      "observedDate": "July 12",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529",
-      "text": "এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।\nএখানে আমরা সাইবার সিকিউরিটি বিষয়ক বিভিন্ন প্রশ্ন এবং ক্লাস পরবর্তি যে কোন সাহায্য সহযোগিতা নিয়ে আলোচনা করবো।\nআমাদের লক্ষ্য থাকবে, আগামী চার মাসের মাঝে যাতে গ্রুপের সবাই নিজেকে একজন সাইবার সিকিউরিটি স্পেশালিষ্ট হিসেবে গড়ে তুলতে পারে এবং নিজের ক্যারিয়ার গড়া সহ দেশের জন্য কিছু করতে পারে।\nঅরিয়েন্টেশন ক্লাসঃ ১৯ জুলাই ২০২৬, রবিবার।\nরেগুলার ক্লাস শিডিউলঃ শুক্রবার এবং রবিবার,…",
-      "links": [],
-      "topic": "Orientation",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": true,
-      "collectionIndex": 14
-    },
-    {
-      "id": "entry-16",
-      "title": "আসসালামু আলাইকুম",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 17",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1601798241522765",
-      "text": "আসসালামু আলাইকুম\nএরিনা ওয়েব সিকিউরিটি ৬৬ তম ডেল্টা ব্যাচের সকলকে জানাই স্বাগতম। আগামী রবিবার রাত ৯ টা ৩০ মিনিটে আপনাদের ওরিয়েন্টেশন ক্লাস আনুষ্ঠানিকভাবে অনুষ্ঠিত হবে। তাই সবাইকে যথাসময়ে ফেসবুক গ্রুপে ফলোআপ রাখার জন্য বলা হচ্ছে। এর পাশাপাশি\nআসুন দেখে নেই কিভাবে আমরা আমাদের হোমওয়ার্ক প্যানেল ব্যবহার করতে পারি।\nhttps://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view?usp=sharing\n0:00 / 14:38",
-      "links": [],
-      "topic": null,
-      "category": "classes",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 15
-    },
-    {
-      "id": "entry-17",
-      "title": "আসসালামু আলাইকুম। কেমন আছেন সবাই?",
-      "author": "Tanjim Al Fahim",
-      "date": null,
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1601890488180207",
-      "text": "আসসালামু আলাইকুম। কেমন আছেন সবাই?\nআমি তানজিম আল ফাহিম, আপনাদের কোর্সের প্রধান প্রশিক্ষক হিসেবে দায়িত্ব পালন করবো ইনশাআল্লাহ। আমি ছাড়াও ২১ জনের অভিজ্ঞ একটি টীম এবং সম্মানিত বিশেষজ্ঞ এবং দেশসেরা প্রশিক্ষকবৃন্দরা আপনাদের কোর্সের সাথে পুরো সময়কাল ধরেই থাকবেন।\nআপনাদের অরিয়েন্টেশন ক্লাস শুরু হবে রবিবার রাত ০৯ঃ৩০ মিনিটে।\nপ্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন। সার্ভারে লগিন করে নিন, এ সংক্রান্ত কোন সমস্যা থাকলে পাসওয়ার্ড রিসেট অপশন থেকে পাসওয়া…",
-      "links": [],
-      "topic": "Orientation",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": true,
-      "collectionIndex": 16
-    },
-    {
-      "id": "entry-18",
-      "title": "আর এক ঘন্টা পরেই",
-      "author": "Tanjim Al Fahim",
-      "date": null,
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604060137963242",
-      "text": "আর এক ঘন্টা পরেই\nরাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?\nঅরিয়েন্টেশন ক্লাস লিংক সরাসরি গ্রুপেই শেয়ার করা হবে। এখানেই সমস্ত দিক নির্দেশনা প্রদান করা হবে। সুতরাং, নির্ধারিত সময়ের ১০ মিনিট আগে শুধুমাত্র গ্রুপে চলে আসবেন।\nক্লাসে দেখা হচ্ছে ইনশাআল্লাহ।",
-      "links": [],
-      "topic": "Orientation",
-      "category": "classes",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 17
-    },
-    {
-      "id": "entry-19",
-      "title": "আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?",
-      "author": "Tanjim Al Fahim",
-      "date": null,
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1603860857983170",
-      "text": "আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?\nপ্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন।\nক্লাসঃ অরিয়েন্টেশন এবং প্রথম দিকের ক্লাস গুলো এই গ্রুপে লাইভ পরিচালনা করা হয়ে থাকবে। ক্লাস প্লাটফর্ম হিসেবে, গ্রুপ -সার্ভার, গুগল ক্লাসরুম এবং গুগল মিট ব্যাবহার হয়ে থাকে।",
-      "links": [],
-      "topic": "Orientation",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": true,
-      "collectionIndex": 18
+      "collectionIndex": 13,
+      "dateVerified": true
     },
     {
       "id": "entry-20",
@@ -338,7 +73,883 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 19
+      "collectionIndex": 19,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-13",
+      "title": "INFORMATIONAL POST -01",
+      "author": "Roman Moonshi",
+      "date": "2026-07-20",
+      "observedDate": "July 20",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604208154615107",
+      "text": "INFORMATIONAL POST -01\n1 'or' 1 '=' 1 দিয়ে Site Access হলো কেন?\nUser: 1 'or' 1 '=' 1\nPass: 1 'or' 1 '=' 1\nকেন বা কিভাবে কাজ করে?\nw3schools.com\nW3Schools.com",
+      "links": [],
+      "topic": null,
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": true,
+      "collectionIndex": 12,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-25",
+      "title": "আসুন, জেনে নেই -১",
+      "author": "Roman Moonshi",
+      "date": "2026-07-20",
+      "observedDate": "July 20",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604210557948200",
+      "text": "আসুন, জেনে নেই -১\nভালনেরাবিলিটি (Vulnerability) কি?\nভালনেরাবিলিটি হচ্ছে কোনো সিস্টেমের দূর্বলতা বা ভুল বা নিরাপত্তার ছিদ্রসমূহ। অর্থাৎ সিস্টেমটি কোনোভাবে বা কোনো কৌশলে আক্রমণযোগ্য।\nকোন সাইট এর ভালনেরাবিলিটি থাকা মানে হচ্ছে সাইটটি হ্যাক হওয়ার সুযোগ রয়েছে অথবা সাইটটির সিকিউরিটির কোন একটি দিকে দুর্বলতা রয়েছে। তবে কোন সাইটের ভালনেরাবিলিটি থাকার এই মানে নয় যে এটিকে হ্যাক করা যাবেই। তবে সুযোগ থাকার সম্ভাবনা রয়েছে।\nভালনেরাবিলিটি(Vulnerability) সাইট কিভাবে খুঁজবো?\nভালনেরাবিলিটি(Vulnerability) বা ত্রুটিযুক্ত সাইট খুঁজে বের করার উপায় হচ্ছে গুগল ডর্ক। যে যত ইউনিক এবং স্পেসিফিক ডর্ক বানাতে পারবে সে তত বেশী সাইট পাবে। যে যত বেশী সাইট পাবেন তত বেশী সাইট হ্যাক করার পসিবিলিটি হবে।\nগুগল ডর্ক(Google Dork) :\nগুগল হলো একটি সার্চ ইঞ্জিন। কোন কিছু খুঁজে পেতে আমরা গুগলের সাহায্য নেই এবং আমাদের প্রয়োজনীয় তথ্য খুঁজে বের করি।\nমনে করুন Ayub Bachchu এর ”হাসতে দেখো” গান দেখতে চাই বা শুনতে চাই তাহলে কি করতে পারি?\nগুগলে গিয়ে Ayub Bachchu লিখে সার্চ দিলে Ayub Bachchu রিলেটেড অনেক গান, তথ্য আসবে, সেখান থেকে খুঁজে বের করতে হবে হাসতে দেখো” গানটি, অনেক সময় লেগে যাবে, তাইনা?\nএবার যদি”হাসতে দেখো”Ayub Bachchu লিখে সার্চ দেই তাহলে কি হবে? খুব সহজেই পেয়ে যাব, তাইনা!\nগুগল ডর্ক হল এক ধরনের এডভান্সড সার্চ করার পদ্ধতি যা দিয়ে আপনি স্পেসিফিক তথ্যগুলো আলাদা করে নিয়ে আসতে পারবেন।\nএই এডভান্স ও স্পেসিফিক বা স্মার্ট সার্চের জন্য কিছু অপারেটর ব্যবহার করতে হয়।\nগুগল ডর্ক এর কমন কিছু অপারেটরঃ\ninurl: এই শব্দ দিয়ে শুরু করে আপনি যাই লিখবেন, তা কোন সাইটের এড্রেসে খুঁজে পেলে গুগল আপনাকে সার্চ রেজাল্ট হিসাবে দেখাবে।(url মানে হলো ওয়েভ এড্রেস, যেমনঃ https://www.facebook.com/ArenaBangladesh)\nউদাহরনঃ inurl:\"login.php\" এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের ওয়েভ এড্রেসেlogin.php আছে, যেমন-\nএই ধরনের সাইটগুলো দেখাবে।https://olportal.ontariolearn.com/login.php\nintitle: এ কিছু ডাটা দিলে, সেসব সাইটের টাইটেলে ঐ শব্দ পাবে গুগল আপনাকে সেই সাইটগুলোই দেখাবে।\nউদাহরনঃintitle: “login page” এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের টাইটেলেlogin page আছে,\nযেমন- http://testphp.vulnweb.com/login.php\nintext: এর পর যে টেক্সট লিখে সার্চ দিলে, যে সব সাইটে ঐ টেক্সট পাবে গুগল সেই সব সাইট খুঁজে বের করে দিবে।\nউদাহরনঃ intext:\"Design & Developed By Seawind Solution Pvt.Ltd.\"এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটেDesign & Developed By Seawind Solution Pvt.Ltd. এই টেক্সট আছে,\nযেমন- https://www.aaa.co.in/page/services\nsite: কোন ডোমেইন স্পেসিফাই করে দিতে বা নির্দিষ্ট কোন সাইট ব্যবহার করা হয়।\nউদাহরনঃ site:octa.net এর মানে হলো- octa.net সাইট এর মধ্যকার ডাটা সার্চ করা, এটা ডোমেইন ও হতে পারে যেমনঃ.com বা.net ইত্যাদি।\nআবার কোন ডর্কে একাধিক অপারেটরও ব্যবহার করা হতে পারে।\nযেমনঃ\nintitle:\"index\" of \"admin\" site:.in\nযে সকল পেইজের টাইটেলেindex\" of \"admin আছে এবং সাইটগুলো ইন্ডিয়ার শুধু সেসকল সাইট খুঁজে বের করার জন্য ডর্ক।\ninurl:\"login.php\" site:.in\nintitle: “login page” site:.in\n>> গুগল ডর্ক কোন হ্যাকিং নয়।\nতবে গুগল ডর্ক হলো হ্যাকিংয়ের প্রাথমিক ধাপ (হ্যাক করার জন্য সাইট বা লিংক খুঁজে বের করা)।\nধন্যবাদ।",
+      "links": [],
+      "topic": "Google Dork",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 24,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-29",
+      "title": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!",
+      "author": "Roman Moonshi",
+      "date": "2026-07-21",
+      "observedDate": "July 21",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604959244539998",
+      "text": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!\nকি অবস্থা সবার কেমন আছেন?\nআজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!\nআপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।\nMeet-এ যোগদানের তথ্য:\nসময়:\nপ্রথম সেশন:\nসন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত\nদ্বিতীয় সেশন:\nরাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত\nলিঙ্ক:\nTo join the video meeting, click this link:\nOtherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 124#\nকিভাবে সাহায্য পাবেন:\nআপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।\nধন্যবাদ।",
+      "links": [
+        "https://meet.google.com/yac-xrnh-gvz"
+      ],
+      "topic": null,
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 28,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-12",
+      "title": "সবাই ক্লাসে চলে আসুন।",
+      "author": "Tanjim Al Fahim",
+      "date": "2026-07-24",
+      "observedDate": "July 24",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1608140980888491",
+      "text": "সবাই ক্লাসে চলে আসুন।\nposted to\nAdmin\n·\nCyber Safety, SQL Injection by tools",
+      "links": [
+        "https://www.facebook.com/groups/awsb66delta/posts/1608140980888491/",
+        "https://www.facebook.com/groups/awsb66delta/"
+      ],
+      "topic": "SQL Injection",
+      "category": "tools",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 11,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-39",
+      "title": "First class: Cyber Safety, SQL Injection by tools",
+      "author": "Md. Khaledul Islam",
+      "date": "2026-07-24",
+      "observedDate": "July 24",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1608143074221615",
+      "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক\ndocs.google.com\nFirst class: Cyber Safety, SQL Injection by tools",
+      "links": [
+        "https://docs.google.com/document/d/10FjEY5eyXUc54sUamu2-uj-8m5N03Cuwf-PKuDVimcM/edit?tab=t.0"
+      ],
+      "topic": "SQL Injection",
+      "category": "documents",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 38,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-40",
+      "title": "ক্লাস রেকর্ড — 24/07/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-07-24",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n২৪/০৭/২০২৬\ndrive.google.com\nClass record.mp4",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 39,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-11",
+      "title": "আসুন জেনে নেই - ২",
+      "author": "Roman Moonshi",
+      "date": "2026-07-25",
+      "observedDate": "July 25",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1608246744211248",
+      "text": "আসুন জেনে নেই - ২\n(SQL Injection কেন করি??)\nডাটা বেইস(Database) কি?\nData শর্ব্দের অর্থ হলো তথ্য বা উপাত্ত এবং base শব্দের অর্থ হলো ভিত্তি। ডাটাবেস মানে হলো তথ্যভান্ডার। আগে ডাটা স্তুপীকৃত ফাইলে তথ্যসংক্ষন করা হতো এখন ডেটাবেসে সংরক্ষন করা হয়।তবে মনে রাখতে হবে এলোমেলো ভাবে ডাটা সংরক্ষন করার মানেই ডাটাবেস না। তাহলে ডাটাবেস হলো পরষ্পরসম্পর্কযুক্ত তথ্য বা ডাটাকে নির্দিষ্ট সিকোয়েন্সে সংরক্ষন করা। যেমন করে ফার্মেসিতে ঔষদগুলো বা লাইব্রেরীতে বইগুলো সংরক্ষন করে থাকে।\nআই টি ভাষায় যেমন- USER নামক একটি ডাটাবেস, তার মধ্যে থাকতে পারে User_Id, User_Name , User_Password, User_mail, User_Contact ইত্যাদি, ইত্যাদি হতে পারে।\nDBMS (ডাটাবেজম্যানেজমেন্ট সিস্টেম) কি?\nDBMS হলো একটি সফটওয়্যার যার সাহায্যে ডাটাবেজ তৈরি করা, ডাটাবেজ পরিবর্তন করা, ডাটা সংযোজন- বিয়োজন, রক্ষণাবেক্ষণ, চাহিদা অনুসারে ডাটা ম্যানেজ(কোয়েরী) ইত্যাদি যাবতীয় কাজ হয় । এই ডাটাবেস তৈরী, সংরক্ষন ও মেনেজ করার জন্য যা প্রয়োজন তা হলো- database, table, Columns, Data, ইত্যাদি।\nDBMS (ডাটাবেজম্যানেজমেন্ট সিস্টেম) সফটওয়্যার যেমনঃ MySQL, MS SQL, Oracle ইত্যাদি, ইত্যাদি।\nওয়েভ সাইটের ডাটাবেজে কি থাকে?\n- ওয়েভ সাইটের সকল রেজিষ্ট্রার্ড ইউজার ইনফরমেশন( নাম, পাসওয়ার্ড, মেইল, কন্টাক নাম্বার…)\n- ব্যবহৃত সকল ফাইল ইনফরমেশন\n- ব্যবহৃত সকল মিডিয়া ইনফরমেশন\n- সকল পোষ্ট ইনফরমেশন\n- ওয়েভ সার্ভার এক্সেস/ মডিফাই/ এডমিন ইউজার এবং তাদের লিমিটেশন ইনফরমেশন।\nইত্যাদি, ইত্যাদি,, মোট কথা হলো পুরো ওয়েভ সাইট এর\nমেইন ডাটাগুলোর ইনফরমেশন বা লিংক থাকে এই ডাটাবেজে।\nএখন যদি আমরা বা কেহ কোন একটি সাইটের ডাটাবেস এক্সেস নিতে পারে বা হ্যাক করতে পারে তাহলে সাইটের এক্সেস নিতে কি আর কোন সমস্যা??\nআর কোন সাইটের যদি একবার এক্সেস(এডমিন প্যাণেল) নেয়া যায় তাহলে সাইটের তথ্য পরিবর্তন করা কি খুব কঠিন??\n>> যদি এডমিন প্যাণেল/ডেসবোর্ড এক্সেস পাওয়া যায় তাহলে কি কি করা যাবে?\nসাইটের এডমিন যা যা করতে পরে এই প্যানেল থেকে আপনিও তাই করতে পারেবেন।\nআর যদি সেখান থেকে কোন ভাবে শেল(পরবর্তিতে ক্লাশ হবে) আপ করা সম্ভব হয় তাহলে কি হবে?\nহা –হা- হা… সাইটের ওয়েভ সার্ভার এক্সেস পেয়ে যাবেন। তখন সাইট আপনার মতো করে পরিচালনা করতে পারেবেন… ডিফেইস করতে পারবেন, হয়তো ঐ একটি শেল এক্সেস থেকে পুরো সার্ভার ও দখল দিতে পারবেন।\nএখন বুঝতে পারলেন তো ডাটাবেস কেন এতো গুরুত্বপূর্ণ?\nআর সেজন্যই তো যে কোন হ্যাকারের প্রাথমিক টার্গেট থাকে কোন সাইটের ডাটাবেস। ডাটাবেস থেকে তথ্য বের করার জন্য(মেইনলি এডমিন ইউজারের নাম, পাসওয়ার্ড, মেইল..) আমরা এস কিউ এল ইঞ্জেকশান ব্যাবহার করি।",
+      "links": [],
+      "topic": "SQL Injection",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 10,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-10",
+      "title": "অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।",
+      "author": "Tanjim Al Fahim",
+      "date": "2026-07-26",
+      "observedDate": "July 26",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609893780713211",
+      "text": "অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।\nআর অবশ্যই রিভিউ অপশনে গিয়ে আপনার মতামত জানাতে ভূলবেন না। বাংলা কিংবা ইংরেজি, যে কোন একভাবে রিভিউ দিলেই হবে।\nhttps://www.facebook.com/ArenaBangladesh/\nN.B: রিভিউ লিংক সরাসরি ওপেন না হলে পেজে গিয়ে recommendation এ ক্লিক করলেই রিভিউ দিতে পারবেন।",
+      "links": [
+        "https://www.facebook.com/ArenaBangladesh/reviews"
+      ],
+      "topic": null,
+      "category": "documents",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 9,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-46",
+      "title": "ক্লাস রেকর্ড — 26/07/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-07-26",
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609919597377296",
+      "text": "ক্লাস রেকর্ড\n২৬/০৭/২০২৬\n1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 45,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-9",
+      "title": "আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!",
+      "author": "Roman Moonshi",
+      "date": "2026-07-27",
+      "observedDate": "July 27",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609866550715934",
+      "text": "আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!\nগুগল ডর্ক (Google Dork) কী?\nঅনেকেই একে স্বাভাবিকভাবেই গুগল ডর্কিং কিংবা গুগল হ্যাকিং বলে আখ্যায়িত করে। কিন্তু কেন এই নাম? চলুন একটু জেনে আসি।\nআমরা গতানুগতিকভাবেই যে কোন কিছু সার্চ করতে গেলে বা খুঁজে পেতে গেলে গুগল সার্চ ইঞ্জিন ব্যবহার করে থাকি যা খুবই স্বাভাবিক সার্চ কিংবা নরমাল সার্চ হিসেবে বিবেচিত। তবে এর বাইরে ও গুগল সার্চ করার কিছু এডভান্স টেকনিক/ কলাকৌশল প্রয়োগের মাধ্যমে আমরা আমাদের মতো করে আউটপুট নিয়ে আসতে পারি যা আসলেই আমরা চাচ্ছি! এখন এটা কিভাবে?\nচলুন তবে আমরা একটু এর ব্যবহার এবং কার্যকর দিকগুলো জেনে নেই আসলে কি কি কাজে আমরা গুগল ডর্ক ব্যবহার করতে পারি: কোন ওয়েবসাইটের দুর্বল পয়েন্ট খুঁজে বের করা, পাবলিকলি অ্যাক্সেসযোগ্য নয় এমন ডাটাবেস, লগ ফাইল বা কনফিগারেশন ফাইল বের করা, এর মধ্যে ব্যক্তিগত গুরুত্বপূর্ণ তথ্য থাকতে পারে পাশাপাশি আমরা গুগল ডর্কিং শিক্ষা এবং গবেষণার ক্ষেত্রে উল্লেখযোগ্য ভাবে ব্যবহার করতে পারি।\nগুগল ডর্কের কিছু গুরুত্বপূর্ণ কমান্ড:\nগুগল ডর্কিংয়ের জন্য কিছু বিশেষ\nসার্চ অপারেটর\nব্যবহার করা হয়, যেমন:\nঅপারেটর ও তার ব্যাখ্যা:\nনির্দিষ্ট ডোমেইনের ভেতরে সার্চ করে\nওয়েবসাইটের টাইটেলে এডমিন লেখা থাকলে খুঁজে দিবে\nURL-এ নির্দিষ্ট শব্দ বা স্ট্রিং আছে কিনা তা খোঁজে\nনির্দিষ্ট ফাইল টাইপ খুঁজে বের করে\nনির্দিষ্ট এক্সটেনশনের ফাইল খোঁজে\nওয়েবসাইটের কন্টেন্টে কোন শব্দ খুঁজতে চাইলে\nওয়েবসাইটের ক্যাশ করা সংস্করণ দেখায়\nনির্দিষ্ট ওয়েবসাইটে লিংক করা অন্য পেজ খুঁজে বের করে\nনির্দিষ্ট বাক্যাংশ বা শব্দ খোঁজার জন্য ডাবল কোটেশন ব্যবহার করা হয়\nএবার চলুন বাস্তবমুখী প্রয়োগ উদাহরণের সাথে মিলিয়ে নেই!\nআমরা সেই প্রথম ওরিয়েন্টেশন ক্লাসে একটা সিম্পল ডর্ক এর সাথে পরিচিত হয়েছি যা এডমিন প্যানেল খুজে দিত যে কোন ওয়েবসাইটের সেটা কিভাবে?\nযা ভেঙ্গে বুঝতে গেলে দাঁড়ায় ( ইউ আর এল এর ভেতর admin অথবা login.php থাকবে এমন সব ওয়েবসাইট আমার সামনে আসবে এবং তা অবশ্যই ইন্ডিয়ান ওয়েবসাইট হতে হবে যায় ইতিমধ্যেই কমান্ডে ক্লিয়ার করে দেওয়া হয়েছে .in এর মাধ্যমে। অন্যদিকে আমরা এস কিউ এল ইনজেকশন এর জন্য আরও একটি ডর্কের সাথে পরিচিত হয়েছি যা আমাদের রেনডম ওয়েবসাইটগুলোর আইডি প্যারামিটার খুঁজে দিত এটা কিভাবে?\nঅনেকটা একই রকম আমরা বুঝতেই পারছি ( ইউ আর এল এর ভিতর php?id= আইডি এবং প্যারামিটার থাকবে এমন সব ওয়েবসাইট আমার সামনে আসবে এবং তা অবশ্যই ইন্ডিয়ান হতে হবে ) আপনি চাইলে এখানে .in এর পরিবর্তে টার্গেট ওয়েবসাইটের ইউআরএল দিয়েও খুঁজে দেখতে পারেন যে ওই ওয়েবসাইটের আইডি প্যারামিটার আছে কিনা। উদাহরণস্বরূপ:\nএখন এতোটুকু যদি সত্যিই বুঝে থাকেন তাহলে মন দিয়ে প্র্যাকটিস করুন এবং আপনার ইচ্ছা অনুযায়ী গুগল ডর্ক মডিফাই করতে শিখতে থাকুন কোথাও যদি বুঝতে অসুবিধা হয় অবশ্যই কমেন্টে আমাকে জানাবেন ধন্যবাদ।",
+      "links": [],
+      "topic": "Google Dork",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 8,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-47",
+      "title": "হাভিজ এর পোর্টেবল ভার্সান।",
+      "author": "Roman Moonshi",
+      "date": "2026-07-27",
+      "observedDate": "July 27",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609865664049356",
+      "text": "হাভিজ এর পোর্টেবল ভার্সান।\nপ্রথমেই বলে নেই অতি উৎসাহী হয়ে ইউ-টিউব এর বা গুগল থেকে খুঁজে খুঁজে হাভিজ বা হ্যাকিং রিলেটেড কোন টুলস্‌, সফ্টওয়্যার ডাউনলোড করবেন না। র‌্যানসামওয়ারে অথবা কি-লগিংএর স্বিকার হতে পারেন।\nআর জানেন তো এই ধরনের টুলসের জন্য এন্টিভাইরাস অফ বা বাই-পাস করতে হয়।\nসো- আনট্রাষ্টেড কিছু ডাউনলোড করে নিজের ক্ষতি করবেন না।\nহাভিজের যে ভার্সান আপনাদের দেয়া হয়েছে এর বাইরেও কিছু ভার্সান আমাদের কাছে আছে, সমস্যা হলো সেগুলো ক্র্যাক করতে হয়, অনেকই সমস্যায় পড়তে পারেন, তাই এভয়েট করা হচ্ছে।\nতাই হাভিজের একটি এডভান্স ও পোর্টেবল ভার্সন ১.৬ দিয়ে দিচ্ছি।\nভালো কথা এটি ইন্সটল করার প্রয়োজন নেই। পোর্টেবল ভার্সান\nডাউনলোড করবেন, আনরার (UnRar) করবেন, তারপর রান এস এডমিনিষ্ট্রেটর দিয়ে চালাবেন\nও,\nপাসওয়ার্ডঃ aws\nলিংকঃ https://drive.google.com/file/d/1_Nq_luWvf3TUYdfIa6sRKJbhQXRtfbAQ/view\nযথারীতি হাভিজ চালাতে এন্টিভাইরাস অফ থাকা লাগবে এবং রান করাতে Run as administrator এর মাধ্যমে রান করাতে হবে।\ndrive.google.com\nHavij_Pro.zip",
+      "links": [],
+      "topic": "SQL Injection",
+      "category": "tools",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 46,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-8",
+      "title": "আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন",
+      "author": "Roman Moonshi",
+      "date": "2026-07-28",
+      "observedDate": "July 28",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1610713203964602",
+      "text": "আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন\n।\nটিউটোরিয়াল ভিডিও দেখে ব্রাউজার টি এক্সট্রেক্ট করে নিবেন । সবাই ভিডিওটি ডাউনলোড করে ভালোভাবে দেখবেন কোন প্রকার স্কিপ করবেন না । কারো যদি ব্রাউজার টি এক্সট্রেক্ট করতে কোন প্রকার প্রবলেম হয়ে থাকে তবে এ পোস্টে কমেন্টে জানাবেন ।\nধন্যবাদ সবাইকে ।\nBROWSER FILE:\nPassword: aws\nVIDEO:\ndrive.google.com\ncyberfox.mkv",
+      "links": [
+        "https://drive.google.com/file/d/1NNwOQSycjxYaQGynnvbUd7qGnb4Jp2UR/view?usp=drive_link",
+        "https://drive.google.com/file/d/10huk7zPRgzq-ip8nD-SE8_EpBtlsgAvb/view?usp=drive_link"
+      ],
+      "topic": "Session & Redirect",
+      "category": "tools",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 7,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-49",
+      "title": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!",
+      "author": "Roman Moonshi",
+      "date": "2026-07-28",
+      "observedDate": "July 28",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1610715763964346",
+      "text": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!\nকি অবস্থা সবার কেমন আছেন?\nআজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!\nআপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।\nMeet-এ যোগদানের তথ্য:\nসময়:\nপ্রথম সেশন:\nসন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত\nদ্বিতীয় সেশন:\nরাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত\nলিঙ্ক:\nTo join the video meeting, click this link:\nOtherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 124#\nকিভাবে সাহায্য পাবেন:\nআপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।\nধন্যবাদ।\nmeet.google.com",
+      "links": [
+        "https://meet.google.com/yac-xrnh-gvz"
+      ],
+      "topic": null,
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 48,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-6",
+      "title": "মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।",
+      "author": "Tanjim Al Fahim",
+      "date": "2026-07-31",
+      "observedDate": "July 31",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614226516946604",
+      "text": "মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।\nআর হ্যা, এরিনা ওয়েব সিকিউরিটি পেজে লাইক এন্ড রিভিউ মাস্ট।\nhttps://www.facebook.com/ArenaBangladesh",
+      "links": [],
+      "topic": null,
+      "category": "notices",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 5,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-7",
+      "title": "Session hijacking / Blocking, Mid Exam prep - b66 Delta",
+      "author": "Md. Khaledul Islam",
+      "date": "2026-07-31",
+      "observedDate": "July 31",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614143273621595",
+      "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক\ndocs.google.com\nSession hijacking / Blocking, Mid Exam prep - b66 Delta",
+      "links": [
+        "https://docs.google.com/document/d/1-GJQv075oX67PWxaSWyKnsUMWyLMWbtuZQfBB37UAwU/edit?tab=t.0"
+      ],
+      "topic": "Session & Redirect",
+      "category": "documents",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 6,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-58",
+      "title": "ক্লাস রেকর্ড — 31/07/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-07-31",
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614267503609172",
+      "text": "ক্লাস রেকর্ড\n৩১/০৭/২০২৬\n1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 57,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-4",
+      "title": "INFORMATIONAL POST - 02",
+      "author": "Roman Moonshi",
+      "date": "2026-08-01",
+      "observedDate": "August 1",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614256456943610",
+      "text": "INFORMATIONAL POST - 02\nNO REDIRECT এর সামারী।\nএই বিষয়ে আগে একটি পোষ্ট করেছিলাম, পড়ে থাকলে আবার পড়ে নিন, তারপর এটা পড়ুন এবং একটু পরে একটি পুরনো ভিডিও শেয়ার করে দিব, সো আসুন জেনে নেই-৫ এবং এই পোষ্ট সাথে পরবর্তি ভিডিও দেখে নেমে পড়ুন যুদ্ধে .....\nNo Redirect এড-অন্স টি কাজ করার জন্য শর্ত ২টি -\nক) ঐ সাইট এ No Redirect এড-অন্স দিয়ে ট্রাই করা যাবে যে সকল সাইটের URL এ\n‍\nsite name(website name. net or .com or org or com.in or....) এর পর /admin বা /administrator থাকবে এমন কোন লিংক।\nএবং\nখ) সেই লিংকে ক্লিক করলে অন্য কোন লিংকে যদি সাইট রি-ডাইরেক্ট করে যায় (মানে আমি দিলাম www.ahaque .com/admin/menu.php কিন্তু URL এ লিংক চলে অসলো www.ahaque .com/login.php)\nতাহলেই বুঝতে হবে এই সাইটে নো-রিডাইরেক্ট বাগ আছে এবং শুধুমাত্র এই রকম সাইটেই আমরা ট্রাই করতে পারি।\nএই সকল সাইট পাবো কেমন করে?\nপ্রথম দিনে মনে আছে আমরা কিছু ডর্ক দিয়ে এডমিন প্যানেল সাইট খুঁজে ছিলাম, সেই টাইপ ডর্ক দিয়ে খুঁজতে হবে, যাতে শর্ত নাম্বার ”ক” ফুলফিল করে(মানে সাইটে /admin বা /administrator থাকে।\nএর বাইরেও আরো কিছু ডর্কঃ\n1: intitle:\"index\" of \"admin\" site:\n2: intitle:\"index\" of \"admin\" \"framework\" site:.in\n3: intitle:\"index\" of \"admin\" \"pdf\" site:\n4: intitle:\"index\" of \"admin\" \"gallery\" site:\n5: intitle:\"index\" of \"admin\" \"image\" site:\n6: intitle:\"index\" of \"admin\" \"upload\" site:\n7: intitle:\"index\" of \"admin\" \"banner\" site:\n8: intitle:\"index\" of \"admin\" \"file\" site:\n9: intitle:\"index\" of \"admin\" \"page\" site:\n10: intitle:\"index\" of \"admin\" \"news\" site:\n11: intitle:\"index\" of \"admin\" \"views\" site:\n12: intitle:\"index\" of \"admin\" \"include\" site:\n13: intitle:\"index\" of \"admin\" \"picture\" site:\n14: intitle:\"index\" of \"admin\" \"photos\" site:\n15. inurl: admin/login.php site:.in\nনিজে নিজে ডর্কগুলো মডিফাই করে নিন, কিছু নতুন বানিয়ে নিন ...\nকিছু কিছু সাইটে সাদা স্ক্রিন আসে??\nতার মানে ঐ লিংকএর বাগ সাইট এডমিন ফিক্স করে দিয়েছে, অন্য লিংক এ ট্রাই করতে হবে।\nযে সাইটে হবে না!\nঅবশ্যই ওয়ার্ড -প্রেস সাইটে হবে না।\nনো-রিডাইরেক্ট এর জন্য আমরা কিভাবে জানবো সাইটে কোন ফাইল এক্সেসেবল কিনা?\nসেজন্য হ্যাকবারে Cyber 71 Privet Exploits এর একটি লিংক দেয়া আছে সেটা ব্যবহার করতে পারেন।\nসেটাতে যে সকল লিংক গ্রীন কালারে ৩০০, ৩০১, ৩০২ দেখাবে সেই লিংকটাতে ট্রাই করবো।\nএবার নিচের ৪টি ছবি দেখুন।\n১) হোয়াইট স্ক্রিণ, মানে ঐ লিংকের নো-রিডাইরেক্ট বাগ ফিক্স হয়ে গেছে।\n‍\n২) হ্যাকবার থেকে Cyber 71 Privet Exploits এর লিংক\n৩) একটি সাইট ওয়েব সার্ভারে কেমন থাকে সেটার চিত্র।\n৪) এডমিনের কাজ করার জন্য কিছু ফাইল( যেমন addDate.php, addFestival.php,addLedger.php, adminHome.php,editInvoice.php, ইত্যাদি) যা আমরা ওয়েব পেইজে দেখতে পাইনা।\nআশাকরি আর বিস্তারিত কিছু লেখার প্রয়োজন হবে না।",
+      "links": [],
+      "topic": "Session & Redirect",
+      "category": "documents",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 3,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-5",
+      "title": "আসুন জেনে নেই- ৪",
+      "author": "Roman Moonshi",
+      "date": "2026-08-01",
+      "observedDate": "August 1",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614255560277033",
+      "text": "আসুন জেনে নেই- ৪\n(Session Hijacking)\nনো-রিডাইরেক্ট কি ও নো-রিডাইরেক্ট নিয়ে আলোচনা!!\nপ্রথম কথায় নো-রিডাইরেক্ট হলো সাইটের একটা বাগ।\nবিষয়টা বোঝার আগে একটি ওয়েবসাইটের ষ্ট্রাকচার জানা থাকলে বিষয়টি ভালো ভাবে বোঝা যাবে।",
+      "links": [],
+      "topic": "Session & Redirect",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": true,
+      "collectionIndex": 4,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-3",
+      "title": "Noredirect Practice",
+      "author": "Roman Moonshi",
+      "date": "2026-08-02",
+      "observedDate": "August 2",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614257613610161",
+      "text": "Noredirect Practice",
+      "links": [],
+      "topic": "Session & Redirect",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 2,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-62",
+      "title": "INFORMATIONAL POST-03",
+      "author": "Roman Moonshi",
+      "date": "2026-08-02",
+      "observedDate": "August 2",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614258413610081",
+      "text": "INFORMATIONAL POST-03\nঅনেকেই HTTP & HTTPS নিয়ে ঝামেলায় পড়েছেন, একটু সহজ করে দেই বিষয়টা।।\nHTTP & HTTPS\nকোন ওয়েভসাইট যেমন ধরুন আপনি ইত্তেফাক নিউজ পেপারটি পড়তে চান, তাহলে কি করবেন??\nব্রাইজারে যাবেন তারপর সেখানে ইত্তেফাক নিউজ পেপারের ওয়েবের এড্রেসটি (ittefaq.com.bd )\nবা তার আইপি এড্রেসটি দিয়ে এন্টার করলে ইত্তেফাক নিউজপেপারটি পড়তে পারবেন।\nতো এই ওয়েব এড্রেসটি দিতে শুরু করতে হয় http দিয়ে। যেমনঃ http://ittefaq.com.bd/\nhttp://www.ittefaq.com.bd/\nআর তারপর সাইটের কন্টেন্ট গুলো চলে আসে, আমাদের পিসি বা মোবেইলের ব্রাউজার হলো ক্লাইন্ট, আর ইত্তেফাক\n‍\nনিউজপেপারটি কোন এক সার্ভারে রাখা আছে, সেই সার্ভারে কানেক্ট করে সেই পেইজ বা ফাইল কে রিকোয়েষ্ট করে এবং সেই সার্ভার আপনার ব্রাউজার কে রেসপন্স করে কনটেন্ট গুলো দেখায়। বিষয়টি হলো এমন- আপনি কারো বাসায় একটি পার্সেল পাঠাতে চান, তাহলে কি লাগবে? সেই বাড়ির নাম, সেই বাড়ির নাম্বার, এলাকার নাম, বর্তমান লোকেশন। http হল ওয়েব পেইজের ঠিকানা, রোড নম্বরের মত। পূর্ণ নাম- হাইপার টেক্সট ট্রান্সফার প্রটোকল Hypertext Transfer Protocol (HTTP)। মূলতঃ http একটি অনুরোধ প্রোটোকল যা ক্লায়েন্ট এবং সার্ভারের মধ্যে যোগাযোগের মাধ্যম গঠন করে। আমরা আমাদের পিসি বা মোবাইল থেকে কোন ব্রাউজারে লিখি www.ittefaq.com.bd\nClient এর যে File বা লিংক এর দরকার পরে তার রিকোয়েস্ট Server কে পাঠায় এবং সার্ভার সেই ফাইল টি খুঁজে ক্লায়েন্টকে সেন্ড করে ।\nসো একটি বিষয় ক্লিয়ার সেটা হলো হলো http একটি প্রটোকল।\nদিনে দিনে এই রিকোয়েষ্ট টেকনোলজি, প্রটোকল সবকিছুই অনেক আপডেট হয়েছে। এখন আর এত কিছু লেখার প্রয়োজন হয় না। ব্রাউজারে গিয়ে শুধুমাত্র ওয়েব এড্রেসটি লিখলেই ব্রাউজার সার্ভারের সাথে কানেক্ট হওয়ার প্রটোকল খুঁজে নেয়। তাই ittefaq.com.bd লিখলেই সে বুঝে নেয় এটা হলো http://www.ittefaq.com.bd/\nHTTPS\n:\nHTTPS = HTTP + SSL\nHTTPS এর পুর্ণরুপ হচ্ছে HyperText Transfer Protocol Secure, মানে হলো HTTP এর সাথে SSL certificates যুক্ত হয়ে ডাটাগুলো এনক্রিপটেড ( Encrypted ) হয়ে পারাপার হয়, ফলে ডাটাগুলো নিরাপদ থাকে ।\nওয়েভ সাইটের সেনসেটিভ ডাটা যেন লীক না হয় সেজন্য ওয়েভ সাইটগুলো সিকিউরিটির জন্য SSL (Secure Sockets Layer) certificates ব্যবহার করে ওয়েভ সার্ভার ও ইউজারের ব্রাউজারের মধ্যে একটি সিকিউর কানেকশন তৈরী করে যাতে এইচ টি টি পি ট্রান্সমিশন এর সময় ডাটা নিরাপদ থাকে।\nআর তাই আজকাল অনেক ওয়েব সাইট ই https প্রটোকল ব্যবহার করে থাকে, বিশেষ করে যে সমস্ত ওয়েব সাইট – এ পেমেন্ট সিস্টেম আছে কিংবা বিভিন্ন ব্যাংক গুলো বা গুরুত্বপূর্ন ওয়েভ সাইটগুলো যাদের ডাটা মিস উইস হলে সমস্যা হতে পারে সেসব সাইট ।\nhttps প্রটোকল ব্যবহার করা সাইটগুলোর বামে একটি তালার ছবি থাকে, মানে সিকিউর।\nhttps এ আপনার আর সার্ভারে কানেকশন স্টাবলিশ হওয়ার সাথে সাথে SSL সার্টিফিকেট এক্সচেঞ্জ হয়, এই সার্টিফিকেটে আপনার এবং সার্ভারের \"পাবলিক কি\" দেয়া থাকে। আপনি যা পাঠাবেন তা সার্ভারের পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে যাবে, সার্ভার যা ফেরত পাঠাবে তা আপনার পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে আসবে।\nআরো একটু সহজ করে বলি-\nhttp প্রটোকলের মাধ্যমে আপনি আপনার মোবাইল/ পিসির ব্রাউজার থেকে (মানে ক্লাইন্ট ইন্ড এটা) কোন একটি সার্ভারে একটি টেক্সট পাঠালেন যেমন ধরুনঃ ”বন্ধু কেমন আছিস- বল??” এখন আপনার পিসি থেকে ঔ সার্ভার এ যাওয়ার পথে যে কেউ ঐ ডাটা ধরতে পারলে সেও পড়তে পারবে আপনি কি ডাটা পাঠিয়েছেন,, এটাতো ভালো.. এখন যদি ডাটা টা GF বা BF এর কাছে পাঠানো কোন টেক্সট হয়, সেকি এতো ভালো কথা লিখবে??\nআচ্ছা যদি https প্রটোকলের মাধ্যমে হতো, তাহলে কি হতো??\nতাহলে ক্লাইন্ট থেকে সার্ভারে যে ডাটা যেত সেটা ইনক্রাপ্টেড হয়ে যেত, পথিমধ্যে কেউ পেলেও লাভ নাই, কি সব হিজিবিজি হিজিবিজি হিজিবিজি হিজিবিজি\nবাই দ্য ওয়ে- কোন প্রটোকলেই কেউ প্রেমপত্র পাঠায় না, জাষ্ট আপনাদের বোঝানোর জন্য বল্লাম।।",
+      "links": [],
+      "topic": null,
+      "category": "notices",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 61,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-64",
+      "title": "ক্লাস রেকর্ড — 02/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-02",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n০২/০৮/২০২৬\n1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 63,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-73",
+      "title": "1st-Mid Exam - Cyber Security & Ethical Hacking",
+      "author": "Tanjim Al Fahim",
+      "date": "2026-08-07",
+      "observedDate": "August 7",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1620235829679006",
+      "text": "1st-Mid Exam - Cyber Security & Ethical Hacking\nDate: 7th August, 2026\nTime:\nGeneral: 9:30 PM to 10:30PM\nDiploma: 9:30 PM to 11:00 PM\nBatch: 66 (Delta)\nFull Marks: 40\nবিশেষ সতকর্তাঃ সাইবার সিকিউরিটি এবং ইথিক্যাল হ্যাকিং কোর্সের শিক্ষার্থীরা CEHF Exam Link এ গিয়ে এক্সাম দিবেন। ১ বছর মেয়াদি সাইবার সিকিউরিটি ডিপ্লোমার শিক্ষার্থীরা Diploma Exam Link এ গিয়ে এক্সাম দিবেন। ভূল প্রশ্নে এক্সাম দিলে অনুপস্থিত হিসেবে গণ্য হবে, তাই এক্সাম দেওয়ার শুরুতেই যাচাই করে নিন, আপনি কোন বিভাগে এক্সাম দিচ্ছেন।\nযারা সাইবার সিকিউরিটিতে ভর্তি হয়ে ডিপ্লোমাতে ট্রান্সফার হয়েছেন, তারাও ডিপ্লোমাতে এক্সাম দিবেন।\nCEHF Exam Link:\nDiploma Exam Link:\nনির্দেশনাঃ\n১। এক্সাম লিংকে প্রবেশ করুন। ৯ঃ৩০ এর সময় অটোমেটিক এক্সাম পেপার একটিভ হয়ে যাবে। একবার পেজটি রিফ্রেশ করলেই এক্সাম দিতে পারবেন।\n২। প্রশ্ন ভালো করে পড়ে বুঝে তারপর সাবমিট করবেন। পেজ সর্বোমোট ৩ টি, next - next এরপর সাবমিট। submit এ ক্লিক করলে এক্সাম পেপার ক্লোজ হয়ে যাবে। তাই দেখে তারপর ক্লিক করবেন।\n৩। প্রতিটা প্রশ্নের সাথে পয়েন্ট দেওয়া আছে। উল্লেখ্য, ১ পয়েন্ট = ১ মার্ক। সর্বোমোট ৪০ নাম্বারে পরীক্ষা।\n৪। MCQ অথবা ভূল উত্তরে মাইনাস মার্কিং নেই।\n৫। পরীক্ষা ৯ঃ৩০ থেকে ১০ঃ৩০ পর্যন্ত এবং ১০ঃ৩০ এ অটোমেটিক বন্ধ হয়ে যাবে আর এক্সাম পেপার জমা হবে না। তাই অন্তত দুই মিনিট পূর্বেই জমা দেওয়ার চেষ্টা করবেন।\n৬। এক্সাম পেপার জমা দিলে আপনি কি কি উত্তর দিয়েছেন, তার একটি কপি স্বয়ংক্রিয় ভাবে আপনার ইমেইলে চলে যাবে।\nসবার এক্সামের জন্য শুভ কামনা।\nধন্যবাদ। @everyone",
+      "links": [
+        "https://forms.gle/QoRHJV6mKhTfJCAY8",
+        "https://forms.gle/qVZiF2ACHEeTrpBH7"
+      ],
+      "topic": null,
+      "category": "notices",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 72,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-80",
+      "title": "ক্লাস রেকর্ড — 09/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-09",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n০৯/০৮/২০২৬\n1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 79,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-79",
+      "title": "আসুন জেনে নেই-০৫",
+      "author": "Roman Moonshi",
+      "date": "2026-08-10",
+      "observedDate": "August 10",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1622087516160504",
+      "text": "আসুন জেনে নেই-০৫\nক্রস-সাইট স্ক্রিপ্টিং(XSS)\nএতো দিন ধরে ওয়েব সাইটে শুধু ইঞ্জেকশন ই তো দিলাম, তো দিলাম কিসের উপর ভিত্তি করে?\nযে সব ওয়েব সাইটে এস কিউ এল ইরর ছিল সে সকল সাইটে। তাহলে তো আমরা একটি বিষয় ক্লিয়ার হলাম, সেটা হলো ওয়েব সাইটে যদি কোন ভাবে কিছু ইনজেক্ট করা যায় তাহলে সেসকল সাইট হতে কোন না কোন তথ্য বের করা যাবে বা সেই সাইটের কনটেন্ট কিছু পরিবর্তন করা সম্ভব হবে। তাই না?\nএখন ওয়েবসাইট কারা তৈরী করে? অবশ্যই ডেভেলাপার রা। তারা ওয়েবসাইট তৈরী করতে গিয়ে অনকে সময়ই কোন না কোন ত্রু…\n+3",
+      "links": [],
+      "topic": "SQL Injection",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": true,
+      "collectionIndex": 78,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-82",
+      "title": "Messenger Group Notice!!",
+      "author": "Roman Moonshi",
+      "date": "2026-08-10",
+      "observedDate": "August 10",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1622857422750180",
+      "text": "Messenger Group Notice!!\nআপনাদের অফিশিয়ালি মেসেঞ্জার গ্রুপ খোলা হয়েছে। ইতিমধ্যে সবাইকে মেসেঞ্জার গ্রুপটিতে যুক্ত করা হয়েছে। আপনারা আপনাদের মেসেজ রিকোয়েস্ট কিংবা স্প্যাম ফোল্ডার চেক করলেই ব্যাচ এর নাম দেখতে পাবেন। অবশিষ্ট কিছু শিক্ষার্থী যারা এখনো অব্দি অ্যাড হতে পারেননি তাদের জন্য পরবর্তী ইন্সট্রাকশন গ্রুপে পোস্ট করা হবে।\nমেসেঞ্জার গ্রুপ ব্যবহারের নির্দেশনা:\nএই মেসেঞ্জার গ্রুপটি মূলত শিক্ষার্থীদের পারস্পরিক যোগাযোগের জন্য।\nআপনারা এখানে একে অপরের সঙ্গে আলোচনা করে ক্লাস বা কোর্স-সংক্রান্ত সাধারণ সমস্যাগুলো সমাধান করবেন।\nএকাডেমিক অফিসিয়াল সাপোর্ট ও নোটিশ সংক্রান্ত বিষয়গুলো ফেসবুক গ্রুপেই প্রদান করা হবে, মেসেঞ্জারে নয়।\nআপনাদের সহযোগিতার জন্য ধন্যবাদ।",
+      "links": [],
+      "topic": null,
+      "category": "documents",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 81,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-85",
+      "title": "Messenger Group Notice!!",
+      "author": "Roman Moonshi",
+      "date": "2026-08-12",
+      "observedDate": "August 12",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1624053222630600",
+      "text": "Messenger Group Notice!!\nযারা এখনো অব্দি মেসেঞ্জার গ্রুপে যুক্ত হতে পারেননি, তারা নিম্নোক্ত নির্ধারিত ফেসবুক অ্যাকাউন্টে ফ্রেন্ড রিকোয়েস্ট পাঠান এবং ইনবক্সে আপনার ব্যাচের নাম ও ইমেইল ঠিকানা উল্লেখ করে একটি মেসেজ দিন। ছাত্রত্ব যাচাই সম্পন্ন হওয়ার পর অ্যাডমিন সরাসরি আপনাকে মেসেঞ্জার গ্রুপে যুক্ত করে নেবেন।\nSend request here:\nএছাড়া, যাদেরকে ইতিপূর্বে মেসেঞ্জার গ্রুপে যুক্ত করা হয়েছে কিন্তু ইনবক্সে গ্রুপটি খুঁজে পাচ্ছেন না, তারা অনুগ্রহ করে\nMessage Requests\nবা\nSpam\nসেকশন একবার যাচাই করে দেখুন। সেখানে আপনার ব্যাচের মেসেঞ্জার গ্রুপটি দেখতে পাবেন।\nআপনাদের সহযোগিতার জন্য ধন্যবাদ।",
+      "links": [
+        "https://www.facebook.com/qrazam71"
+      ],
+      "topic": null,
+      "category": "notices",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 84,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-88",
+      "title": "ক্লাস রেকর্ড — 14/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-14",
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1626381205731135",
+      "text": "ক্লাস রেকর্ড\n১৪/০৮/২০২৬\n10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 87,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-87",
+      "title": "Errorbased SQLi",
+      "author": "Roman Moonshi",
+      "date": "2026-08-15",
+      "observedDate": "August 15",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1626383115730944",
+      "text": "Errorbased SQLi\n0:00 / 18:45",
+      "links": [],
+      "topic": "SQL Injection",
+      "category": "classes",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 86,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-90",
+      "title": "ক্লাস রেকর্ড — 16/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-16",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n১৬/০৮/২০২৬\n10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 89,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-99",
+      "title": "ক্লাস রেকর্ড — 21/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-21",
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1632498915119364",
+      "text": "ক্লাস রেকর্ড\n২১/০৮/২০২৬\n1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 98,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-105",
+      "title": "আসুন জেনে নেই-০৭",
+      "author": "Roman Moonshi",
+      "date": "2026-08-23",
+      "observedDate": "August 23",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1632441241791798",
+      "text": "আসুন জেনে নেই-০৭\nShell\nওয়েব শেল কি?\nশেল হলো রিমোট ফাইল ম্যানেজার স্ক্রীপ্ট, এই শেল বা স্ক্রিপ্টের সাহায্যে আপনার পিসি থেকে ওয়েভ সার্ভার এর ফাইল ম্যানেজ করতে পারবেন।\nফাইল ম্যানেজার দিয়ে আপনি কি কি করতে পারেন ?\nফাইল তৈরী করা, কপি করা, এডিট করা, ডিলিট করা বা ফাইল এট্রিবিউট(ফাইলের পারমিশন) পরিবর্তন করার মত অনেক কাজই করা যায়, তেমনি শেল বা স্ক্রিপ্টটি কোন ওয়েব সার্ভারে আপলোড করতে পারলে তার সাহায্যে আপনার পিসিতে বসেই রিমোটলী ঐ ওয়েব সার্ভারের ফাইল পরিবর্তন, পরিমার্জন, আপলোড সবই করতে পারবেন।\nশেল স্ক্রিপ্ট কি দিয়ে লেখা হয় বা শেল কি ধরনের ফাইল?\nশেল বিভিন্ন ল্যাংগুয়েজ দিয়ে তৈরী হলেও মেইনলি PHP, ASP/ASPX এই দুই টাইপের শেল বেশী ব্যবহৃত হয়। PHP শেল লিন্যাক্স সার্ভারে এবং ক্ষেত্রবিশেষে উইন্ডোজ সার্ভারেও ব্যবহৃত হয় এবং ASP এবং ASPX শুধূমাত্র উইন্ডোজ সার্ভারে ব্যবহার করা হয় ।\nশেল কত প্রকার ও\n‍\nকি কি?\nশেল মূলত দুই প্রকারের\nক) পাবলিক শেল/ রেডিমেইড শেল :\nএই প্রকার শেলের সোর্স কোর্ড সবার জন্য উন্মুক্ত থাকে এবং যে কেউ ব্যবহার করতে পারে। Google, github.com, pastebin.com ইত্যাদি ছাড়াও বিভিন্ন সাইটে সার্চ করলেই পেয়ে যাবেন।\nখ) প্রাইভেট শেল / পারসোনাল শেল :\nহ্যাকারসরা নিজেদের চাহিদা অনুযায়ী তৈরী করে নেয়। সাধারনত এই টাইপের শেল গুলো ব্যক্তিগত ভাবে ব্যবহার করে বিধায় সোর্সকোড বাইরে দিতে চায় না।\nশেলের মাধ্যমে কি কি করা যায় বা কি ফাংশন রয়েছে??\n# সাধারনত হ্যাকাররা প্রথমে আপলোডার(খুবই ছোট শেল-শুধু আপলোড অপশন বা তার সাথে ফাইল/ফোল্ডার ) শেল ব্যবহার করে, এর পর এই শেল থেকে ফুল ফাংশনাল (যে যেই টাইপের কাজ করতে ইচ্ছুক সেই টাইপের) শেল আপলোড করার জন্য ব্যাবহার করে।\n# সাইটের ডাটাবেস এক্সেস নেয়ার জন্য\n# সাইটের সোর্স কোড দেখার জন্য বা পরিবর্তন –পরিমার্জন করার জন্য।\n# সাইটের সার্ভার থেকে ফুল সার্ভারে এক্সেস নেয়ার জন্য।\n# সার্ভারে থাকা অন্যান্ন সাইট এক্সস নেয়ার জন্য।\n# সাইট ডিফেস করার জন্য।\nকমন কিছু শেল এর পরিচিতিঃ\nআপলোডার শেলঃ\nকিছু শেল\n‍\nস্ক্রীপ্ট আছে যা দিয়ে শুধু মাত্র ফাইল আপলোড করা যায় এর বাইরে আর কোন ফাংশন নেই, এই টাইপের শেল গুলোই আপলোডার শেল। এর ফাইল সাইজ ও স্বাভাবিক ভাবেই খুব ছোট হয়।\nযে কোন সাইটে প্রথমে আপলোডার শেল দিয়ে ট্রাই করা ভালো। কারন অনেকক্ষেত্রে সাইটের ফাইল আপলোডের জন্য ফাইল সাইজ লিমিটেশন দেয়া থাকে আবার অনেক সাইটে কিছু\n‍\nকিছু ফাংশন(যেমন সার্ভার ইনফরমেশন দেখার বা ফাইল ডিরেক্টরী দেখার কমান্ডগুলো, ইত্যাদি) রেষ্ট্রিকশন দেয়া থাকে।\nপূর্বেই আপনাদের গ্রুপে সিম্পল আপলোডার শেল সহ বেশ কিছু অ্যাডভান্স শেল দেওয়া হয়েছে: https://www.facebook.com/share/p/Aed411AX1r1rV8rw/\nতবে অনেক হ্যাকার কিছু মডিফাইড আপলোডার শেল ব্যবহার করে থাকেন, যেমন ফুয়াদ ভাই (.... .. -.. -.. . -. / -- . -- -... . .-.) আপলোডার শেল হিসাবে tcup.php নামক একটি শেল ব্যবহার করে।\nমিনি শেলঃ\nআপলোড আপশন সহ ফাইল ম্যানেজার টাইপের যে সকল\n‍\nস্ক্রিপ্ট আছে বা তৈরী করা হয় সেগুলো সাধারনত মিনি শেল হিসাবে পরিচিত, এই টাইপের শেলে এডভান্স যেমন মাস\n‍\nডিফেইস, ব্যাক ডোর কানেক্ট, সীমলিংক, ডাটাবেইস এডিট বা ডাম্পার ইত্যাদি ফাংশনগুলো থাকে না ।\nযেমনঃ moon.php mini.php ইত্যাদি।\nএডভান্স শেলঃ\nসার্ভারে এডভান্স বা স্পেসিফিক কাজের জন্য যে শেল গুলো তৈরী করা হয় বা ব্যবহার করা হয় যেমনঃ এস কিউএল ম্যানেজার(ডাটাবেস থেকে ইউজজার নেম পাসওয়ার্ড দেখা বা মডিফাই করা, আন্যান্ন ডাটা দেখা বা মডিফাই করা…ইত্যাদি), ব্যাক ডোর কানেক্ট, সিম লিংক, মাস ডিফেস, পোর্ট স্কেন, মীরর ইত্যাদি গুলো এডভান্স শেল হিসাবে পরিচিত।\nwso.php , afla.php, 479.php, 404.php, r57.php, c99.php ইত্যাদি, এগুলো প্রায় একই টাইপের কমন ফাংশনাল শেল। এগুলোই আবার ফুল ফাংশনাল শেল নামেও পরিচিত, কেননা- এই সব শেলের মাধ্যমে কমন প্রায় সব কাজই করা যায়।\nআবার স্পেসিপিক কাজের জন্য কিছু শেল, যেমনঃ\ntmass.php – মাস ডিফেইস স্ক্রিপ্ট ( এটা ফুয়াদের মডিফাই করা শেল)\nsymlink.php বা sym.php – সিমলিংক এর জন্য স্ক্রিপ্ট।\nadminer.php – ডাটাবেইস কানেক্ট, ডাটা এডিট, মডিফিকেশন এর জন্য স্ক্রিপ্ট\ndomain.php – সার্ভারের ডোমেইন লিষ্ট(মানে ঔ সার্ভারে আর কি কি ওয়েভ সাইট আছে) দেখার জন্য স্ক্রিপ্ট।\nপ্রাইভেট শেলঃ\nআগেই বলেছি বিভিন্ন প্রফেশনাল হ্যাকার (মেইনলী যারা শুধু হ্যাকিং ই করে থাকেন বা হ্যাকার গ্রুপের সাথে কাজ করেন) বা বিভিন্ন হ্যাকার গ্রুপ তাদের নিজের প্রয়োজনে নিজের মতো করে কিছু শেল তৈরী করেন সেগুলোই হলো প্রাইভেট শেল। এই টাইপের শেল গুলো গ্রুপের বাইরে প্রকাশ করেন না, তাই সেগুলো ওপেন প্লেসে পাওয়া যায় না।\nDefacement\nডিফেস কি?\nডিফেস এর অনেক মানে আছে তবে ওয়েব হ্যাকিং এ ডিফেস বলতে বোঝায় সাইট এর এডমিন অথবা অন্য কোনো ভাবে এক্সেস করে নিজের পদচিহ্ন বা স্থান জানান দেওয়া। মূলত সাইটের কোনো কনটেন্টের পরিবর্তন কিংবা কোনো কনটেন্টের পরিবর্তে নিজের কোনো কনটেন্ট দেখানোর মাধ্যম কে বোঝায়। আরো সহজ ভাবে বলতে গেলে:\nডিফেইস এর শাব্দিক অর্থ বিকৃত। হ্যাকিংয়ের ক্ষেত্রেও এর অর্থ অনেকটা সেরকম। কোনো সাইট হ্যাক হয়ে যাওয়ার একটি প্রমাণ হলো ডিফেইস।ওয়েবসাইট ডিফেইসমেন্ট বা ডিফেইস হলো এমন একধরনের আক্রমনাত্মক প্রদর্শন পদ্ধতি যার ফলে কোনো ওয়েবসাইটের আসল ওয়েবপেইজটি হ্যাকার তার নিজস্ব ওয়েবপেইজ দ্বারা প্রতিস্থাপিত করে।আমরা প্রায় দেখে থাকি হ্যাকাররা কোনো সাইট হ্যাক করে ওই সাইটের ওয়েবপেইজে প্রদর্শন করে Hacked by CYBER-71 ! এই প্রক্রিয়াটিই হলো ডিফেইস।",
+      "links": [],
+      "topic": "SQL Injection",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 104,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-107",
+      "title": "ক্লাস রেকর্ড — 23/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-23",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n২৩/০৮/২০২৬\n1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 106,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-115",
+      "title": "ক্লাস রেকর্ড — 29/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-29",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n২৯/০৮/২০২৬\n1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 114,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-112",
+      "title": "ক্লাস রেকর্ড — 30/08/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-08-30",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n৩০/০৮/২০২৬\n1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 111,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-117",
+      "title": "ক্লাস রেকর্ড — 04/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-04",
+      "observedDate": "September 4",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1644380957264493",
+      "text": "ক্লাস রেকর্ড\n০৪/০৯/২০২৬\n10Ut65sMkUshm54yw4KjbputZMWY6uCfJ",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 116,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-122",
+      "title": "ক্লাস রেকর্ড — 06/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-06",
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1646127127089876",
+      "text": "ক্লাস রেকর্ড\n০৬/০৯/২০২৬\n1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 121,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-121",
+      "title": "Linux Installation & Virtual Lab Setup",
+      "author": "Roman Moonshi",
+      "date": "2026-09-07",
+      "observedDate": "September 7 at 2:35 PM",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1646665390369383",
+      "text": "Linux Installation & Virtual Lab Setup",
+      "links": [
+        "https://drive.google.com/file/d/1tMKC4u2W4LwNXZXlRX93wMH5M7TWBHYT/view?usp=sharing"
+      ],
+      "topic": "Linux & Scripting",
+      "category": "tools",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 120,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-124",
+      "title": "ক্লাস রেকর্ড — 11/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-11",
+      "observedDate": "September 12 at 7:15 AM",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1650729253296330",
+      "text": "ক্লাস রেকর্ড\n১১/০৯/২০২৬\n1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 123,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-126",
+      "title": "ক্লাস রেকর্ড — 13/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-13",
+      "observedDate": "September 13 at 9:39 PM",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1652121839823738",
+      "text": "ক্লাস রেকর্ড\n১৩/০৯/২০২৬\n1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 125,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-2",
+      "title": "INFORMATIONAL POST-04",
+      "author": "Roman Moonshi",
+      "date": "2026-09-16",
+      "observedDate": "September 16 at 4:14 PM",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1654330032936252",
+      "text": "INFORMATIONAL POST-04\nআমাদের গত ক্লাসে\nKeylogger, Spyware & RAT (Live/Practical)\nনিয়ে বিস্তারিত আলোচনা এবং প্র্যাকটিক্যাল ডেমো দেখানো হয়েছে। পোস্টের শুরুতেই জানিয়ে রাখি, এই ক্লাসটি সম্পূর্ণ শিক্ষার উদ্দেশ্যে (Educational/Learning Purpose) নেওয়া হয়েছিল।\nঅনেকেই হয়তো ক্লাসের পর ডিরেক্ট টুলস আশা করেছিলেন, কিন্তু সিকিউরিটি ও এথিক্যাল লার্নিংয়ের খাতিরে সরাসরি কোনো টুলস প্রোভাইড করা হয়নি। তবে আপনাদের গবেষণার জন্য একটি\nResearch PDF\nশেয়ার করা হয়েছে। ওই পিডিএফটি নিয়ে যদি আপনারা গভীর অ্যানালাইসিস ও রিসার্চ করেন, তাহলে নিজেরাই RAT টুলস এর মূল মেকানিজম বুঝতে পারবেন এবং টুলস অব্দি পৌঁছাতে পারবেন। আর একজন রিয়েল সিকিউরিটি রিসার্চার হওয়ার জন্য নিজে থেকে রিসার্চ করে বের করার (Self Research) এই দক্ষতাটি তৈরি হওয়া অত্যন্ত প্রয়োজনীয়।\nতাছাড়া, আপনাদের হ্যান্ডস অন লার্নিংকে আরেক ধাপ এগিয়ে নিতে আমি একটি পেইড কিলগার\nরিসোর্স শেয়ার করছি। আপনারা জানেন, কী-লগিংয়ের মাধ্যমে মূলত সিস্টেমের প্রতিটি কীস্ট্রোক রেকর্ড করা হয়। এই পেইড রিসোর্সটি ভালোভাবে অ্যানালাইসিস করলে আপনারা বুঝতে পারবেন একটি Keylogger কীভাবে ব্যাকগ্রাউন্ডে কাজ করে এবং কীভাবে আপনারা নিজেদের কাস্টম Keylogger Tool তৈরি করতে পারবেন।\n1nhlO07TA1i9lbmeLFVVqCyrYOHZonhao\nআজকের করণীয়:\n১. শেয়ার করা PDF টি নিয়ে রিসার্চ শুরু করে দিন। ২. পেইড রিসোর্সটি অ্যানালাইসিস করে কাস্টম কী-লগার বিল্ড করার মেকানিজমটি বুঝুন।\nরিসোর্সগুলো দিয়ে প্র্যাকটিস করার সময় কোনো জায়গায় বুঝতে অসুবিধা হলে অবশ্যই কমেন্টে জানাবেন, উত্তর দেওয়ার চেষ্টা করবো।\nধন্যবাদ!",
+      "links": [],
+      "topic": "Malware Concepts",
+      "category": "documents",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": false,
+      "collectionIndex": 1,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-132",
+      "title": "ক্লাস রেকর্ড — 18/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-18",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n১৮/০৯/২০২৬\n1EqmHoZaM6FRFG66-eSE70LODAIp30FS0",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 131,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-130",
+      "title": "LFI/LFD Basics",
+      "author": "Roman Moonshi",
+      "date": "2026-09-19",
+      "observedDate": "September 19 at 8:06 AM",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1656477746054814",
+      "text": "LFI/LFD Basics\n0:00 / 16:36",
+      "links": [],
+      "topic": "LFI / LFD",
+      "category": "classes",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 129,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-134",
+      "title": "ক্লাস রেকর্ড — 20/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-20",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n২০/০৯/২০২৬\n1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 133,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-142",
+      "title": "ক্লাস রেকর্ড — 25/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-25",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n২৫/০৯/২০২৬\n1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 141,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-145",
+      "title": "ক্লাস রেকর্ড — 27/09/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-09-27",
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1664560601913195",
+      "text": "ক্লাস রেকর্ড\n২৭/০৯/২০২৬\n1WT64w91wmge9FczUis8I-ZRVXgR2cT3c",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 144,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-147",
+      "title": "ক্লাস রেকর্ড — 02/10/2026",
+      "author": "Roman Moonshi",
+      "date": "2026-10-02",
+      "observedDate": "",
+      "source": "",
+      "text": "ক্লাস রেকর্ড\n০২/১০/২০২৬\n1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj",
+      "links": [],
+      "topic": null,
+      "category": "recordings",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 146,
+      "dateVerified": true
+    },
+    {
+      "id": "entry-1",
+      "title": "Topic: Malware Removal Live Project (Part 1)",
+      "author": "Bijoy Chandra Mondal",
+      "date": null,
+      "observedDate": "5 hours ago",
+      "source": "",
+      "text": "Topic: Malware Removal Live Project (Part 1)\nClass link :\nClass topic will start 9:45 PM",
+      "links": [
+        "https://meet.google.com/gts-wjtq-meq"
+      ],
+      "topic": "Malware Removal",
+      "category": "classes",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 0,
+      "dateVerified": false
+    },
+    {
+      "id": "entry-17",
+      "title": "আসসালামু আলাইকুম। কেমন আছেন সবাই?",
+      "author": "Tanjim Al Fahim",
+      "date": null,
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1601890488180207",
+      "text": "আসসালামু আলাইকুম। কেমন আছেন সবাই?\nআমি তানজিম আল ফাহিম, আপনাদের কোর্সের প্রধান প্রশিক্ষক হিসেবে দায়িত্ব পালন করবো ইনশাআল্লাহ। আমি ছাড়াও ২১ জনের অভিজ্ঞ একটি টীম এবং সম্মানিত বিশেষজ্ঞ এবং দেশসেরা প্রশিক্ষকবৃন্দরা আপনাদের কোর্সের সাথে পুরো সময়কাল ধরেই থাকবেন।\nআপনাদের অরিয়েন্টেশন ক্লাস শুরু হবে রবিবার রাত ০৯ঃ৩০ মিনিটে।\nপ্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন। সার্ভারে লগিন করে নিন, এ সংক্রান্ত কোন সমস্যা থাকলে পাসওয়ার্ড রিসেট অপশন থেকে পাসওয়া…",
+      "links": [],
+      "topic": "Orientation",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": true,
+      "collectionIndex": 16,
+      "dateVerified": false
+    },
+    {
+      "id": "entry-18",
+      "title": "আর এক ঘন্টা পরেই",
+      "author": "Tanjim Al Fahim",
+      "date": null,
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604060137963242",
+      "text": "আর এক ঘন্টা পরেই\nরাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?\nঅরিয়েন্টেশন ক্লাস লিংক সরাসরি গ্রুপেই শেয়ার করা হবে। এখানেই সমস্ত দিক নির্দেশনা প্রদান করা হবে। সুতরাং, নির্ধারিত সময়ের ১০ মিনিট আগে শুধুমাত্র গ্রুপে চলে আসবেন।\nক্লাসে দেখা হচ্ছে ইনশাআল্লাহ।",
+      "links": [],
+      "topic": "Orientation",
+      "category": "classes",
+      "youtubeId": null,
+      "videoStatus": "upload-pending",
+      "truncated": false,
+      "collectionIndex": 17,
+      "dateVerified": false
+    },
+    {
+      "id": "entry-19",
+      "title": "আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?",
+      "author": "Tanjim Al Fahim",
+      "date": null,
+      "observedDate": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1603860857983170",
+      "text": "আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?\nপ্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন।\nক্লাসঃ অরিয়েন্টেশন এবং প্রথম দিকের ক্লাস গুলো এই গ্রুপে লাইভ পরিচালনা করা হয়ে থাকবে। ক্লাস প্লাটফর্ম হিসেবে, গ্রুপ -সার্ভার, গুগল ক্লাসরুম এবং গুগল মিট ব্যাবহার হয়ে থাকে।",
+      "links": [],
+      "topic": "Orientation",
+      "category": "information",
+      "youtubeId": null,
+      "videoStatus": "not-applicable",
+      "truncated": true,
+      "collectionIndex": 18,
+      "dateVerified": false
     },
     {
       "id": "entry-21",
@@ -354,7 +965,8 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 20
+      "collectionIndex": 20,
+      "dateVerified": false
     },
     {
       "id": "entry-22",
@@ -370,7 +982,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 21
+      "collectionIndex": 21,
+      "dateVerified": false
     },
     {
       "id": "entry-23",
@@ -386,7 +999,8 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 22
+      "collectionIndex": 22,
+      "dateVerified": false
     },
     {
       "id": "entry-24",
@@ -402,23 +1016,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 23
-    },
-    {
-      "id": "entry-25",
-      "title": "আসুন, জেনে নেই -১",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 20",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604210557948200",
-      "text": "আসুন, জেনে নেই -১\nভালনেরাবিলিটি (Vulnerability) কি?\nভালনেরাবিলিটি হচ্ছে কোনো সিস্টেমের দূর্বলতা বা ভুল বা নিরাপত্তার ছিদ্রসমূহ। অর্থাৎ সিস্টেমটি কোনোভাবে বা কোনো কৌশলে আক্রমণযোগ্য।\nকোন সাইট এর ভালনেরাবিলিটি থাকা মানে হচ্ছে সাইটটি হ্যাক হওয়ার সুযোগ রয়েছে অথবা সাইটটির সিকিউরিটির কোন একটি দিকে দুর্বলতা রয়েছে। তবে কোন সাইটের ভালনেরাবিলিটি থাকার এই মানে নয় যে এটিকে হ্যাক করা যাবেই। তবে সুযোগ থাকার সম্ভাবনা রয়েছে।\nভালনেরাবিলিটি(Vulnerability) সাইট কিভাবে খুঁজবো?\nভালনেরাবিলিটি(Vulnerability) বা ত্রুটিযুক্ত সাইট খুঁজে বের করার উপায় হচ্ছে গুগল ডর্ক। যে যত ইউনিক এবং স্পেসিফিক ডর্ক বানাতে পারবে সে তত বেশী সাইট পাবে। যে যত বেশী সাইট পাবেন তত বেশী সাইট হ্যাক করার পসিবিলিটি হবে।\nগুগল ডর্ক(Google Dork) :\nগুগল হলো একটি সার্চ ইঞ্জিন। কোন কিছু খুঁজে পেতে আমরা গুগলের সাহায্য নেই এবং আমাদের প্রয়োজনীয় তথ্য খুঁজে বের করি।\nমনে করুন Ayub Bachchu এর ”হাসতে দেখো” গান দেখতে চাই বা শুনতে চাই তাহলে কি করতে পারি?\nগুগলে গিয়ে Ayub Bachchu লিখে সার্চ দিলে Ayub Bachchu রিলেটেড অনেক গান, তথ্য আসবে, সেখান থেকে খুঁজে বের করতে হবে হাসতে দেখো” গানটি, অনেক সময় লেগে যাবে, তাইনা?\nএবার যদি”হাসতে দেখো”Ayub Bachchu লিখে সার্চ দেই তাহলে কি হবে? খুব সহজেই পেয়ে যাব, তাইনা!\nগুগল ডর্ক হল এক ধরনের এডভান্সড সার্চ করার পদ্ধতি যা দিয়ে আপনি স্পেসিফিক তথ্যগুলো আলাদা করে নিয়ে আসতে পারবেন।\nএই এডভান্স ও স্পেসিফিক বা স্মার্ট সার্চের জন্য কিছু অপারেটর ব্যবহার করতে হয়।\nগুগল ডর্ক এর কমন কিছু অপারেটরঃ\ninurl: এই শব্দ দিয়ে শুরু করে আপনি যাই লিখবেন, তা কোন সাইটের এড্রেসে খুঁজে পেলে গুগল আপনাকে সার্চ রেজাল্ট হিসাবে দেখাবে।(url মানে হলো ওয়েভ এড্রেস, যেমনঃ https://www.facebook.com/ArenaBangladesh)\nউদাহরনঃ inurl:\"login.php\" এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের ওয়েভ এড্রেসেlogin.php আছে, যেমন-\nএই ধরনের সাইটগুলো দেখাবে।https://olportal.ontariolearn.com/login.php\nintitle: এ কিছু ডাটা দিলে, সেসব সাইটের টাইটেলে ঐ শব্দ পাবে গুগল আপনাকে সেই সাইটগুলোই দেখাবে।\nউদাহরনঃintitle: “login page” এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের টাইটেলেlogin page আছে,\nযেমন- http://testphp.vulnweb.com/login.php\nintext: এর পর যে টেক্সট লিখে সার্চ দিলে, যে সব সাইটে ঐ টেক্সট পাবে গুগল সেই সব সাইট খুঁজে বের করে দিবে।\nউদাহরনঃ intext:\"Design & Developed By Seawind Solution Pvt.Ltd.\"এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটেDesign & Developed By Seawind Solution Pvt.Ltd. এই টেক্সট আছে,\nযেমন- https://www.aaa.co.in/page/services\nsite: কোন ডোমেইন স্পেসিফাই করে দিতে বা নির্দিষ্ট কোন সাইট ব্যবহার করা হয়।\nউদাহরনঃ site:octa.net এর মানে হলো- octa.net সাইট এর মধ্যকার ডাটা সার্চ করা, এটা ডোমেইন ও হতে পারে যেমনঃ.com বা.net ইত্যাদি।\nআবার কোন ডর্কে একাধিক অপারেটরও ব্যবহার করা হতে পারে।\nযেমনঃ\nintitle:\"index\" of \"admin\" site:.in\nযে সকল পেইজের টাইটেলেindex\" of \"admin আছে এবং সাইটগুলো ইন্ডিয়ার শুধু সেসকল সাইট খুঁজে বের করার জন্য ডর্ক।\ninurl:\"login.php\" site:.in\nintitle: “login page” site:.in\n>> গুগল ডর্ক কোন হ্যাকিং নয়।\nতবে গুগল ডর্ক হলো হ্যাকিংয়ের প্রাথমিক ধাপ (হ্যাক করার জন্য সাইট বা লিংক খুঁজে বের করা)।\nধন্যবাদ।",
-      "links": [],
-      "topic": "Google Dork",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 24
+      "collectionIndex": 23,
+      "dateVerified": false
     },
     {
       "id": "entry-26",
@@ -436,7 +1035,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 25
+      "collectionIndex": 25,
+      "dateVerified": false
     },
     {
       "id": "entry-27",
@@ -452,11 +1052,12 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 26
+      "collectionIndex": 26,
+      "dateVerified": false
     },
     {
       "id": "entry-28",
-      "title": "আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে কমেন্টে জানাতে পারেন আমরা সবাই মিলে হেল্প করার চেষ্টা করব। পাশাপাশি আপনি টপিকটা ভালোভাবে বুঝে থাকলে আপনার ব্যাচমেট কেও হেল্প করতে পারেন এর উপর মার্কস ও রয়েছে।",
+      "title": "আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…",
       "author": "Roman Moonshi",
       "date": null,
       "observedDate": "",
@@ -468,26 +1069,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 27
-    },
-    {
-      "id": "entry-29",
-      "title": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 21",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1604959244539998",
-      "text": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!\nকি অবস্থা সবার কেমন আছেন?\nআজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!\nআপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।\nMeet-এ যোগদানের তথ্য:\nসময়:\nপ্রথম সেশন:\nসন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত\nদ্বিতীয় সেশন:\nরাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত\nলিঙ্ক:\nTo join the video meeting, click this link:\nOtherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 124#\nকিভাবে সাহায্য পাবেন:\nআপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।\nধন্যবাদ।",
-      "links": [
-        "https://www.facebook.com/hashtag/happy_support_day",
-        "https://meet.google.com/yac-xrnh-gvz"
-      ],
-      "topic": null,
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 28
+      "collectionIndex": 27,
+      "dateVerified": false
     },
     {
       "id": "entry-30",
@@ -503,7 +1086,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 29
+      "collectionIndex": 29,
+      "dateVerified": false
     },
     {
       "id": "entry-31",
@@ -521,7 +1105,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 30
+      "collectionIndex": 30,
+      "dateVerified": false
     },
     {
       "id": "entry-32",
@@ -537,7 +1122,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 31
+      "collectionIndex": 31,
+      "dateVerified": false
     },
     {
       "id": "entry-33",
@@ -553,7 +1139,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 32
+      "collectionIndex": 32,
+      "dateVerified": false
     },
     {
       "id": "entry-34",
@@ -569,7 +1156,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 33
+      "collectionIndex": 33,
+      "dateVerified": false
     },
     {
       "id": "entry-35",
@@ -585,7 +1173,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 34
+      "collectionIndex": 34,
+      "dateVerified": false
     },
     {
       "id": "entry-36",
@@ -598,12 +1187,13 @@
       "links": [
         "https://meet.google.com/ojv-owit-otz"
       ],
-      "topic": "SQL Injection",
+      "topic": "Session & Redirect",
       "category": "tools",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 35
+      "collectionIndex": 35,
+      "dateVerified": false
     },
     {
       "id": "entry-37",
@@ -621,7 +1211,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 36
+      "collectionIndex": 36,
+      "dateVerified": false
     },
     {
       "id": "entry-38",
@@ -637,41 +1228,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 37
-    },
-    {
-      "id": "entry-39",
-      "title": "ডিরেক্ট ক্লাস রিসোর্স লিংক",
-      "author": "Md. Khaledul Islam",
-      "date": null,
-      "observedDate": "July 24",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1608143074221615",
-      "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক\ndocs.google.com\nFirst class: Cyber Safety, SQL Injection by tools",
-      "links": [
-        "https://docs.google.com/document/d/10FjEY5eyXUc54sUamu2-uj-8m5N03Cuwf-PKuDVimcM/edit?tab=t.0"
-      ],
-      "topic": "SQL Injection",
-      "category": "documents",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 38
-    },
-    {
-      "id": "entry-40",
-      "title": "ক্লাস রেকর্ড — 24/07/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-07-24",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n২৪/০৭/২০২৬\ndrive.google.com\nClass record.mp4",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 39
+      "collectionIndex": 37,
+      "dateVerified": false
     },
     {
       "id": "entry-41",
@@ -689,7 +1247,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 40
+      "collectionIndex": 40,
+      "dateVerified": false
     },
     {
       "id": "entry-42",
@@ -705,7 +1264,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 41
+      "collectionIndex": 41,
+      "dateVerified": false
     },
     {
       "id": "entry-43",
@@ -721,7 +1281,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 42
+      "collectionIndex": 42,
+      "dateVerified": false
     },
     {
       "id": "entry-44",
@@ -739,7 +1300,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 43
+      "collectionIndex": 43,
+      "dateVerified": false
     },
     {
       "id": "entry-45",
@@ -755,39 +1317,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 44
-    },
-    {
-      "id": "entry-46",
-      "title": "ক্লাস রেকর্ড — 26/07/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-07-26",
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609919597377296",
-      "text": "ক্লাস রেকর্ড\n২৬/০৭/২০২৬\n1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 45
-    },
-    {
-      "id": "entry-47",
-      "title": "হাভিজ এর পোর্টেবল ভার্সান।",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 27",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1609865664049356",
-      "text": "হাভিজ এর পোর্টেবল ভার্সান।\nপ্রথমেই বলে নেই অতি উৎসাহী হয়ে ইউ-টিউব এর বা গুগল থেকে খুঁজে খুঁজে হাভিজ বা হ্যাকিং রিলেটেড কোন টুলস্‌, সফ্টওয়্যার ডাউনলোড করবেন না। র‌্যানসামওয়ারে অথবা কি-লগিংএর স্বিকার হতে পারেন।\nআর জানেন তো এই ধরনের টুলসের জন্য এন্টিভাইরাস অফ বা বাই-পাস করতে হয়।\nসো- আনট্রাষ্টেড কিছু ডাউনলোড করে নিজের ক্ষতি করবেন না।\nহাভিজের যে ভার্সান আপনাদের দেয়া হয়েছে এর বাইরেও কিছু ভার্সান আমাদের কাছে আছে, সমস্যা হলো সেগুলো ক্র্যাক করতে হয়, অনেকই সমস্যায় পড়তে পারেন, তাই এভয়েট করা হচ্ছে।\nতাই হাভিজের একটি এডভান্স ও পোর্টেবল ভার্সন ১.৬ দিয়ে দিচ্ছি।\nভালো কথা এটি ইন্সটল করার প্রয়োজন নেই। পোর্টেবল ভার্সান\nডাউনলোড করবেন, আনরার (UnRar) করবেন, তারপর রান এস এডমিনিষ্ট্রেটর দিয়ে চালাবেন\nও,\nপাসওয়ার্ডঃ aws\nলিংকঃ https://drive.google.com/file/d/1_Nq_luWvf3TUYdfIa6sRKJbhQXRtfbAQ/view\nযথারীতি হাভিজ চালাতে এন্টিভাইরাস অফ থাকা লাগবে এবং রান করাতে Run as administrator এর মাধ্যমে রান করাতে হবে।\ndrive.google.com\nHavij_Pro.zip",
-      "links": [],
-      "topic": "SQL Injection",
-      "category": "tools",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 46
+      "collectionIndex": 44,
+      "dateVerified": false
     },
     {
       "id": "entry-48",
@@ -803,26 +1334,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 47
-    },
-    {
-      "id": "entry-49",
-      "title": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "July 28",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1610715763964346",
-      "text": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!\nকি অবস্থা সবার কেমন আছেন?\nআজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!\nআপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।\nMeet-এ যোগদানের তথ্য:\nসময়:\nপ্রথম সেশন:\nসন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত\nদ্বিতীয় সেশন:\nরাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত\nলিঙ্ক:\nTo join the video meeting, click this link:\nOtherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 124#\nকিভাবে সাহায্য পাবেন:\nআপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।\nধন্যবাদ।\nmeet.google.com",
-      "links": [
-        "https://www.facebook.com/hashtag/happy_support_day",
-        "https://meet.google.com/yac-xrnh-gvz"
-      ],
-      "topic": null,
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 48
+      "collectionIndex": 47,
+      "dateVerified": false
     },
     {
       "id": "entry-50",
@@ -840,7 +1353,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 49
+      "collectionIndex": 49,
+      "dateVerified": false
     },
     {
       "id": "entry-51",
@@ -851,14 +1365,15 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1612892513746671",
       "text": "Text\nCyberFox for Mac.txt",
       "links": [
-        "https://www.facebook.com/download/1074110211846797/CyberFox%20for%20Mac.txt?av=100053394131841&eav=Aflc9yT1xzqNjCWNpPXkj6oSKMnOZKhIRUpYVhetVHqhiONmQOxgt-vYV9ig&paipv=0&ext=1791750900&hash=Ac2vMCbE6c1wrUc71OzLehW6eP0"
+        "https://www.facebook.com/download/1074110211846797/CyberFox%20for%20Mac.txt"
       ],
       "topic": "Session & Redirect",
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 50
+      "collectionIndex": 50,
+      "dateVerified": false
     },
     {
       "id": "entry-52",
@@ -876,7 +1391,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 51
+      "collectionIndex": 51,
+      "dateVerified": false
     },
     {
       "id": "entry-53",
@@ -894,7 +1410,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 52
+      "collectionIndex": 52,
+      "dateVerified": false
     },
     {
       "id": "entry-54",
@@ -910,11 +1427,12 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 53
+      "collectionIndex": 53,
+      "dateVerified": false
     },
     {
       "id": "entry-55",
-      "title": "গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটলম্যান্ট পরিশোধ করে নিন।",
+      "title": "গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…",
       "author": "রাফি ইসলাম রাসেল",
       "date": null,
       "observedDate": "",
@@ -926,7 +1444,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 54
+      "collectionIndex": 54,
+      "dateVerified": false
     },
     {
       "id": "entry-56",
@@ -945,7 +1464,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 55
+      "collectionIndex": 55,
+      "dateVerified": false
     },
     {
       "id": "entry-57",
@@ -963,23 +1483,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 56
-    },
-    {
-      "id": "entry-58",
-      "title": "ক্লাস রেকর্ড — 31/07/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-07-31",
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614267503609172",
-      "text": "ক্লাস রেকর্ড\n৩১/০৭/২০২৬\n1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 57
+      "collectionIndex": 56,
+      "dateVerified": false
     },
     {
       "id": "entry-59",
@@ -995,7 +1500,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 58
+      "collectionIndex": 58,
+      "dateVerified": false
     },
     {
       "id": "entry-60",
@@ -1011,7 +1517,8 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 59
+      "collectionIndex": 59,
+      "dateVerified": false
     },
     {
       "id": "entry-61",
@@ -1027,23 +1534,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 60
-    },
-    {
-      "id": "entry-62",
-      "title": "INFORMATIONAL POST-03",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 2",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1614258413610081",
-      "text": "INFORMATIONAL POST-03\nঅনেকেই HTTP & HTTPS নিয়ে ঝামেলায় পড়েছেন, একটু সহজ করে দেই বিষয়টা।।\nHTTP & HTTPS\nকোন ওয়েভসাইট যেমন ধরুন আপনি ইত্তেফাক নিউজ পেপারটি পড়তে চান, তাহলে কি করবেন??\nব্রাইজারে যাবেন তারপর সেখানে ইত্তেফাক নিউজ পেপারের ওয়েবের এড্রেসটি (ittefaq.com.bd )\nবা তার আইপি এড্রেসটি দিয়ে এন্টার করলে ইত্তেফাক নিউজপেপারটি পড়তে পারবেন।\nতো এই ওয়েব এড্রেসটি দিতে শুরু করতে হয় http দিয়ে। যেমনঃ http://ittefaq.com.bd/\nhttp://www.ittefaq.com.bd/\nআর তারপর সাইটের কন্টেন্ট গুলো চলে আসে, আমাদের পিসি বা মোবেইলের ব্রাউজার হলো ক্লাইন্ট, আর ইত্তেফাক\n‍\nনিউজপেপারটি কোন এক সার্ভারে রাখা আছে, সেই সার্ভারে কানেক্ট করে সেই পেইজ বা ফাইল কে রিকোয়েষ্ট করে এবং সেই সার্ভার আপনার ব্রাউজার কে রেসপন্স করে কনটেন্ট গুলো দেখায়। বিষয়টি হলো এমন- আপনি কারো বাসায় একটি পার্সেল পাঠাতে চান, তাহলে কি লাগবে? সেই বাড়ির নাম, সেই বাড়ির নাম্বার, এলাকার নাম, বর্তমান লোকেশন। http হল ওয়েব পেইজের ঠিকানা, রোড নম্বরের মত। পূর্ণ নাম- হাইপার টেক্সট ট্রান্সফার প্রটোকল Hypertext Transfer Protocol (HTTP)। মূলতঃ http একটি অনুরোধ প্রোটোকল যা ক্লায়েন্ট এবং সার্ভারের মধ্যে যোগাযোগের মাধ্যম গঠন করে। আমরা আমাদের পিসি বা মোবাইল থেকে কোন ব্রাউজারে লিখি www.ittefaq.com.bd\nClient এর যে File বা লিংক এর দরকার পরে তার রিকোয়েস্ট Server কে পাঠায় এবং সার্ভার সেই ফাইল টি খুঁজে ক্লায়েন্টকে সেন্ড করে ।\nসো একটি বিষয় ক্লিয়ার সেটা হলো হলো http একটি প্রটোকল।\nদিনে দিনে এই রিকোয়েষ্ট টেকনোলজি, প্রটোকল সবকিছুই অনেক আপডেট হয়েছে। এখন আর এত কিছু লেখার প্রয়োজন হয় না। ব্রাউজারে গিয়ে শুধুমাত্র ওয়েব এড্রেসটি লিখলেই ব্রাউজার সার্ভারের সাথে কানেক্ট হওয়ার প্রটোকল খুঁজে নেয়। তাই ittefaq.com.bd লিখলেই সে বুঝে নেয় এটা হলো http://www.ittefaq.com.bd/\nHTTPS\n:\nHTTPS = HTTP + SSL\nHTTPS এর পুর্ণরুপ হচ্ছে HyperText Transfer Protocol Secure, মানে হলো HTTP এর সাথে SSL certificates যুক্ত হয়ে ডাটাগুলো এনক্রিপটেড ( Encrypted ) হয়ে পারাপার হয়, ফলে ডাটাগুলো নিরাপদ থাকে ।\nওয়েভ সাইটের সেনসেটিভ ডাটা যেন লীক না হয় সেজন্য ওয়েভ সাইটগুলো সিকিউরিটির জন্য SSL (Secure Sockets Layer) certificates ব্যবহার করে ওয়েভ সার্ভার ও ইউজারের ব্রাউজারের মধ্যে একটি সিকিউর কানেকশন তৈরী করে যাতে এইচ টি টি পি ট্রান্সমিশন এর সময় ডাটা নিরাপদ থাকে।\nআর তাই আজকাল অনেক ওয়েব সাইট ই https প্রটোকল ব্যবহার করে থাকে, বিশেষ করে যে সমস্ত ওয়েব সাইট – এ পেমেন্ট সিস্টেম আছে কিংবা বিভিন্ন ব্যাংক গুলো বা গুরুত্বপূর্ন ওয়েভ সাইটগুলো যাদের ডাটা মিস উইস হলে সমস্যা হতে পারে সেসব সাইট ।\nhttps প্রটোকল ব্যবহার করা সাইটগুলোর বামে একটি তালার ছবি থাকে, মানে সিকিউর।\nhttps এ আপনার আর সার্ভারে কানেকশন স্টাবলিশ হওয়ার সাথে সাথে SSL সার্টিফিকেট এক্সচেঞ্জ হয়, এই সার্টিফিকেটে আপনার এবং সার্ভারের \"পাবলিক কি\" দেয়া থাকে। আপনি যা পাঠাবেন তা সার্ভারের পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে যাবে, সার্ভার যা ফেরত পাঠাবে তা আপনার পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে আসবে।\nআরো একটু সহজ করে বলি-\nhttp প্রটোকলের মাধ্যমে আপনি আপনার মোবাইল/ পিসির ব্রাউজার থেকে (মানে ক্লাইন্ট ইন্ড এটা) কোন একটি সার্ভারে একটি টেক্সট পাঠালেন যেমন ধরুনঃ ”বন্ধু কেমন আছিস- বল??” এখন আপনার পিসি থেকে ঔ সার্ভার এ যাওয়ার পথে যে কেউ ঐ ডাটা ধরতে পারলে সেও পড়তে পারবে আপনি কি ডাটা পাঠিয়েছেন,, এটাতো ভালো.. এখন যদি ডাটা টা GF বা BF এর কাছে পাঠানো কোন টেক্সট হয়, সেকি এতো ভালো কথা লিখবে??\nআচ্ছা যদি https প্রটোকলের মাধ্যমে হতো, তাহলে কি হতো??\nতাহলে ক্লাইন্ট থেকে সার্ভারে যে ডাটা যেত সেটা ইনক্রাপ্টেড হয়ে যেত, পথিমধ্যে কেউ পেলেও লাভ নাই, কি সব হিজিবিজি হিজিবিজি হিজিবিজি হিজিবিজি\nবাই দ্য ওয়ে- কোন প্রটোকলেই কেউ প্রেমপত্র পাঠায় না, জাষ্ট আপনাদের বোঝানোর জন্য বল্লাম।।",
-      "links": [],
-      "topic": null,
-      "category": "notices",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 61
+      "collectionIndex": 60,
+      "dateVerified": false
     },
     {
       "id": "entry-63",
@@ -1061,23 +1553,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 62
-    },
-    {
-      "id": "entry-64",
-      "title": "ক্লাস রেকর্ড — 02/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-02",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n০২/০৮/২০২৬\n1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 63
+      "collectionIndex": 62,
+      "dateVerified": false
     },
     {
       "id": "entry-65",
@@ -1095,7 +1572,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 64
+      "collectionIndex": 64,
+      "dateVerified": false
     },
     {
       "id": "entry-66",
@@ -1111,11 +1589,12 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 65
+      "collectionIndex": 65,
+      "dateVerified": false
     },
     {
       "id": "entry-67",
-      "title": "যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন না পান কিংবা পোর্টালে আপডেট না হয় ইমেইলটা পুনরায় চেক করে অবশ্যই আজকের মধ্যে ইমেইলে যোগাযোগ করে নিন।",
+      "title": "যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …",
       "author": "Tanjim Al Fahim",
       "date": null,
       "observedDate": "",
@@ -1127,7 +1606,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 66
+      "collectionIndex": 66,
+      "dateVerified": false
     },
     {
       "id": "entry-68",
@@ -1143,11 +1623,12 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 67
+      "collectionIndex": 67,
+      "dateVerified": false
     },
     {
       "id": "entry-69",
-      "title": "প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ গুলো অবশ্যই পড়বেন। কোথাও কোন প্রবলেম হলে আমাকে অবশ্যই জানাবেন ধন্যবাদ।",
+      "title": "প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…",
       "author": "Roman Moonshi",
       "date": null,
       "observedDate": "",
@@ -1161,7 +1642,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 68
+      "collectionIndex": 68,
+      "dateVerified": false
     },
     {
       "id": "entry-70",
@@ -1177,7 +1659,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 69
+      "collectionIndex": 69,
+      "dateVerified": false
     },
     {
       "id": "entry-71",
@@ -1193,7 +1676,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 70
+      "collectionIndex": 70,
+      "dateVerified": false
     },
     {
       "id": "entry-72",
@@ -1209,26 +1693,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 71
-    },
-    {
-      "id": "entry-73",
-      "title": "1st-Mid Exam - Cyber Security & Ethical Hacking",
-      "author": "Tanjim Al Fahim",
-      "date": null,
-      "observedDate": "August 7",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1620235829679006",
-      "text": "1st-Mid Exam - Cyber Security & Ethical Hacking\nDate: 7th August, 2026\nTime:\nGeneral: 9:30 PM to 10:30PM\nDiploma: 9:30 PM to 11:00 PM\nBatch: 66 (Delta)\nFull Marks: 40\nবিশেষ সতকর্তাঃ সাইবার সিকিউরিটি এবং ইথিক্যাল হ্যাকিং কোর্সের শিক্ষার্থীরা CEHF Exam Link এ গিয়ে এক্সাম দিবেন। ১ বছর মেয়াদি সাইবার সিকিউরিটি ডিপ্লোমার শিক্ষার্থীরা Diploma Exam Link এ গিয়ে এক্সাম দিবেন। ভূল প্রশ্নে এক্সাম দিলে অনুপস্থিত হিসেবে গণ্য হবে, তাই এক্সাম দেওয়ার শুরুতেই যাচাই করে নিন, আপনি কোন বিভাগে এক্সাম দিচ্ছেন।\nযারা সাইবার সিকিউরিটিতে ভর্তি হয়ে ডিপ্লোমাতে ট্রান্সফার হয়েছেন, তারাও ডিপ্লোমাতে এক্সাম দিবেন।\nCEHF Exam Link:\nDiploma Exam Link:\nনির্দেশনাঃ\n১। এক্সাম লিংকে প্রবেশ করুন। ৯ঃ৩০ এর সময় অটোমেটিক এক্সাম পেপার একটিভ হয়ে যাবে। একবার পেজটি রিফ্রেশ করলেই এক্সাম দিতে পারবেন।\n২। প্রশ্ন ভালো করে পড়ে বুঝে তারপর সাবমিট করবেন। পেজ সর্বোমোট ৩ টি, next - next এরপর সাবমিট। submit এ ক্লিক করলে এক্সাম পেপার ক্লোজ হয়ে যাবে। তাই দেখে তারপর ক্লিক করবেন।\n৩। প্রতিটা প্রশ্নের সাথে পয়েন্ট দেওয়া আছে। উল্লেখ্য, ১ পয়েন্ট = ১ মার্ক। সর্বোমোট ৪০ নাম্বারে পরীক্ষা।\n৪। MCQ অথবা ভূল উত্তরে মাইনাস মার্কিং নেই।\n৫। পরীক্ষা ৯ঃ৩০ থেকে ১০ঃ৩০ পর্যন্ত এবং ১০ঃ৩০ এ অটোমেটিক বন্ধ হয়ে যাবে আর এক্সাম পেপার জমা হবে না। তাই অন্তত দুই মিনিট পূর্বেই জমা দেওয়ার চেষ্টা করবেন।\n৬। এক্সাম পেপার জমা দিলে আপনি কি কি উত্তর দিয়েছেন, তার একটি কপি স্বয়ংক্রিয় ভাবে আপনার ইমেইলে চলে যাবে।\nসবার এক্সামের জন্য শুভ কামনা।\nধন্যবাদ। @everyone",
-      "links": [
-        "https://forms.gle/QoRHJV6mKhTfJCAY8",
-        "https://forms.gle/qVZiF2ACHEeTrpBH7"
-      ],
-      "topic": null,
-      "category": "notices",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 72
+      "collectionIndex": 71,
+      "dateVerified": false
     },
     {
       "id": "entry-74",
@@ -1244,7 +1710,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 73
+      "collectionIndex": 73,
+      "dateVerified": false
     },
     {
       "id": "entry-75",
@@ -1262,7 +1729,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 74
+      "collectionIndex": 74,
+      "dateVerified": false
     },
     {
       "id": "entry-76",
@@ -1278,7 +1746,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 75
+      "collectionIndex": 75,
+      "dateVerified": false
     },
     {
       "id": "entry-77",
@@ -1289,14 +1758,15 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1620243993011523",
       "text": "Correct Answers 1st Mid Exam CEHF\nPDF\nCorrect-Answers-66-Delta.pdf",
       "links": [
-        "https://www.facebook.com/download/2103561483890513/Correct-Answers-66-Delta.pdf?av=100053394131841&eav=Afk1leB7H_83Mi2ZzdzGWOrl2A1cNd3vEc9a8jsi8PTayKSqonqQJH5zT4M1&paipv=0&ext=1791750878&hash=Ac3NSwB5EFcZLmBbdmsaUpL8kIs"
+        "https://www.facebook.com/download/2103561483890513/Correct-Answers-66-Delta.pdf"
       ],
       "topic": null,
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 76
+      "collectionIndex": 76,
+      "dateVerified": false
     },
     {
       "id": "entry-78",
@@ -1312,39 +1782,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 77
-    },
-    {
-      "id": "entry-79",
-      "title": "আসুন জেনে নেই-০৫",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 10",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1622087516160504",
-      "text": "আসুন জেনে নেই-০৫\nক্রস-সাইট স্ক্রিপ্টিং(XSS)\nএতো দিন ধরে ওয়েব সাইটে শুধু ইঞ্জেকশন ই তো দিলাম, তো দিলাম কিসের উপর ভিত্তি করে?\nযে সব ওয়েব সাইটে এস কিউ এল ইরর ছিল সে সকল সাইটে। তাহলে তো আমরা একটি বিষয় ক্লিয়ার হলাম, সেটা হলো ওয়েব সাইটে যদি কোন ভাবে কিছু ইনজেক্ট করা যায় তাহলে সেসকল সাইট হতে কোন না কোন তথ্য বের করা যাবে বা সেই সাইটের কনটেন্ট কিছু পরিবর্তন করা সম্ভব হবে। তাই না?\nএখন ওয়েবসাইট কারা তৈরী করে? অবশ্যই ডেভেলাপার রা। তারা ওয়েবসাইট তৈরী করতে গিয়ে অনকে সময়ই কোন না কোন ত্রু…\n+3",
-      "links": [],
-      "topic": "SQL Injection",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": true,
-      "collectionIndex": 78
-    },
-    {
-      "id": "entry-80",
-      "title": "ক্লাস রেকর্ড — 09/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-09",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n০৯/০৮/২০২৬\n1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 79
+      "collectionIndex": 77,
+      "dateVerified": false
     },
     {
       "id": "entry-81",
@@ -1354,31 +1793,14 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1622805392755383",
       "text": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!\nকি অবস্থা সবার কেমন আছেন?\nআজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!\nআপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।\nMeet-এ যোগদানের তথ্য:\nmeet.google.com",
-      "links": [
-        "https://www.facebook.com/hashtag/happy_support_day"
-      ],
+      "links": [],
       "topic": null,
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 80
-    },
-    {
-      "id": "entry-82",
-      "title": "Messenger Group Notice!!",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 10",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1622857422750180",
-      "text": "Messenger Group Notice!!\nআপনাদের অফিশিয়ালি মেসেঞ্জার গ্রুপ খোলা হয়েছে। ইতিমধ্যে সবাইকে মেসেঞ্জার গ্রুপটিতে যুক্ত করা হয়েছে। আপনারা আপনাদের মেসেজ রিকোয়েস্ট কিংবা স্প্যাম ফোল্ডার চেক করলেই ব্যাচ এর নাম দেখতে পাবেন। অবশিষ্ট কিছু শিক্ষার্থী যারা এখনো অব্দি অ্যাড হতে পারেননি তাদের জন্য পরবর্তী ইন্সট্রাকশন গ্রুপে পোস্ট করা হবে।\nমেসেঞ্জার গ্রুপ ব্যবহারের নির্দেশনা:\nএই মেসেঞ্জার গ্রুপটি মূলত শিক্ষার্থীদের পারস্পরিক যোগাযোগের জন্য।\nআপনারা এখানে একে অপরের সঙ্গে আলোচনা করে ক্লাস বা কোর্স-সংক্রান্ত সাধারণ সমস্যাগুলো সমাধান করবেন।\nএকাডেমিক অফিসিয়াল সাপোর্ট ও নোটিশ সংক্রান্ত বিষয়গুলো ফেসবুক গ্রুপেই প্রদান করা হবে, মেসেঞ্জারে নয়।\nআপনাদের সহযোগিতার জন্য ধন্যবাদ।",
-      "links": [],
-      "topic": null,
-      "category": "documents",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 81
+      "collectionIndex": 80,
+      "dateVerified": false
     },
     {
       "id": "entry-83",
@@ -1394,7 +1816,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 82
+      "collectionIndex": 82,
+      "dateVerified": false
     },
     {
       "id": "entry-84",
@@ -1410,25 +1833,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 83
-    },
-    {
-      "id": "entry-85",
-      "title": "Messenger Group Notice!!",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 12",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1624053222630600",
-      "text": "Messenger Group Notice!!\nযারা এখনো অব্দি মেসেঞ্জার গ্রুপে যুক্ত হতে পারেননি, তারা নিম্নোক্ত নির্ধারিত ফেসবুক অ্যাকাউন্টে ফ্রেন্ড রিকোয়েস্ট পাঠান এবং ইনবক্সে আপনার ব্যাচের নাম ও ইমেইল ঠিকানা উল্লেখ করে একটি মেসেজ দিন। ছাত্রত্ব যাচাই সম্পন্ন হওয়ার পর অ্যাডমিন সরাসরি আপনাকে মেসেঞ্জার গ্রুপে যুক্ত করে নেবেন।\nSend request here:\nএছাড়া, যাদেরকে ইতিপূর্বে মেসেঞ্জার গ্রুপে যুক্ত করা হয়েছে কিন্তু ইনবক্সে গ্রুপটি খুঁজে পাচ্ছেন না, তারা অনুগ্রহ করে\nMessage Requests\nবা\nSpam\nসেকশন একবার যাচাই করে দেখুন। সেখানে আপনার ব্যাচের মেসেঞ্জার গ্রুপটি দেখতে পাবেন।\nআপনাদের সহযোগিতার জন্য ধন্যবাদ।",
-      "links": [
-        "https://www.facebook.com/qrazam71"
-      ],
-      "topic": null,
-      "category": "notices",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 84
+      "collectionIndex": 83,
+      "dateVerified": false
     },
     {
       "id": "entry-86",
@@ -1444,39 +1850,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 85
-    },
-    {
-      "id": "entry-87",
-      "title": "Errorbased SQLi",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 15",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1626383115730944",
-      "text": "Errorbased SQLi\n0:00 / 18:45",
-      "links": [],
-      "topic": "SQL Injection",
-      "category": "classes",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 86
-    },
-    {
-      "id": "entry-88",
-      "title": "ক্লাস রেকর্ড — 14/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-14",
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1626381205731135",
-      "text": "ক্লাস রেকর্ড\n১৪/০৮/২০২৬\n10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 87
+      "collectionIndex": 85,
+      "dateVerified": false
     },
     {
       "id": "entry-89",
@@ -1494,23 +1869,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 88
-    },
-    {
-      "id": "entry-90",
-      "title": "ক্লাস রেকর্ড — 16/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-16",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n১৬/০৮/২০২৬\n10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 89
+      "collectionIndex": 88,
+      "dateVerified": false
     },
     {
       "id": "entry-91",
@@ -1526,7 +1886,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 90
+      "collectionIndex": 90,
+      "dateVerified": false
     },
     {
       "id": "entry-92",
@@ -1542,7 +1903,8 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 91
+      "collectionIndex": 91,
+      "dateVerified": false
     },
     {
       "id": "entry-93",
@@ -1560,11 +1922,12 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 92
+      "collectionIndex": 92,
+      "dateVerified": false
     },
     {
       "id": "entry-94",
-      "title": "আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে qrteam@arenawebsecurity.net এ যথা উপযুক্ত কারণ দর্শিয়ে ইমেইল করবেন।",
+      "title": "আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…",
       "author": "Roman Moonshi",
       "date": null,
       "observedDate": "",
@@ -1576,7 +1939,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 93
+      "collectionIndex": 93,
+      "dateVerified": false
     },
     {
       "id": "entry-95",
@@ -1592,7 +1956,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 94
+      "collectionIndex": 94,
+      "dateVerified": false
     },
     {
       "id": "entry-96",
@@ -1608,7 +1973,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 95
+      "collectionIndex": 95,
+      "dateVerified": false
     },
     {
       "id": "entry-97",
@@ -1624,7 +1990,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 96
+      "collectionIndex": 96,
+      "dateVerified": false
     },
     {
       "id": "entry-98",
@@ -1640,23 +2007,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 97
-    },
-    {
-      "id": "entry-99",
-      "title": "ক্লাস রেকর্ড — 21/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-21",
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1632498915119364",
-      "text": "ক্লাস রেকর্ড\n২১/০৮/২০২৬\n1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 98
+      "collectionIndex": 97,
+      "dateVerified": false
     },
     {
       "id": "entry-100",
@@ -1672,7 +2024,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 99
+      "collectionIndex": 99,
+      "dateVerified": false
     },
     {
       "id": "entry-101",
@@ -1688,7 +2041,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 100
+      "collectionIndex": 100,
+      "dateVerified": false
     },
     {
       "id": "entry-102",
@@ -1704,25 +2058,27 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 101
+      "collectionIndex": 101,
+      "dateVerified": false
     },
     {
       "id": "entry-103",
-      "title": "PDF",
+      "title": "Webshell-B.pdf",
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
       "source": "",
       "text": "PDF\nWebshell-B.pdf",
       "links": [
-        "https://www.facebook.com/download/1420612573243103/Webshell-B.pdf?av=100053394131841&eav=AfkUt6wn5A_24xs5wnRMEJJYbnw4ksidGZl_Os2H96OkweCALMZDTFzrhpBe&paipv=0&ext=1791750862&hash=Ac1hSSkE__u9T85wTu3lTg-aU5Q"
+        "https://www.facebook.com/download/1420612573243103/Webshell-B.pdf"
       ],
       "topic": "File Upload",
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 102
+      "collectionIndex": 102,
+      "dateVerified": false
     },
     {
       "id": "entry-104",
@@ -1738,23 +2094,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 103
-    },
-    {
-      "id": "entry-105",
-      "title": "আসুন জেনে নেই-০৭",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "August 23",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1632441241791798",
-      "text": "আসুন জেনে নেই-০৭\nShell\nওয়েব শেল কি?\nশেল হলো রিমোট ফাইল ম্যানেজার স্ক্রীপ্ট, এই শেল বা স্ক্রিপ্টের সাহায্যে আপনার পিসি থেকে ওয়েভ সার্ভার এর ফাইল ম্যানেজ করতে পারবেন।\nফাইল ম্যানেজার দিয়ে আপনি কি কি করতে পারেন ?\nফাইল তৈরী করা, কপি করা, এডিট করা, ডিলিট করা বা ফাইল এট্রিবিউট(ফাইলের পারমিশন) পরিবর্তন করার মত অনেক কাজই করা যায়, তেমনি শেল বা স্ক্রিপ্টটি কোন ওয়েব সার্ভারে আপলোড করতে পারলে তার সাহায্যে আপনার পিসিতে বসেই রিমোটলী ঐ ওয়েব সার্ভারের ফাইল পরিবর্তন, পরিমার্জন, আপলোড সবই করতে পারবেন।\nশেল স্ক্রিপ্ট কি দিয়ে লেখা হয় বা শেল কি ধরনের ফাইল?\nশেল বিভিন্ন ল্যাংগুয়েজ দিয়ে তৈরী হলেও মেইনলি PHP, ASP/ASPX এই দুই টাইপের শেল বেশী ব্যবহৃত হয়। PHP শেল লিন্যাক্স সার্ভারে এবং ক্ষেত্রবিশেষে উইন্ডোজ সার্ভারেও ব্যবহৃত হয় এবং ASP এবং ASPX শুধূমাত্র উইন্ডোজ সার্ভারে ব্যবহার করা হয় ।\nশেল কত প্রকার ও\n‍\nকি কি?\nশেল মূলত দুই প্রকারের\nক) পাবলিক শেল/ রেডিমেইড শেল :\nএই প্রকার শেলের সোর্স কোর্ড সবার জন্য উন্মুক্ত থাকে এবং যে কেউ ব্যবহার করতে পারে। Google, github.com, pastebin.com ইত্যাদি ছাড়াও বিভিন্ন সাইটে সার্চ করলেই পেয়ে যাবেন।\nখ) প্রাইভেট শেল / পারসোনাল শেল :\nহ্যাকারসরা নিজেদের চাহিদা অনুযায়ী তৈরী করে নেয়। সাধারনত এই টাইপের শেল গুলো ব্যক্তিগত ভাবে ব্যবহার করে বিধায় সোর্সকোড বাইরে দিতে চায় না।\nশেলের মাধ্যমে কি কি করা যায় বা কি ফাংশন রয়েছে??\n# সাধারনত হ্যাকাররা প্রথমে আপলোডার(খুবই ছোট শেল-শুধু আপলোড অপশন বা তার সাথে ফাইল/ফোল্ডার ) শেল ব্যবহার করে, এর পর এই শেল থেকে ফুল ফাংশনাল (যে যেই টাইপের কাজ করতে ইচ্ছুক সেই টাইপের) শেল আপলোড করার জন্য ব্যাবহার করে।\n# সাইটের ডাটাবেস এক্সেস নেয়ার জন্য\n# সাইটের সোর্স কোড দেখার জন্য বা পরিবর্তন –পরিমার্জন করার জন্য।\n# সাইটের সার্ভার থেকে ফুল সার্ভারে এক্সেস নেয়ার জন্য।\n# সার্ভারে থাকা অন্যান্ন সাইট এক্সস নেয়ার জন্য।\n# সাইট ডিফেস করার জন্য।\nকমন কিছু শেল এর পরিচিতিঃ\nআপলোডার শেলঃ\nকিছু শেল\n‍\nস্ক্রীপ্ট আছে যা দিয়ে শুধু মাত্র ফাইল আপলোড করা যায় এর বাইরে আর কোন ফাংশন নেই, এই টাইপের শেল গুলোই আপলোডার শেল। এর ফাইল সাইজ ও স্বাভাবিক ভাবেই খুব ছোট হয়।\nযে কোন সাইটে প্রথমে আপলোডার শেল দিয়ে ট্রাই করা ভালো। কারন অনেকক্ষেত্রে সাইটের ফাইল আপলোডের জন্য ফাইল সাইজ লিমিটেশন দেয়া থাকে আবার অনেক সাইটে কিছু\n‍\nকিছু ফাংশন(যেমন সার্ভার ইনফরমেশন দেখার বা ফাইল ডিরেক্টরী দেখার কমান্ডগুলো, ইত্যাদি) রেষ্ট্রিকশন দেয়া থাকে।\nপূর্বেই আপনাদের গ্রুপে সিম্পল আপলোডার শেল সহ বেশ কিছু অ্যাডভান্স শেল দেওয়া হয়েছে: https://www.facebook.com/share/p/Aed411AX1r1rV8rw/\nতবে অনেক হ্যাকার কিছু মডিফাইড আপলোডার শেল ব্যবহার করে থাকেন, যেমন ফুয়াদ ভাই (.... .. -.. -.. . -. / -- . -- -... . .-.) আপলোডার শেল হিসাবে tcup.php নামক একটি শেল ব্যবহার করে।\nমিনি শেলঃ\nআপলোড আপশন সহ ফাইল ম্যানেজার টাইপের যে সকল\n‍\nস্ক্রিপ্ট আছে বা তৈরী করা হয় সেগুলো সাধারনত মিনি শেল হিসাবে পরিচিত, এই টাইপের শেলে এডভান্স যেমন মাস\n‍\nডিফেইস, ব্যাক ডোর কানেক্ট, সীমলিংক, ডাটাবেইস এডিট বা ডাম্পার ইত্যাদি ফাংশনগুলো থাকে না ।\nযেমনঃ moon.php mini.php ইত্যাদি।\nএডভান্স শেলঃ\nসার্ভারে এডভান্স বা স্পেসিফিক কাজের জন্য যে শেল গুলো তৈরী করা হয় বা ব্যবহার করা হয় যেমনঃ এস কিউএল ম্যানেজার(ডাটাবেস থেকে ইউজজার নেম পাসওয়ার্ড দেখা বা মডিফাই করা, আন্যান্ন ডাটা দেখা বা মডিফাই করা…ইত্যাদি), ব্যাক ডোর কানেক্ট, সিম লিংক, মাস ডিফেস, পোর্ট স্কেন, মীরর ইত্যাদি গুলো এডভান্স শেল হিসাবে পরিচিত।\nwso.php , afla.php, 479.php, 404.php, r57.php, c99.php ইত্যাদি, এগুলো প্রায় একই টাইপের কমন ফাংশনাল শেল। এগুলোই আবার ফুল ফাংশনাল শেল নামেও পরিচিত, কেননা- এই সব শেলের মাধ্যমে কমন প্রায় সব কাজই করা যায়।\nআবার স্পেসিপিক কাজের জন্য কিছু শেল, যেমনঃ\ntmass.php – মাস ডিফেইস স্ক্রিপ্ট ( এটা ফুয়াদের মডিফাই করা শেল)\nsymlink.php বা sym.php – সিমলিংক এর জন্য স্ক্রিপ্ট।\nadminer.php – ডাটাবেইস কানেক্ট, ডাটা এডিট, মডিফিকেশন এর জন্য স্ক্রিপ্ট\ndomain.php – সার্ভারের ডোমেইন লিষ্ট(মানে ঔ সার্ভারে আর কি কি ওয়েভ সাইট আছে) দেখার জন্য স্ক্রিপ্ট।\nপ্রাইভেট শেলঃ\nআগেই বলেছি বিভিন্ন প্রফেশনাল হ্যাকার (মেইনলী যারা শুধু হ্যাকিং ই করে থাকেন বা হ্যাকার গ্রুপের সাথে কাজ করেন) বা বিভিন্ন হ্যাকার গ্রুপ তাদের নিজের প্রয়োজনে নিজের মতো করে কিছু শেল তৈরী করেন সেগুলোই হলো প্রাইভেট শেল। এই টাইপের শেল গুলো গ্রুপের বাইরে প্রকাশ করেন না, তাই সেগুলো ওপেন প্লেসে পাওয়া যায় না।\nDefacement\nডিফেস কি?\nডিফেস এর অনেক মানে আছে তবে ওয়েব হ্যাকিং এ ডিফেস বলতে বোঝায় সাইট এর এডমিন অথবা অন্য কোনো ভাবে এক্সেস করে নিজের পদচিহ্ন বা স্থান জানান দেওয়া। মূলত সাইটের কোনো কনটেন্টের পরিবর্তন কিংবা কোনো কনটেন্টের পরিবর্তে নিজের কোনো কনটেন্ট দেখানোর মাধ্যম কে বোঝায়। আরো সহজ ভাবে বলতে গেলে:\nডিফেইস এর শাব্দিক অর্থ বিকৃত। হ্যাকিংয়ের ক্ষেত্রেও এর অর্থ অনেকটা সেরকম। কোনো সাইট হ্যাক হয়ে যাওয়ার একটি প্রমাণ হলো ডিফেইস।ওয়েবসাইট ডিফেইসমেন্ট বা ডিফেইস হলো এমন একধরনের আক্রমনাত্মক প্রদর্শন পদ্ধতি যার ফলে কোনো ওয়েবসাইটের আসল ওয়েবপেইজটি হ্যাকার তার নিজস্ব ওয়েবপেইজ দ্বারা প্রতিস্থাপিত করে।আমরা প্রায় দেখে থাকি হ্যাকাররা কোনো সাইট হ্যাক করে ওই সাইটের ওয়েবপেইজে প্রদর্শন করে Hacked by CYBER-71 ! এই প্রক্রিয়াটিই হলো ডিফেইস।",
-      "links": [],
-      "topic": "SQL Injection",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 104
+      "collectionIndex": 103,
+      "dateVerified": false
     },
     {
       "id": "entry-106",
@@ -1773,59 +2114,46 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 105
-    },
-    {
-      "id": "entry-107",
-      "title": "ক্লাস রেকর্ড — 23/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-23",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n২৩/০৮/২০২৬\n1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 106
+      "collectionIndex": 105,
+      "dateVerified": false
     },
     {
       "id": "entry-108",
-      "title": "PDF",
+      "title": "Files Uploading Vulnerabilities.pdf",
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
       "source": "",
       "text": "PDF\nFiles Uploading Vulnerabilities.pdf",
       "links": [
-        "https://www.facebook.com/download/1615848803430194/Files%20Uploading%20Vulnerabilities.pdf?av=100053394131841&eav=Afm7ihZooK2-Cw4vKkXyusKRuvYeEHQrZNsb4o2ARQLETG15W-udXxal7MgJ&paipv=0&ext=1791750861&hash=Ac1Qw_akOpHllyKPRgL3A2zeDfk"
+        "https://www.facebook.com/download/1615848803430194/Files%20Uploading%20Vulnerabilities.pdf"
       ],
       "topic": "File Upload",
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 107
+      "collectionIndex": 107,
+      "dateVerified": false
     },
     {
       "id": "entry-109",
-      "title": "PDF",
+      "title": "FileUV.pdf",
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
       "source": "",
       "text": "PDF\nFileUV.pdf",
       "links": [
-        "https://www.facebook.com/download/1417754170268096/FileUV.pdf?av=100053394131841&eav=AfnCmG4txXNmSpFtjgKhoXD7WMx5xEc-Y1ENtYCeeHKY-LPunhXXOMzfGVYP&paipv=0&ext=1791750861&hash=Ac1ChU4SfuoWrXIdJ_xDo_ncVrw"
+        "https://www.facebook.com/download/1417754170268096/FileUV.pdf"
       ],
       "topic": null,
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 108
+      "collectionIndex": 108,
+      "dateVerified": false
     },
     {
       "id": "entry-110",
@@ -1841,7 +2169,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 109
+      "collectionIndex": 109,
+      "dateVerified": false
     },
     {
       "id": "entry-111",
@@ -1857,23 +2186,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 110
-    },
-    {
-      "id": "entry-112",
-      "title": "ক্লাস রেকর্ড — 30/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-30",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n৩০/০৮/২০২৬\n1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 111
+      "collectionIndex": 110,
+      "dateVerified": false
     },
     {
       "id": "entry-113",
@@ -1891,7 +2205,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 112
+      "collectionIndex": 112,
+      "dateVerified": false
     },
     {
       "id": "entry-114",
@@ -1907,57 +2222,27 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 113
-    },
-    {
-      "id": "entry-115",
-      "title": "ক্লাস রেকর্ড — 29/08/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-08-29",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n২৯/০৮/২০২৬\n1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 114
+      "collectionIndex": 113,
+      "dateVerified": false
     },
     {
       "id": "entry-116",
       "title": "Linux Installation & Virtual Lab Setup",
-      "author": "Md. Khaledul Islam was live.",
+      "author": "Md. Khaledul Islam",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1645991267103462",
       "text": "Linux Installation & Virtual Lab Setup\n0:00 / 1:58:03",
       "links": [
-        "https://www.facebook.com/khaleddevsec/videos/2311014589647758/?idorvanity=1598186498550606"
+        "https://www.facebook.com/khaleddevsec/videos/2311014589647758/"
       ],
       "topic": "Linux & Scripting",
-      "category": "tools",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 115
-    },
-    {
-      "id": "entry-117",
-      "title": "ক্লাস রেকর্ড — 04/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-04",
-      "observedDate": "September 4",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1644380957264493",
-      "text": "ক্লাস রেকর্ড\n০৪/০৯/২০২৬\n10Ut65sMkUshm54yw4KjbputZMWY6uCfJ",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
+      "category": "classes",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 116
+      "collectionIndex": 115,
+      "dateVerified": false
     },
     {
       "id": "entry-118",
@@ -1968,14 +2253,15 @@
       "source": "",
       "text": "Batch Scripting Resource\nPDF\nBatch_Scripting_Short_Notes.pdf",
       "links": [
-        "https://www.facebook.com/download/932554422682616/Batch_Scripting_Short_Notes.pdf?av=100053394131841&eav=Afmb4JUHEqG_VGVrbKM_xRpc1Th2k5EblV-LtFH9PgaPbc5USTPdFhzDHV0p&paipv=0&ext=1791750854&hash=Ac03r3EWggO3cP_xqJXasXrXvzg"
+        "https://www.facebook.com/download/932554422682616/Batch_Scripting_Short_Notes.pdf"
       ],
       "topic": "Linux & Scripting",
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 117
+      "collectionIndex": 117,
+      "dateVerified": false
     },
     {
       "id": "entry-119",
@@ -1991,7 +2277,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 118
+      "collectionIndex": 118,
+      "dateVerified": false
     },
     {
       "id": "entry-120",
@@ -2007,41 +2294,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 119
-    },
-    {
-      "id": "entry-121",
-      "title": "Linux Installation & Virtual Lab Setup",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "September 7 at 2:35 PM",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1646665390369383",
-      "text": "Linux Installation & Virtual Lab Setup",
-      "links": [
-        "https://drive.google.com/file/d/1tMKC4u2W4LwNXZXlRX93wMH5M7TWBHYT/view?usp=sharing"
-      ],
-      "topic": "Linux & Scripting",
-      "category": "tools",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 120
-    },
-    {
-      "id": "entry-122",
-      "title": "ক্লাস রেকর্ড — 06/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-06",
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1646127127089876",
-      "text": "ক্লাস রেকর্ড\n০৬/০৯/২০২৬\n1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 121
+      "collectionIndex": 119,
+      "dateVerified": false
     },
     {
       "id": "entry-123",
@@ -2059,127 +2313,84 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": true,
-      "collectionIndex": 122
-    },
-    {
-      "id": "entry-124",
-      "title": "ক্লাস রেকর্ড — 11/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-11",
-      "observedDate": "September 12 at 7:15 AM",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1650729253296330",
-      "text": "ক্লাস রেকর্ড\n১১/০৯/২০২৬\n1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 123
+      "collectionIndex": 122,
+      "dateVerified": false
     },
     {
       "id": "entry-125",
       "title": "Linux CLI & Fundamental",
-      "author": "Sakib Ahmed Sadhin was live.",
+      "author": "Sakib Ahmed Sadhin",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1650292053340050",
       "text": "Linux CLI & Fundamental\n0:00 / 2:09:22",
       "links": [
-        "https://www.facebook.com/sahmsec/videos/2119205895669030/?idorvanity=1598186498550606"
+        "https://www.facebook.com/sahmsec/videos/2119205895669030/"
       ],
       "topic": "Linux & Scripting",
       "category": "classes",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 124
-    },
-    {
-      "id": "entry-126",
-      "title": "ক্লাস রেকর্ড — 13/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-13",
-      "observedDate": "September 13 at 9:39 PM",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1652121839823738",
-      "text": "ক্লাস রেকর্ড\n১৩/০৯/২০২৬\n1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 125
+      "collectionIndex": 124,
+      "dateVerified": false
     },
     {
       "id": "entry-127",
-      "title": "PDF",
+      "title": "What is Crypter Antivirus & Virus.pdf",
       "author": "Bijoy Chandra Mondal",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1652083599827562",
       "text": "PDF\nWhat is Crypter Antivirus & Virus.pdf",
       "links": [
-        "https://www.facebook.com/download/1070691385721202/What%20is%20Crypter%20Antivirus%20%26%20Virus.pdf?av=100053394131841&eav=AfnTeBl4J91m9i2MoYh5oyQrktw4hRyebyiFZHHK1_KXsnSzljeBeIwUqGKk&paipv=0&ext=1791750821&hash=Ac2fMG71HwtApTMi6KKls1AEVqA"
+        "https://www.facebook.com/download/1070691385721202/What%20is%20Crypter%20Antivirus%20%26%20Virus.pdf"
       ],
       "topic": "Malware Concepts",
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 126
+      "collectionIndex": 126,
+      "dateVerified": false
     },
     {
       "id": "entry-128",
       "title": "Local File Inclusion (LFI)",
-      "author": "Syed Sakib Alam Mubin Verified account was live.",
+      "author": "Syed Sakib Alam Mubin",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1656289636073625",
       "text": "Local File Inclusion (LFI)\n0:00 / 2:17:15",
       "links": [
-        "https://www.facebook.com/S4MC71/videos/944493894821037/?idorvanity=1598186498550606"
+        "https://www.facebook.com/S4MC71/videos/944493894821037/"
       ],
       "topic": "LFI / LFD",
       "category": "classes",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 127
+      "collectionIndex": 127,
+      "dateVerified": false
     },
     {
       "id": "entry-129",
       "title": "Linux Tools & Environment Setup, Burp in kali",
-      "author": "Sakib Ahmed Sadhin was live.",
+      "author": "Sakib Ahmed Sadhin",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1657993995903189",
       "text": "Linux Tools & Environment Setup, Burp in kali\n0:00 / 2:16:45",
       "links": [
-        "https://www.facebook.com/sahmsec/videos/1504289691484713/?idorvanity=1598186498550606"
+        "https://www.facebook.com/sahmsec/videos/1504289691484713/"
       ],
       "topic": "Linux & Scripting",
-      "category": "tools",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
-      "truncated": false,
-      "collectionIndex": 128
-    },
-    {
-      "id": "entry-130",
-      "title": "LFI/LFD Basics",
-      "author": "Roman Moonshi",
-      "date": null,
-      "observedDate": "September 19 at 8:06 AM",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1656477746054814",
-      "text": "LFI/LFD Basics\n0:00 / 16:36",
-      "links": [],
-      "topic": "LFI / LFD",
       "category": "classes",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 129
+      "collectionIndex": 128,
+      "dateVerified": false
     },
     {
       "id": "entry-131",
@@ -2190,64 +2401,32 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1656475676055021",
       "text": "Local File Inclusion Vulnerability(Lfi):\nনিয়ে কিছু বলার আগে ছোট করে বলে দেই - আগে আমরা ওয়েব সাইটের ভার্নাবেলিটি থেকে ওয়েবসাইটের তথ্য বের করেছি বা ওয়েবসাইট এক্সেস কিংবা হ্যাক করেছি। এই পার্টে আমরা দেখবো ওয়েবসাইটের ভার্নাভেলিটির মাধ্যমে ওয়েব সার্ভারের গুরুত্বপূর্ণ তথ্য বের করা। এবং তাতে এমন ও হতে পারে আমরা ওয়েব এপ্লিকেশন সিস্টেমের গোটা সার্ভার নিয়ন্ত্রণে নিয়ে নিতে পারি।\nPDF\nWeb Server.pdf",
       "links": [
-        "https://www.facebook.com/download/1056508810719747/Web%20Server.pdf?av=100053394131841&eav=AfniheBbXeywaHO1RwTsoC-7_5qjsLL-T9D2gxTQusQopSvr0LfT_b560BE5&paipv=0&ext=1791750778&hash=Ac3fDUKdK4POwGUa1H-eAtSGuio"
+        "https://www.facebook.com/download/1056508810719747/Web%20Server.pdf"
       ],
       "topic": "LFI / LFD",
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 130
-    },
-    {
-      "id": "entry-132",
-      "title": "ক্লাস রেকর্ড — 18/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-18",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n১৮/০৯/২০২৬\n1EqmHoZaM6FRFG66-eSE70LODAIp30FS0",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 131
+      "collectionIndex": 130,
+      "dateVerified": false
     },
     {
       "id": "entry-133",
-      "title": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।",
+      "title": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…",
       "author": "Roman Moonshi",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1658753369160585",
       "text": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।\nMeet-এ যোগদানের তথ্য:\nসময়:\nপ্রথম সেশন:\nসন্ধ্যা ৭:১৫ টা থেকে রাত ৯ টা পর্যন্ত\nmeet.google.com",
-      "links": [
-        "https://www.facebook.com/hashtag/happy_support_day"
-      ],
+      "links": [],
       "topic": null,
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
-      "collectionIndex": 132
-    },
-    {
-      "id": "entry-134",
-      "title": "ক্লাস রেকর্ড — 20/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-20",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n২০/০৯/২০২৬\n1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 133
+      "collectionIndex": 132,
+      "dateVerified": false
     },
     {
       "id": "entry-135",
@@ -2258,14 +2437,15 @@
       "source": "",
       "text": "Java & Go commands:\nPDF\njava&go commands.pdf",
       "links": [
-        "https://www.facebook.com/download/1142563261776299/java%26go%20commands.pdf?av=100053394131841&eav=Afl2VNm2Dm9R0ay5d-k0qq0-QFLYiZVHMDnirA9j3Wo7ULckwWxGpe_TOe4o&paipv=0&ext=1791745090&hash=Ac3hUOXn8QQiFMKu5E5BldCTh9k"
+        "https://www.facebook.com/download/1142563261776299/java%26go%20commands.pdf"
       ],
       "topic": "Linux & Scripting",
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 134
+      "collectionIndex": 134,
+      "dateVerified": false
     },
     {
       "id": "entry-136",
@@ -2283,11 +2463,12 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 135
+      "collectionIndex": 135,
+      "dateVerified": false
     },
     {
       "id": "entry-137",
-      "title": "youtube.com",
+      "title": "LFI to Rce Final",
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
@@ -2297,11 +2478,12 @@
         "https://youtu.be/5MQFCI1a9uQ"
       ],
       "topic": "LFI / LFD",
-      "category": "information",
+      "category": "classes",
       "youtubeId": "5MQFCI1a9uQ",
       "videoStatus": "existing-youtube",
       "truncated": false,
-      "collectionIndex": 136
+      "collectionIndex": 136,
+      "dateVerified": false
     },
     {
       "id": "entry-138",
@@ -2311,31 +2493,35 @@
       "observedDate": "",
       "source": "",
       "text": "https://youtu.be/fobeXDPJZdk\nyoutube.com\nLFI (not acceptable bypass)",
-      "links": [],
+      "links": [
+        "https://youtu.be/fobeXDPJZdk"
+      ],
       "topic": "LFI / LFD",
-      "category": "information",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "category": "classes",
+      "youtubeId": "fobeXDPJZdk",
+      "videoStatus": "existing-youtube",
       "truncated": false,
-      "collectionIndex": 137
+      "collectionIndex": 137,
+      "dateVerified": false
     },
     {
       "id": "entry-139",
       "title": "Advance LFI to RCE",
-      "author": "Md Ashif Islam was live.",
+      "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1662445735458015",
       "text": "Advance LFI to RCE\n0:00 / 0:00",
       "links": [
-        "https://www.facebook.com/XploitAsh.sh/videos/2585418491898562/?idorvanity=1598186498550606"
+        "https://www.facebook.com/XploitAsh.sh/videos/2585418491898562/"
       ],
       "topic": "LFI / LFD",
       "category": "classes",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 138
+      "collectionIndex": 138,
+      "dateVerified": false
     },
     {
       "id": "entry-140",
@@ -2353,7 +2539,8 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": true,
-      "collectionIndex": 139
+      "collectionIndex": 139,
+      "dateVerified": false
     },
     {
       "id": "entry-141",
@@ -2369,23 +2556,8 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
-      "collectionIndex": 140
-    },
-    {
-      "id": "entry-142",
-      "title": "ক্লাস রেকর্ড — 25/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-25",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n২৫/০৯/২০২৬\n1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 141
+      "collectionIndex": 140,
+      "dateVerified": false
     },
     {
       "id": "entry-143",
@@ -2396,7 +2568,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1669334581435797",
       "text": "Join Class\n…\n0:00 / 1:35:45\nwas live in\nArena Web Security, Batch-66(Delta)\n.\nAdmin\n·\nRecon Part 1",
       "links": [
-        "https://www.facebook.com/S4MC71/videos/976877741338543/?idorvanity=1598186498550606",
+        "https://www.facebook.com/S4MC71/videos/976877741338543/",
         "https://www.facebook.com/groups/awsb66delta/"
       ],
       "topic": "Recon",
@@ -2404,18 +2576,18 @@
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": true,
-      "collectionIndex": 142
+      "collectionIndex": 142,
+      "dateVerified": false
     },
     {
       "id": "entry-144",
-      "title": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।",
+      "title": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…",
       "author": "Roman Moonshi",
       "date": null,
       "observedDate": "5 days ago",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1665357758500146",
       "text": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।\nMeet-এ যোগদানের তথ্য:\nসময়:\nপ্রথম সেশন:\nসন্ধ্যা ৭:১৫ টা থেকে রাত ৯ টা পর্যন্ত\nদ্বিতীয় সেশন:\nরাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত\nলিঙ্ক:\nhttps://meet.google.com/fii-gaqn-vwb\nOr dial: (US) +1 678-632-3967 PIN: 222 850 200#\nকিভাবে সাহায্য পাবেন:\nআপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।\nধন্যবাদ।\nmeet.google.com",
       "links": [
-        "https://www.facebook.com/hashtag/happy_support_day",
         "https://meet.google.com/fii-gaqn-vwb"
       ],
       "topic": null,
@@ -2423,23 +2595,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 143
-    },
-    {
-      "id": "entry-145",
-      "title": "ক্লাস রেকর্ড — 27/09/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-09-27",
-      "observedDate": "",
-      "source": "https://www.facebook.com/groups/awsb66delta/posts/1664560601913195",
-      "text": "ক্লাস রেকর্ড\n২৭/০৯/২০২৬\n1WT64w91wmge9FczUis8I-ZRVXgR2cT3c",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 144
+      "collectionIndex": 143,
+      "dateVerified": false
     },
     {
       "id": "entry-146",
@@ -2455,23 +2612,8 @@
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
-      "collectionIndex": 145
-    },
-    {
-      "id": "entry-147",
-      "title": "ক্লাস রেকর্ড — 02/10/2026",
-      "author": "Roman Moonshi",
-      "date": "2026-10-02",
-      "observedDate": "",
-      "source": "",
-      "text": "ক্লাস রেকর্ড\n০২/১০/২০২৬\n1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj",
-      "links": [],
-      "topic": null,
-      "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
-      "truncated": false,
-      "collectionIndex": 146
+      "collectionIndex": 145,
+      "dateVerified": false
     }
   ]
 }
