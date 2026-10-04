@@ -1,0 +1,29 @@
+'use strict';
+const labels={all:'সব রিসোর্স',recordings:'ক্লাস রেকর্ডিং',classes:'লাইভ ক্লাস ও ভিডিও',documents:'নোট ও ডকুমেন্ট',tools:'টুলস ও সেটআপ',information:'তথ্য ও নির্দেশনা',notices:'নোটিশ'};
+let entries=[],category='all';
+const $=id=>document.getElementById(id);
+const bn=n=>new Intl.NumberFormat('bn-BD').format(n);
+const date=d=>d?new Intl.DateTimeFormat('bn-BD',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(d+'T00:00:00Z')):'তারিখ যাচাই বাকি';
+function node(tag,text,cls){const e=document.createElement(tag);if(text!=null)e.textContent=text;if(cls)e.className=cls;return e;}
+function link(url,label,cls){const a=node('a',label,cls);try{const u=new URL(url);if(!['https:','http:'].includes(u.protocol))return node('span','লিংক যাচাই বাকি');a.href=u.href;}catch{return node('span','লিংক যাচাই বাকি');}a.target='_blank';a.rel='noopener noreferrer';return a;}
+function status(e){return e.youtubeId?'YouTube ভিডিও উপলব্ধ':e.videoStatus==='upload-pending'?'YouTube আপলোড বাকি':e.truncated?'পূর্ণ পোস্ট যাচাই বাকি':'রিসোর্স';}
+function render(){
+ const query=$('search').value.toLocaleLowerCase().trim();let filtered=entries.filter(e=>(category==='all'||e.category===category)&&(!query||[e.title,e.text,e.author,e.topic,e.date].join(' ').toLocaleLowerCase().includes(query)));
+ const descending=$('sort').value==='desc';filtered.sort((a,b)=>{if(!a.date&&!b.date)return a.collectionIndex-b.collectionIndex;if(!a.date)return 1;if(!b.date)return -1;return a.date.localeCompare(b.date)*(descending?-1:1)||a.collectionIndex-b.collectionIndex;});
+ $('heading').textContent=labels[category];$('count').textContent=bn(filtered.length)+'টি রিসোর্স';$('list').replaceChildren();
+ for(const e of filtered){const card=node('article',null,'card');const meta=node('div',null,'meta');meta.append(node('span',labels[e.category],'badge'),node('span',date(e.date)));if(e.topic)meta.append(node('span',e.topic));card.append(meta,node('h3',e.title),node('p',e.author));const bottom=node('div',null,'card-bottom');bottom.append(node('span',status(e),e.youtubeId?'ready':e.videoStatus==='upload-pending'?'pending':''));const b=node('button','বিস্তারিত দেখুন ↗');b.onclick=()=>openEntry(e.id);bottom.append(b);card.append(bottom);$('list').append(card);}
+ if(!filtered.length)$('list').append(node('p','এই অনুসন্ধানে কোনো রিসোর্স পাওয়া যায়নি।','empty'));
+ document.querySelectorAll('#categories button').forEach(b=>{b.classList.toggle('active',b.dataset.category===category);b.setAttribute('aria-pressed',String(b.dataset.category===category));});
+}
+function openEntry(id){const e=entries.find(x=>x.id===id);if(!e)return;const body=$('detail-body');body.replaceChildren();body.append(node('p',labels[e.category]+' · '+date(e.date),'eyebrow'),node('h2',e.title),node('p',e.author));
+ if(e.youtubeId&&/^[\w-]{11}$/.test(e.youtubeId)){const frame=node('iframe',null,'player');frame.src='https://www.youtube-nocookie.com/embed/'+e.youtubeId;frame.title=e.title;frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';frame.allowFullscreen=true;body.append(frame);}else if(e.videoStatus==='upload-pending'){body.append(node('p','এই ভিডিও এখনো YouTube-এ স্থানান্তর হয়নি। আপলোডের পরে এখানেই প্লে হবে।','pending'));}
+ if(e.truncated)body.append(node('p','Facebook-এ পোস্টের অংশবিশেষ পাওয়া গেছে; পূর্ণ লেখা যাচাই বাকি।','pending'));
+ body.append(node('div',e.text,'body-text'));const resources=node('div',null,'resources');
+ for(const url of e.links){let label;try{label=new URL(url).hostname+' — '+(decodeURIComponent(new URL(url).pathname.split('/').filter(Boolean).slice(-1)[0]||'রিসোর্স'));}catch{label='রিসোর্স লিংক';}resources.append(link(url,label+' ↗','resource'));}if(e.source)resources.append(link(e.source,'মূল Facebook পোস্ট ↗','resource'));body.append(resources);
+ const sameDate=e.date?entries.filter(x=>x.id!==e.id&&x.date===e.date):[];const sameTopic=e.topic?entries.filter(x=>x.id!==e.id&&x.topic===e.topic&&!sameDate.includes(x)):[];
+ function related(title,items){if(!items.length)return;const section=node('section',null,'related');section.append(node('h3',title));for(const x of items){const b=node('button',labels[x.category]+' · '+x.title+' — '+date(x.date));b.onclick=()=>openEntry(x.id);section.append(b);}body.append(section);}
+ related('একই তারিখের পোস্ট ও রিসোর্স',sameDate);related('একই বিষয়ের রিসোর্স — ক্লাসের তারিখের সম্পর্ক যাচাই সাপেক্ষ',sameTopic);
+ if(!$('details').open)$('details').showModal();$('details').scrollTop=0;history.replaceState(null,'','#'+id);
+}
+$('search').addEventListener('input',render);$('sort').addEventListener('change',render);document.querySelector('.close').onclick=()=>$('details').close();$('details').addEventListener('close',()=>{$('detail-body').replaceChildren();history.replaceState(null,'',location.pathname+location.search);});
+fetch('data.json').then(r=>{if(!r.ok)throw new Error('load');return r.json();}).then(data=>{entries=data.entries;for(const [key,label] of Object.entries(labels)){const b=node('button');b.dataset.category=key;b.append(node('span',label),node('small',bn(key==='all'?entries.length:entries.filter(e=>e.category===key).length)));b.onclick=()=>{category=key;render();};$('categories').append(b);}for(const [value,label] of [[entries.length,'সংগ্রহ করা রিসোর্স'],[entries.filter(e=>e.category==='recordings').length,'ক্লাস রেকর্ডের পোস্ট'],[entries.filter(e=>e.youtubeId).length,'বিদ্যমান YouTube ভিডিও']]){const s=node('div',null,'stat');s.append(node('strong',bn(value)),node('small',label));$('stats').append(s);}render();if(location.hash)openEntry(location.hash.slice(1));}).catch(()=>{$('list').replaceChildren(node('p','তথ্য লোড হয়নি। পেজটি আবার খুলুন।','empty'));});
