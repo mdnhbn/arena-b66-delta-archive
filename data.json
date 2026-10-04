@@ -24,20 +24,24 @@
     },
     {
       "id": "entry-16",
-      "title": "আসসালামু আলাইকুম",
+      "title": "হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা",
       "author": "Roman Moonshi",
       "date": "2026-07-17",
       "observedDate": "July 17",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1601798241522765",
       "text": "আসসালামু আলাইকুম\nএরিনা ওয়েব সিকিউরিটি ৬৬ তম ডেল্টা ব্যাচের সকলকে জানাই স্বাগতম। আগামী রবিবার রাত ৯ টা ৩০ মিনিটে আপনাদের ওরিয়েন্টেশন ক্লাস আনুষ্ঠানিকভাবে অনুষ্ঠিত হবে। তাই সবাইকে যথাসময়ে ফেসবুক গ্রুপে ফলোআপ রাখার জন্য বলা হচ্ছে। এর পাশাপাশি\nআসুন দেখে নেই কিভাবে আমরা আমাদের হোমওয়ার্ক প্যানেল ব্যবহার করতে পারি।\nhttps://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view?usp=sharing\n0:00 / 14:38",
-      "links": [],
-      "topic": null,
+      "links": [
+        "https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view"
+      ],
+      "topic": "Orientation",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "upload-blocked",
       "truncated": false,
       "collectionIndex": 15,
-      "dateVerified": true
+      "dateVerified": true,
+      "downloadStatus": "complete",
+      "uploadBlocker": "Browser file access; YouTube reported File unreadable"
     },
     {
       "id": "entry-14",
@@ -67,14 +71,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n১৯/০৭/২০২৬\ndrive.google.com\nOrientation class.mp4",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/14EMX0Zu6BxqhlA8RAyqb3S7RChiKVB5z/view"
+      ],
       "topic": "Orientation",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 19,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Opened original Facebook Drive card",
+      "recordingSerial": 1
     },
     {
       "id": "entry-13",
@@ -102,7 +110,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1604210557948200",
       "text": "আসুন, জেনে নেই -১\nভালনেরাবিলিটি (Vulnerability) কি?\nভালনেরাবিলিটি হচ্ছে কোনো সিস্টেমের দূর্বলতা বা ভুল বা নিরাপত্তার ছিদ্রসমূহ। অর্থাৎ সিস্টেমটি কোনোভাবে বা কোনো কৌশলে আক্রমণযোগ্য।\nকোন সাইট এর ভালনেরাবিলিটি থাকা মানে হচ্ছে সাইটটি হ্যাক হওয়ার সুযোগ রয়েছে অথবা সাইটটির সিকিউরিটির কোন একটি দিকে দুর্বলতা রয়েছে। তবে কোন সাইটের ভালনেরাবিলিটি থাকার এই মানে নয় যে এটিকে হ্যাক করা যাবেই। তবে সুযোগ থাকার সম্ভাবনা রয়েছে।\nভালনেরাবিলিটি(Vulnerability) সাইট কিভাবে খুঁজবো?\nভালনেরাবিলিটি(Vulnerability) বা ত্রুটিযুক্ত সাইট খুঁজে বের করার উপায় হচ্ছে গুগল ডর্ক। যে যত ইউনিক এবং স্পেসিফিক ডর্ক বানাতে পারবে সে তত বেশী সাইট পাবে। যে যত বেশী সাইট পাবেন তত বেশী সাইট হ্যাক করার পসিবিলিটি হবে।\nগুগল ডর্ক(Google Dork) :\nগুগল হলো একটি সার্চ ইঞ্জিন। কোন কিছু খুঁজে পেতে আমরা গুগলের সাহায্য নেই এবং আমাদের প্রয়োজনীয় তথ্য খুঁজে বের করি।\nমনে করুন Ayub Bachchu এর ”হাসতে দেখো” গান দেখতে চাই বা শুনতে চাই তাহলে কি করতে পারি?\nগুগলে গিয়ে Ayub Bachchu লিখে সার্চ দিলে Ayub Bachchu রিলেটেড অনেক গান, তথ্য আসবে, সেখান থেকে খুঁজে বের করতে হবে হাসতে দেখো” গানটি, অনেক সময় লেগে যাবে, তাইনা?\nএবার যদি”হাসতে দেখো”Ayub Bachchu লিখে সার্চ দেই তাহলে কি হবে? খুব সহজেই পেয়ে যাব, তাইনা!\nগুগল ডর্ক হল এক ধরনের এডভান্সড সার্চ করার পদ্ধতি যা দিয়ে আপনি স্পেসিফিক তথ্যগুলো আলাদা করে নিয়ে আসতে পারবেন।\nএই এডভান্স ও স্পেসিফিক বা স্মার্ট সার্চের জন্য কিছু অপারেটর ব্যবহার করতে হয়।\nগুগল ডর্ক এর কমন কিছু অপারেটরঃ\ninurl: এই শব্দ দিয়ে শুরু করে আপনি যাই লিখবেন, তা কোন সাইটের এড্রেসে খুঁজে পেলে গুগল আপনাকে সার্চ রেজাল্ট হিসাবে দেখাবে।(url মানে হলো ওয়েভ এড্রেস, যেমনঃ https://www.facebook.com/ArenaBangladesh)\nউদাহরনঃ inurl:\"login.php\" এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের ওয়েভ এড্রেসেlogin.php আছে, যেমন-\nএই ধরনের সাইটগুলো দেখাবে।https://olportal.ontariolearn.com/login.php\nintitle: এ কিছু ডাটা দিলে, সেসব সাইটের টাইটেলে ঐ শব্দ পাবে গুগল আপনাকে সেই সাইটগুলোই দেখাবে।\nউদাহরনঃintitle: “login page” এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের টাইটেলেlogin page আছে,\nযেমন- http://testphp.vulnweb.com/login.php\nintext: এর পর যে টেক্সট লিখে সার্চ দিলে, যে সব সাইটে ঐ টেক্সট পাবে গুগল সেই সব সাইট খুঁজে বের করে দিবে।\nউদাহরনঃ intext:\"Design & Developed By Seawind Solution Pvt.Ltd.\"এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটেDesign & Developed By Seawind Solution Pvt.Ltd. এই টেক্সট আছে,\nযেমন- https://www.aaa.co.in/page/services\nsite: কোন ডোমেইন স্পেসিফাই করে দিতে বা নির্দিষ্ট কোন সাইট ব্যবহার করা হয়।\nউদাহরনঃ site:octa.net এর মানে হলো- octa.net সাইট এর মধ্যকার ডাটা সার্চ করা, এটা ডোমেইন ও হতে পারে যেমনঃ.com বা.net ইত্যাদি।\nআবার কোন ডর্কে একাধিক অপারেটরও ব্যবহার করা হতে পারে।\nযেমনঃ\nintitle:\"index\" of \"admin\" site:.in\nযে সকল পেইজের টাইটেলেindex\" of \"admin আছে এবং সাইটগুলো ইন্ডিয়ার শুধু সেসকল সাইট খুঁজে বের করার জন্য ডর্ক।\ninurl:\"login.php\" site:.in\nintitle: “login page” site:.in\n>> গুগল ডর্ক কোন হ্যাকিং নয়।\nতবে গুগল ডর্ক হলো হ্যাকিংয়ের প্রাথমিক ধাপ (হ্যাক করার জন্য সাইট বা লিংক খুঁজে বের করা)।\nধন্যবাদ।",
       "links": [],
-      "topic": "Google Dork",
+      "topic": "Vulnerability Basics",
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
@@ -142,7 +150,7 @@
         "https://www.facebook.com/groups/awsb66delta/"
       ],
       "topic": "SQL Injection",
-      "category": "tools",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -176,14 +184,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n২৪/০৭/২০২৬\ndrive.google.com\nClass record.mp4",
-      "links": [],
-      "topic": null,
+      "links": [
+        "https://drive.google.com/file/d/1dqvQLxWdK2CCLikaGO-OMykc6lpuZZmH/view"
+      ],
+      "topic": "SQL Injection",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 39,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Opened original Facebook Drive card",
+      "recordingSerial": 2
     },
     {
       "id": "entry-11",
@@ -214,7 +226,7 @@
         "https://www.facebook.com/ArenaBangladesh/reviews"
       ],
       "topic": null,
-      "category": "documents",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -229,14 +241,18 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1609919597377296",
       "text": "ক্লাস রেকর্ড\n২৬/০৭/২০২৬\n1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 45,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 3
     },
     {
       "id": "entry-9",
@@ -355,14 +371,18 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1614267503609172",
       "text": "ক্লাস রেকর্ড\n৩১/০৭/২০২৬\n1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 57,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 4
     },
     {
       "id": "entry-4",
@@ -374,7 +394,7 @@
       "text": "INFORMATIONAL POST - 02\nNO REDIRECT এর সামারী।\nএই বিষয়ে আগে একটি পোষ্ট করেছিলাম, পড়ে থাকলে আবার পড়ে নিন, তারপর এটা পড়ুন এবং একটু পরে একটি পুরনো ভিডিও শেয়ার করে দিব, সো আসুন জেনে নেই-৫ এবং এই পোষ্ট সাথে পরবর্তি ভিডিও দেখে নেমে পড়ুন যুদ্ধে .....\nNo Redirect এড-অন্স টি কাজ করার জন্য শর্ত ২টি -\nক) ঐ সাইট এ No Redirect এড-অন্স দিয়ে ট্রাই করা যাবে যে সকল সাইটের URL এ\n‍\nsite name(website name. net or .com or org or com.in or....) এর পর /admin বা /administrator থাকবে এমন কোন লিংক।\nএবং\nখ) সেই লিংকে ক্লিক করলে অন্য কোন লিংকে যদি সাইট রি-ডাইরেক্ট করে যায় (মানে আমি দিলাম www.ahaque .com/admin/menu.php কিন্তু URL এ লিংক চলে অসলো www.ahaque .com/login.php)\nতাহলেই বুঝতে হবে এই সাইটে নো-রিডাইরেক্ট বাগ আছে এবং শুধুমাত্র এই রকম সাইটেই আমরা ট্রাই করতে পারি।\nএই সকল সাইট পাবো কেমন করে?\nপ্রথম দিনে মনে আছে আমরা কিছু ডর্ক দিয়ে এডমিন প্যানেল সাইট খুঁজে ছিলাম, সেই টাইপ ডর্ক দিয়ে খুঁজতে হবে, যাতে শর্ত নাম্বার ”ক” ফুলফিল করে(মানে সাইটে /admin বা /administrator থাকে।\nএর বাইরেও আরো কিছু ডর্কঃ\n1: intitle:\"index\" of \"admin\" site:\n2: intitle:\"index\" of \"admin\" \"framework\" site:.in\n3: intitle:\"index\" of \"admin\" \"pdf\" site:\n4: intitle:\"index\" of \"admin\" \"gallery\" site:\n5: intitle:\"index\" of \"admin\" \"image\" site:\n6: intitle:\"index\" of \"admin\" \"upload\" site:\n7: intitle:\"index\" of \"admin\" \"banner\" site:\n8: intitle:\"index\" of \"admin\" \"file\" site:\n9: intitle:\"index\" of \"admin\" \"page\" site:\n10: intitle:\"index\" of \"admin\" \"news\" site:\n11: intitle:\"index\" of \"admin\" \"views\" site:\n12: intitle:\"index\" of \"admin\" \"include\" site:\n13: intitle:\"index\" of \"admin\" \"picture\" site:\n14: intitle:\"index\" of \"admin\" \"photos\" site:\n15. inurl: admin/login.php site:.in\nনিজে নিজে ডর্কগুলো মডিফাই করে নিন, কিছু নতুন বানিয়ে নিন ...\nকিছু কিছু সাইটে সাদা স্ক্রিন আসে??\nতার মানে ঐ লিংকএর বাগ সাইট এডমিন ফিক্স করে দিয়েছে, অন্য লিংক এ ট্রাই করতে হবে।\nযে সাইটে হবে না!\nঅবশ্যই ওয়ার্ড -প্রেস সাইটে হবে না।\nনো-রিডাইরেক্ট এর জন্য আমরা কিভাবে জানবো সাইটে কোন ফাইল এক্সেসেবল কিনা?\nসেজন্য হ্যাকবারে Cyber 71 Privet Exploits এর একটি লিংক দেয়া আছে সেটা ব্যবহার করতে পারেন।\nসেটাতে যে সকল লিংক গ্রীন কালারে ৩০০, ৩০১, ৩০২ দেখাবে সেই লিংকটাতে ট্রাই করবো।\nএবার নিচের ৪টি ছবি দেখুন।\n১) হোয়াইট স্ক্রিণ, মানে ঐ লিংকের নো-রিডাইরেক্ট বাগ ফিক্স হয়ে গেছে।\n‍\n২) হ্যাকবার থেকে Cyber 71 Privet Exploits এর লিংক\n৩) একটি সাইট ওয়েব সার্ভারে কেমন থাকে সেটার চিত্র।\n৪) এডমিনের কাজ করার জন্য কিছু ফাইল( যেমন addDate.php, addFestival.php,addLedger.php, adminHome.php,editInvoice.php, ইত্যাদি) যা আমরা ওয়েব পেইজে দেখতে পাইনা।\nআশাকরি আর বিস্তারিত কিছু লেখার প্রয়োজন হবে না।",
       "links": [],
       "topic": "Session & Redirect",
-      "category": "documents",
+      "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -424,8 +444,8 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1614258413610081",
       "text": "INFORMATIONAL POST-03\nঅনেকেই HTTP & HTTPS নিয়ে ঝামেলায় পড়েছেন, একটু সহজ করে দেই বিষয়টা।।\nHTTP & HTTPS\nকোন ওয়েভসাইট যেমন ধরুন আপনি ইত্তেফাক নিউজ পেপারটি পড়তে চান, তাহলে কি করবেন??\nব্রাইজারে যাবেন তারপর সেখানে ইত্তেফাক নিউজ পেপারের ওয়েবের এড্রেসটি (ittefaq.com.bd )\nবা তার আইপি এড্রেসটি দিয়ে এন্টার করলে ইত্তেফাক নিউজপেপারটি পড়তে পারবেন।\nতো এই ওয়েব এড্রেসটি দিতে শুরু করতে হয় http দিয়ে। যেমনঃ http://ittefaq.com.bd/\nhttp://www.ittefaq.com.bd/\nআর তারপর সাইটের কন্টেন্ট গুলো চলে আসে, আমাদের পিসি বা মোবেইলের ব্রাউজার হলো ক্লাইন্ট, আর ইত্তেফাক\n‍\nনিউজপেপারটি কোন এক সার্ভারে রাখা আছে, সেই সার্ভারে কানেক্ট করে সেই পেইজ বা ফাইল কে রিকোয়েষ্ট করে এবং সেই সার্ভার আপনার ব্রাউজার কে রেসপন্স করে কনটেন্ট গুলো দেখায়। বিষয়টি হলো এমন- আপনি কারো বাসায় একটি পার্সেল পাঠাতে চান, তাহলে কি লাগবে? সেই বাড়ির নাম, সেই বাড়ির নাম্বার, এলাকার নাম, বর্তমান লোকেশন। http হল ওয়েব পেইজের ঠিকানা, রোড নম্বরের মত। পূর্ণ নাম- হাইপার টেক্সট ট্রান্সফার প্রটোকল Hypertext Transfer Protocol (HTTP)। মূলতঃ http একটি অনুরোধ প্রোটোকল যা ক্লায়েন্ট এবং সার্ভারের মধ্যে যোগাযোগের মাধ্যম গঠন করে। আমরা আমাদের পিসি বা মোবাইল থেকে কোন ব্রাউজারে লিখি www.ittefaq.com.bd\nClient এর যে File বা লিংক এর দরকার পরে তার রিকোয়েস্ট Server কে পাঠায় এবং সার্ভার সেই ফাইল টি খুঁজে ক্লায়েন্টকে সেন্ড করে ।\nসো একটি বিষয় ক্লিয়ার সেটা হলো হলো http একটি প্রটোকল।\nদিনে দিনে এই রিকোয়েষ্ট টেকনোলজি, প্রটোকল সবকিছুই অনেক আপডেট হয়েছে। এখন আর এত কিছু লেখার প্রয়োজন হয় না। ব্রাউজারে গিয়ে শুধুমাত্র ওয়েব এড্রেসটি লিখলেই ব্রাউজার সার্ভারের সাথে কানেক্ট হওয়ার প্রটোকল খুঁজে নেয়। তাই ittefaq.com.bd লিখলেই সে বুঝে নেয় এটা হলো http://www.ittefaq.com.bd/\nHTTPS\n:\nHTTPS = HTTP + SSL\nHTTPS এর পুর্ণরুপ হচ্ছে HyperText Transfer Protocol Secure, মানে হলো HTTP এর সাথে SSL certificates যুক্ত হয়ে ডাটাগুলো এনক্রিপটেড ( Encrypted ) হয়ে পারাপার হয়, ফলে ডাটাগুলো নিরাপদ থাকে ।\nওয়েভ সাইটের সেনসেটিভ ডাটা যেন লীক না হয় সেজন্য ওয়েভ সাইটগুলো সিকিউরিটির জন্য SSL (Secure Sockets Layer) certificates ব্যবহার করে ওয়েভ সার্ভার ও ইউজারের ব্রাউজারের মধ্যে একটি সিকিউর কানেকশন তৈরী করে যাতে এইচ টি টি পি ট্রান্সমিশন এর সময় ডাটা নিরাপদ থাকে।\nআর তাই আজকাল অনেক ওয়েব সাইট ই https প্রটোকল ব্যবহার করে থাকে, বিশেষ করে যে সমস্ত ওয়েব সাইট – এ পেমেন্ট সিস্টেম আছে কিংবা বিভিন্ন ব্যাংক গুলো বা গুরুত্বপূর্ন ওয়েভ সাইটগুলো যাদের ডাটা মিস উইস হলে সমস্যা হতে পারে সেসব সাইট ।\nhttps প্রটোকল ব্যবহার করা সাইটগুলোর বামে একটি তালার ছবি থাকে, মানে সিকিউর।\nhttps এ আপনার আর সার্ভারে কানেকশন স্টাবলিশ হওয়ার সাথে সাথে SSL সার্টিফিকেট এক্সচেঞ্জ হয়, এই সার্টিফিকেটে আপনার এবং সার্ভারের \"পাবলিক কি\" দেয়া থাকে। আপনি যা পাঠাবেন তা সার্ভারের পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে যাবে, সার্ভার যা ফেরত পাঠাবে তা আপনার পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে আসবে।\nআরো একটু সহজ করে বলি-\nhttp প্রটোকলের মাধ্যমে আপনি আপনার মোবাইল/ পিসির ব্রাউজার থেকে (মানে ক্লাইন্ট ইন্ড এটা) কোন একটি সার্ভারে একটি টেক্সট পাঠালেন যেমন ধরুনঃ ”বন্ধু কেমন আছিস- বল??” এখন আপনার পিসি থেকে ঔ সার্ভার এ যাওয়ার পথে যে কেউ ঐ ডাটা ধরতে পারলে সেও পড়তে পারবে আপনি কি ডাটা পাঠিয়েছেন,, এটাতো ভালো.. এখন যদি ডাটা টা GF বা BF এর কাছে পাঠানো কোন টেক্সট হয়, সেকি এতো ভালো কথা লিখবে??\nআচ্ছা যদি https প্রটোকলের মাধ্যমে হতো, তাহলে কি হতো??\nতাহলে ক্লাইন্ট থেকে সার্ভারে যে ডাটা যেত সেটা ইনক্রাপ্টেড হয়ে যেত, পথিমধ্যে কেউ পেলেও লাভ নাই, কি সব হিজিবিজি হিজিবিজি হিজিবিজি হিজিবিজি\nবাই দ্য ওয়ে- কোন প্রটোকলেই কেউ প্রেমপত্র পাঠায় না, জাষ্ট আপনাদের বোঝানোর জন্য বল্লাম।।",
       "links": [],
-      "topic": null,
-      "category": "notices",
+      "topic": "HTTP & HTTPS",
+      "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -440,14 +460,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n০২/০৮/২০২৬\n1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 63,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 5
     },
     {
       "id": "entry-73",
@@ -477,14 +501,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n০৯/০৮/২০২৬\n1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 79,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 6
     },
     {
       "id": "entry-79",
@@ -495,7 +523,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1622087516160504",
       "text": "আসুন জেনে নেই-০৫\nক্রস-সাইট স্ক্রিপ্টিং(XSS)\nএতো দিন ধরে ওয়েব সাইটে শুধু ইঞ্জেকশন ই তো দিলাম, তো দিলাম কিসের উপর ভিত্তি করে?\nযে সব ওয়েব সাইটে এস কিউ এল ইরর ছিল সে সকল সাইটে। তাহলে তো আমরা একটি বিষয় ক্লিয়ার হলাম, সেটা হলো ওয়েব সাইটে যদি কোন ভাবে কিছু ইনজেক্ট করা যায় তাহলে সেসকল সাইট হতে কোন না কোন তথ্য বের করা যাবে বা সেই সাইটের কনটেন্ট কিছু পরিবর্তন করা সম্ভব হবে। তাই না?\nএখন ওয়েবসাইট কারা তৈরী করে? অবশ্যই ডেভেলাপার রা। তারা ওয়েবসাইট তৈরী করতে গিয়ে অনকে সময়ই কোন না কোন ত্রু…\n+3",
       "links": [],
-      "topic": "SQL Injection",
+      "topic": "XSS",
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
@@ -513,7 +541,7 @@
       "text": "Messenger Group Notice!!\nআপনাদের অফিশিয়ালি মেসেঞ্জার গ্রুপ খোলা হয়েছে। ইতিমধ্যে সবাইকে মেসেঞ্জার গ্রুপটিতে যুক্ত করা হয়েছে। আপনারা আপনাদের মেসেজ রিকোয়েস্ট কিংবা স্প্যাম ফোল্ডার চেক করলেই ব্যাচ এর নাম দেখতে পাবেন। অবশিষ্ট কিছু শিক্ষার্থী যারা এখনো অব্দি অ্যাড হতে পারেননি তাদের জন্য পরবর্তী ইন্সট্রাকশন গ্রুপে পোস্ট করা হবে।\nমেসেঞ্জার গ্রুপ ব্যবহারের নির্দেশনা:\nএই মেসেঞ্জার গ্রুপটি মূলত শিক্ষার্থীদের পারস্পরিক যোগাযোগের জন্য।\nআপনারা এখানে একে অপরের সঙ্গে আলোচনা করে ক্লাস বা কোর্স-সংক্রান্ত সাধারণ সমস্যাগুলো সমাধান করবেন।\nএকাডেমিক অফিসিয়াল সাপোর্ট ও নোটিশ সংক্রান্ত বিষয়গুলো ফেসবুক গ্রুপেই প্রদান করা হবে, মেসেঞ্জারে নয়।\nআপনাদের সহযোগিতার জন্য ধন্যবাদ।",
       "links": [],
       "topic": null,
-      "category": "documents",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -547,14 +575,18 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1626381205731135",
       "text": "ক্লাস রেকর্ড\n১৪/০৮/২০২৬\n10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 87,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 7
     },
     {
       "id": "entry-87",
@@ -581,14 +613,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n১৬/০৮/২০২৬\n10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 89,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 8
     },
     {
       "id": "entry-99",
@@ -598,14 +634,18 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1632498915119364",
       "text": "ক্লাস রেকর্ড\n২১/০৮/২০২৬\n1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 98,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 9
     },
     {
       "id": "entry-105",
@@ -616,7 +656,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1632441241791798",
       "text": "আসুন জেনে নেই-০৭\nShell\nওয়েব শেল কি?\nশেল হলো রিমোট ফাইল ম্যানেজার স্ক্রীপ্ট, এই শেল বা স্ক্রিপ্টের সাহায্যে আপনার পিসি থেকে ওয়েভ সার্ভার এর ফাইল ম্যানেজ করতে পারবেন।\nফাইল ম্যানেজার দিয়ে আপনি কি কি করতে পারেন ?\nফাইল তৈরী করা, কপি করা, এডিট করা, ডিলিট করা বা ফাইল এট্রিবিউট(ফাইলের পারমিশন) পরিবর্তন করার মত অনেক কাজই করা যায়, তেমনি শেল বা স্ক্রিপ্টটি কোন ওয়েব সার্ভারে আপলোড করতে পারলে তার সাহায্যে আপনার পিসিতে বসেই রিমোটলী ঐ ওয়েব সার্ভারের ফাইল পরিবর্তন, পরিমার্জন, আপলোড সবই করতে পারবেন।\nশেল স্ক্রিপ্ট কি দিয়ে লেখা হয় বা শেল কি ধরনের ফাইল?\nশেল বিভিন্ন ল্যাংগুয়েজ দিয়ে তৈরী হলেও মেইনলি PHP, ASP/ASPX এই দুই টাইপের শেল বেশী ব্যবহৃত হয়। PHP শেল লিন্যাক্স সার্ভারে এবং ক্ষেত্রবিশেষে উইন্ডোজ সার্ভারেও ব্যবহৃত হয় এবং ASP এবং ASPX শুধূমাত্র উইন্ডোজ সার্ভারে ব্যবহার করা হয় ।\nশেল কত প্রকার ও\n‍\nকি কি?\nশেল মূলত দুই প্রকারের\nক) পাবলিক শেল/ রেডিমেইড শেল :\nএই প্রকার শেলের সোর্স কোর্ড সবার জন্য উন্মুক্ত থাকে এবং যে কেউ ব্যবহার করতে পারে। Google, github.com, pastebin.com ইত্যাদি ছাড়াও বিভিন্ন সাইটে সার্চ করলেই পেয়ে যাবেন।\nখ) প্রাইভেট শেল / পারসোনাল শেল :\nহ্যাকারসরা নিজেদের চাহিদা অনুযায়ী তৈরী করে নেয়। সাধারনত এই টাইপের শেল গুলো ব্যক্তিগত ভাবে ব্যবহার করে বিধায় সোর্সকোড বাইরে দিতে চায় না।\nশেলের মাধ্যমে কি কি করা যায় বা কি ফাংশন রয়েছে??\n# সাধারনত হ্যাকাররা প্রথমে আপলোডার(খুবই ছোট শেল-শুধু আপলোড অপশন বা তার সাথে ফাইল/ফোল্ডার ) শেল ব্যবহার করে, এর পর এই শেল থেকে ফুল ফাংশনাল (যে যেই টাইপের কাজ করতে ইচ্ছুক সেই টাইপের) শেল আপলোড করার জন্য ব্যাবহার করে।\n# সাইটের ডাটাবেস এক্সেস নেয়ার জন্য\n# সাইটের সোর্স কোড দেখার জন্য বা পরিবর্তন –পরিমার্জন করার জন্য।\n# সাইটের সার্ভার থেকে ফুল সার্ভারে এক্সেস নেয়ার জন্য।\n# সার্ভারে থাকা অন্যান্ন সাইট এক্সস নেয়ার জন্য।\n# সাইট ডিফেস করার জন্য।\nকমন কিছু শেল এর পরিচিতিঃ\nআপলোডার শেলঃ\nকিছু শেল\n‍\nস্ক্রীপ্ট আছে যা দিয়ে শুধু মাত্র ফাইল আপলোড করা যায় এর বাইরে আর কোন ফাংশন নেই, এই টাইপের শেল গুলোই আপলোডার শেল। এর ফাইল সাইজ ও স্বাভাবিক ভাবেই খুব ছোট হয়।\nযে কোন সাইটে প্রথমে আপলোডার শেল দিয়ে ট্রাই করা ভালো। কারন অনেকক্ষেত্রে সাইটের ফাইল আপলোডের জন্য ফাইল সাইজ লিমিটেশন দেয়া থাকে আবার অনেক সাইটে কিছু\n‍\nকিছু ফাংশন(যেমন সার্ভার ইনফরমেশন দেখার বা ফাইল ডিরেক্টরী দেখার কমান্ডগুলো, ইত্যাদি) রেষ্ট্রিকশন দেয়া থাকে।\nপূর্বেই আপনাদের গ্রুপে সিম্পল আপলোডার শেল সহ বেশ কিছু অ্যাডভান্স শেল দেওয়া হয়েছে: https://www.facebook.com/share/p/Aed411AX1r1rV8rw/\nতবে অনেক হ্যাকার কিছু মডিফাইড আপলোডার শেল ব্যবহার করে থাকেন, যেমন ফুয়াদ ভাই (.... .. -.. -.. . -. / -- . -- -... . .-.) আপলোডার শেল হিসাবে tcup.php নামক একটি শেল ব্যবহার করে।\nমিনি শেলঃ\nআপলোড আপশন সহ ফাইল ম্যানেজার টাইপের যে সকল\n‍\nস্ক্রিপ্ট আছে বা তৈরী করা হয় সেগুলো সাধারনত মিনি শেল হিসাবে পরিচিত, এই টাইপের শেলে এডভান্স যেমন মাস\n‍\nডিফেইস, ব্যাক ডোর কানেক্ট, সীমলিংক, ডাটাবেইস এডিট বা ডাম্পার ইত্যাদি ফাংশনগুলো থাকে না ।\nযেমনঃ moon.php mini.php ইত্যাদি।\nএডভান্স শেলঃ\nসার্ভারে এডভান্স বা স্পেসিফিক কাজের জন্য যে শেল গুলো তৈরী করা হয় বা ব্যবহার করা হয় যেমনঃ এস কিউএল ম্যানেজার(ডাটাবেস থেকে ইউজজার নেম পাসওয়ার্ড দেখা বা মডিফাই করা, আন্যান্ন ডাটা দেখা বা মডিফাই করা…ইত্যাদি), ব্যাক ডোর কানেক্ট, সিম লিংক, মাস ডিফেস, পোর্ট স্কেন, মীরর ইত্যাদি গুলো এডভান্স শেল হিসাবে পরিচিত।\nwso.php , afla.php, 479.php, 404.php, r57.php, c99.php ইত্যাদি, এগুলো প্রায় একই টাইপের কমন ফাংশনাল শেল। এগুলোই আবার ফুল ফাংশনাল শেল নামেও পরিচিত, কেননা- এই সব শেলের মাধ্যমে কমন প্রায় সব কাজই করা যায়।\nআবার স্পেসিপিক কাজের জন্য কিছু শেল, যেমনঃ\ntmass.php – মাস ডিফেইস স্ক্রিপ্ট ( এটা ফুয়াদের মডিফাই করা শেল)\nsymlink.php বা sym.php – সিমলিংক এর জন্য স্ক্রিপ্ট।\nadminer.php – ডাটাবেইস কানেক্ট, ডাটা এডিট, মডিফিকেশন এর জন্য স্ক্রিপ্ট\ndomain.php – সার্ভারের ডোমেইন লিষ্ট(মানে ঔ সার্ভারে আর কি কি ওয়েভ সাইট আছে) দেখার জন্য স্ক্রিপ্ট।\nপ্রাইভেট শেলঃ\nআগেই বলেছি বিভিন্ন প্রফেশনাল হ্যাকার (মেইনলী যারা শুধু হ্যাকিং ই করে থাকেন বা হ্যাকার গ্রুপের সাথে কাজ করেন) বা বিভিন্ন হ্যাকার গ্রুপ তাদের নিজের প্রয়োজনে নিজের মতো করে কিছু শেল তৈরী করেন সেগুলোই হলো প্রাইভেট শেল। এই টাইপের শেল গুলো গ্রুপের বাইরে প্রকাশ করেন না, তাই সেগুলো ওপেন প্লেসে পাওয়া যায় না।\nDefacement\nডিফেস কি?\nডিফেস এর অনেক মানে আছে তবে ওয়েব হ্যাকিং এ ডিফেস বলতে বোঝায় সাইট এর এডমিন অথবা অন্য কোনো ভাবে এক্সেস করে নিজের পদচিহ্ন বা স্থান জানান দেওয়া। মূলত সাইটের কোনো কনটেন্টের পরিবর্তন কিংবা কোনো কনটেন্টের পরিবর্তে নিজের কোনো কনটেন্ট দেখানোর মাধ্যম কে বোঝায়। আরো সহজ ভাবে বলতে গেলে:\nডিফেইস এর শাব্দিক অর্থ বিকৃত। হ্যাকিংয়ের ক্ষেত্রেও এর অর্থ অনেকটা সেরকম। কোনো সাইট হ্যাক হয়ে যাওয়ার একটি প্রমাণ হলো ডিফেইস।ওয়েবসাইট ডিফেইসমেন্ট বা ডিফেইস হলো এমন একধরনের আক্রমনাত্মক প্রদর্শন পদ্ধতি যার ফলে কোনো ওয়েবসাইটের আসল ওয়েবপেইজটি হ্যাকার তার নিজস্ব ওয়েবপেইজ দ্বারা প্রতিস্থাপিত করে।আমরা প্রায় দেখে থাকি হ্যাকাররা কোনো সাইট হ্যাক করে ওই সাইটের ওয়েবপেইজে প্রদর্শন করে Hacked by CYBER-71 ! এই প্রক্রিয়াটিই হলো ডিফেইস।",
       "links": [],
-      "topic": "SQL Injection",
+      "topic": "WAF",
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
@@ -632,14 +672,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n২৩/০৮/২০২৬\n1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 106,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 10
     },
     {
       "id": "entry-115",
@@ -649,14 +693,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n২৯/০৮/২০২৬\n1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 114,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 11
     },
     {
       "id": "entry-112",
@@ -666,14 +714,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n৩০/০৮/২০২৬\n1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 111,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 12
     },
     {
       "id": "entry-117",
@@ -683,14 +735,18 @@
       "observedDate": "September 4",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1644380957264493",
       "text": "ক্লাস রেকর্ড\n০৪/০৯/২০২৬\n10Ut65sMkUshm54yw4KjbputZMWY6uCfJ",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/10Ut65sMkUshm54yw4KjbputZMWY6uCfJ/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 116,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 13
     },
     {
       "id": "entry-122",
@@ -700,14 +756,18 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1646127127089876",
       "text": "ক্লাস রেকর্ড\n০৬/০৯/২০২৬\n1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 121,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 14
     },
     {
       "id": "entry-121",
@@ -736,14 +796,18 @@
       "observedDate": "September 12 at 7:15 AM",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1650729253296330",
       "text": "ক্লাস রেকর্ড\n১১/০৯/২০২৬\n1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 123,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 15
     },
     {
       "id": "entry-126",
@@ -753,14 +817,18 @@
       "observedDate": "September 13 at 9:39 PM",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1652121839823738",
       "text": "ক্লাস রেকর্ড\n১৩/০৯/২০২৬\n1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 125,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 16
     },
     {
       "id": "entry-2",
@@ -772,7 +840,7 @@
       "text": "INFORMATIONAL POST-04\nআমাদের গত ক্লাসে\nKeylogger, Spyware & RAT (Live/Practical)\nনিয়ে বিস্তারিত আলোচনা এবং প্র্যাকটিক্যাল ডেমো দেখানো হয়েছে। পোস্টের শুরুতেই জানিয়ে রাখি, এই ক্লাসটি সম্পূর্ণ শিক্ষার উদ্দেশ্যে (Educational/Learning Purpose) নেওয়া হয়েছিল।\nঅনেকেই হয়তো ক্লাসের পর ডিরেক্ট টুলস আশা করেছিলেন, কিন্তু সিকিউরিটি ও এথিক্যাল লার্নিংয়ের খাতিরে সরাসরি কোনো টুলস প্রোভাইড করা হয়নি। তবে আপনাদের গবেষণার জন্য একটি\nResearch PDF\nশেয়ার করা হয়েছে। ওই পিডিএফটি নিয়ে যদি আপনারা গভীর অ্যানালাইসিস ও রিসার্চ করেন, তাহলে নিজেরাই RAT টুলস এর মূল মেকানিজম বুঝতে পারবেন এবং টুলস অব্দি পৌঁছাতে পারবেন। আর একজন রিয়েল সিকিউরিটি রিসার্চার হওয়ার জন্য নিজে থেকে রিসার্চ করে বের করার (Self Research) এই দক্ষতাটি তৈরি হওয়া অত্যন্ত প্রয়োজনীয়।\nতাছাড়া, আপনাদের হ্যান্ডস অন লার্নিংকে আরেক ধাপ এগিয়ে নিতে আমি একটি পেইড কিলগার\nরিসোর্স শেয়ার করছি। আপনারা জানেন, কী-লগিংয়ের মাধ্যমে মূলত সিস্টেমের প্রতিটি কীস্ট্রোক রেকর্ড করা হয়। এই পেইড রিসোর্সটি ভালোভাবে অ্যানালাইসিস করলে আপনারা বুঝতে পারবেন একটি Keylogger কীভাবে ব্যাকগ্রাউন্ডে কাজ করে এবং কীভাবে আপনারা নিজেদের কাস্টম Keylogger Tool তৈরি করতে পারবেন।\n1nhlO07TA1i9lbmeLFVVqCyrYOHZonhao\nআজকের করণীয়:\n১. শেয়ার করা PDF টি নিয়ে রিসার্চ শুরু করে দিন। ২. পেইড রিসোর্সটি অ্যানালাইসিস করে কাস্টম কী-লগার বিল্ড করার মেকানিজমটি বুঝুন।\nরিসোর্সগুলো দিয়ে প্র্যাকটিস করার সময় কোনো জায়গায় বুঝতে অসুবিধা হলে অবশ্যই কমেন্টে জানাবেন, উত্তর দেওয়ার চেষ্টা করবো।\nধন্যবাদ!",
       "links": [],
       "topic": "Malware Concepts",
-      "category": "documents",
+      "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -787,14 +855,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n১৮/০৯/২০২৬\n1EqmHoZaM6FRFG66-eSE70LODAIp30FS0",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1EqmHoZaM6FRFG66-eSE70LODAIp30FS0/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 131,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 17
     },
     {
       "id": "entry-130",
@@ -821,14 +893,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n২০/০৯/২০২৬\n1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 133,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 18
     },
     {
       "id": "entry-142",
@@ -838,14 +914,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n২৫/০৯/২০২৬\n1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 141,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 19
     },
     {
       "id": "entry-145",
@@ -855,14 +935,18 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1664560601913195",
       "text": "ক্লাস রেকর্ড\n২৭/০৯/২০২৬\n1WT64w91wmge9FczUis8I-ZRVXgR2cT3c",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1WT64w91wmge9FczUis8I-ZRVXgR2cT3c/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 144,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 20
     },
     {
       "id": "entry-147",
@@ -872,14 +956,18 @@
       "observedDate": "",
       "source": "",
       "text": "ক্লাস রেকর্ড\n০২/১০/২০২৬\n1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj",
-      "links": [],
+      "links": [
+        "https://drive.google.com/file/d/1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj/view?usp=sharing"
+      ],
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 146,
-      "dateVerified": true
+      "dateVerified": true,
+      "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
+      "recordingSerial": 21
     },
     {
       "id": "entry-1",
@@ -893,9 +981,9 @@
         "https://meet.google.com/gts-wjtq-meq"
       ],
       "topic": "Malware Removal",
-      "category": "classes",
+      "category": "information",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 0,
       "dateVerified": false
@@ -927,9 +1015,9 @@
       "text": "আর এক ঘন্টা পরেই\nরাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?\nঅরিয়েন্টেশন ক্লাস লিংক সরাসরি গ্রুপেই শেয়ার করা হবে। এখানেই সমস্ত দিক নির্দেশনা প্রদান করা হবে। সুতরাং, নির্ধারিত সময়ের ১০ মিনিট আগে শুধুমাত্র গ্রুপে চলে আসবেন।\nক্লাসে দেখা হচ্ছে ইনশাআল্লাহ।",
       "links": [],
       "topic": "Orientation",
-      "category": "classes",
+      "category": "information",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 17,
       "dateVerified": false
@@ -953,7 +1041,7 @@
     },
     {
       "id": "entry-21",
-      "title": "ক্লাস রেকর্ড — undefined",
+      "title": "অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা",
       "author": "Tanjim Al Fahim",
       "date": null,
       "observedDate": "",
@@ -961,9 +1049,9 @@
       "text": "অনেকের জন্য একেবারে নতুন হলেও আপনাদের সাথে লাইভ orientation class করে খুব ভালো লাগলো। খুবই মজার এবং enjoyable ছিলো। আবার কথা হচ্ছে ইনশাআল্লাহ্‌।\nধন্যবাদ সকল এডমিন এবং মডারেটরদের আমার সাথে ক্লাসে সহায়তা করার জন্য। শুভ রাত্রি।\nহোমওয়ার্ক কিভাবে করবেন, ক্লাস রেকর্ড সহ সব কিছু গ্রুপে দিয়ে দেওয়া হবে। কোন প্রশ্ন থাকলে পোষ্টে জানান, আমি উত্তর দিয়ে দিচ্ছি। ধন্যবাদ।",
       "links": [],
       "topic": "Orientation",
-      "category": "recordings",
+      "category": "information",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 20,
       "dateVerified": false
@@ -995,9 +1083,9 @@
       "text": "আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!\n0:00 / 3:35",
       "links": [],
       "topic": null,
-      "category": "classes",
+      "category": "information",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 22,
       "dateVerified": false
@@ -1260,7 +1348,7 @@
       "text": "চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!\nFile Extension\nফাইলঃ\nগ্রুপে অনেককেই দেখি জিপ ফাইল এর উপর ডাবল ক্লিক করে টুলস গুলো রান করার চেষ্টা করেন।যার ফলে প্রকৃতপক্ষে টুলসগুলো রান করতে না পেরে আপনারা ঘাবড়ে যান। আসুন এখন জেনে নেই জিপ ফাইল কি জিনিস? জিপ ফাইলকে আমরা একটি ডিমের উপরের আবরণ এর সাথে তুলনা করতে পারি। ডিমের উপরের আবরণ যেমন ভেতরের ডিমের অংশটুকু কে সুরক্ষিত রাখে অথবা তার আবরণ দ্বারা ডিমের অংশটুকু কে যেভাবে ঢেকে রাখে ঠিক সেভাবেই একটি জিপ ফাইল তার ভেতরের যে কোন ফোল্ডার টুলস সফটওয়্…",
       "links": [],
       "topic": null,
-      "category": "tools",
+      "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
@@ -1312,7 +1400,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1609799717389284",
       "text": "OSINT - B66 Delta",
       "links": [],
-      "topic": null,
+      "topic": "OSINT",
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
@@ -1358,7 +1446,7 @@
     },
     {
       "id": "entry-51",
-      "title": "Text",
+      "title": "CyberFox for Mac.txt",
       "author": "Roman Moonshi",
       "date": null,
       "observedDate": "",
@@ -1440,7 +1528,7 @@
       "text": "গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটলম্যান্ট পরিশোধ করে নিন।\nযারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন (এডমিশনের সময় যারা 'FULL PAYMENT' করেছেন, তাদের আর কিছু করতে হবে না) তারা ইমেইল না পেয়ে থাকলে এই পোস্টে জানাবেন।\nআর বাকি যারা আছেন, তারা ২য় ইন্সটলম্যান্ট পরিশোধের পর নিন্মোল্লেখিত পেমেন্ট হটলাইনে হোয়াটসঅ্যাপে ম্যাসেজের মাধ্যমে CONFIRMATION নিয়ে নিবেন। 01324176402 (ONLY PAYMENT HOTLINE, WHATSAPP) পেমেন্টের স্ক্রিনশট বা …",
       "links": [],
       "topic": null,
-      "category": "documents",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
@@ -1602,7 +1690,7 @@
       "text": "যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন না পান কিংবা পোর্টালে আপডেট না হয় ইমেইলটা পুনরায় চেক করে অবশ্যই আজকের মধ্যে ইমেইলে যোগাযোগ করে নিন।\n২য় ইন্সটলম্যান্ট পরিশোধের নিয়ম পিন পোষ্টেই দেওয়া আছে, কমেন্টেও সংযুক্ত করে দেওয়া হচ্ছে। ধন্যবাদ।",
       "links": [],
       "topic": null,
-      "category": "tools",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -1655,7 +1743,7 @@
       "text": "কাল‌কে না‌কি পরীক্ষা!!\nআপনা‌দের প্রিপা‌রেশন ঠিকঠাক আ‌ছে তো???\nতাইলে আমিও পড়তে বসি…",
       "links": [],
       "topic": null,
-      "category": "information",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": true,
@@ -1689,7 +1777,7 @@
       "text": "প্রিয় শিক্ষার্থীবৃন্দ,\nইতিমধ্যেই আপনাদের পরীক্ষা শুরু হয়েছে। এক্সাম পেপার একবার রিফ্রেস করলেই প্রশ্নপত্র দেখতে পাবেন।\nযারা শুধুমাত্র Cyber Security কোর্সে আছেন, তারা অনুগ্রহ করে CEHF Exam Link ওপেন করুন।\nযারা Professional Diploma কোর্সে আছেন, তারা Diploma Exam Link এ ক্লিক করে আপনাদের নির্ধারিত প্রশ্নপত্র ওপেন করে নিন।\nপরীক্ষা চলাকালীন অবস্থায় যেকোনো সমস্যার ক্ষেত্রে দয়া করে এই পোস্টের কমেন্টে জানাবেন, আমরা যথাসম্ভব দ্রুত সাপোর্ট দেওয়ার চেষ্টা করব।\nশুভকামনা সকলের জন্য।\nধন্যবাদ।",
       "links": [],
       "topic": null,
-      "category": "information",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -1706,7 +1794,7 @@
       "text": "২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ\nযারা ২য় ইন্সটলম্যান্ট পরিশোধ করেছেন সবার পোর্টালে পেমেন্ট আপডেট সহ পেমেন্ট রিসিপ্ট ইমেইলে পেয়ে গেছেন। কেউ যদি এখনো কনফার্মেশন পাওয়া বাকি থাকেন তাহলে ইমেইলটা পুনরায় চেক করে আজকে অফিস সময়ের মধ্যে আমাদের WhatsApp এ যোগাযোগ করে নিন। +8801310333444",
       "links": [],
       "topic": null,
-      "category": "tools",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -1855,7 +1943,7 @@
     },
     {
       "id": "entry-89",
-      "title": "docs.google.com",
+      "title": "Untitled document",
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
@@ -1935,7 +2023,7 @@
       "text": "আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে qrteam@arenawebsecurity.net এ যথা উপযুক্ত কারণ দর্শিয়ে ইমেইল করবেন।\ndrive.google.com\nB-66 Delta Mid Result.pdf",
       "links": [],
       "topic": null,
-      "category": "documents",
+      "category": "notices",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
@@ -2309,9 +2397,9 @@
         "https://meet.google.com/zjw-jsqq-oju"
       ],
       "topic": "Malware Concepts",
-      "category": "classes",
+      "category": "information",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "not-applicable",
       "truncated": true,
       "collectionIndex": 122,
       "dateVerified": false
@@ -2487,7 +2575,7 @@
     },
     {
       "id": "entry-138",
-      "title": "https://youtu.be/fobeXDPJZdk",
+      "title": "LFI — Not acceptable bypass",
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
@@ -2535,9 +2623,9 @@
         "https://meet.google.com/vnq-bmay-ntv"
       ],
       "topic": "Hosting & WordPress",
-      "category": "classes",
+      "category": "information",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "not-applicable",
       "truncated": true,
       "collectionIndex": 139,
       "dateVerified": false
