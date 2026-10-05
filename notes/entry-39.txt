@@ -1,0 +1,79 @@
+First class: Cyber Safety, SQL Injection by tools
+Batch: 66, Delta
+—----------------------------------------------------------------------------------------------------
+Attendance: https://forms.gle/G7FY71jBU996kuaB8
+
+
+সবাই এই ফর্ম থেকে উপস্থিতি দিয়ে দিন। সময়ঃ ৯ টা ৪৫ পর্যন্ত।
+—----------------------------------------------------------------------------------------------------
+
+
+
+
+http://estuarydispatch.site/article.php?id=2
+
+
+
+
+Sec 1.1   
+===================================================
+
+Site: https://native.edu.pk/
+Point: http://native.edu.pk/detail.php?ComCatID=11
+Dork: php?id= site:
+php?id= site:https://native.edu.pk/
+
+
+'
+Point: http://native.edu.pk/detail.php?ComCatID=11
+Get the details
+
+
+analyze - tables - get tables - (select account db / admin / user / userinfo ) get column - ( select username password ) get data 
+
+
+b0000000000000000000oOOO0m xD 
+
+===================================================
+
+
+
+
+Sec 1.2   
+===================================================
+
+Site: http://www.embryohotel.com
+Point: http://www.embryohotel.com/room-detail.php?id=1
+Dork: php?id= site:
+php?id= site:http://www.embryohotel.com
+
+
+'
+Point: http://www.embryohotel.com/room-detail.php?id=1
+Get the details
+
+
+analyze - tables - get tables - (select account db / admin / user / userinfo ) get column - ( select username password ) get data 
+
+
+b0000000000000000000oOOO0m xD 
+
+===================================================
+
+
+
+
+Sec 2 Official CW:
+===================================================
+http://www.siemerc.com.br/site/evento.php?id=2
+
+
+CW Submit: https://toolkit.arenawebsecurity.net/practice/play.php?play=45flnu
+
+
+
+
+
+
+Candidato (Table) - Cidade (Passwords)
+===================================================
