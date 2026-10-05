@@ -83,7 +83,7 @@
       "topic": "Orientation",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "uploading",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 19,
       "dateVerified": true,
@@ -2570,7 +2570,8 @@
       "truncated": false,
       "collectionIndex": 122,
       "dateVerified": false,
-      "contentVerified": true
+      "contentVerified": true,
+      "classStartTime": "রাত ৯:৪৫ (9:45 PM)"
     },
     {
       "id": "entry-125",
@@ -2820,12 +2821,12 @@
     },
     {
       "id": "entry-143",
-      "title": "Recon",
+      "title": "Recon Part 1",
       "author": "Syed Sakib Alam Mubin",
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1669334581435797",
-      "text": "Join Class\n…\n0:00 / 1:35:45\nwas live in\nArena Web Security, Batch-66(Delta)\n.\nAdmin\n·\nRecon Part 1",
+      "text": "Join Class @everyone\nhttps://www.facebook.com/S4MC71/videos/976877741338543/?idorvanity=1598186498550606\nRecon Part 1",
       "links": [
         "https://www.facebook.com/S4MC71/videos/976877741338543/",
         "https://www.facebook.com/groups/awsb66delta/"
@@ -2834,9 +2835,11 @@
       "category": "classes",
       "youtubeId": null,
       "videoStatus": "upload-pending",
-      "truncated": true,
+      "truncated": false,
       "collectionIndex": 142,
-      "dateVerified": false
+      "dateVerified": false,
+      "duration": "1:35:45",
+      "contentVerified": true
     },
     {
       "id": "entry-144",
