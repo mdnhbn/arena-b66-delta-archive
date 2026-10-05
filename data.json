@@ -37,14 +37,15 @@
       ],
       "topic": "Orientation",
       "category": "classes",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "oka_NMsPt-Y",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 15,
       "dateVerified": true,
       "downloadStatus": "complete",
-      "pendingYoutubeId": "oka_NMsPt-Y",
-      "uploadNote": "YouTube SD processing delayed; Unlisted publication pending. Local copy retained until playback verification."
+      "uploadNote": "Unlisted playback verified on 2026-10-05",
+      "playbackVerified": true,
+      "duration": "15:19"
     },
     {
       "id": "entry-14",
