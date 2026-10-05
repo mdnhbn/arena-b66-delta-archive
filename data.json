@@ -20,7 +20,9 @@
       "videoStatus": "not-applicable",
       "truncated": true,
       "collectionIndex": 14,
-      "dateVerified": true
+      "dateVerified": true,
+      "scheduleVerified": true,
+      "scheduleNote": "শুক্রবার ও রবিবার রাত ৯:৩০–১১:৩০। মঙ্গলবার প্র্যাকটিস; সাপোর্ট সন্ধ্যা ৭টা–রাত ১টা। মূল পোস্টের পূর্ণ শিডিউল যাচাই করা হয়েছে।"
     },
     {
       "id": "entry-16",
@@ -2704,5 +2706,19 @@
       "collectionIndex": 145,
       "dateVerified": false
     }
-  ]
+  ],
+  "schedule": {
+    "regularDays": [
+      "Friday",
+      "Sunday"
+    ],
+    "regularStart": "21:30",
+    "regularEnd": "23:30",
+    "practiceDay": "Tuesday",
+    "supportStart": "19:00",
+    "supportEnd": "01:00",
+    "timezone": null,
+    "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
+    "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
+  }
 }
