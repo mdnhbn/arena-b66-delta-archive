@@ -1,0 +1,32 @@
+Manual dump the data of any five websites from here
+
+
+Google Dork
+	Site Links
+	php?id= site:
+	https://aueqi.in/
+	php?id= site:
+	https://native.edu.pk/
+	php?id= site:
+	https://www.xeroflor.sg/
+	php?id= site:
+	https://www.cr-led.com/
+	php?id= site:
+	https://www.igoergo.com/
+	php?id= site:
+	https://www.ncbms.edu.pk/
+	php?id= site:
+	https://www.cmkoo.com.hk/
+	php?id= site:
+	https://www.fsaijazuddin.pk/
+	php?id= site:
+	http://www.meridianhotel.co.ug/
+	php?id= site:
+	http://www.diamondhills.com.pk/
+	
+
+
+
+
+
+Example of homework PDF
