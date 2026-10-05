@@ -6,9 +6,9 @@ A Bengali static learning archive with categories, search, chronological sorting
 
 ## Current status
 
-147 collected entries; 21 dated recording posts with source Drive links. Some post dates and full text still require verification. The record numbers refer to collected recordings, not official class numbers.
+148 collected entries; 22 dated recording posts with source Drive links. Some post dates and full text still require verification. The record numbers refer to collected recordings, not official class numbers.
 
-Two existing instructor YouTube links are included. The homework-panel guide has been uploaded as video `oka_NMsPt-Y`; YouTube reports SD processing delayed by up to a few hours, so Unlisted publication and playback are still pending. The initial file-path upload error was resolved. Keep local video copies until upload, processing and playback are verified.
+Two existing instructor YouTube links are included. The homework-panel guide has been uploaded as video `oka_NMsPt-Y`; YouTube reports SD processing delayed by up to a few hours, the watch page shows Unlisted, but playback is still pending. The initial file-path upload error was resolved. Keep local video copies until upload, processing and playback are verified.
 
 The archive is incomplete; do not present it as a complete verified course export.
 
