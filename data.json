@@ -85,7 +85,15 @@
       "collectionIndex": 19,
       "dateVerified": true,
       "linkVerification": "Opened original Facebook Drive card",
-      "recordingSerial": 1
+      "recordingSerial": 1,
+      "sameDateResourceIds": [
+        "entry-14"
+      ],
+      "relatedTopics": [
+        "Orientation"
+      ],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-13",
@@ -198,7 +206,16 @@
       "collectionIndex": 39,
       "dateVerified": true,
       "linkVerification": "Opened original Facebook Drive card",
-      "recordingSerial": 2
+      "recordingSerial": 2,
+      "sameDateResourceIds": [
+        "entry-12",
+        "entry-39"
+      ],
+      "relatedTopics": [
+        "SQL Injection"
+      ],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-11",
@@ -255,7 +272,13 @@
       "collectionIndex": 45,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 3
+      "recordingSerial": 3,
+      "sameDateResourceIds": [
+        "entry-10"
+      ],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-9",
@@ -385,7 +408,16 @@
       "collectionIndex": 57,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 4
+      "recordingSerial": 4,
+      "sameDateResourceIds": [
+        "entry-6",
+        "entry-7"
+      ],
+      "relatedTopics": [
+        "Session & Redirect"
+      ],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-4",
@@ -474,7 +506,17 @@
       "collectionIndex": 63,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 5
+      "recordingSerial": 5,
+      "sameDateResourceIds": [
+        "entry-3",
+        "entry-62"
+      ],
+      "relatedTopics": [
+        "Session & Redirect",
+        "HTTP & HTTPS"
+      ],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-73",
@@ -515,7 +557,11 @@
       "collectionIndex": 79,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 6
+      "recordingSerial": 6,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-79",
@@ -589,7 +635,11 @@
       "collectionIndex": 87,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 7
+      "recordingSerial": 7,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-87",
@@ -627,7 +677,11 @@
       "collectionIndex": 89,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 8
+      "recordingSerial": 8,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-99",
@@ -648,7 +702,11 @@
       "collectionIndex": 98,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 9
+      "recordingSerial": 9,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-105",
@@ -686,7 +744,15 @@
       "collectionIndex": 106,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 10
+      "recordingSerial": 10,
+      "sameDateResourceIds": [
+        "entry-105"
+      ],
+      "relatedTopics": [
+        "WAF"
+      ],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-115",
@@ -707,7 +773,11 @@
       "collectionIndex": 114,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 11
+      "recordingSerial": 11,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": null,
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-112",
@@ -728,7 +798,11 @@
       "collectionIndex": 111,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 12
+      "recordingSerial": 12,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-117",
@@ -749,7 +823,11 @@
       "collectionIndex": 116,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 13
+      "recordingSerial": 13,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-122",
@@ -770,7 +848,11 @@
       "collectionIndex": 121,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 14
+      "recordingSerial": 14,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-121",
@@ -810,7 +892,11 @@
       "collectionIndex": 123,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 15
+      "recordingSerial": 15,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-126",
@@ -831,7 +917,11 @@
       "collectionIndex": 125,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 16
+      "recordingSerial": 16,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-2",
@@ -869,7 +959,11 @@
       "collectionIndex": 131,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 17
+      "recordingSerial": 17,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-130",
@@ -907,7 +1001,11 @@
       "collectionIndex": 133,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 18
+      "recordingSerial": 18,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-142",
@@ -928,7 +1026,11 @@
       "collectionIndex": 141,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 19
+      "recordingSerial": 19,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-145",
@@ -949,7 +1051,11 @@
       "collectionIndex": 144,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 20
+      "recordingSerial": 20,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-147",
@@ -970,7 +1076,11 @@
       "collectionIndex": 146,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 21
+      "recordingSerial": 21,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     },
     {
       "id": "entry-1",
@@ -998,15 +1108,16 @@
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1601890488180207",
-      "text": "আসসালামু আলাইকুম। কেমন আছেন সবাই?\nআমি তানজিম আল ফাহিম, আপনাদের কোর্সের প্রধান প্রশিক্ষক হিসেবে দায়িত্ব পালন করবো ইনশাআল্লাহ। আমি ছাড়াও ২১ জনের অভিজ্ঞ একটি টীম এবং সম্মানিত বিশেষজ্ঞ এবং দেশসেরা প্রশিক্ষকবৃন্দরা আপনাদের কোর্সের সাথে পুরো সময়কাল ধরেই থাকবেন।\nআপনাদের অরিয়েন্টেশন ক্লাস শুরু হবে রবিবার রাত ০৯ঃ৩০ মিনিটে।\nপ্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন। সার্ভারে লগিন করে নিন, এ সংক্রান্ত কোন সমস্যা থাকলে পাসওয়ার্ড রিসেট অপশন থেকে পাসওয়া…",
+      "text": "আসসালামু আলাইকুম। কেমন আছেন সবাই?\nআমি তানজিম আল ফাহিম, আপনাদের কোর্সের প্রধান প্রশিক্ষক হিসেবে দায়িত্ব পালন করবো ইনশাআল্লাহ। আমি ছাড়াও ২১ জনের অভিজ্ঞ একটি টীম এবং সম্মানিত বিশেষজ্ঞ এবং দেশসেরা প্রশিক্ষকবৃন্দরা আপনাদের কোর্সের সাথে পুরো সময়কাল ধরেই থাকবেন।\n\nআপনাদের অরিয়েন্টেশন ক্লাস শুরু হবে রবিবার রাত ০৯ঃ৩০ মিনিটে।\nপ্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন। সার্ভারে লগিন করে নিন, এ সংক্রান্ত কোন সমস্যা থাকলে পাসওয়ার্ড রিসেট অপশন থেকে পাসওয়ার্ড রিসেট করে নিন অথবা গ্রুপ থেকে সহায়তা চেয়ে নিন।\n\nক্লাসঃ অরিয়েন্টেশন এবং প্রথম দিকের ক্লাস গুলো এই গ্রুপে লাইভ, এবং সার্ভারেও পরিচালনা করা হয়ে থাকবে। ক্লাস প্লাটফর্ম হিসেবে, গ্রুপ - গুগল মিট, গুগল ক্লাস রুম এবং সার্ভার ব্যাবহার হয়ে থাকে।\n\nতবে কোর্সের একেবারে প্রথমেই সবাই সবার সাথে পরিচিত হয়ে নিতে ভূলবেন না। কমেন্টে আপনার নাম, কোথায় থাকেন, শিক্ষা প্রতিষ্ঠান কিংবা কর্মস্থলের পরিচয় দিয়ে কমেন্ট করে জানাতে ভূলবেন না। যেহেতু পুরো কোর্স জুড়ে একসাথেই কাজ করা হবে তাই ক্লাসের আগেই পরিচিত হয়ে নেই আপনার সাথে।\n\nক্লাসে দেখা হচ্ছে ইনশাআল্লাহ। ধন্যবাদ।",
       "links": [],
       "topic": "Orientation",
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
-      "truncated": true,
+      "truncated": false,
       "collectionIndex": 16,
-      "dateVerified": false
+      "dateVerified": false,
+      "contentVerified": true
     },
     {
       "id": "entry-18",
@@ -2725,7 +2836,11 @@
       "collectionIndex": 147,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
-      "recordingSerial": 22
+      "recordingSerial": 22,
+      "sameDateResourceIds": [],
+      "relatedTopics": [],
+      "scheduledTime": "21:30–23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
     }
   ],
   "schedule": {
