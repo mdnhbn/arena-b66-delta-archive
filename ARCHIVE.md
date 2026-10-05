@@ -15,7 +15,7 @@
 
 হোমওয়ার্ক গাইড `oka_NMsPt-Y` এবং Orientation `wf2Q5Z6bNlE` Unlisted playback যাচাই করা হয়েছে। আরও দুটি পুরোনো instructor YouTube link আছে।
 
-২৪ জুলাই (`e-PewC8sDlk`), ২৬ জুলাই (`ISheHt-js2A`) ও ৩১ জুলাই (`0fk1ksVPvQ0`) YouTube upload/save করা হয়েছে; processing/playback যাচাই বাকি। ২ আগস্ট (`h4XYuv--GAI`) ও ৯ আগস্ট (`EaLvBynOYp0`) আপলোড শুরু করা হয়েছে; সর্বশেষ দেখা অবস্থা data.json-এ আছে। নতুন resource transfer পরবর্তী ধাপে চলবে।
+২৪ জুলাই (`e-PewC8sDlk`), ২৬ জুলাই (`ISheHt-js2A`) ও ৩১ জুলাই (`0fk1ksVPvQ0`) YouTube upload/save করা হয়েছে; processing/playback যাচাই বাকি। ২ আগস্ট (`h4XYuv--GAI`) ও ৯ আগস্ট (`EaLvBynOYp0`) ১০০% আপলোড হয়েছে; processing এবং playback যাচাই বাকি। সর্বশেষ দেখা অবস্থা data.json-এ আছে। নতুন resource transfer পরবর্তী ধাপে চলবে।
 
 যাচাই করা দুই ভিডিওর task download কপি Recycle Bin-এ সরানো হয়েছে; Downloads/task folder-এ নেই। এগুলো স্থায়ীভাবে purge করা হয়নি। অন্য ভিডিওর local copy playback যাচাই না হওয়া পর্যন্ত রাখা হয়েছে। আগে থেকে থাকা ব্যক্তিগত ফাইল স্পর্শ করা হয়নি।
 
@@ -23,7 +23,7 @@
 
 JavaScript syntax এবং DOM flow পরীক্ষা পাস করেছে: ড্যাশবোর্ড, ২২ ক্লাসের সিরিয়াল, অনুসন্ধান, topic/month filter, player markup, নোট, ফাঁকা রিসোর্সের জায়গা, ক্যালেন্ডার, JSON export, ভুল লিংক প্রত্যাখ্যান এবং legacy route।
 
-এই আপডেটের সময়ে browser control সংযোগ কাজ না করায় নতুন ডিজাইনের live screenshot/visual verification করা যায়নি। Vercel deployment ও public HTTP ফাইলের ফল আলাদাভাবে যাচাই করা হবে।
+নতুন ট্যাবে browser সংযোগ পুনরুদ্ধার করে ড্যাশবোর্ড, ক্লাস তালিকা, সার্চ, রিসোর্সের খালি ট্যাব ও খসড়া ফর্ম সরাসরি যাচাই করা হয়েছে। ড্যাশবোর্ড screenshot outputs/archive-preview.jpg-এ সংরক্ষিত। Vercel production deployment READY হয়েছে; public HTML/JS/CSS এবং JSON-এর তথ্য মিলিয়ে দেখা হয়েছে। ব্রাউজারের viewport override প্রয়োগ না হওয়ায় ছোট স্ক্রিনের সরাসরি পরীক্ষা করা যায়নি; responsive CSS যুক্ত আছে।
 
 ## পরবর্তী ধাপ
 

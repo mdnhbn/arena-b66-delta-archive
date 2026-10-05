@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-05T20:20:20.950Z",
+  "updatedAt": "2026-10-05T20:31:04.814Z",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -105,7 +105,8 @@
         "entry-22"
       ],
       "playbackVerified": true,
-      "localCopyStatus": "Removed from task folder; sent to Recycle Bin after verified 720p playback."
+      "localCopyStatus": "Removed from task folder; sent to Recycle Bin after verified 720p playback.",
+      "topicTitle": "Orientation — কোর্স পরিচিতি"
     },
     {
       "id": "entry-13",
@@ -238,7 +239,8 @@
       "downloadStatus": "complete",
       "duration": "2:00:35",
       "pendingYoutubeId": "e-PewC8sDlk",
-      "uploadNote": "Upload complete; Unlisted will activate after YouTube processing."
+      "uploadNote": "Upload complete; Unlisted will activate after YouTube processing.",
+      "topicTitle": "Cyber Safety ও SQL Injection by Tools"
     },
     {
       "id": "entry-11",
@@ -307,7 +309,8 @@
       "downloadStatus": "complete",
       "duration": "2:11:13",
       "pendingYoutubeId": "ISheHt-js2A",
-      "uploadNote": "Upload complete; Unlisted will activate after YouTube processing."
+      "uploadNote": "Upload complete; Unlisted will activate after YouTube processing.",
+      "topicTitle": "OSINT — Open Source Intelligence"
     },
     {
       "id": "entry-9",
@@ -551,7 +554,7 @@
       "topic": "SQL Injection",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "uploading",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 63,
       "dateVerified": true,
@@ -607,7 +610,7 @@
       "topic": "XSS",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "uploading",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 79,
       "dateVerified": true,
@@ -1106,7 +1109,9 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "downloadStatus": "complete",
+      "duration": "2:16:44"
     },
     {
       "id": "entry-142",
