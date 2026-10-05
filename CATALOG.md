@@ -1,42 +1,48 @@
-# Arena Web Security — B66 Delta: সংগ্রহ করা ক্লাস ও রিসোর্স
+# Arena Web Security — Batch 66 Delta
 
-সর্বশেষ সংগ্রহ: ৫ অক্টোবর ২০২৬। এটি আংশিক যাচাইকৃত তালিকা। সব ভিডিও এখনো YouTube-এ আপলোড হয়নি। তারিখহীন পোস্টের ক্রম অনুমান করা হয়নি। রেকর্ড নম্বর সংগ্রহ করা রেকর্ডের ক্রম, কোর্সের অফিশিয়াল ক্লাস নম্বর নয়।
+ওয়েবসাইট: https://arena-b66-delta-archive.vercel.app/
 
-## ক্লাস রেকর্ডের তারিখভিত্তিক তালিকা
+সংগ্রহ করা রিসোর্স: ১৪৮। তারিখযুক্ত ক্লাস রেকর্ড: ২২। সংগ্রহ এখনো সম্পূর্ণ যাচাই হয়নি; রেকর্ড সিরিয়াল অফিসিয়াল ক্লাস নম্বর নয়।
 
-| রেকর্ড | ক্লাসের তারিখ | বিষয় (যা নিশ্চিত) | মূল ভিডিও ফাইল | YouTube |
+## সাপ্তাহিক শিডিউল
+
+শুক্রবার ও রবিবার রাত ৯:৩০–১১:৩০। মঙ্গলবার প্র্যাকটিস; সাপোর্ট সন্ধ্যা ৭টা–রাত ১টা। মূল পোস্টে সময় অঞ্চল উল্লেখ নেই।
+
+## ক্লাস রেকর্ডের ক্রম
+
+| রেকর্ড | তারিখ | বিষয় / একই দিনের পোস্টের বিষয় | উৎস | YouTube |
 |---|---|---|---|---|
 | 1 | 2026-07-19 | Orientation | [Drive](https://drive.google.com/file/d/14EMX0Zu6BxqhlA8RAyqb3S7RChiKVB5z/view) | আপলোড বাকি |
 | 2 | 2026-07-24 | SQL Injection | [Drive](https://drive.google.com/file/d/1dqvQLxWdK2CCLikaGO-OMykc6lpuZZmH/view) | আপলোড বাকি |
-| 3 | 2026-07-26 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS/view?usp=sharing) | আপলোড বাকি |
-| 4 | 2026-07-31 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q/view?usp=sharing) | আপলোড বাকি |
-| 5 | 2026-08-02 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys/view?usp=sharing) | আপলোড বাকি |
-| 6 | 2026-08-09 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp/view?usp=sharing) | আপলোড বাকি |
-| 7 | 2026-08-14 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz/view?usp=sharing) | আপলোড বাকি |
-| 8 | 2026-08-16 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf/view?usp=sharing) | আপলোড বাকি |
-| 9 | 2026-08-21 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J/view?usp=sharing) | আপলোড বাকি |
-| 10 | 2026-08-23 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ/view?usp=sharing) | আপলোড বাকি |
-| 11 | 2026-08-29 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp/view?usp=sharing) | আপলোড বাকি |
-| 12 | 2026-08-30 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp/view?usp=sharing) | আপলোড বাকি |
-| 13 | 2026-09-04 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/10Ut65sMkUshm54yw4KjbputZMWY6uCfJ/view?usp=sharing) | আপলোড বাকি |
-| 14 | 2026-09-06 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ/view?usp=sharing) | আপলোড বাকি |
-| 15 | 2026-09-11 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8/view?usp=sharing) | আপলোড বাকি |
-| 16 | 2026-09-13 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT/view?usp=sharing) | আপলোড বাকি |
-| 17 | 2026-09-18 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1EqmHoZaM6FRFG66-eSE70LODAIp30FS0/view?usp=sharing) | আপলোড বাকি |
-| 18 | 2026-09-20 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe/view?usp=sharing) | আপলোড বাকি |
-| 19 | 2026-09-25 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt/view?usp=sharing) | আপলোড বাকি |
-| 20 | 2026-09-27 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1WT64w91wmge9FczUis8I-ZRVXgR2cT3c/view?usp=sharing) | আপলোড বাকি |
-| 21 | 2026-10-02 | যাচাই বাকি | [Drive](https://drive.google.com/file/d/1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj/view?usp=sharing) | আপলোড বাকি |
+| 3 | 2026-07-26 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS/view?usp=sharing) | আপলোড বাকি |
+| 4 | 2026-07-31 | Session & Redirect | [Drive](https://drive.google.com/file/d/1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q/view?usp=sharing) | আপলোড বাকি |
+| 5 | 2026-08-02 | Session & Redirect, HTTP & HTTPS | [Drive](https://drive.google.com/file/d/1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys/view?usp=sharing) | আপলোড বাকি |
+| 6 | 2026-08-09 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp/view?usp=sharing) | আপলোড বাকি |
+| 7 | 2026-08-14 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz/view?usp=sharing) | আপলোড বাকি |
+| 8 | 2026-08-16 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf/view?usp=sharing) | আপলোড বাকি |
+| 9 | 2026-08-21 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J/view?usp=sharing) | আপলোড বাকি |
+| 10 | 2026-08-23 | WAF | [Drive](https://drive.google.com/file/d/1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ/view?usp=sharing) | আপলোড বাকি |
+| 11 | 2026-08-29 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp/view?usp=sharing) | আপলোড বাকি |
+| 12 | 2026-08-30 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp/view?usp=sharing) | আপলোড বাকি |
+| 13 | 2026-09-04 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/10Ut65sMkUshm54yw4KjbputZMWY6uCfJ/view?usp=sharing) | আপলোড বাকি |
+| 14 | 2026-09-06 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ/view?usp=sharing) | আপলোড বাকি |
+| 15 | 2026-09-11 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8/view?usp=sharing) | আপলোড বাকি |
+| 16 | 2026-09-13 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT/view?usp=sharing) | আপলোড বাকি |
+| 17 | 2026-09-18 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1EqmHoZaM6FRFG66-eSE70LODAIp30FS0/view?usp=sharing) | আপলোড বাকি |
+| 18 | 2026-09-20 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe/view?usp=sharing) | আপলোড বাকি |
+| 19 | 2026-09-25 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt/view?usp=sharing) | আপলোড বাকি |
+| 20 | 2026-09-27 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1WT64w91wmge9FczUis8I-ZRVXgR2cT3c/view?usp=sharing) | আপলোড বাকি |
+| 21 | 2026-10-02 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj/view?usp=sharing) | আপলোড বাকি |
+| 22 | 2026-10-04 | ভিডিওর টপিক যাচাই বাকি | [Drive](https://drive.google.com/file/d/12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2/view?usp=sharing) | আপলোড বাকি |
 
-## তারিখ পাওয়া পোস্ট ও সংশ্লিষ্ট রিসোর্স
+## সব রিসোর্স
 
-পোস্টের তারিখ ও ক্লাসের তারিখ ভিন্ন হতে পারে। নিচে একই তারিখের পোস্ট একত্রে আছে; সবগুলো একই ক্লাসের অংশ বলে দাবি করা হচ্ছে না।
 
 ### 2026-07-12
 
-#### তথ্য ও নির্দেশনা — এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
+#### এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
 
-লেখক: Roman Moonshi updated the description. · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: Orientation · লেখক: Roman Moonshi updated the description.
 
 এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
 এখানে আমরা সাইবার সিকিউরিটি বিষয়ক বিভিন্ন প্রশ্ন এবং ক্লাস পরবর্তি যে কোন সাহায্য সহযোগিতা নিয়ে আলোচনা করবো।
@@ -44,13 +50,18 @@
 অরিয়েন্টেশন ক্লাসঃ ১৯ জুলাই ২০২৬, রবিবার।
 রেগুলার ক্লাস শিডিউলঃ শুক্রবার এবং রবিবার,…
 
+শুক্রবার ও রবিবার রাত ৯:৩০–১১:৩০। মঙ্গলবার প্র্যাকটিস; সাপোর্ট সন্ধ্যা ৭টা–রাত ১টা। মূল পোস্টের পূর্ণ শিডিউল যাচাই করা হয়েছে।
+
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1598190601883529)
+
 
 ### 2026-07-17
 
-#### লাইভ ক্লাস ও ভিডিও — হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা
+#### হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: Orientation · লেখক: Roman Moonshi
 
 আসসালামু আলাইকুম
 এরিনা ওয়েব সিকিউরিটি ৬৬ তম ডেল্টা ব্যাচের সকলকে জানাই স্বাগতম। আগামী রবিবার রাত ৯ টা ৩০ মিনিটে আপনাদের ওরিয়েন্টেশন ক্লাস আনুষ্ঠানিকভাবে অনুষ্ঠিত হবে। তাই সবাইকে যথাসময়ে ফেসবুক গ্রুপে ফলোআপ রাখার জন্য বলা হচ্ছে। এর পাশাপাশি
@@ -61,11 +72,12 @@ https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view?usp=shari
 - [রিসোর্স](https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1601798241522765)
 
+
 ### 2026-07-19
 
-#### তথ্য ও নির্দেশনা — অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…
+#### অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: Orientation · লেখক: Tanjim Al Fahim
 
 অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্দেশনা দিয়ে দিচ্ছি। ধন্যবাদ।
 posted to
@@ -77,9 +89,9 @@ Orientation Class: B66 Delta
 - [রিসোর্স](https://www.facebook.com/groups/awsb66delta/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604083781294211)
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 19/07/2026
+#### ক্লাস রেকর্ড — 19/07/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: Orientation · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ১৯/০৭/২০২৬
@@ -88,11 +100,12 @@ Orientation class.mp4
 
 - [রিসোর্স](https://drive.google.com/file/d/14EMX0Zu6BxqhlA8RAyqb3S7RChiKVB5z/view)
 
+
 ### 2026-07-20
 
-#### তথ্য ও নির্দেশনা — INFORMATIONAL POST -01
+#### INFORMATIONAL POST -01
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 INFORMATIONAL POST -01
 1 'or' 1 '=' 1 দিয়ে Site Access হলো কেন?
@@ -102,11 +115,13 @@ Pass: 1 'or' 1 '=' 1
 w3schools.com
 W3Schools.com
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604208154615107)
 
-#### তথ্য ও নির্দেশনা — আসুন, জেনে নেই -১
+#### আসুন, জেনে নেই -১
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Vulnerability Basics · লেখক: Roman Moonshi
 
 আসুন, জেনে নেই -১
 ভালনেরাবিলিটি (Vulnerability) কি?
@@ -145,11 +160,12 @@ intitle: “login page” site:.in
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604210557948200)
 
+
 ### 2026-07-21
 
-#### তথ্য ও নির্দেশনা — মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+#### মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 কি অবস্থা সবার কেমন আছেন?
@@ -171,11 +187,12 @@ Otherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 12
 - [রিসোর্স](https://meet.google.com/yac-xrnh-gvz)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604959244539998)
 
+
 ### 2026-07-24
 
-#### নোটিশ — সবাই ক্লাসে চলে আসুন।
+#### সবাই ক্লাসে চলে আসুন।
 
-লেখক: Tanjim Al Fahim
+বিভাগ: notices · বিষয়: SQL Injection · লেখক: Tanjim Al Fahim
 
 সবাই ক্লাসে চলে আসুন।
 posted to
@@ -187,9 +204,9 @@ Cyber Safety, SQL Injection by tools
 - [রিসোর্স](https://www.facebook.com/groups/awsb66delta/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1608140980888491)
 
-#### নোট ও ডকুমেন্ট — First class: Cyber Safety, SQL Injection by tools
+#### First class: Cyber Safety, SQL Injection by tools
 
-লেখক: Md. Khaledul Islam
+বিভাগ: documents · বিষয়: SQL Injection · লেখক: Md. Khaledul Islam
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক
 docs.google.com
@@ -198,9 +215,9 @@ First class: Cyber Safety, SQL Injection by tools
 - [রিসোর্স](https://docs.google.com/document/d/10FjEY5eyXUc54sUamu2-uj-8m5N03Cuwf-PKuDVimcM/edit?tab=t.0)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1608143074221615)
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 24/07/2026
+#### ক্লাস রেকর্ড — 24/07/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২৪/০৭/২০২৬
@@ -209,11 +226,12 @@ Class record.mp4
 
 - [রিসোর্স](https://drive.google.com/file/d/1dqvQLxWdK2CCLikaGO-OMykc6lpuZZmH/view)
 
+
 ### 2026-07-25
 
-#### তথ্য ও নির্দেশনা — আসুন জেনে নেই - ২
+#### আসুন জেনে নেই - ২
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 আসুন জেনে নেই - ২
 (SQL Injection কেন করি??)
@@ -242,11 +260,12 @@ DBMS (ডাটাবেজম্যানেজমেন্ট সিস্ট�
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1608246744211248)
 
+
 ### 2026-07-26
 
-#### নোটিশ — অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
+#### অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
 
-লেখক: Tanjim Al Fahim
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
 আর অবশ্যই রিভিউ অপশনে গিয়ে আপনার মতামত জানাতে ভূলবেন না। বাংলা কিংবা ইংরেজি, যে কোন একভাবে রিভিউ দিলেই হবে।
@@ -256,9 +275,9 @@ N.B: রিভিউ লিংক সরাসরি ওপেন না হল�
 - [রিসোর্স](https://www.facebook.com/ArenaBangladesh/reviews)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1609893780713211)
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 26/07/2026
+#### ক্লাস রেকর্ড — 26/07/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২৬/০৭/২০২৬
@@ -267,11 +286,12 @@ N.B: রিভিউ লিংক সরাসরি ওপেন না হল�
 - [রিসোর্স](https://drive.google.com/file/d/1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1609919597377296)
 
+
 ### 2026-07-27
 
-#### তথ্য ও নির্দেশনা — আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
+#### আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Google Dork · লেখক: Roman Moonshi
 
 আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
 গুগল ডর্ক (Google Dork) কী?
@@ -300,9 +320,9 @@ URL-এ নির্দিষ্ট শব্দ বা স্ট্রিং �
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1609866550715934)
 
-#### টুলস ও সেটআপ — হাভিজ এর পোর্টেবল ভার্সান।
+#### হাভিজ এর পোর্টেবল ভার্সান।
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 হাভিজ এর পোর্টেবল ভার্সান।
 প্রথমেই বলে নেই অতি উৎসাহী হয়ে ইউ-টিউব এর বা গুগল থেকে খুঁজে খুঁজে হাভিজ বা হ্যাকিং রিলেটেড কোন টুলস্‌, সফ্টওয়্যার ডাউনলোড করবেন না। র‌্যানসামওয়ারে অথবা কি-লগিংএর স্বিকার হতে পারেন।
@@ -321,11 +341,12 @@ Havij_Pro.zip
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1609865664049356)
 
+
 ### 2026-07-28
 
-#### টুলস ও সেটআপ — আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
+#### আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
 ।
@@ -341,9 +362,9 @@ cyberfox.mkv
 - [রিসোর্স](https://drive.google.com/file/d/10huk7zPRgzq-ip8nD-SE8_EpBtlsgAvb/view?usp=drive_link)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1610713203964602)
 
-#### তথ্য ও নির্দেশনা — মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+#### মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 কি অবস্থা সবার কেমন আছেন?
@@ -366,11 +387,12 @@ meet.google.com
 - [রিসোর্স](https://meet.google.com/yac-xrnh-gvz)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1610715763964346)
 
+
 ### 2026-07-31
 
-#### নোটিশ — মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
+#### মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
 
-লেখক: Tanjim Al Fahim
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
 আর হ্যা, এরিনা ওয়েব সিকিউরিটি পেজে লাইক এন্ড রিভিউ মাস্ট।
@@ -378,9 +400,9 @@ https://www.facebook.com/ArenaBangladesh
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614226516946604)
 
-#### নোট ও ডকুমেন্ট — Session hijacking / Blocking, Mid Exam prep - b66 Delta
+#### Session hijacking / Blocking, Mid Exam prep - b66 Delta
 
-লেখক: Md. Khaledul Islam
+বিভাগ: documents · বিষয়: Session & Redirect · লেখক: Md. Khaledul Islam
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক
 docs.google.com
@@ -389,9 +411,9 @@ Session hijacking / Blocking, Mid Exam prep - b66 Delta
 - [রিসোর্স](https://docs.google.com/document/d/1-GJQv075oX67PWxaSWyKnsUMWyLMWbtuZQfBB37UAwU/edit?tab=t.0)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614143273621595)
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 31/07/2026
+#### ক্লাস রেকর্ড — 31/07/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ৩১/০৭/২০২৬
@@ -400,11 +422,12 @@ Session hijacking / Blocking, Mid Exam prep - b66 Delta
 - [রিসোর্স](https://drive.google.com/file/d/1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614267503609172)
 
+
 ### 2026-08-01
 
-#### তথ্য ও নির্দেশনা — INFORMATIONAL POST - 02
+#### INFORMATIONAL POST - 02
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 INFORMATIONAL POST - 02
 NO REDIRECT এর সামারী।
@@ -452,9 +475,9 @@ site name(website name. net or .com or org or com.in or....) এর পর /admi
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614256456943610)
 
-#### তথ্য ও নির্দেশনা — আসুন জেনে নেই- ৪
+#### আসুন জেনে নেই- ৪
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 আসুন জেনে নেই- ৪
 (Session Hijacking)
@@ -462,21 +485,24 @@ site name(website name. net or .com or org or com.in or....) এর পর /admi
 প্রথম কথায় নো-রিডাইরেক্ট হলো সাইটের একটা বাগ।
 বিষয়টা বোঝার আগে একটি ওয়েবসাইটের ষ্ট্রাকচার জানা থাকলে বিষয়টি ভালো ভাবে বোঝা যাবে।
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614255560277033)
+
 
 ### 2026-08-02
 
-#### তথ্য ও নির্দেশনা — Noredirect Practice
+#### Noredirect Practice
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 Noredirect Practice
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614257613610161)
 
-#### তথ্য ও নির্দেশনা — INFORMATIONAL POST-03
+#### INFORMATIONAL POST-03
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: HTTP & HTTPS · লেখক: Roman Moonshi
 
 INFORMATIONAL POST-03
 অনেকেই HTTP & HTTPS নিয়ে ঝামেলায় পড়েছেন, একটু সহজ করে দেই বিষয়টা।।
@@ -508,9 +534,9 @@ http প্রটোকলের মাধ্যমে আপনি আপনা
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614258413610081)
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 02/08/2026
+#### ক্লাস রেকর্ড — 02/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ০২/০৮/২০২৬
@@ -518,11 +544,12 @@ http প্রটোকলের মাধ্যমে আপনি আপনা
 
 - [রিসোর্স](https://drive.google.com/file/d/1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys/view?usp=sharing)
 
+
 ### 2026-08-07
 
-#### নোটিশ — 1st-Mid Exam - Cyber Security & Ethical Hacking
+#### 1st-Mid Exam - Cyber Security & Ethical Hacking
 
-লেখক: Tanjim Al Fahim
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 1st-Mid Exam - Cyber Security & Ethical Hacking
 Date: 7th August, 2026
@@ -549,11 +576,12 @@ Diploma Exam Link:
 - [রিসোর্স](https://forms.gle/qVZiF2ACHEeTrpBH7)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1620235829679006)
 
+
 ### 2026-08-09
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 09/08/2026
+#### ক্লাস রেকর্ড — 09/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ০৯/০৮/২০২৬
@@ -561,11 +589,12 @@ Diploma Exam Link:
 
 - [রিসোর্স](https://drive.google.com/file/d/1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp/view?usp=sharing)
 
+
 ### 2026-08-10
 
-#### তথ্য ও নির্দেশনা — আসুন জেনে নেই-০৫
+#### আসুন জেনে নেই-০৫
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: XSS · লেখক: Roman Moonshi
 
 আসুন জেনে নেই-০৫
 ক্রস-সাইট স্ক্রিপ্টিং(XSS)
@@ -574,11 +603,13 @@ Diploma Exam Link:
 এখন ওয়েবসাইট কারা তৈরী করে? অবশ্যই ডেভেলাপার রা। তারা ওয়েবসাইট তৈরী করতে গিয়ে অনকে সময়ই কোন না কোন ত্রু…
 +3
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1622087516160504)
 
-#### নোটিশ — Messenger Group Notice!!
+#### Messenger Group Notice!!
 
-লেখক: Roman Moonshi
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 Messenger Group Notice!!
 আপনাদের অফিশিয়ালি মেসেঞ্জার গ্রুপ খোলা হয়েছে। ইতিমধ্যে সবাইকে মেসেঞ্জার গ্রুপটিতে যুক্ত করা হয়েছে। আপনারা আপনাদের মেসেজ রিকোয়েস্ট কিংবা স্প্যাম ফোল্ডার চেক করলেই ব্যাচ এর নাম দেখতে পাবেন। অবশিষ্ট কিছু শিক্ষার্থী যারা এখনো অব্দি অ্যাড হতে পারেননি তাদের জন্য পরবর্তী ইন্সট্রাকশন গ্রুপে পোস্ট করা হবে।
@@ -590,11 +621,12 @@ Messenger Group Notice!!
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1622857422750180)
 
+
 ### 2026-08-12
 
-#### নোটিশ — Messenger Group Notice!!
+#### Messenger Group Notice!!
 
-লেখক: Roman Moonshi
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 Messenger Group Notice!!
 যারা এখনো অব্দি মেসেঞ্জার গ্রুপে যুক্ত হতে পারেননি, তারা নিম্নোক্ত নির্ধারিত ফেসবুক অ্যাকাউন্টে ফ্রেন্ড রিকোয়েস্ট পাঠান এবং ইনবক্সে আপনার ব্যাচের নাম ও ইমেইল ঠিকানা উল্লেখ করে একটি মেসেজ দিন। ছাত্রত্ব যাচাই সম্পন্ন হওয়ার পর অ্যাডমিন সরাসরি আপনাকে মেসেঞ্জার গ্রুপে যুক্ত করে নেবেন।
@@ -609,11 +641,12 @@ Spam
 - [রিসোর্স](https://www.facebook.com/qrazam71)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1624053222630600)
 
+
 ### 2026-08-14
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 14/08/2026
+#### ক্লাস রেকর্ড — 14/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ১৪/০৮/২০২৬
@@ -622,22 +655,24 @@ Spam
 - [রিসোর্স](https://drive.google.com/file/d/10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1626381205731135)
 
+
 ### 2026-08-15
 
-#### লাইভ ক্লাস ও ভিডিও — Errorbased SQLi
+#### Errorbased SQLi
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 Errorbased SQLi
 0:00 / 18:45
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1626383115730944)
 
+
 ### 2026-08-16
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 16/08/2026
+#### ক্লাস রেকর্ড — 16/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ১৬/০৮/২০২৬
@@ -645,11 +680,12 @@ Errorbased SQLi
 
 - [রিসোর্স](https://drive.google.com/file/d/10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf/view?usp=sharing)
 
+
 ### 2026-08-21
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 21/08/2026
+#### ক্লাস রেকর্ড — 21/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২১/০৮/২০২৬
@@ -658,11 +694,12 @@ Errorbased SQLi
 - [রিসোর্স](https://drive.google.com/file/d/1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1632498915119364)
 
+
 ### 2026-08-23
 
-#### তথ্য ও নির্দেশনা — আসুন জেনে নেই-০৭
+#### আসুন জেনে নেই-০৭
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: WAF · লেখক: Roman Moonshi
 
 আসুন জেনে নেই-০৭
 Shell
@@ -721,9 +758,9 @@ Defacement
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1632441241791798)
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 23/08/2026
+#### ক্লাস রেকর্ড — 23/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২৩/০৮/২০২৬
@@ -731,11 +768,12 @@ Defacement
 
 - [রিসোর্স](https://drive.google.com/file/d/1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ/view?usp=sharing)
 
+
 ### 2026-08-29
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 29/08/2026
+#### ক্লাস রেকর্ড — 29/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২৯/০৮/২০২৬
@@ -743,11 +781,12 @@ Defacement
 
 - [রিসোর্স](https://drive.google.com/file/d/1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp/view?usp=sharing)
 
+
 ### 2026-08-30
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 30/08/2026
+#### ক্লাস রেকর্ড — 30/08/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ৩০/০৮/২০২৬
@@ -755,11 +794,12 @@ Defacement
 
 - [রিসোর্স](https://drive.google.com/file/d/1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp/view?usp=sharing)
 
+
 ### 2026-09-04
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 04/09/2026
+#### ক্লাস রেকর্ড — 04/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ০৪/০৯/২০২৬
@@ -768,11 +808,12 @@ Defacement
 - [রিসোর্স](https://drive.google.com/file/d/10Ut65sMkUshm54yw4KjbputZMWY6uCfJ/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1644380957264493)
 
+
 ### 2026-09-06
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 06/09/2026
+#### ক্লাস রেকর্ড — 06/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ০৬/০৯/২০২৬
@@ -781,22 +822,24 @@ Defacement
 - [রিসোর্স](https://drive.google.com/file/d/1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1646127127089876)
 
+
 ### 2026-09-07
 
-#### টুলস ও সেটআপ — Linux Installation & Virtual Lab Setup
+#### Linux Installation & Virtual Lab Setup
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: Linux & Scripting · লেখক: Roman Moonshi
 
 Linux Installation & Virtual Lab Setup
 
 - [রিসোর্স](https://drive.google.com/file/d/1tMKC4u2W4LwNXZXlRX93wMH5M7TWBHYT/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1646665390369383)
 
+
 ### 2026-09-11
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 11/09/2026
+#### ক্লাস রেকর্ড — 11/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ১১/০৯/২০২৬
@@ -805,11 +848,12 @@ Linux Installation & Virtual Lab Setup
 - [রিসোর্স](https://drive.google.com/file/d/1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1650729253296330)
 
+
 ### 2026-09-13
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 13/09/2026
+#### ক্লাস রেকর্ড — 13/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ১৩/০৯/২০২৬
@@ -818,11 +862,12 @@ Linux Installation & Virtual Lab Setup
 - [রিসোর্স](https://drive.google.com/file/d/1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1652121839823738)
 
+
 ### 2026-09-16
 
-#### তথ্য ও নির্দেশনা — INFORMATIONAL POST-04
+#### INFORMATIONAL POST-04
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Malware Concepts · লেখক: Roman Moonshi
 
 INFORMATIONAL POST-04
 আমাদের গত ক্লাসে
@@ -841,11 +886,12 @@ Research PDF
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1654330032936252)
 
+
 ### 2026-09-18
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 18/09/2026
+#### ক্লাস রেকর্ড — 18/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ১৮/০৯/২০২৬
@@ -853,22 +899,24 @@ Research PDF
 
 - [রিসোর্স](https://drive.google.com/file/d/1EqmHoZaM6FRFG66-eSE70LODAIp30FS0/view?usp=sharing)
 
+
 ### 2026-09-19
 
-#### লাইভ ক্লাস ও ভিডিও — LFI/LFD Basics
+#### LFI/LFD Basics
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: LFI / LFD · লেখক: Roman Moonshi
 
 LFI/LFD Basics
 0:00 / 16:36
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1656477746054814)
 
+
 ### 2026-09-20
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 20/09/2026
+#### ক্লাস রেকর্ড — 20/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২০/০৯/২০২৬
@@ -876,11 +924,12 @@ LFI/LFD Basics
 
 - [রিসোর্স](https://drive.google.com/file/d/1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe/view?usp=sharing)
 
+
 ### 2026-09-25
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 25/09/2026
+#### ক্লাস রেকর্ড — 25/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২৫/০৯/২০২৬
@@ -888,11 +937,12 @@ LFI/LFD Basics
 
 - [রিসোর্স](https://drive.google.com/file/d/1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt/view?usp=sharing)
 
+
 ### 2026-09-27
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 27/09/2026
+#### ক্লাস রেকর্ড — 27/09/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ২৭/০৯/২০২৬
@@ -901,11 +951,12 @@ LFI/LFD Basics
 - [রিসোর্স](https://drive.google.com/file/d/1WT64w91wmge9FczUis8I-ZRVXgR2cT3c/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1664560601913195)
 
+
 ### 2026-10-02
 
-#### ক্লাস রেকর্ডিং — ক্লাস রেকর্ড — 02/10/2026
+#### ক্লাস রেকর্ড — 02/10/2026
 
-লেখক: Roman Moonshi
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 ক্লাস রেকর্ড
 ০২/১০/২০২৬
@@ -913,12 +964,26 @@ LFI/LFD Basics
 
 - [রিসোর্স](https://drive.google.com/file/d/1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj/view?usp=sharing)
 
-## তারিখ যাচাই বাকি
+
+### 2026-10-04
+
+#### ক্লাস রেকর্ড — 04/10/2026
+
+বিভাগ: recordings · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
+
+ক্লাস রেকর্ড
+০৪/১০/২০২৬
+12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2
+
+- [রিসোর্স](https://drive.google.com/file/d/12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2/view?usp=sharing)
+- [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1671359777899944)
 
 
-### তথ্য ও নির্দেশনা — Topic: Malware Removal Live Project (Part 1)
+### তারিখ যাচাই বাকি
 
-লেখক: Bijoy Chandra Mondal
+#### Topic: Malware Removal Live Project (Part 1)
+
+বিভাগ: information · বিষয়: Malware Removal · লেখক: Bijoy Chandra Mondal
 
 Topic: Malware Removal Live Project (Part 1)
 Class link :
@@ -926,20 +991,27 @@ Class topic will start 9:45 PM
 
 - [রিসোর্স](https://meet.google.com/gts-wjtq-meq)
 
-### তথ্য ও নির্দেশনা — আসসালামু আলাইকুম। কেমন আছেন সবাই?
+#### আসসালামু আলাইকুম। কেমন আছেন সবাই?
 
-লেখক: Tanjim Al Fahim · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: Orientation · লেখক: Tanjim Al Fahim
 
 আসসালামু আলাইকুম। কেমন আছেন সবাই?
 আমি তানজিম আল ফাহিম, আপনাদের কোর্সের প্রধান প্রশিক্ষক হিসেবে দায়িত্ব পালন করবো ইনশাআল্লাহ। আমি ছাড়াও ২১ জনের অভিজ্ঞ একটি টীম এবং সম্মানিত বিশেষজ্ঞ এবং দেশসেরা প্রশিক্ষকবৃন্দরা আপনাদের কোর্সের সাথে পুরো সময়কাল ধরেই থাকবেন।
+
 আপনাদের অরিয়েন্টেশন ক্লাস শুরু হবে রবিবার রাত ০৯ঃ৩০ মিনিটে।
-প্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন। সার্ভারে লগিন করে নিন, এ সংক্রান্ত কোন সমস্যা থাকলে পাসওয়ার্ড রিসেট অপশন থেকে পাসওয়া…
+প্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন। সার্ভারে লগিন করে নিন, এ সংক্রান্ত কোন সমস্যা থাকলে পাসওয়ার্ড রিসেট অপশন থেকে পাসওয়ার্ড রিসেট করে নিন অথবা গ্রুপ থেকে সহায়তা চেয়ে নিন।
+
+ক্লাসঃ অরিয়েন্টেশন এবং প্রথম দিকের ক্লাস গুলো এই গ্রুপে লাইভ, এবং সার্ভারেও পরিচালনা করা হয়ে থাকবে। ক্লাস প্লাটফর্ম হিসেবে, গ্রুপ - গুগল মিট, গুগল ক্লাস রুম এবং সার্ভার ব্যাবহার হয়ে থাকে।
+
+তবে কোর্সের একেবারে প্রথমেই সবাই সবার সাথে পরিচিত হয়ে নিতে ভূলবেন না। কমেন্টে আপনার নাম, কোথায় থাকেন, শিক্ষা প্রতিষ্ঠান কিংবা কর্মস্থলের পরিচয় দিয়ে কমেন্ট করে জানাতে ভূলবেন না। যেহেতু পুরো কোর্স জুড়ে একসাথেই কাজ করা হবে তাই ক্লাসের আগেই পরিচিত হয়ে নেই আপনার সাথে।
+
+ক্লাসে দেখা হচ্ছে ইনশাআল্লাহ। ধন্যবাদ।
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1601890488180207)
 
-### তথ্য ও নির্দেশনা — আর এক ঘন্টা পরেই
+#### আর এক ঘন্টা পরেই
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: Orientation · লেখক: Tanjim Al Fahim
 
 আর এক ঘন্টা পরেই
 রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
@@ -948,19 +1020,21 @@ Class topic will start 9:45 PM
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604060137963242)
 
-### তথ্য ও নির্দেশনা — আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
+#### আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
 
-লেখক: Tanjim Al Fahim · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: Orientation · লেখক: Tanjim Al Fahim
 
 আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
 প্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন।
 ক্লাসঃ অরিয়েন্টেশন এবং প্রথম দিকের ক্লাস গুলো এই গ্রুপে লাইভ পরিচালনা করা হয়ে থাকবে। ক্লাস প্লাটফর্ম হিসেবে, গ্রুপ -সার্ভার, গুগল ক্লাসরুম এবং গুগল মিট ব্যাবহার হয়ে থাকে।
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1603860857983170)
 
-### তথ্য ও নির্দেশনা — অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা
+#### অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: Orientation · লেখক: Tanjim Al Fahim
 
 অনেকের জন্য একেবারে নতুন হলেও আপনাদের সাথে লাইভ orientation class করে খুব ভালো লাগলো। খুবই মজার এবং enjoyable ছিলো। আবার কথা হচ্ছে ইনশাআল্লাহ্‌।
 ধন্যবাদ সকল এডমিন এবং মডারেটরদের আমার সাথে ক্লাসে সহায়তা করার জন্য। শুভ রাত্রি।
@@ -968,35 +1042,37 @@ Class topic will start 9:45 PM
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604185577950698)
 
-### নোট ও ডকুমেন্ট — ডিরেক্ট ক্লাস রিসোর্স লিংক …
+#### ডিরেক্ট ক্লাস রিসোর্স লিংক …
 
-লেখক: Md. Khaledul Islam · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: documents · বিষয়: Orientation · লেখক: Md. Khaledul Islam
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক …
 docs.google.com
 Orientation Class: B66 Delta
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
 
-### তথ্য ও নির্দেশনা — আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
 
-লেখক: Roman Moonshi
+#### আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
+
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
 0:00 / 3:35
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604209217948334)
 
-### তথ্য ও নির্দেশনা — Basic SQLI practice video
+#### Basic SQLI practice video
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 Basic SQLI practice video
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604211184614804)
 
-### নোট ও ডকুমেন্ট — আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
+#### আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
 
-লেখক: Roman Moonshi
+বিভাগ: documents · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
 হ্যাকিং টুলস ইন্সটলেশন সংক্রান্ত নির্দেশনা, নিয়মাবলী এবং টিউটোরিয়াল ভিডিওসহ সকল প্রয়োজনীয় তথ্য PDF ফাইলের মাধ্যমে প্রদান করা হয়েছে। অনুগ্রহ করে PDF ফাইলটি ওপেন করে টুলসগুলো সঠিকভাবে সেটআপ করে নিন।
@@ -1008,9 +1084,9 @@ Havij-guide.pdf
 - [রিসোর্স](https://drive.google.com/file/d/1nlChC8AnaJohEdDlLf7KDLOmaBg_KYMW/view?usp=drive_link)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604955407873715)
 
-### লাইভ ক্লাস ও ভিডিও — হেল্প পোস্ট
+#### হেল্প পোস্ট
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 হেল্প পোস্ট
 গ্রুপে অনেকেই রয়েছেন যাদের সিস্টেমে মাইক্রোসফট অফিস এপ্লিকেশন সেটআপ করা নেই। সেই ক্ষেত্রে তারা গুগল ডকস এর মাধ্যমে হোমওয়ার্ক এর জন্য পিডিএফ ফাইল তৈরি করে ব্যবহার করতে পারেন। এছাড়াও
@@ -1020,17 +1096,17 @@ Havij-guide.pdf
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604211724614750)
 
-### তথ্য ও নির্দেশনা — আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…
+#### আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে কমেন্টে জানাতে পারেন আমরা সবাই মিলে হেল্প করার চেষ্টা করব। পাশাপাশি আপনি টপিকটা ভালোভাবে বুঝে থাকলে আপনার ব্যাচমেট কেও হেল্প করতে পারেন এর উপর মার্কস ও রয়েছে।
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1604961474539775)
 
-### তথ্য ও নির্দেশনা — Extra remote support session
+#### Extra remote support session
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 Extra remote support session
 এখন অব্দি যারা হাবিজ সেটআপ করেননি তারা ক্লাসের পূর্বে রিমোট সাপোর্ট নিয়ে অ্যাপ্লিকেশনটা সেটআপ করে নিন। রিমোট সাপোর্টের জন্য
@@ -1040,9 +1116,9 @@ ULTRAVIEWER
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1605753791127210)
 
-### নোট ও ডকুমেন্ট — শুধুমাত্র Mac ডিভাইস এর জন্য
+#### শুধুমাত্র Mac ডিভাইস এর জন্য
 
-লেখক: Roman Moonshi
+বিভাগ: documents · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 শুধুমাত্র Mac ডিভাইস এর জন্য
 Havij guide
@@ -1052,9 +1128,9 @@ Havij Guide for Mac.pdf
 - [রিসোর্স](https://drive.google.com/file/d/11I48kL1Y7kWJmr3pWW2mPfw5vlMMcvN0/view?usp=drive_link)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1605748737794382)
 
-### তথ্য ও নির্দেশনা — হোমওয়ার্ক আপডেট:
+#### হোমওয়ার্ক আপডেট:
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 হোমওয়ার্ক আপডেট:
 যাদের হোম ওয়ার্ক এপ্রুভ হয়নি তারা প্যানেলে গিয়ে ডিক্লাইনের উপর ক্লিক করলেই কারণ জানতে পারবেন। যেহেতু আপনারা এই প্রথম সার্ভারে হোমওয়ার্ক সাবমিট করছেন তাই আপনাদের প্রবলেমগুলো এখানে দিয়ে দেওয়া হলো। এগুলো সল্ভ করে পুনরায় সাবমিট করুন ধন্যবাদ!
@@ -1063,11 +1139,13 @@ Farhan Mohmud (farhanctg006) >> আপনার পিডিএফ ফাইল�
 Md Alamin gazi (alamin7111998) >> নূন্যতম পাঁচটি ওয়েবসাইট এক্সেস করে সাবমিট করবেন
 …
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1606489351053654)
 
-### টুলস ও সেটআপ — শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
+#### শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
 সময়: ৭-৯ টা পর্যন্ত
@@ -1076,9 +1154,9 @@ Otherwise, to join by phone, dial +1 402-442-0171 and enter this PIN: 732 872 09
 meet.google.com
 
 
-### টুলস ও সেটআপ — এখনো অব্দি যারা
+#### এখনো অব্দি যারা
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 এখনো অব্দি যারা
 হাবিজ
@@ -1087,9 +1165,9 @@ meet.google.com
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1607868367582419)
 
-### টুলস ও সেটআপ — আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
+#### আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
 
-লেখক: Tanjim Al Fahim
+বিভাগ: tools · বিষয়: Orientation · লেখক: Tanjim Al Fahim
 
 আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
 অরিয়েন্টেশন ক্লাসের মতোই গ্রুপে চলে আসবেন, সকল দিকনির্দেশনা প্রদান করা হবে।
@@ -1097,9 +1175,9 @@ meet.google.com
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1607991684236754)
 
-### টুলস ও সেটআপ — Extra support session will start from 6:00 PM
+#### Extra support session will start from 6:00 PM
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 Extra support session will start from 6:00 PM
 Get
@@ -1111,9 +1189,9 @@ meet.google.com
 - [রিসোর্স](https://meet.google.com/ojv-owit-otz)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1607005577668698)
 
-### টুলস ও সেটআপ — Join for Havij tools related support
+#### Join for Havij tools related support
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 Join for Havij tools related support
 Closed at 1 AM
@@ -1124,9 +1202,9 @@ meet.google.com
 - [রিসোর্স](https://meet.google.com/vcj-dsvi-osq)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1608233307545925)
 
-### তথ্য ও নির্দেশনা — ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
+#### ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
 
-লেখক: Tanjim Al Fahim · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
 আমাদের পরবর্তী ক্লাস "অনলাইন লোকেশন ট্র
@@ -1134,11 +1212,13 @@ meet.google.com
 ্যাকিং" এবং অনলাইনের মাধ্যমে কারো তথ্য বের করা।
 সম্পূর্ণ প্রজেক্ট ভিত্তিক ক্লাস। লাইভ ক্লাস মিস করবেন না।…
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1608227137546542)
 
-### নোট ও ডকুমেন্ট — Submit 3 SQLi site link with screenshot...
+#### Submit 3 SQLi site link with screenshot...
 
-লেখক: Roman Moonshi
+বিভাগ: documents · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 Submit 3 SQLi site link with screenshot...
 https://docs.google.com/document/d/129j6c7u1S-e6atUbnlis50Cnpm3qtrHaKP_KSENe_eo/edit?usp=sharing
@@ -1148,30 +1228,34 @@ Submit 3 SQLi site link with screenshot
 - [রিসোর্স](https://docs.google.com/document/d/129j6c7u1S-e6atUbnlis50Cnpm3qtrHaKP_KSENe_eo/edit?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1608246277544628)
 
-### তথ্য ও নির্দেশনা — চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
+#### চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
 File Extension
 ফাইলঃ
 গ্রুপে অনেককেই দেখি জিপ ফাইল এর উপর ডাবল ক্লিক করে টুলস গুলো রান করার চেষ্টা করেন।যার ফলে প্রকৃতপক্ষে টুলসগুলো রান করতে না পেরে আপনারা ঘাবড়ে যান। আসুন এখন জেনে নেই জিপ ফাইল কি জিনিস? জিপ ফাইলকে আমরা একটি ডিমের উপরের আবরণ এর সাথে তুলনা করতে পারি। ডিমের উপরের আবরণ যেমন ভেতরের ডিমের অংশটুকু কে সুরক্ষিত রাখে অথবা তার আবরণ দ্বারা ডিমের অংশটুকু কে যেভাবে ঢেকে রাখে ঠিক সেভাবেই একটি জিপ ফাইল তার ভেতরের যে কোন ফোল্ডার টুলস সফটওয়্…
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1608248120877777)
 
-### নোট ও ডকুমেন্ট — ডিরেক্ট ক্লাস রিসোর্স লিংক …
+#### ডিরেক্ট ক্লাস রিসোর্স লিংক …
 
-লেখক: Md. Khaledul Islam · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: documents · বিষয়: যাচাই বাকি · লেখক: Md. Khaledul Islam
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক …
 docs.google.com
 OSINT - B66 Delta
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1609800807389175)
 
-### তথ্য ও নির্দেশনা — সবাই ক্লাসে চলে আসুন।
+#### সবাই ক্লাসে চলে আসুন।
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 সবাই ক্লাসে চলে আসুন।
 posted to
@@ -1182,17 +1266,17 @@ OSINT - B66 Delta
 - [রিসোর্স](https://www.facebook.com/groups/awsb66delta/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1609800030722586)
 
-### তথ্য ও নির্দেশনা — OSINT - B66 Delta
+#### OSINT - B66 Delta
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: OSINT · লেখক: Tanjim Al Fahim
 
 OSINT - B66 Delta
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1609799717389284)
 
-### তথ্য ও নির্দেশনা — কি এক্ট্যা অবস্থা !!!
+#### কি এক্ট্যা অবস্থা !!!
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 কি এক্ট্যা অবস্থা !!!
 আপনার কাছের কেউ যদি আপনার ওয়াই-ফাই পাসওয়ার্ড বা মেইলের পাসওয়ার্ড চুরি করে আপনারই সামনে বসে,
@@ -1200,11 +1284,13 @@ OSINT - B66 Delta
 ব্রাউজারের সেইভড্‌ পাসওয়ার্ডঃ
 ব্রাউজারে পাসওয়ার্ড সেইভ রাখার যেমন সুবিধা আছে আবার আছে ঠিক তার উল্টো ইফেক্ট।
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1610714410631148)
 
-### টুলস ও সেটআপ — Extra support session will start from 7:00 PM
+#### Extra support session will start from 7:00 PM
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 Extra support session will start from 7:00 PM
 Get
@@ -1216,9 +1302,9 @@ meet.google.com
 - [রিসোর্স](https://meet.google.com/vur-nduv-qcs)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1612996040402985)
 
-### তথ্য ও নির্দেশনা — CyberFox for Mac.txt
+#### CyberFox for Mac.txt
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 Text
 CyberFox for Mac.txt
@@ -1226,9 +1312,9 @@ CyberFox for Mac.txt
 - [রিসোর্স](https://www.facebook.com/download/1074110211846797/CyberFox%20for%20Mac.txt)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1612892513746671)
 
-### তথ্য ও নির্দেশনা — Arena private Campus directory
+#### Arena private Campus directory
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 Arena private Campus directory
 Password: loveaws
@@ -1238,9 +1324,9 @@ Arena Cyber Command
 - [রিসোর্স](https://toolkit.arenawebsecurity.net/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1610714913964431)
 
-### তথ্য ও নির্দেশনা — সবাই ক্লাসে চলে আসুন।
+#### সবাই ক্লাসে চলে আসুন।
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Tanjim Al Fahim
 
 সবাই ক্লাসে চলে আসুন।
 posted to
@@ -1250,27 +1336,29 @@ Session hijacking / Blocking, Mid Exam prep
 
 - [রিসোর্স](https://www.facebook.com/groups/awsb66delta/)
 
-### তথ্য ও নির্দেশনা — Session hijacking / Blocking, Mid Exam prep
+#### Session hijacking / Blocking, Mid Exam prep
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Tanjim Al Fahim
 
 Session hijacking / Blocking, Mid Exam prep
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614142453621677)
 
-### নোটিশ — গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…
+#### গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…
 
-লেখক: রাফি ইসলাম রাসেল · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: রাফি ইসলাম রাসেল
 
 গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটলম্যান্ট পরিশোধ করে নিন।
 যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন (এডমিশনের সময় যারা 'FULL PAYMENT' করেছেন, তাদের আর কিছু করতে হবে না) তারা ইমেইল না পেয়ে থাকলে এই পোস্টে জানাবেন।
 আর বাকি যারা আছেন, তারা ২য় ইন্সটলম্যান্ট পরিশোধের পর নিন্মোল্লেখিত পেমেন্ট হটলাইনে হোয়াটসঅ্যাপে ম্যাসেজের মাধ্যমে CONFIRMATION নিয়ে নিবেন। 01324176402 (ONLY PAYMENT HOTLINE, WHATSAPP) পেমেন্টের স্ক্রিনশট বা …
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614265676942688)
 
-### নোট ও ডকুমেন্ট — Gift for AWS Batch 66 Delta
+#### Gift for AWS Batch 66 Delta
 
-লেখক: Roman Moonshi
+বিভাগ: documents · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 Gift for AWS Batch 66 Delta
 E-book copy:
@@ -1280,20 +1368,22 @@ PDF copy:
 - [রিসোর্স](https://shorturl.at/ZVBbu)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614259826943273)
 
-### তথ্য ও নির্দেশনা — যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
+#### যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
 
-লেখক: Md. Khaledul Islam · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Md. Khaledul Islam
 
 যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
 সাপোর্ট চলবে রাত ১১:৪৫ মিনিট পর্যন্ত
 meet.google.com
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [রিসোর্স](https://meet.google.com/esk-jxss-ivm)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614232903612632)
 
-### টুলস ও সেটআপ — CYBER-71 private exploit tools
+#### CYBER-71 private exploit tools
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 CYBER-71 private exploit tools
 https://toolkit.arenawebsecurity.net/tools/admin_finder.php
@@ -1303,9 +1393,9 @@ Secure Access
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614765363559386)
 
-### লাইভ ক্লাস ও ভিডিও — VIDEO FOR NO-REDIRECT
+#### VIDEO FOR NO-REDIRECT
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 VIDEO FOR NO-REDIRECT
 ফাইনালী সাথে একটি পুরনো ভিডিও সংযুক্ত করে দিলাম
@@ -1316,17 +1406,17 @@ Enjoy video
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1614257150276874)
 
-### তথ্য ও নির্দেশনা — Manual SQL Injection
+#### Manual SQL Injection
 
-লেখক: Md Ashif Islam
+বিভাগ: information · বিষয়: SQL Injection · লেখক: Md Ashif Islam
 
 Manual SQL Injection
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1615883486780907)
 
-### নোট ও ডকুমেন্ট — আপনাদের হোমওয়ার্ক:
+#### আপনাদের হোমওয়ার্ক:
 
-লেখক: Roman Moonshi
+বিভাগ: documents · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 আপনাদের হোমওয়ার্ক:
 যে কোন পাঁচটি সাইট ম্যানুয়ালি এসকিউএল ইনজেকশন এর মাধ্যমে এডমিনের ইনফরমেশন ডাম্প করা। এখন আপনি চাইলে নিজে থেকে সাইট খুঁজে নিয়ে কাজ করতে পারেন অথবা এখানে দশটি সাইট রয়েছে এখান থেকেও যেকোন পাঁচটি করে নিতে পারবেন ধন্যবাদ।
@@ -1337,9 +1427,9 @@ Submit 5 manual SQLi sites link with screenshot
 - [রিসোর্স](https://docs.google.com/document/d/1nFaeFgkMQ6EN0SXgnOKax06xKqMsVIMdFTabBcUaEp4/edit?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1615964790106110)
 
-### তথ্য ও নির্দেশনা — CyberFox ultimate version
+#### CyberFox ultimate version
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Session & Redirect · লেখক: Roman Moonshi
 
 CyberFox ultimate version
 drive.google.com
@@ -1348,35 +1438,35 @@ CyberfoxP.rar
 - [রিসোর্স](https://drive.google.com/file/d/1kFA53LckLr9ljMuWKGslQ45NXK_i2X25/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1615969903438932)
 
-### লাইভ ক্লাস ও ভিডিও — Manual SQLI practice video
+#### Manual SQLI practice video
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 Manual SQLI practice video
 0:00 / 0:00
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1615969490105640)
 
-### নোটিশ — যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …
+#### যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …
 
-লেখক: Tanjim Al Fahim
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন না পান কিংবা পোর্টালে আপডেট না হয় ইমেইলটা পুনরায় চেক করে অবশ্যই আজকের মধ্যে ইমেইলে যোগাযোগ করে নিন।
 ২য় ইন্সটলম্যান্ট পরিশোধের নিয়ম পিন পোষ্টেই দেওয়া আছে, কমেন্টেও সংযুক্ত করে দেওয়া হচ্ছে। ধন্যবাদ।
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1616417463394176)
 
-### তথ্য ও নির্দেশনা — Manual SQL Injection practice output
+#### Manual SQL Injection practice output
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 Manual SQL Injection practice output
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1615974870105102)
 
-### তথ্য ও নির্দেশনা — প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…
+#### প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ গুলো অবশ্যই পড়বেন। কোথাও কোন প্রবলেম হলে আমাকে অবশ্যই জানাবেন ধন্যবাদ।
 drive.google.com
@@ -1384,27 +1474,29 @@ SQLI - Google Drive
 
 - [রিসোর্স](https://drive.google.com/drive/u/3/folders/1QyI7Rwl62MMvV0MsZnWAJz2pZJEUP-Fl)
 
-### নোটিশ — কাল‌কে না‌কি পরীক্ষা!!
+#### কাল‌কে না‌কি পরীক্ষা!!
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 কাল‌কে না‌কি পরীক্ষা!!
 আপনা‌দের প্রিপা‌রেশন ঠিকঠাক আ‌ছে তো???
 তাইলে আমিও পড়তে বসি…
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1618322976536958)
 
-### তথ্য ও নির্দেশনা — Understanding Google dork
+#### Understanding Google dork
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: Google Dork · লেখক: Roman Moonshi
 
 Understanding Google dork
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1618321853203737)
 
-### নোটিশ — প্রিয় শিক্ষার্থীবৃন্দ,
+#### প্রিয় শিক্ষার্থীবৃন্দ,
 
-লেখক: Roman Moonshi
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 প্রিয় শিক্ষার্থীবৃন্দ,
 ইতিমধ্যেই আপনাদের পরীক্ষা শুরু হয়েছে। এক্সাম পেপার একবার রিফ্রেস করলেই প্রশ্নপত্র দেখতে পাবেন।
@@ -1416,17 +1508,17 @@ Understanding Google dork
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1620238739678715)
 
-### নোটিশ — ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
+#### ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
 
-লেখক: Tanjim Al Fahim
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
 যারা ২য় ইন্সটলম্যান্ট পরিশোধ করেছেন সবার পোর্টালে পেমেন্ট আপডেট সহ পেমেন্ট রিসিপ্ট ইমেইলে পেয়ে গেছেন। কেউ যদি এখনো কনফার্মেশন পাওয়া বাকি থাকেন তাহলে ইমেইলটা পুনরায় চেক করে আজকে অফিস সময়ের মধ্যে আমাদের WhatsApp এ যোগাযোগ করে নিন। +8801310333444
 
 
-### নোট ও ডকুমেন্ট — Class Resource:
+#### Class Resource:
 
-লেখক: Syed Sakib Alam Mubin
+বিভাগ: documents · বিষয়: XSS · লেখক: Syed Sakib Alam Mubin
 
 Class Resource:
 docs.google.com
@@ -1435,17 +1527,17 @@ Cross Site Scripting (XSS)
 - [রিসোর্স](https://docs.google.com/document/d/1Rem_8oiP3SkVgZvpZ8ES1IhGXUyfivD1pnoiMhdIsSs/edit?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1621986936170562)
 
-### তথ্য ও নির্দেশনা — Cross Site Scripting (XSS)
+#### Cross Site Scripting (XSS)
 
-লেখক: Syed Sakib Alam Mubin
+বিভাগ: information · বিষয়: XSS · লেখক: Syed Sakib Alam Mubin
 
 Cross Site Scripting (XSS)
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1621971836172072)
 
-### নোট ও ডকুমেন্ট — Correct Answers 1st Mid Exam CEHF
+#### Correct Answers 1st Mid Exam CEHF
 
-লেখক: Roman Moonshi
+বিভাগ: documents · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 Correct Answers 1st Mid Exam CEHF
 PDF
@@ -1454,18 +1546,18 @@ Correct-Answers-66-Delta.pdf
 - [রিসোর্স](https://www.facebook.com/download/2103561483890513/Correct-Answers-66-Delta.pdf)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1620243993011523)
 
-### তথ্য ও নির্দেশনা — কি অবস্থা সবার??
+#### কি অবস্থা সবার??
 
-লেখক: Tanjim Al Fahim
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Tanjim Al Fahim
 
 কি অবস্থা সবার??
 এক্সাম কেমন হলো?
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1620350193000903)
 
-### তথ্য ও নির্দেশনা — মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+#### মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 কি অবস্থা সবার কেমন আছেন?
@@ -1474,11 +1566,13 @@ Correct-Answers-66-Delta.pdf
 Meet-এ যোগদানের তথ্য:
 meet.google.com
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1622805392755383)
 
-### নোট ও ডকুমেন্ট — XSS
+#### XSS
 
-লেখক: Md Ashif Islam
+বিভাগ: documents · বিষয়: XSS · লেখক: Md Ashif Islam
 
 XSS
 notepad.pw
@@ -1486,17 +1580,17 @@ Save your notes online for free and share them with friends!
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1626235589079030)
 
-### তথ্য ও নির্দেশনা — SQLi WAF
+#### SQLi WAF
 
-লেখক: Md Ashif Islam
+বিভাগ: information · বিষয়: SQL Injection · লেখক: Md Ashif Islam
 
 SQLi WAF
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1626208339081755)
 
-### তথ্য ও নির্দেশনা — WAF bypass tips-
+#### WAF bypass tips-
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 WAF bypass tips-
 আমি একটি লিংক শেয়ার করছি(যদিও সেটি ইংরেজিতে, কিন্তু বুঝার জন্য তেমন জটিল না।)
@@ -1509,37 +1603,39 @@ owasp.org
 SQL Injection Bypassing WAF | OWASP Foundation
 SQL Injection Bypassing WAF on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1626383222397600)
 
-### নোট ও ডকুমেন্ট — Untitled document
+#### Untitled document
 
-লেখক: Md Ashif Islam
+বিভাগ: documents · বিষয়: যাচাই বাকি · লেখক: Md Ashif Islam
 
 docs.google.com
 Untitled document
 
 - [রিসোর্স](https://docs.google.com/document/d/1QAdlTL9FowtSZCWQxIanBL0aJrec_gmlwzxKoyRS5CM/edit?usp=sharing)
 
-### তথ্য ও নির্দেশনা — Burp Suite
+#### Burp Suite
 
-লেখক: Syed Sakib Alam Mubin
+বিভাগ: information · বিষয়: Burp Suite · লেখক: Syed Sakib Alam Mubin
 
 Burp Suite
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1628018352234087)
 
-### লাইভ ক্লাস ও ভিডিও — Post Based SQLi
+#### Post Based SQLi
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: SQL Injection · লেখক: Roman Moonshi
 
 Post Based SQLi
 0:00 / 6:30
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1626383545730901)
 
-### টুলস ও সেটআপ — বার্পসুইট ভিডিও রিসোর্স
+#### বার্পসুইট ভিডিও রিসোর্স
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: Burp Suite · লেখক: Roman Moonshi
 
 বার্পসুইট ভিডিও রিসোর্স
 পাসওয়ার্ডঃ aws
@@ -1549,9 +1645,9 @@ Burp Suite Unfiltered - Go from a Beginner to Advanced!.rar
 - [রিসোর্স](https://drive.google.com/file/d/1h60zw8KvLbSolk5TQk8RxYwrtfHTDrQh/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1628369578865631)
 
-### নোটিশ — আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…
+#### আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…
 
-লেখক: Roman Moonshi
+বিভাগ: notices · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে qrteam@arenawebsecurity.net এ যথা উপযুক্ত কারণ দর্শিয়ে ইমেইল করবেন।
 drive.google.com
@@ -1559,39 +1655,43 @@ B-66 Delta Mid Result.pdf
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1628369195532336)
 
-### টুলস ও সেটআপ — সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
+#### সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
 
-লেখক: Syed Sakib Alam Mubin · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: tools · বিষয়: Burp Suite · লেখক: Syed Sakib Alam Mubin
 
 সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
 কোনো প্রবলেম ফেইস করলে কমেন্টে জানাবেন।
 ধন্যবাদ।
 Installation Video
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1628161408886448)
 
-### নোট ও ডকুমেন্ট — Forensic Related Post
+#### Forensic Related Post
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: documents · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 Forensic Related Post
 Browser Forensic
 সাইবার ক্রাইম বিষয়ে অনেক সময় আমরা দেখি আইন-শৃঙ্খলা রক্ষাকারী বাহিনী সাসপেক্টের পিসি/ল্যাপটপ, মোবাইল ডিভাইস সব নিয়ে যায়(সাময়িক সময়ের জন্য), আসলে নিয়ে কি করে??
 তারা সেটাতে বিভিন্ন প্রকারের অনুসন্ধান চালায়, দেখে তার পিসিতে কি কি ডকুমেন্ট আছে? কি কি ফাইল আছে? কি কি এ্যাপ আছে? কার কার সাথে যোগাযোগ করে? যোগাযোগের জন্য কি কি এ্যাপ ব্যাবহার করে? কোন কোন সাইটে বেশী ব্রাউজ করে?? সোশাল মিডিয়াতে কাকে কাকে ফলো করে?? আবার কোন ফাইল রিসেন্টলি ডিলেট করেছে …
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1628370425532213)
 
-### তথ্য ও নির্দেশনা — Deface page making
+#### Deface page making
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: File Upload · লেখক: Roman Moonshi
 
 Deface page making
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1632429445126311)
 
-### তথ্য ও নির্দেশনা — আসুন জেনে নেই- ৬
+#### আসুন জেনে নেই- ৬
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: File Upload · লেখক: Roman Moonshi
 
 আসুন জেনে নেই- ৬
 (Upload vulnerability)
@@ -1602,53 +1702,55 @@ Deface page making
 limewire.com
 Download up.php | LimeWire
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1632429001793022)
 
-### তথ্য ও নির্দেশনা — WebShell / Backdoor concept & deface page making
+#### WebShell / Backdoor concept & deface page making
 
-লেখক: Sakib Ahmed Sadhin
+বিভাগ: information · বিষয়: File Upload · লেখক: Sakib Ahmed Sadhin
 
 WebShell / Backdoor concept & deface page making
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1632339608468628)
 
-### তথ্য ও নির্দেশনা — up_shell_fight
+#### up_shell_fight
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: File Upload · লেখক: Roman Moonshi
 
 up_shell_fight
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1632440608458528)
 
-### লাইভ ক্লাস ও ভিডিও — Upload vulnerability
+#### Upload vulnerability
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: File Upload · লেখক: Roman Moonshi
 
 Upload vulnerability
 0:00 / 0:00
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1632429668459622)
 
-### নোট ও ডকুমেন্ট — Webshell-B.pdf
+#### Webshell-B.pdf
 
-লেখক: Md Ashif Islam
+বিভাগ: documents · বিষয়: File Upload · লেখক: Md Ashif Islam
 
 PDF
 Webshell-B.pdf
 
 - [রিসোর্স](https://www.facebook.com/download/1420612573243103/Webshell-B.pdf)
 
-### তথ্য ও নির্দেশনা — Advance WebShell
+#### Advance WebShell
 
-লেখক: Md Ashif Islam
+বিভাগ: information · বিষয়: File Upload · লেখক: Md Ashif Islam
 
 Advance WebShell
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1634028824966373)
 
-### টুলস ও সেটআপ — Advanced Shell Resource
+#### Advanced Shell Resource
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: tools · বিষয়: File Upload · লেখক: Roman Moonshi
 
 Advanced Shell Resource
 Shell file password: aws
@@ -1657,47 +1759,49 @@ part-1:
 drive.google.com
 ShellTC.rar
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [রিসোর্স](https://drive.google.com/file/d/1Pm2LR1Zg3bI4vDCenjuAsc6X9HWDYcH8/view)
 - [রিসোর্স](https://drive.google.com/file/d/1aPft3a16Ue-aFuY2pTNXvlSAv6Hsw2Ac/view)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1634198088282780)
 
-### নোট ও ডকুমেন্ট — Files Uploading Vulnerabilities.pdf
+#### Files Uploading Vulnerabilities.pdf
 
-লেখক: Md Ashif Islam
+বিভাগ: documents · বিষয়: File Upload · লেখক: Md Ashif Islam
 
 PDF
 Files Uploading Vulnerabilities.pdf
 
 - [রিসোর্স](https://www.facebook.com/download/1615848803430194/Files%20Uploading%20Vulnerabilities.pdf)
 
-### নোট ও ডকুমেন্ট — FileUV.pdf
+#### FileUV.pdf
 
-লেখক: Md Ashif Islam
+বিভাগ: documents · বিষয়: যাচাই বাকি · লেখক: Md Ashif Islam
 
 PDF
 FileUV.pdf
 
 - [রিসোর্স](https://www.facebook.com/download/1417754170268096/FileUV.pdf)
 
-### তথ্য ও নির্দেশনা — Portswigger
+#### Portswigger
 
-লেখক: Syed Sakib Alam Mubin
+বিভাগ: information · বিষয়: Burp Suite · লেখক: Syed Sakib Alam Mubin
 
 Portswigger
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1638333177869271)
 
-### তথ্য ও নির্দেশনা — Deepseek SSRF --BUT sandbox :(
+#### Deepseek SSRF --BUT sandbox :(
 
-লেখক: Md Ashif Islam
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Md Ashif Islam
 
 Deepseek SSRF --BUT sandbox :(
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1634471391588783)
 
-### টুলস ও সেটআপ — Acunetix resource file
+#### Acunetix resource file
 
-লেখক: Md. Khaledul Islam
+বিভাগ: tools · বিষয়: যাচাই বাকি · লেখক: Md. Khaledul Islam
 
 Acunetix resource file
 drive.google.com
@@ -1706,17 +1810,17 @@ Acunetix-v24.1-Windows.rar
 - [রিসোর্স](https://drive.google.com/file/d/1_qMh5E_NC1cA-i7aJ2QjRfbvgcx5rDaZ/view?usp=sharing)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1640097204359535)
 
-### তথ্য ও নির্দেশনা — Acunetix
+#### Acunetix
 
-লেখক: Md. Khaledul Islam
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Md. Khaledul Islam
 
 Acunetix
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1640006177701971)
 
-### লাইভ ক্লাস ও ভিডিও — Linux Installation & Virtual Lab Setup
+#### Linux Installation & Virtual Lab Setup
 
-লেখক: Md. Khaledul Islam
+বিভাগ: classes · বিষয়: Linux & Scripting · লেখক: Md. Khaledul Islam
 
 Linux Installation & Virtual Lab Setup
 0:00 / 1:58:03
@@ -1724,9 +1828,9 @@ Linux Installation & Virtual Lab Setup
 - [রিসোর্স](https://www.facebook.com/khaleddevsec/videos/2311014589647758/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1645991267103462)
 
-### নোট ও ডকুমেন্ট — Batch Scripting Resource
+#### Batch Scripting Resource
 
-লেখক: Md. Khaledul Islam
+বিভাগ: documents · বিষয়: Linux & Scripting · লেখক: Md. Khaledul Islam
 
 Batch Scripting Resource
 PDF
@@ -1734,17 +1838,17 @@ Batch_Scripting_Short_Notes.pdf
 
 - [রিসোর্স](https://www.facebook.com/download/932554422682616/Batch_Scripting_Short_Notes.pdf)
 
-### তথ্য ও নির্দেশনা — Batch Scripting
+#### Batch Scripting
 
-লেখক: Md. Khaledul Islam
+বিভাগ: information · বিষয়: Linux & Scripting · লেখক: Md. Khaledul Islam
 
 Batch Scripting
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1644256053943650)
 
-### টুলস ও সেটআপ — Linux installation in VMware
+#### Linux installation in VMware
 
-লেখক: Roman Moonshi
+বিভাগ: tools · বিষয়: Linux & Scripting · লেখক: Roman Moonshi
 
 Linux installation in VMware
 https://drive.google.com/file/d/1LwowKtmXfIXpDbz4UvgG1-QAoxrSkbAn/view?usp=sharing
@@ -1753,20 +1857,22 @@ vmware-setup.mp4
 
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1646665933702662)
 
-### তথ্য ও নির্দেশনা — Topic: Keylogger, Spyware & RAT (Live/Practical)
+#### Topic: Keylogger, Spyware & RAT (Live/Practical)
 
-লেখক: Bijoy Chandra Mondal · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: Malware Concepts · লেখক: Bijoy Chandra Mondal
 
 Topic: Keylogger, Spyware & RAT (Live/Practical)
 Class link :
 Class topic will start 9:45 PM…
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [রিসোর্স](https://meet.google.com/zjw-jsqq-oju)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1651981633171092)
 
-### লাইভ ক্লাস ও ভিডিও — Linux CLI & Fundamental
+#### Linux CLI & Fundamental
 
-লেখক: Sakib Ahmed Sadhin
+বিভাগ: classes · বিষয়: Linux & Scripting · লেখক: Sakib Ahmed Sadhin
 
 Linux CLI & Fundamental
 0:00 / 2:09:22
@@ -1774,9 +1880,9 @@ Linux CLI & Fundamental
 - [রিসোর্স](https://www.facebook.com/sahmsec/videos/2119205895669030/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1650292053340050)
 
-### নোট ও ডকুমেন্ট — What is Crypter Antivirus & Virus.pdf
+#### What is Crypter Antivirus & Virus.pdf
 
-লেখক: Bijoy Chandra Mondal
+বিভাগ: documents · বিষয়: Malware Concepts · লেখক: Bijoy Chandra Mondal
 
 PDF
 What is Crypter Antivirus & Virus.pdf
@@ -1784,9 +1890,9 @@ What is Crypter Antivirus & Virus.pdf
 - [রিসোর্স](https://www.facebook.com/download/1070691385721202/What%20is%20Crypter%20Antivirus%20%26%20Virus.pdf)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1652083599827562)
 
-### লাইভ ক্লাস ও ভিডিও — Local File Inclusion (LFI)
+#### Local File Inclusion (LFI)
 
-লেখক: Syed Sakib Alam Mubin
+বিভাগ: classes · বিষয়: LFI / LFD · লেখক: Syed Sakib Alam Mubin
 
 Local File Inclusion (LFI)
 0:00 / 2:17:15
@@ -1794,9 +1900,9 @@ Local File Inclusion (LFI)
 - [রিসোর্স](https://www.facebook.com/S4MC71/videos/944493894821037/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1656289636073625)
 
-### লাইভ ক্লাস ও ভিডিও — Linux Tools & Environment Setup, Burp in kali
+#### Linux Tools & Environment Setup, Burp in kali
 
-লেখক: Sakib Ahmed Sadhin
+বিভাগ: classes · বিষয়: Linux & Scripting · লেখক: Sakib Ahmed Sadhin
 
 Linux Tools & Environment Setup, Burp in kali
 0:00 / 2:16:45
@@ -1804,9 +1910,9 @@ Linux Tools & Environment Setup, Burp in kali
 - [রিসোর্স](https://www.facebook.com/sahmsec/videos/1504289691484713/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1657993995903189)
 
-### নোট ও ডকুমেন্ট — Local File Inclusion Vulnerability(Lfi):
+#### Local File Inclusion Vulnerability(Lfi):
 
-লেখক: Roman Moonshi
+বিভাগ: documents · বিষয়: LFI / LFD · লেখক: Roman Moonshi
 
 Local File Inclusion Vulnerability(Lfi):
 নিয়ে কিছু বলার আগে ছোট করে বলে দেই - আগে আমরা ওয়েব সাইটের ভার্নাবেলিটি থেকে ওয়েবসাইটের তথ্য বের করেছি বা ওয়েবসাইট এক্সেস কিংবা হ্যাক করেছি। এই পার্টে আমরা দেখবো ওয়েবসাইটের ভার্নাভেলিটির মাধ্যমে ওয়েব সার্ভারের গুরুত্বপূর্ণ তথ্য বের করা। এবং তাতে এমন ও হতে পারে আমরা ওয়েব এপ্লিকেশন সিস্টেমের গোটা সার্ভার নিয়ন্ত্রণে নিয়ে নিতে পারি।
@@ -1816,9 +1922,9 @@ Web Server.pdf
 - [রিসোর্স](https://www.facebook.com/download/1056508810719747/Web%20Server.pdf)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1656475676055021)
 
-### তথ্য ও নির্দেশনা — আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
+#### আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
 
-লেখক: Roman Moonshi · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
 Meet-এ যোগদানের তথ্য:
@@ -1827,11 +1933,13 @@ Meet-এ যোগদানের তথ্য:
 সন্ধ্যা ৭:১৫ টা থেকে রাত ৯ টা পর্যন্ত
 meet.google.com
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1658753369160585)
 
-### নোট ও ডকুমেন্ট — Java & Go commands:
+#### Java & Go commands:
 
-লেখক: Sakib Ahmed Sadhin
+বিভাগ: documents · বিষয়: Linux & Scripting · লেখক: Sakib Ahmed Sadhin
 
 Java & Go commands:
 PDF
@@ -1839,26 +1947,26 @@ java&go commands.pdf
 
 - [রিসোর্স](https://www.facebook.com/download/1142563261776299/java%26go%20commands.pdf)
 
-### টুলস ও সেটআপ — Burploader resource:
+#### Burploader resource:
 
-লেখক: Sakib Ahmed Sadhin
+বিভাগ: tools · বিষয়: Burp Suite · লেখক: Sakib Ahmed Sadhin
 
 Burploader resource:
 
 - [রিসোর্স](https://github.com/sahmsec/burploader)
 
-### লাইভ ক্লাস ও ভিডিও — LFI to Rce Final
+#### LFI to Rce Final
 
-লেখক: Md Ashif Islam
+বিভাগ: classes · বিষয়: LFI / LFD · লেখক: Md Ashif Islam
 
 youtube.com
 LFI to Rce Final
 
 - [রিসোর্স](https://youtu.be/5MQFCI1a9uQ)
 
-### লাইভ ক্লাস ও ভিডিও — LFI — Not acceptable bypass
+#### LFI — Not acceptable bypass
 
-লেখক: Md Ashif Islam
+বিভাগ: classes · বিষয়: LFI / LFD · লেখক: Md Ashif Islam
 
 https://youtu.be/fobeXDPJZdk
 youtube.com
@@ -1866,9 +1974,9 @@ LFI (not acceptable bypass)
 
 - [রিসোর্স](https://youtu.be/fobeXDPJZdk)
 
-### লাইভ ক্লাস ও ভিডিও — Advance LFI to RCE
+#### Advance LFI to RCE
 
-লেখক: Md Ashif Islam
+বিভাগ: classes · বিষয়: LFI / LFD · লেখক: Md Ashif Islam
 
 Advance LFI to RCE
 0:00 / 0:00
@@ -1876,27 +1984,29 @@ Advance LFI to RCE
 - [রিসোর্স](https://www.facebook.com/XploitAsh.sh/videos/2585418491898562/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1662445735458015)
 
-### তথ্য ও নির্দেশনা — Topic: "Web hosting Concept & Wordpress"
+#### Topic: "Web hosting Concept & Wordpress"
 
-লেখক: Bijoy Chandra Mondal · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: information · বিষয়: Hosting & WordPress · লেখক: Bijoy Chandra Mondal
 
 Topic: "Web hosting Concept & Wordpress"
 Class link :
 Class topic will start 9:45 PM…
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [রিসোর্স](https://meet.google.com/vnq-bmay-ntv)
 
-### লাইভ ক্লাস ও ভিডিও — LFI to RFI
+#### LFI to RFI
 
-লেখক: Roman Moonshi
+বিভাগ: classes · বিষয়: LFI / LFD · লেখক: Roman Moonshi
 
 LFI to RFI
 0:00 / 0:00
 
 
-### লাইভ ক্লাস ও ভিডিও — Recon
+#### Recon
 
-লেখক: Syed Sakib Alam Mubin · পূর্ণ পোস্ট যাচাই বাকি
+বিভাগ: classes · বিষয়: Recon · লেখক: Syed Sakib Alam Mubin
 
 Join Class
 …
@@ -1908,13 +2018,15 @@ Admin
 ·
 Recon Part 1
 
+**পূর্ণ পোস্ট যাচাই বাকি।**
+
 - [রিসোর্স](https://www.facebook.com/S4MC71/videos/976877741338543/)
 - [রিসোর্স](https://www.facebook.com/groups/awsb66delta/)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1669334581435797)
 
-### তথ্য ও নির্দেশনা — আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
+#### আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: যাচাই বাকি · লেখক: Roman Moonshi
 
 আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
 Meet-এ যোগদানের তথ্য:
@@ -1934,9 +2046,10 @@ meet.google.com
 - [রিসোর্স](https://meet.google.com/fii-gaqn-vwb)
 - [মূল পোস্ট](https://www.facebook.com/groups/awsb66delta/posts/1665357758500146)
 
-### তথ্য ও নির্দেশনা — LFI to RFI
+#### LFI to RFI
 
-লেখক: Roman Moonshi
+বিভাগ: information · বিষয়: LFI / LFD · লেখক: Roman Moonshi
 
 LFI to RFI
+
 
