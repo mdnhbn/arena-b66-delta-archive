@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-05T20:20:20.950Z",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -433,7 +433,7 @@
       "links": [
         "https://drive.google.com/file/d/1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Session & Redirect",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "uploaded-processing",
@@ -453,7 +453,9 @@
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "pendingYoutubeId": "0fk1ksVPvQ0",
       "downloadStatus": "complete",
-      "duration": "1:48:09"
+      "duration": "1:48:09",
+      "topicTitle": "Session hijacking, blocking ও Mid Exam প্রস্তুতি",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-4",
@@ -546,7 +548,7 @@
       "links": [
         "https://drive.google.com/file/d/1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "SQL Injection",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "uploading",
@@ -567,7 +569,9 @@
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "pendingYoutubeId": "h4XYuv--GAI",
       "downloadStatus": "complete",
-      "duration": "2:13:04"
+      "duration": "2:13:04",
+      "topicTitle": "Manual SQL Injection",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-73",
@@ -600,10 +604,10 @@
       "links": [
         "https://drive.google.com/file/d/1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "XSS",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploading",
       "truncated": false,
       "collectionIndex": 79,
       "dateVerified": true,
@@ -612,7 +616,12 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:25:42",
+      "downloadStatus": "complete",
+      "pendingYoutubeId": "EaLvBynOYp0",
+      "topicTitle": "Cross Site Scripting (XSS)",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-79",
@@ -679,7 +688,7 @@
       "links": [
         "https://drive.google.com/file/d/10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "WAF",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -691,7 +700,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:12:57",
+      "downloadStatus": "complete",
+      "topicTitle": "SQLi WAF ও IDS",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-87",
@@ -721,7 +734,7 @@
       "links": [
         "https://drive.google.com/file/d/10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Burp Suite",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -733,7 +746,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:25:37",
+      "downloadStatus": "complete",
+      "topicTitle": "Burp Suite — Proxy ও Intruder",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-99",
@@ -746,7 +763,7 @@
       "links": [
         "https://drive.google.com/file/d/1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "WebShell",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -758,7 +775,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:01:51",
+      "downloadStatus": "complete",
+      "topicTitle": "WebShell, Backdoor ও Deface Page",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-105",
@@ -788,7 +809,7 @@
       "links": [
         "https://drive.google.com/file/d/1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "File Upload",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -804,7 +825,11 @@
         "WAF"
       ],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "1:55:48",
+      "downloadStatus": "complete",
+      "topicTitle": "File Upload Vulnerabilities",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-115",
@@ -817,7 +842,7 @@
       "links": [
         "https://drive.google.com/file/d/1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "PortSwigger Labs",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -829,7 +854,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": null,
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:10:17",
+      "downloadStatus": "complete",
+      "topicTitle": "PortSwigger Labs — SQLi, XSS ও File Upload",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-112",
@@ -842,7 +871,7 @@
       "links": [
         "https://drive.google.com/file/d/1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Acunetix",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -854,7 +883,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:07:48",
+      "downloadStatus": "complete",
+      "topicTitle": "Acunetix — Scanner Setup ও Reports",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-117",
@@ -867,7 +900,7 @@
       "links": [
         "https://drive.google.com/file/d/10Ut65sMkUshm54yw4KjbputZMWY6uCfJ/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -879,7 +912,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "1:55:02",
+      "downloadStatus": "complete",
+      "topicTitle": "Batch Scripting",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-122",
@@ -892,7 +929,7 @@
       "links": [
         "https://drive.google.com/file/d/1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -904,7 +941,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "1:58:02",
+      "downloadStatus": "complete",
+      "topicTitle": "Linux Installation ও Virtual Lab Setup",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-121",
@@ -936,7 +977,7 @@
       "links": [
         "https://drive.google.com/file/d/1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -948,7 +989,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:09:22",
+      "downloadStatus": "complete",
+      "topicTitle": "Linux Command Line",
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
     },
     {
       "id": "entry-126",
@@ -973,7 +1018,9 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:23:29",
+      "downloadStatus": "complete"
     },
     {
       "id": "entry-2",
@@ -1015,7 +1062,9 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "duration": "2:17:14",
+      "downloadStatus": "complete"
     },
     {
       "id": "entry-130",
@@ -2978,5 +3027,11 @@
     "timezone": null,
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
+  },
+  "siteVersion": "2.0",
+  "resourcePlan": {
+    "phase": "website-first",
+    "structureReady": true,
+    "remainingResources": "পরবর্তী ধাপে যোগ হবে"
   }
 }
