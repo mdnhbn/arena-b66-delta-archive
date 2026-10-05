@@ -1,0 +1,32 @@
+Dump the data of any three websites from here
+
+
+Google Dork
+	Site Links
+	php?id= site:
+	http://www.ingenium.co.th/
+	php?id= site:
+	http://www.embryohotel.com/
+	php?id= site:
+	https://www.pupilbooks.in/
+	php?id= site:
+	http://polymat.co.th/
+	php?id= site:
+	http://www.meridianhotel.co.ug/
+	php?id= site:
+	http://csi-india.org/
+	php?id= site:
+	http://www.cmkoo.com.hk/
+	php?id= site:
+	http://native.edu.pk/
+	php?id= site:
+	http://www.igoergo.com/
+	php?id= site:
+	http://www.pkw.ac.th/
+	
+
+
+
+
+
+Example of homework PDF
