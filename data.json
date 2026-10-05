@@ -82,8 +82,8 @@
       ],
       "topic": "Orientation",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "wf2Q5Z6bNlE",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 19,
       "dateVerified": true,
@@ -97,13 +97,15 @@
       ],
       "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
-      "pendingYoutubeId": "wf2Q5Z6bNlE",
+      "pendingYoutubeId": null,
       "downloadStatus": "complete",
       "duration": "2:07:13",
-      "uploadNote": "Unlisted selected; uploading a lossless copy with zero padding removed.",
+      "uploadNote": "Unlisted recording plays successfully.",
       "relatedResourceIds": [
         "entry-22"
-      ]
+      ],
+      "playbackVerified": true,
+      "localCopyStatus": "Removed from task folder; sent to Recycle Bin after verified 720p playback."
     },
     {
       "id": "entry-13",
@@ -434,7 +436,7 @@
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 57,
       "dateVerified": true,
@@ -448,7 +450,10 @@
         "Session & Redirect"
       ],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "pendingYoutubeId": "0fk1ksVPvQ0",
+      "downloadStatus": "complete",
+      "duration": "1:48:09"
     },
     {
       "id": "entry-4",
@@ -544,7 +549,7 @@
       "topic": null,
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploading",
       "truncated": false,
       "collectionIndex": 63,
       "dateVerified": true,
@@ -559,7 +564,10 @@
         "HTTP & HTTPS"
       ],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "pendingYoutubeId": "h4XYuv--GAI",
+      "downloadStatus": "complete",
+      "duration": "2:13:04"
     },
     {
       "id": "entry-73",
