@@ -36,12 +36,13 @@
       "topic": "Orientation",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-blocked",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 15,
       "dateVerified": true,
       "downloadStatus": "complete",
-      "uploadBlocker": "Browser file access; YouTube reported File unreadable"
+      "pendingYoutubeId": "oka_NMsPt-Y",
+      "uploadNote": "YouTube SD processing delayed; Unlisted publication pending. Local copy retained until playback verification."
     },
     {
       "id": "entry-14",
