@@ -1,0 +1,62 @@
+Admission dept hotline: +8801310333444 (WhatsApp)
+Diploma module: https://drive.google.com/file/d/1zUvuT2YHsbMWECLM0eCmvTh3nMh1GM2g/view
+
+
+Session hijacking / Blocking, Mid Exam prep - b66 Delta
+
+
+সবাই পোর্টালে লগিন করে উপস্থিতি দিয়ে দিন।  https://hw.arenaclass.stream/
+
+
+Cyber fox: https://www.facebook.com/groups/awsb66delta/posts/1610713203964602
+
+
+সবাই সাইবার ফক্স ব্রাউজারটা চালু করে নিন। ক্লাসের টুলস হিসেবে মঙ্গলবার দেওয়া হয়েছিলো। কারো এখনো করা না থাকলে পোষ্ট থেকে ভিডিওটা দেখে ৯ টা ৪৫ মিনিটের মধ্যে সাইবার ফক্স ওপেন করে নিবেন। ধন্যবাদ। 
+Nb: extract অবশ্যই winrar দিয়ে করে নিতে হবে, ভিডিওতে সব কিছু সুন্দর করে দেখানো আছে।
+
+
+
+
+Site: 1
+https://jjfabrics.in/admin/
+
+
+https://jjfabrics.in/admin/login.php
+
+
+Step 1: Open cyberfox- tools - no redirect
+(no redirect)   add - https://jjfabrics.in/admin/login.php (যেই লিংকটা আমাকে ব্লক করতে হবে তা দিবো) - add -  ok
+
+
+Step 2: Now go to: https://jjfabrics.in/admin   (সাইবার ফক্স ব্রাউজার দিয়ে এবার শুধু এডমিন পেজে লগিন করুন, দেখবেন আপনাকে আর লগিন পেজে রিডাইরেক্ট করবে না। ডিরেক্ট এডমিন এক্সেস পেয়ে যাবেন।) 
+
+
+Step 3: N.B: Your connection not secured - advance - add expectation - confirm security expectation 
+
+
+
+
+Site 2: https://sphp.in/Admin/login.php
+
+
+Site 3: https://arpantek.in/admin/login.php
+
+
+
+
+Site :4 try this one, এটা করতে পারলেই ছুটি। ;) 
+
+https://brahmaputracollege.com/admin/
+home.php    dashboard.php    banner.php   users.php  gallery.php   welcome.php
+home    dashboard    banner   users  gallery   welcome
+
+
+Site : 5 
+Try this one,
+https://sucic.org/admin/      (block)
+Link: https://sucic.org/admin/dashboard.php
+
+
+
+
+CW: https://toolkit.arenawebsecurity.net/practice/play.php?play=elzq14
