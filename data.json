@@ -211,7 +211,7 @@
       "topic": "SQL Injection",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 39,
       "dateVerified": true,
@@ -227,7 +227,9 @@
       "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "downloadStatus": "complete",
-      "duration": "2:00:35"
+      "duration": "2:00:35",
+      "pendingYoutubeId": "e-PewC8sDlk",
+      "uploadNote": "Upload complete; Unlisted will activate after YouTube processing."
     },
     {
       "id": "entry-11",
@@ -276,21 +278,26 @@
       "links": [
         "https://drive.google.com/file/d/1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "OSINT",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploading",
       "truncated": false,
       "collectionIndex": 45,
       "dateVerified": true,
       "linkVerification": "Generated using Arena Class Link Portal on 2026-10-05",
       "recordingSerial": 3,
       "sameDateResourceIds": [
-        "entry-10"
+        "entry-43"
       ],
-      "relatedTopics": [],
+      "relatedTopics": [
+        "OSINT"
+      ],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "downloadStatus": "complete",
+      "duration": "2:11:13",
+      "pendingYoutubeId": "ISheHt-js2A"
     },
     {
       "id": "entry-9",
@@ -1500,21 +1507,24 @@
     },
     {
       "id": "entry-43",
-      "title": "ডিরেক্ট ক্লাস রিসোর্স লিংক …",
+      "title": "OSINT — B66 Delta",
       "author": "Md. Khaledul Islam",
-      "date": null,
-      "observedDate": "",
+      "date": "2026-07-26",
+      "observedDate": "July 26",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1609800807389175",
-      "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক",
-      "links": [],
-      "topic": null,
+      "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক\nOSINT - B66 Delta",
+      "links": [
+        "https://docs.google.com/document/d/1PVu1YmjTLqqe5ZToj9tb8fErVG36hUUxxVlHmNh9rZE/edit"
+      ],
+      "topic": "OSINT",
       "category": "documents",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 42,
-      "dateVerified": false,
-      "contentVerified": true
+      "dateVerified": true,
+      "contentVerified": true,
+      "linkVerification": "Opened original Facebook document card"
     },
     {
       "id": "entry-44",
@@ -2787,10 +2797,10 @@
       "id": "entry-140",
       "title": "Topic: \"Web hosting Concept & Wordpress\"",
       "author": "Bijoy Chandra Mondal",
-      "date": null,
-      "observedDate": "",
-      "source": "",
-      "text": "Topic: \"Web hosting Concept & Wordpress\"\nClass link :\nClass topic will start 9:45 PM…",
+      "date": "2026-09-27",
+      "observedDate": "September 27 at 6:18 PM",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1664387545263834",
+      "text": "Topic: \"Web hosting Concept & Wordpress\"\nClass link : https://meet.google.com/vnq-bmay-ntv\nClass topic will start 9:45 PM\n@everyone",
       "links": [
         "https://meet.google.com/vnq-bmay-ntv"
       ],
@@ -2798,9 +2808,11 @@
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
-      "truncated": true,
+      "truncated": false,
       "collectionIndex": 139,
-      "dateVerified": false
+      "dateVerified": true,
+      "contentVerified": true,
+      "classStartTime": "21:45"
     },
     {
       "id": "entry-141",
