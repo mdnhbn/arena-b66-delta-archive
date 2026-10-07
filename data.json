@@ -879,8 +879,8 @@
       ],
       "topic": "File Upload",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "mnK0ULSU5U0",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 106,
       "dateVerified": true,
@@ -898,9 +898,15 @@
       "downloadStatus": "complete",
       "topicTitle": "File Upload Vulnerabilities",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "mnK0ULSU5U0",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "playbackVerification": {
+        "method": "Public YouTube nocookie embed, readyState4, advancing time and matching duration",
+        "duration": 6948.301,
+        "verifiedAt": "2026-10-07"
+      },
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-115",
@@ -1131,8 +1137,8 @@
       ],
       "topic": "Malware Concepts",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "esziQlfuKwk",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 125,
       "dateVerified": true,
@@ -1147,9 +1153,15 @@
       "topicTitle": "Crypter, Antivirus ও RAT Lab",
       "topicVerification": "ভিডিওর নির্বাচিত অংশ এবং ১৩ সেপ্টেম্বরের Crypter/Antivirus/Virus PDF থেকে বিষয় শনাক্ত।",
       "topicVerified": true,
-      "pendingYoutubeId": "esziQlfuKwk",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "playbackVerification": {
+        "method": "Public YouTube nocookie embed, readyState4, advancing time and matching duration",
+        "duration": 8609.181,
+        "verifiedAt": "2026-10-07"
+      },
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-2",
@@ -1237,8 +1249,8 @@
       ],
       "topic": "Linux & Scripting",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "q7iPTCse1XQ",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 133,
       "dateVerified": true,
@@ -1253,9 +1265,15 @@
       "topicTitle": "Kali Tools Setup — Java, Go ও Burp Suite",
       "topicVerification": "ভিডিওর নির্বাচিত অংশে Kali Linux, Burp Suite এবং Go tool setup দেখা গেছে।",
       "topicVerified": true,
-      "pendingYoutubeId": "q7iPTCse1XQ",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "playbackVerification": {
+        "method": "Public YouTube nocookie embed, readyState4, advancing time and matching duration",
+        "duration": 8204.661,
+        "verifiedAt": "2026-10-07"
+      },
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-142",
@@ -3485,7 +3503,13 @@
           "entry-40"
         ],
         "summary": "কোর্স পরিচিতি ও Cyber Safety ক্লাসের রেকর্ড আছে।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "What is Ethical Hacking?",
+          "Why we have to Learn Ethical Hacking?",
+          "Ethical Hacking career"
+        ],
+        "pdfPage": 2
       },
       {
         "week": "১ম, ৪র্থ–৫ম সপ্তাহ",
@@ -3498,7 +3522,19 @@
           "entry-115"
         ],
         "summary": "টুল দিয়ে SQLi, Manual SQLi, WAF এবং lab অনুশীলন শনাক্ত।",
-        "remaining": "প্রতিটি SQLi পদ্ধতির পূর্ণ কভারেজ আলাদাভাবে যাচাই প্রয়োজন।"
+        "remaining": "প্রতিটি SQLi পদ্ধতির পূর্ণ কভারেজ আলাদাভাবে যাচাই প্রয়োজন।",
+        "officialTopics": [
+          "Login Page injection",
+          "SQLi",
+          "PHP & MySQL Basic",
+          "POST base SQL Injection",
+          "Error Base / X-pat"
+        ],
+        "pdfPage": 2,
+        "pdfPages": [
+          2,
+          3
+        ]
       },
       {
         "week": "২য় সপ্তাহ",
@@ -3509,7 +3545,18 @@
           "entry-147"
         ],
         "summary": "OSINT এবং Recon ক্লাস পাওয়া গেছে।",
-        "remaining": "Cryptography, file recovery এবং email header-এর পৃথক ক্লাস যাচাই বাকি।"
+        "remaining": "Cryptography, file recovery এবং email header-এর পৃথক ক্লাস যাচাই বাকি।",
+        "officialTopics": [
+          "Open-Source Intelligence",
+          "Live OSINT project",
+          "Tracking of a target person",
+          "Recover any deleted files. [ PC or Mobile]",
+          "Cryptography",
+          "Cypher Language",
+          "Collecting Information from Email Header",
+          "Email Tracking Tools"
+        ],
+        "pdfPage": 2
       },
       {
         "week": "৩য় সপ্তাহ",
@@ -3517,7 +3564,13 @@
         "status": "pending",
         "classIds": [],
         "summary": "সংগৃহীত মূল রেকর্ডে এই বিষয় নিশ্চিত করা হয়নি।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Denial-of-Service",
+          "Distributed Denial of Service Attacks",
+          "Live DDOS"
+        ],
+        "pdfPage": 2
       },
       {
         "week": "৩য় সপ্তাহ",
@@ -3527,7 +3580,14 @@
           "entry-58"
         ],
         "summary": "Session hijacking এবং blocking-এর ক্লাস শনাক্ত।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Session Hijacking",
+          "Private exploit of Arena Web Security",
+          "Compromising Session IDs using Sniffing",
+          "Compromising Session IDs by Predicting"
+        ],
+        "pdfPage": 2
       },
       {
         "week": "৩য় সপ্তাহ",
@@ -3537,7 +3597,11 @@
           "entry-117"
         ],
         "summary": "Batch scripting-এর ক্লাস ও short notes পাওয়া গেছে।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Batch programmer"
+        ],
+        "pdfPage": 2
       },
       {
         "week": "৩য় সপ্তাহ",
@@ -3547,7 +3611,18 @@
           "entry-126"
         ],
         "summary": "Crypter, antivirus এবং RAT training lab শনাক্ত।",
-        "remaining": "Trojan, virus এবং password-cracking-এর সব উপবিষয় যাচাই বাকি।"
+        "remaining": "Trojan, virus এবং password-cracking-এর সব উপবিষয় যাচাই বাকি।",
+        "officialTopics": [
+          "Malware Threats [Virus]",
+          "What is a Trojan?",
+          "File Extension Viruses",
+          "Pen Testing for Trojans and Backdoors",
+          "Penetration Testing for Virus",
+          "All Possible Passwords Cracking Method",
+          "Password Guessing",
+          "Default Password"
+        ],
+        "pdfPage": 2
       },
       {
         "week": "২য়, ৪র্থ–৫ম সপ্তাহ",
@@ -3557,7 +3632,16 @@
           "entry-88"
         ],
         "summary": "WAF এবং IDS সম্পর্কিত SQLi ক্লাস শনাক্ত।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Evading IDS, Firewalls, and Honeypots",
+          "WAF Bypass (Live practice)"
+        ],
+        "pdfPage": 2,
+        "pdfPages": [
+          2,
+          3
+        ]
       },
       {
         "week": "৬ষ্ঠ সপ্তাহ",
@@ -3568,7 +3652,14 @@
           "entry-107"
         ],
         "summary": "WebShell, backdoor এবং file upload vulnerability ক্লাস আছে।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Server Shell script",
+          "Web Backdoors",
+          "Shell upload",
+          "Target IP Exploit (Live practice)"
+        ],
+        "pdfPage": 3
       },
       {
         "week": "৭ম সপ্তাহ",
@@ -3579,7 +3670,15 @@
           "entry-148"
         ],
         "summary": "WordPress, theme, Elementor, backup ও local setup শনাক্ত।",
-        "remaining": "CMS vulnerability assessment-এর পূর্ণ কভারেজ যাচাই বাকি।"
+        "remaining": "CMS vulnerability assessment-এর পূর্ণ কভারেজ যাচাই বাকি।",
+        "officialTopics": [
+          "Content Management System",
+          "Website Development (Live Project)",
+          "WordPress",
+          "Wp Exploit (Live)",
+          "CMS Vulnerability Assessment"
+        ],
+        "pdfPage": 3
       },
       {
         "week": "৭ম সপ্তাহ",
@@ -3587,7 +3686,16 @@
         "status": "pending",
         "classIds": [],
         "summary": "এই বিষয়গুলোর নিশ্চিত মূল ক্লাস এখনো শনাক্ত হয়নি।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "keylogger, Spyware",
+          "How to make keylogger Spyware?",
+          "How to bind keylogger file in Real setup File?",
+          "Ardamex Keylogger",
+          "Hardware Keyloggers",
+          "How to Defend Against Keyloggers"
+        ],
+        "pdfPage": 3
       },
       {
         "week": "৮ম সপ্তাহ",
@@ -3598,7 +3706,13 @@
           "entry-142"
         ],
         "summary": "LFI, path traversal এবং RCE lab পাওয়া গেছে।",
-        "remaining": "RFI এবং cPanel-এর পৃথক কভারেজ যাচাই বাকি।"
+        "remaining": "RFI এবং cPanel-এর পৃথক কভারেজ যাচাই বাকি।",
+        "officialTopics": [
+          "LFI/RFI/RCE (Paper)",
+          "Website Security, Measuring website quality",
+          "Web Server security, cPanel"
+        ],
+        "pdfPage": 3
       },
       {
         "week": "৯ম সপ্তাহ",
@@ -3609,7 +3723,11 @@
           "entry-115"
         ],
         "summary": "XSS ক্লাস এবং PortSwigger lab অনুশীলন পাওয়া গেছে।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Cross Site Scripting (XSS)"
+        ],
+        "pdfPage": 4
       },
       {
         "week": "৯ম সপ্তাহ",
@@ -3617,7 +3735,15 @@
         "status": "pending",
         "classIds": [],
         "summary": "CSRF, phishing ও social engineering-এর নিশ্চিত মূল ক্লাস পাওয়া যায়নি।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Cross site request forgery",
+          "Social Engineering",
+          "Phishing",
+          "Social Media account recovery process.",
+          "Fb / Gmail Account Security and Disable concept."
+        ],
+        "pdfPage": 4
       },
       {
         "week": "১০ম সপ্তাহ",
@@ -3630,7 +3756,14 @@
           "entry-134"
         ],
         "summary": "Linux installation, virtual lab, command line, Burp Suite এবং tools setup পাওয়া গেছে।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Linux - Kali Linux",
+          "Burpsuite",
+          "Hacking Lab",
+          "Kali Linux Tools"
+        ],
+        "pdfPage": 4
       },
       {
         "week": "১১তম সপ্তাহ",
@@ -3638,7 +3771,12 @@
         "status": "pending",
         "classIds": [],
         "summary": "এই দুটি বিষয়ে নিশ্চিত মূল ক্লাসের প্রমাণ পাওয়া যায়নি।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "System Hacking",
+          "Authentication Bypass"
+        ],
+        "pdfPage": 4
       },
       {
         "week": "১১তম সপ্তাহ",
@@ -3648,7 +3786,11 @@
           "entry-115"
         ],
         "summary": "SQLi, XSS ও file upload lab অনুশীলন শনাক্ত।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Portswigger lab solve"
+        ],
+        "pdfPage": 4
       },
       {
         "week": "১২তম সপ্তাহ",
@@ -3658,7 +3800,18 @@
           "entry-147"
         ],
         "summary": "VPS এবং Shodan setup-এর Recon ক্লাস পাওয়া গেছে।",
-        "remaining": "Whois, subdomain ও networking তথ্য সংগ্রহের সব উপবিষয় যাচাই বাকি।"
+        "remaining": "Whois, subdomain ও networking তথ্য সংগ্রহের সব উপবিষয় যাচাই বাকি।",
+        "officialTopics": [
+          "With kali Linux",
+          "Foot printing and Information Gathering",
+          "From social media",
+          "Web server Whois",
+          "subdomain",
+          "Reserved IP Location",
+          "Which platform used for developing",
+          "Ping to identify server details"
+        ],
+        "pdfPage": 4
       },
       {
         "week": "১৩তম সপ্তাহ",
@@ -3666,7 +3819,17 @@
         "status": "pending",
         "classIds": [],
         "summary": "Nmap-এর FIN, XMAS, TCP, UDP ও IDLE scan ক্লাস এখনো নিশ্চিত নয়।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "NMAP",
+          "Computer Network Penetration Test",
+          "FIN scan",
+          "XMAS scan",
+          "TCP scan",
+          "UDP scan",
+          "IDLE scan (Reserved)"
+        ],
+        "pdfPage": 4
       },
       {
         "week": "১৪তম সপ্তাহ",
@@ -3678,7 +3841,16 @@
           "entry-142"
         ],
         "summary": "Scanner reports ও বিভিন্ন web lab পাওয়া গেছে।",
-        "remaining": "পূর্ণ test scope, methodology এবং project ক্লাস যাচাই বাকি।"
+        "remaining": "পূর্ণ test scope, methodology এবং project ক্লাস যাচাই বাকি।",
+        "officialTopics": [
+          "Website Penetration Testing",
+          "Website Penetration Testing Tools",
+          "Discussion of the different types of vulnerabilities",
+          "Defining a web application test scope and process",
+          "Defining types of penetration testing",
+          "Tools and manual process of penetration testing"
+        ],
+        "pdfPage": 5
       },
       {
         "week": "১৫তম সপ্তাহ",
@@ -3686,7 +3858,16 @@
         "status": "pending",
         "classIds": [],
         "summary": "Freelancing, gig, order এবং payment ক্লাস এখনো শনাক্ত হয়নি।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Outsourcing in Fiverr / Upwork",
+          "What type of work would suit you?",
+          "How create a GIG and Sell it?",
+          "Fiverr freelancing support.",
+          "Order and Payment",
+          "Dollar payout process"
+        ],
+        "pdfPage": 5
       },
       {
         "week": "১৬তম সপ্তাহ",
@@ -3694,7 +3875,12 @@
         "status": "pending",
         "classIds": [],
         "summary": "Bug bounty এবং report-writing-এর নিশ্চিত মূল ক্লাস পাওয়া যায়নি।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Outsourcing in Hackerone and Bugcroud",
+          "First Bug Report in Hackerone and Bugcroud"
+        ],
+        "pdfPage": 5
       },
       {
         "week": "কোর্সের শেষ ধাপ",
@@ -3702,7 +3888,12 @@
         "status": "pending",
         "classIds": [],
         "summary": "Thesis, final assessment এবং internship-এর সমাপ্তির প্রমাণ এখনো নেই।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Thesis",
+          "Internship (30 Days)"
+        ],
+        "pdfPage": 5
       },
       {
         "week": "অতিরিক্ত বিষয়",
@@ -3710,7 +3901,16 @@
         "status": "pending",
         "classIds": [],
         "summary": "সিলেবাসের ঐচ্ছিক ও bonus বিষয়গুলোর পূর্ণ ক্লাস যাচাই বাকি।",
-        "remaining": null
+        "remaining": null,
+        "officialTopics": [
+          "Deep Web, Dark Web, Tor Network",
+          "HTML and CSS Injection (optional)",
+          "Hacking Mobile Platform (optional)",
+          "Proxy Tool",
+          "Free Proxy Servers",
+          "Website Cookies history"
+        ],
+        "pdfPage": 6
       }
     ]
   },

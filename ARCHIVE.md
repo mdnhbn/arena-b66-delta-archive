@@ -23,15 +23,15 @@
 | 7 | 2026-08-14 | SQLi WAF ও IDS | প্লেব্যাক যাচাই হয়েছে |
 | 8 | 2026-08-16 | Burp Suite — Proxy ও Intruder | প্লেব্যাক যাচাই হয়েছে |
 | 9 | 2026-08-21 | WebShell, Backdoor ও Deface Page | প্লেব্যাক যাচাই হয়েছে |
-| 10 | 2026-08-23 | File Upload Vulnerabilities | YouTube প্রসেসিং চলছে |
+| 10 | 2026-08-23 | File Upload Vulnerabilities | প্লেব্যাক যাচাই হয়েছে |
 | 11 | 2026-08-29 | PortSwigger Labs — SQLi, XSS ও File Upload | প্লেব্যাক যাচাই হয়েছে |
 | 12 | 2026-08-30 | Acunetix — Scanner Setup ও Reports | প্লেব্যাক যাচাই হয়েছে |
 | 13 | 2026-09-04 | Batch Scripting | প্লেব্যাক যাচাই হয়েছে |
 | 14 | 2026-09-06 | Linux Installation ও Virtual Lab Setup | YouTube প্রসেসিং চলছে |
 | 15 | 2026-09-11 | Linux Command Line | প্লেব্যাক যাচাই হয়েছে |
-| 16 | 2026-09-13 | Crypter, Antivirus ও RAT Lab | YouTube প্রসেসিং চলছে |
+| 16 | 2026-09-13 | Crypter, Antivirus ও RAT Lab | প্লেব্যাক যাচাই হয়েছে |
 | 17 | 2026-09-18 | LFI ও Web Server Security Lab | প্লেব্যাক যাচাই হয়েছে |
-| 18 | 2026-09-20 | Kali Tools Setup — Java, Go ও Burp Suite | YouTube প্রসেসিং চলছে |
+| 18 | 2026-09-20 | Kali Tools Setup — Java, Go ও Burp Suite | প্লেব্যাক যাচাই হয়েছে |
 | 19 | 2026-09-25 | Advanced LFI, Path Traversal ও RCE Lab | YouTube-এর দৈনিক আপলোড সীমায় অপেক্ষায় |
 | 20 | 2026-09-27 | WordPress, phpMyAdmin ও Elementor | YouTube-এর দৈনিক আপলোড সীমায় অপেক্ষায় |
 | 21 | 2026-10-02 | Recon — VPS ও Shodan Setup | YouTube-এর দৈনিক আপলোড সীমায় অপেক্ষায় |
