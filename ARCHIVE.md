@@ -1,30 +1,5 @@
-# আর্কাইভের বর্তমান অবস্থা
+# Archive preservation status
 
-[ওয়েবসাইট](https://arena-b66-delta-archive.vercel.app/) · [GitHub](https://github.com/mdnhbn/arena-b66-delta-archive)
+Website, light/dark themes, classes 16–22 topics, official syllabus and 24-topic visual roadmap are deployed. Eight main class recordings plus the panel guide have verified in-site playback. Eight group PDFs and the official syllabus are preserved in documents/. Eight Google Docs notes and the Mac setup text are preserved independently of Facebook. Remaining video uploads are in progress; unverified downloads are retained. Task video copies are sent to Recycle Bin after playback verification, not permanently purged.
 
-## ওয়েবসাইট আগে, বাকি রিসোর্স পরে
-
-ব্যবহারকারীর সর্বশেষ নির্দেশ অনুযায়ী পুরো ওয়েবসাইটের কাঠামো ও রিসোর্স রাখার অপশন তৈরি করা হয়েছে।
-
-- ড্যাশবোর্ড, ধারাবাহিক ক্লাস তালিকা, রিসোর্স লাইব্রেরি, টুলস, সময়সূচি, নোটিশ ও তথ্য, ক্লাসের পৃথক পেজ এবং খসড়া তৈরির ফর্ম।
-- ২২টি রেকর্ডের প্রতিটিতে ভিডিও, নোট, ডকুমেন্ট ও টুলস রাখার জায়গা; বাকি জায়গায় স্পষ্ট placeholder।
-- সার্চ, বিষয় ও মাসের ফিল্টার, মোবাইল মেনু, আগের/পরের ক্লাস, ক্লাসের রিসোর্স ট্যাব এবং JSON খসড়া ডাউনলোড।
-- আগে সংগ্রহ করা ১৪৮টি পোস্ট, ৮টি পূর্ণ নোট ও ৪টি YouTube লিংক সংরক্ষিত। সব ভিডিও ও সব তারিখ যাচাই শেষ হয়নি।
-
-## ভিডিও স্থানান্তর
-
-হোমওয়ার্ক গাইড `oka_NMsPt-Y` এবং Orientation `wf2Q5Z6bNlE` Unlisted playback যাচাই করা হয়েছে। আরও দুটি পুরোনো instructor YouTube link আছে।
-
-২৪ জুলাই (`e-PewC8sDlk`), ২৬ জুলাই (`ISheHt-js2A`) ও ৩১ জুলাই (`0fk1ksVPvQ0`) YouTube upload/save করা হয়েছে; processing/playback যাচাই বাকি। ২ আগস্ট (`h4XYuv--GAI`) ও ৯ আগস্ট (`EaLvBynOYp0`) ১০০% আপলোড হয়েছে; processing এবং playback যাচাই বাকি। সর্বশেষ দেখা অবস্থা data.json-এ আছে। নতুন resource transfer পরবর্তী ধাপে চলবে।
-
-যাচাই করা দুই ভিডিওর task download কপি Recycle Bin-এ সরানো হয়েছে; Downloads/task folder-এ নেই। এগুলো স্থায়ীভাবে purge করা হয়নি। অন্য ভিডিওর local copy playback যাচাই না হওয়া পর্যন্ত রাখা হয়েছে। আগে থেকে থাকা ব্যক্তিগত ফাইল স্পর্শ করা হয়নি।
-
-## যাচাই
-
-JavaScript syntax এবং DOM flow পরীক্ষা পাস করেছে: ড্যাশবোর্ড, ২২ ক্লাসের সিরিয়াল, অনুসন্ধান, topic/month filter, player markup, নোট, ফাঁকা রিসোর্সের জায়গা, ক্যালেন্ডার, JSON export, ভুল লিংক প্রত্যাখ্যান এবং legacy route।
-
-নতুন ট্যাবে browser সংযোগ পুনরুদ্ধার করে ড্যাশবোর্ড, ক্লাস তালিকা, সার্চ, রিসোর্সের খালি ট্যাব ও খসড়া ফর্ম সরাসরি যাচাই করা হয়েছে। ড্যাশবোর্ড screenshot outputs/archive-preview.jpg-এ সংরক্ষিত। Vercel production deployment READY হয়েছে; public HTML/JS/CSS এবং JSON-এর তথ্য মিলিয়ে দেখা হয়েছে। ব্রাউজারের viewport override প্রয়োগ না হওয়ায় ছোট স্ক্রিনের সরাসরি পরীক্ষা করা যায়নি; responsive CSS যুক্ত আছে।
-
-## পরবর্তী ধাপ
-
-বাকি ভিডিও যাচাই করে যুক্ত করা; PDF/অন্যান্য ডকুমেন্ট হোস্ট করা; অজানা পোস্ট তারিখ নিশ্চিত করা; official class date/time ও resource সম্পর্ক আরও যাচাই করা। অনিশ্চিত তথ্য নিশ্চিত হিসেবে প্রকাশ করবেন না।
+Full-group chronological completeness, remaining video processing, additional setup videos and tool binaries still require completion. Never label an unverified upload ready.

@@ -708,8 +708,8 @@
       ],
       "topic": "WAF",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "4ok4H2OmWsg",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 87,
       "dateVerified": true,
@@ -723,8 +723,10 @@
       "downloadStatus": "complete",
       "topicTitle": "SQLi WAF ও IDS",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "4ok4H2OmWsg",
-      "youtubeVisibility": "unlisted"
+      "pendingYoutubeId": null,
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": true,
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-87",
@@ -756,8 +758,8 @@
       ],
       "topic": "Burp Suite",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "oJIRROzXEZI",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 89,
       "dateVerified": true,
@@ -771,8 +773,10 @@
       "downloadStatus": "complete",
       "topicTitle": "Burp Suite — Proxy ও Intruder",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "oJIRROzXEZI",
-      "youtubeVisibility": "unlisted"
+      "pendingYoutubeId": null,
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": true,
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-99",
@@ -788,7 +792,7 @@
       "topic": "WebShell",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 98,
       "dateVerified": true,
@@ -801,7 +805,10 @@
       "duration": "2:01:51",
       "downloadStatus": "complete",
       "topicTitle": "WebShell, Backdoor ও Deface Page",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "OhPe_nt12Hc",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-105",
@@ -834,7 +841,7 @@
       "topic": "File Upload",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 106,
       "dateVerified": true,
@@ -851,7 +858,10 @@
       "duration": "1:55:48",
       "downloadStatus": "complete",
       "topicTitle": "File Upload Vulnerabilities",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "mnK0ULSU5U0",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-115",
@@ -867,7 +877,7 @@
       "topic": "PortSwigger Labs",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 114,
       "dateVerified": true,
@@ -880,7 +890,10 @@
       "duration": "2:10:17",
       "downloadStatus": "complete",
       "topicTitle": "PortSwigger Labs — SQLi, XSS ও File Upload",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "vDp2gdCRHf0",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-112",
@@ -896,7 +909,7 @@
       "topic": "Acunetix",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 111,
       "dateVerified": true,
@@ -909,7 +922,10 @@
       "duration": "2:07:48",
       "downloadStatus": "complete",
       "topicTitle": "Acunetix — Scanner Setup ও Reports",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "EXo_XFtyQFg",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-117",
@@ -925,7 +941,7 @@
       "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 116,
       "dateVerified": true,
@@ -938,7 +954,10 @@
       "duration": "1:55:02",
       "downloadStatus": "complete",
       "topicTitle": "Batch Scripting",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "zoWP4osM_uU",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-122",
@@ -954,7 +973,7 @@
       "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 121,
       "dateVerified": true,
@@ -967,7 +986,10 @@
       "duration": "1:58:02",
       "downloadStatus": "complete",
       "topicTitle": "Linux Installation ও Virtual Lab Setup",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "XMeZhuvd26Y",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-121",
@@ -986,7 +1008,8 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 120,
-      "dateVerified": true
+      "dateVerified": true,
+      "relatedRecordingId": "entry-122"
     },
     {
       "id": "entry-124",
@@ -1002,7 +1025,7 @@
       "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 123,
       "dateVerified": true,
@@ -1015,7 +1038,10 @@
       "duration": "2:09:22",
       "downloadStatus": "complete",
       "topicTitle": "Linux Command Line",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "hYPimjiyGok",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-126",
@@ -1031,7 +1057,7 @@
       "topic": "Malware Concepts",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 125,
       "dateVerified": true,
@@ -1045,7 +1071,10 @@
       "downloadStatus": "complete",
       "topicTitle": "Crypter, Antivirus ও RAT Lab",
       "topicVerification": "ভিডিওর নির্বাচিত অংশ এবং ১৩ সেপ্টেম্বরের Crypter/Antivirus/Virus PDF থেকে বিষয় শনাক্ত।",
-      "topicVerified": true
+      "topicVerified": true,
+      "pendingYoutubeId": "esziQlfuKwk",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-2",
@@ -1078,7 +1107,7 @@
       "topic": "LFI & Server Security",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 131,
       "dateVerified": true,
@@ -1092,7 +1121,10 @@
       "downloadStatus": "complete",
       "topicTitle": "LFI ও Web Server Security Lab",
       "topicVerification": "ভিডিওতে LFI simulator এবং Acunetix-এর প্রশিক্ষণ সার্ভার দেখা গেছে।",
-      "topicVerified": true
+      "topicVerified": true,
+      "pendingYoutubeId": "Xrvly33q0wQ",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-130",
@@ -1125,7 +1157,7 @@
       "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploading",
       "truncated": false,
       "collectionIndex": 133,
       "dateVerified": true,
@@ -1139,7 +1171,10 @@
       "duration": "2:16:44",
       "topicTitle": "Kali Tools Setup — Java, Go ও Burp Suite",
       "topicVerification": "ভিডিওর নির্বাচিত অংশে Kali Linux, Burp Suite এবং Go tool setup দেখা গেছে।",
-      "topicVerified": true
+      "topicVerified": true,
+      "pendingYoutubeId": "q7iPTCse1XQ",
+      "youtubeVisibility": "unlisted",
+      "playbackVerified": false
     },
     {
       "id": "entry-142",
@@ -1751,7 +1786,11 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 50,
-      "dateVerified": false
+      "dateVerified": false,
+      "noteText": "https://classic.waterfox.net/\t\t\t\t\t\t\t\tCyberfox Alternative\nhttps://drive.google.com/file/d/11rlRdQ_JZNbij2ie1TaMt4YHQ9vq4x-o/view\t\t\tHackBar Addons\n\nhttps://theunarchiver.com/\t\t\t\t\t\t\t\tfor zip extraction if need!\nhttps://drive.google.com/file/d/1EC-eNnWwfzTXn0eISqG7GLVa3rn9Wnsq/view?usp=drive_link\tSetup tutorial",
+      "noteUrl": "/documents/cyberfox-for-mac.txt",
+      "documentUrl": "/documents/cyberfox-for-mac.txt",
+      "noteVerified": true
     },
     {
       "id": "entry-52",
@@ -2147,7 +2186,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1620243993011523",
       "text": "Correct Answers 1st Mid Exam CEHF\nPDF\nCorrect-Answers-66-Delta.pdf",
       "links": [
-        "https://www.facebook.com/download/2103561483890513/Correct-Answers-66-Delta.pdf"
+        "/documents/correct-answers-66-delta.pdf"
       ],
       "topic": null,
       "category": "documents",
@@ -2155,7 +2194,15 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 76,
-      "dateVerified": false
+      "dateVerified": false,
+      "documentUrl": "/documents/correct-answers-66-delta.pdf",
+      "documentSha256": "08cf9270e8ac3edea1b3b49241fcca0b5382a5f847aa0cd95550f13fe5049f81",
+      "documentBytes": 535241,
+      "documentPreservedAt": "2026-10-07",
+      "relatedRecordingId": "entry-58",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/2103561483890513/Correct-Answers-66-Delta.pdf"
+      ]
     },
     {
       "id": "entry-78",
@@ -2359,7 +2406,8 @@
       "truncated": false,
       "collectionIndex": 94,
       "dateVerified": false,
-      "contentVerified": true
+      "contentVerified": true,
+      "relatedRecordingId": "entry-90"
     },
     {
       "id": "entry-96",
@@ -2478,7 +2526,7 @@
       "source": "",
       "text": "PDF\nWebshell-B.pdf",
       "links": [
-        "https://www.facebook.com/download/1420612573243103/Webshell-B.pdf"
+        "/documents/webshell-b.pdf"
       ],
       "topic": "File Upload",
       "category": "documents",
@@ -2486,7 +2534,15 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 102,
-      "dateVerified": false
+      "dateVerified": false,
+      "documentUrl": "/documents/webshell-b.pdf",
+      "documentSha256": "30127587420f9722346f7d4342558acf11b7e313e4b8cda0c3c810c17bb7ba80",
+      "documentBytes": 14866,
+      "documentPreservedAt": "2026-10-07",
+      "relatedRecordingId": "entry-99",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/1420612573243103/Webshell-B.pdf"
+      ]
     },
     {
       "id": "entry-104",
@@ -2535,7 +2591,7 @@
       "source": "",
       "text": "PDF\nFiles Uploading Vulnerabilities.pdf",
       "links": [
-        "https://www.facebook.com/download/1615848803430194/Files%20Uploading%20Vulnerabilities.pdf"
+        "/documents/files-uploading-vulnerabilities.pdf"
       ],
       "topic": "File Upload",
       "category": "documents",
@@ -2543,7 +2599,15 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 107,
-      "dateVerified": false
+      "dateVerified": false,
+      "documentUrl": "/documents/files-uploading-vulnerabilities.pdf",
+      "documentSha256": "468a72b9e93e54f4267220e0e87a3ec153410a5544b18f6a62450f1c24524812",
+      "documentBytes": 11562923,
+      "documentPreservedAt": "2026-10-07",
+      "relatedRecordingId": "entry-107",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/1615848803430194/Files%20Uploading%20Vulnerabilities.pdf"
+      ]
     },
     {
       "id": "entry-109",
@@ -2554,7 +2618,7 @@
       "source": "",
       "text": "PDF\nFileUV.pdf",
       "links": [
-        "https://www.facebook.com/download/1417754170268096/FileUV.pdf"
+        "/documents/fileuv.pdf"
       ],
       "topic": null,
       "category": "documents",
@@ -2562,7 +2626,15 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 108,
-      "dateVerified": false
+      "dateVerified": false,
+      "documentUrl": "/documents/fileuv.pdf",
+      "documentSha256": "a1997dc77e91fd7f82c71f08faf6dd9dcde3f5343036fc975c39c502576ab578",
+      "documentBytes": 2013173,
+      "documentPreservedAt": "2026-10-07",
+      "relatedRecordingId": "entry-107",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/1417754170268096/FileUV.pdf"
+      ]
     },
     {
       "id": "entry-110",
@@ -2662,7 +2734,7 @@
       "source": "",
       "text": "Batch Scripting Resource\nPDF\nBatch_Scripting_Short_Notes.pdf",
       "links": [
-        "https://www.facebook.com/download/932554422682616/Batch_Scripting_Short_Notes.pdf"
+        "/documents/batch-scripting-short-notes.pdf"
       ],
       "topic": "Linux & Scripting",
       "category": "documents",
@@ -2670,7 +2742,15 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 117,
-      "dateVerified": false
+      "dateVerified": false,
+      "documentUrl": "/documents/batch-scripting-short-notes.pdf",
+      "documentSha256": "a9293056f4078443c20c0d8a99b6da6a41d34e31dbfa06343db50fbf1fe13f52",
+      "documentBytes": 267881,
+      "documentPreservedAt": "2026-10-07",
+      "relatedRecordingId": "entry-117",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/932554422682616/Batch_Scripting_Short_Notes.pdf"
+      ]
     },
     {
       "id": "entry-119",
@@ -2755,7 +2835,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1652083599827562",
       "text": "PDF\nWhat is Crypter Antivirus & Virus.pdf",
       "links": [
-        "https://www.facebook.com/download/1070691385721202/What%20is%20Crypter%20Antivirus%20%26%20Virus.pdf"
+        "/documents/crypter-antivirus-virus.pdf"
       ],
       "topic": "Malware Concepts",
       "category": "documents",
@@ -2764,7 +2844,14 @@
       "truncated": false,
       "collectionIndex": 126,
       "dateVerified": false,
-      "relatedRecordingId": "entry-126"
+      "relatedRecordingId": "entry-126",
+      "documentUrl": "/documents/crypter-antivirus-virus.pdf",
+      "documentSha256": "c36ffd43e273af636c0f4f70b97a327cefd97418533e4afe038ce2e3421bb46f",
+      "documentBytes": 332485,
+      "documentPreservedAt": "2026-10-07",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/1070691385721202/What%20is%20Crypter%20Antivirus%20%26%20Virus.pdf"
+      ]
     },
     {
       "id": "entry-128",
@@ -2813,7 +2900,7 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1656475676055021",
       "text": "Local File Inclusion Vulnerability(Lfi):\nনিয়ে কিছু বলার আগে ছোট করে বলে দেই - আগে আমরা ওয়েব সাইটের ভার্নাবেলিটি থেকে ওয়েবসাইটের তথ্য বের করেছি বা ওয়েবসাইট এক্সেস কিংবা হ্যাক করেছি। এই পার্টে আমরা দেখবো ওয়েবসাইটের ভার্নাভেলিটির মাধ্যমে ওয়েব সার্ভারের গুরুত্বপূর্ণ তথ্য বের করা। এবং তাতে এমন ও হতে পারে আমরা ওয়েব এপ্লিকেশন সিস্টেমের গোটা সার্ভার নিয়ন্ত্রণে নিয়ে নিতে পারি।\nPDF\nWeb Server.pdf",
       "links": [
-        "https://www.facebook.com/download/1056508810719747/Web%20Server.pdf"
+        "/documents/web-server.pdf"
       ],
       "topic": "LFI / LFD",
       "category": "documents",
@@ -2821,7 +2908,15 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 130,
-      "dateVerified": false
+      "dateVerified": false,
+      "documentUrl": "/documents/web-server.pdf",
+      "documentSha256": "20b0bc2dcc6f7f44346f92851ce75c76b089a56a63f40dba1dde866fb010a3ac",
+      "documentBytes": 1467946,
+      "documentPreservedAt": "2026-10-07",
+      "relatedRecordingId": "entry-132",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/1056508810719747/Web%20Server.pdf"
+      ]
     },
     {
       "id": "entry-133",
@@ -2852,7 +2947,7 @@
       "source": "",
       "text": "Java & Go commands:\nPDF\njava&go commands.pdf",
       "links": [
-        "https://www.facebook.com/download/1142563261776299/java%26go%20commands.pdf"
+        "/documents/java-go-commands.pdf"
       ],
       "topic": "Linux & Scripting",
       "category": "documents",
@@ -2861,7 +2956,14 @@
       "truncated": false,
       "collectionIndex": 134,
       "dateVerified": false,
-      "relatedRecordingId": "entry-134"
+      "relatedRecordingId": "entry-134",
+      "documentUrl": "/documents/java-go-commands.pdf",
+      "documentSha256": "ecbcc2fe027af1e50a0399329bea18f991ec2acb871477f810726e17f9db359f",
+      "documentBytes": 87650,
+      "documentPreservedAt": "2026-10-07",
+      "originalFileLinks": [
+        "https://www.facebook.com/download/1142563261776299/java%26go%20commands.pdf"
+      ]
     },
     {
       "id": "entry-136",
@@ -2880,7 +2982,8 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 135,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-134"
     },
     {
       "id": "entry-137",
