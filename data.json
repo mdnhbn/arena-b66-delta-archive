@@ -3084,5 +3084,253 @@
     "phase": "website-first",
     "structureReady": true,
     "remainingResources": "পরবর্তী ধাপে যোগ হবে"
+  },
+  "syllabus": {
+    "version": "7.0",
+    "sourceUrl": "https://www.arenawebsecurity.net/cyber-security-ethical-hacking",
+    "originalPdfUrl": "https://arenawebsecurity.net/cyber-security-syllabus.pdf",
+    "documentUrl": "/documents/arena-course-syllabus-v7.pdf",
+    "verifiedAt": "2026-10-07",
+    "durationMonths": 4,
+    "courseFeeBdt": 14000,
+    "sha256": "a8f00e8543cd49af73c2d1a80ea631af5d37a4b61e1f2873ab8a75061ffd295a",
+    "stages": [
+      {
+        "week": "১ম সপ্তাহ",
+        "title": "কোর্স পরিচিতি ও Ethical Hacking",
+        "status": "covered",
+        "classIds": [
+          "entry-20",
+          "entry-40"
+        ],
+        "summary": "কোর্স পরিচিতি ও Cyber Safety ক্লাসের রেকর্ড আছে।",
+        "remaining": null
+      },
+      {
+        "week": "১ম, ৪র্থ–৫ম সপ্তাহ",
+        "title": "SQL Injection",
+        "status": "covered",
+        "classIds": [
+          "entry-40",
+          "entry-64",
+          "entry-88",
+          "entry-115"
+        ],
+        "summary": "টুল দিয়ে SQLi, Manual SQLi, WAF এবং lab অনুশীলন শনাক্ত।",
+        "remaining": "প্রতিটি SQLi পদ্ধতির পূর্ণ কভারেজ আলাদাভাবে যাচাই প্রয়োজন।"
+      },
+      {
+        "week": "২য় সপ্তাহ",
+        "title": "OSINT ও তথ্য সংগ্রহ",
+        "status": "partial",
+        "classIds": [
+          "entry-46",
+          "entry-147"
+        ],
+        "summary": "OSINT এবং Recon ক্লাস পাওয়া গেছে।",
+        "remaining": "Cryptography, file recovery এবং email header-এর পৃথক ক্লাস যাচাই বাকি।"
+      },
+      {
+        "week": "৩য় সপ্তাহ",
+        "title": "Denial of Service ও DDoS",
+        "status": "pending",
+        "classIds": [],
+        "summary": "সংগৃহীত মূল রেকর্ডে এই বিষয় নিশ্চিত করা হয়নি।",
+        "remaining": null
+      },
+      {
+        "week": "৩য় সপ্তাহ",
+        "title": "Session Security",
+        "status": "covered",
+        "classIds": [
+          "entry-58"
+        ],
+        "summary": "Session hijacking এবং blocking-এর ক্লাস শনাক্ত।",
+        "remaining": null
+      },
+      {
+        "week": "৩য় সপ্তাহ",
+        "title": "Batch Scripting",
+        "status": "covered",
+        "classIds": [
+          "entry-117"
+        ],
+        "summary": "Batch scripting-এর ক্লাস ও short notes পাওয়া গেছে।",
+        "remaining": null
+      },
+      {
+        "week": "৩য় সপ্তাহ",
+        "title": "Malware, Crypter ও Antivirus",
+        "status": "partial",
+        "classIds": [
+          "entry-126"
+        ],
+        "summary": "Crypter, antivirus এবং RAT training lab শনাক্ত।",
+        "remaining": "Trojan, virus এবং password-cracking-এর সব উপবিষয় যাচাই বাকি।"
+      },
+      {
+        "week": "২য়, ৪র্থ–৫ম সপ্তাহ",
+        "title": "WAF ও IDS",
+        "status": "covered",
+        "classIds": [
+          "entry-88"
+        ],
+        "summary": "WAF এবং IDS সম্পর্কিত SQLi ক্লাস শনাক্ত।",
+        "remaining": null
+      },
+      {
+        "week": "৬ষ্ঠ সপ্তাহ",
+        "title": "WebShell ও File Upload",
+        "status": "covered",
+        "classIds": [
+          "entry-99",
+          "entry-107"
+        ],
+        "summary": "WebShell, backdoor এবং file upload vulnerability ক্লাস আছে।",
+        "remaining": null
+      },
+      {
+        "week": "৭ম সপ্তাহ",
+        "title": "WordPress ও Website Development",
+        "status": "covered",
+        "classIds": [
+          "entry-145",
+          "entry-148"
+        ],
+        "summary": "WordPress, theme, Elementor, backup ও local setup শনাক্ত।",
+        "remaining": "CMS vulnerability assessment-এর পূর্ণ কভারেজ যাচাই বাকি।"
+      },
+      {
+        "week": "৭ম সপ্তাহ",
+        "title": "Keylogger ও Spyware",
+        "status": "pending",
+        "classIds": [],
+        "summary": "এই বিষয়গুলোর নিশ্চিত মূল ক্লাস এখনো শনাক্ত হয়নি।",
+        "remaining": null
+      },
+      {
+        "week": "৮ম সপ্তাহ",
+        "title": "LFI, RFI, RCE ও Server Security",
+        "status": "partial",
+        "classIds": [
+          "entry-132",
+          "entry-142"
+        ],
+        "summary": "LFI, path traversal এবং RCE lab পাওয়া গেছে।",
+        "remaining": "RFI এবং cPanel-এর পৃথক কভারেজ যাচাই বাকি।"
+      },
+      {
+        "week": "৯ম সপ্তাহ",
+        "title": "Cross Site Scripting",
+        "status": "covered",
+        "classIds": [
+          "entry-80",
+          "entry-115"
+        ],
+        "summary": "XSS ক্লাস এবং PortSwigger lab অনুশীলন পাওয়া গেছে।",
+        "remaining": null
+      },
+      {
+        "week": "৯ম সপ্তাহ",
+        "title": "CSRF ও Social Engineering",
+        "status": "pending",
+        "classIds": [],
+        "summary": "CSRF, phishing ও social engineering-এর নিশ্চিত মূল ক্লাস পাওয়া যায়নি।",
+        "remaining": null
+      },
+      {
+        "week": "১০ম সপ্তাহ",
+        "title": "Kali Linux, Lab ও Burp Suite",
+        "status": "covered",
+        "classIds": [
+          "entry-90",
+          "entry-122",
+          "entry-124",
+          "entry-134"
+        ],
+        "summary": "Linux installation, virtual lab, command line, Burp Suite এবং tools setup পাওয়া গেছে।",
+        "remaining": null
+      },
+      {
+        "week": "১১তম সপ্তাহ",
+        "title": "System Hacking ও Authentication Bypass",
+        "status": "pending",
+        "classIds": [],
+        "summary": "এই দুটি বিষয়ে নিশ্চিত মূল ক্লাসের প্রমাণ পাওয়া যায়নি।",
+        "remaining": null
+      },
+      {
+        "week": "১১তম সপ্তাহ",
+        "title": "PortSwigger Labs",
+        "status": "covered",
+        "classIds": [
+          "entry-115"
+        ],
+        "summary": "SQLi, XSS ও file upload lab অনুশীলন শনাক্ত।",
+        "remaining": null
+      },
+      {
+        "week": "১২তম সপ্তাহ",
+        "title": "Recon ও Linux দিয়ে Footprinting",
+        "status": "partial",
+        "classIds": [
+          "entry-147"
+        ],
+        "summary": "VPS এবং Shodan setup-এর Recon ক্লাস পাওয়া গেছে।",
+        "remaining": "Whois, subdomain ও networking তথ্য সংগ্রহের সব উপবিষয় যাচাই বাকি।"
+      },
+      {
+        "week": "১৩তম সপ্তাহ",
+        "title": "Nmap ও Network Penetration Test",
+        "status": "pending",
+        "classIds": [],
+        "summary": "Nmap-এর FIN, XMAS, TCP, UDP ও IDLE scan ক্লাস এখনো নিশ্চিত নয়।",
+        "remaining": null
+      },
+      {
+        "week": "১৪তম সপ্তাহ",
+        "title": "Website Penetration Testing",
+        "status": "partial",
+        "classIds": [
+          "entry-112",
+          "entry-115",
+          "entry-142"
+        ],
+        "summary": "Scanner reports ও বিভিন্ন web lab পাওয়া গেছে।",
+        "remaining": "পূর্ণ test scope, methodology এবং project ক্লাস যাচাই বাকি।"
+      },
+      {
+        "week": "১৫তম সপ্তাহ",
+        "title": "Fiverr ও Upwork Freelancing",
+        "status": "pending",
+        "classIds": [],
+        "summary": "Freelancing, gig, order এবং payment ক্লাস এখনো শনাক্ত হয়নি।",
+        "remaining": null
+      },
+      {
+        "week": "১৬তম সপ্তাহ",
+        "title": "HackerOne ও Bugcrowd",
+        "status": "pending",
+        "classIds": [],
+        "summary": "Bug bounty এবং report-writing-এর নিশ্চিত মূল ক্লাস পাওয়া যায়নি।",
+        "remaining": null
+      },
+      {
+        "week": "কোর্সের শেষ ধাপ",
+        "title": "Thesis ও Internship",
+        "status": "pending",
+        "classIds": [],
+        "summary": "Thesis, final assessment এবং internship-এর সমাপ্তির প্রমাণ এখনো নেই।",
+        "remaining": null
+      },
+      {
+        "week": "অতিরিক্ত বিষয়",
+        "title": "Tor, Mobile Security ও Proxy",
+        "status": "pending",
+        "classIds": [],
+        "summary": "সিলেবাসের ঐচ্ছিক ও bonus বিষয়গুলোর পূর্ণ ক্লাস যাচাই বাকি।",
+        "remaining": null
+      }
+    ]
   }
 }
