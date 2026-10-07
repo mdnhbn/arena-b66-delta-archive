@@ -1,6 +1,6 @@
 # Advertisement placement
 
-One Adsterra 300x250 banner appears after main content, before the footer, in a labelled advertisement area. The same slot persists during hash navigation.
+One Adsterra 300x250 banner appears at the beginning of the page, below the header and before main content, in a labelled advertisement area. The visitor-facing label is only “বিজ্ঞাপন”; no provider name is displayed. The same slot persists during hash navigation.
 
 Website: arena-b66-delta-archive.vercel.app
 Website ID: 6106188
