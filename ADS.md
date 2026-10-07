@@ -18,3 +18,7 @@ Only one banner loads per full page visit. Hash navigation keeps the same frame;
 ## Advertica banner
 
 Existing publisher account used. Generated Non-adult (SFW) 300x250 banner placement arena_b66_delta_top on 2026-10-07 after the user confirmed the specific Publisher Domain Consent step. Original generated code is preserved in ads/advertica.html. Ad tag class n98893af0c5, serving domain data527.click. No pop, redirect or push tags generated. Account/profile/payment settings unchanged.
+
+### Availability fallback
+
+The generated data527.click serving hostname did not resolve during verification. The account currently offers custom tracking domains only after $50 earnings, so none could be assigned through its UI. The Advertica wrapper reports script failure or missing creative after eight seconds; the parent checks the message origin and source and loads the working Adsterra banner in the same single frame. The main site remains usable throughout. This preserves the Advertica integration for when its serving endpoint becomes available without presenting a permanent empty area. No DNS/security settings were changed and no support message was sent.
