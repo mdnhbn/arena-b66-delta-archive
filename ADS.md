@@ -7,6 +7,6 @@ Website ID: 6106188
 Ad unit ID: 31612240
 Publisher account status: Approved / Active
 
-Code: ads/banner.html, isolated in a sandboxed iframe. Adult ads were not enabled. No Direct Link installed.
+Code: ads/banner.html, in an iframe with scripts, same-origin cookie access, and ad links allowed. The provider reads cookies, so an opaque sandbox origin prevents its banner from rendering. Top-level navigation is not granted. Adult ads were not enabled. No Direct Link installed.
 
 Banner rendering depends on the provider's available campaigns and visitors' browser settings.
