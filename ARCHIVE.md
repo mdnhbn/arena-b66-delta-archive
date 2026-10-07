@@ -24,7 +24,7 @@
 | 8 | 2026-08-16 | Burp Suite — Proxy ও Intruder | প্লেব্যাক যাচাই হয়েছে |
 | 9 | 2026-08-21 | WebShell, Backdoor ও Deface Page | প্লেব্যাক যাচাই হয়েছে |
 | 10 | 2026-08-23 | File Upload Vulnerabilities | YouTube প্রসেসিং চলছে |
-| 11 | 2026-08-29 | PortSwigger Labs — SQLi, XSS ও File Upload | YouTube প্রসেসিং চলছে |
+| 11 | 2026-08-29 | PortSwigger Labs — SQLi, XSS ও File Upload | প্লেব্যাক যাচাই হয়েছে |
 | 12 | 2026-08-30 | Acunetix — Scanner Setup ও Reports | প্লেব্যাক যাচাই হয়েছে |
 | 13 | 2026-09-04 | Batch Scripting | প্লেব্যাক যাচাই হয়েছে |
 | 14 | 2026-09-06 | Linux Installation ও Virtual Lab Setup | YouTube প্রসেসিং চলছে |

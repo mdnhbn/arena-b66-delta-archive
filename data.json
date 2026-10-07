@@ -915,8 +915,8 @@
       ],
       "topic": "PortSwigger Labs",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "vDp2gdCRHf0",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 114,
       "dateVerified": true,
@@ -930,10 +930,16 @@
       "downloadStatus": "complete",
       "topicTitle": "PortSwigger Labs — SQLi, XSS ও File Upload",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "vDp2gdCRHf0",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false,
-      "classDateVerification": "রেকর্ড লিংকে ২৯ আগস্ট দেওয়া আছে; ভিডিওর পর্দায় ২৮ আগস্ট দেখা গেছে। প্রকৃত ক্লাসের তারিখ যাচাই বাকি।"
+      "playbackVerified": true,
+      "classDateVerification": "রেকর্ড লিংকে ২৯ আগস্ট দেওয়া আছে; ভিডিওর পর্দায় ২৮ আগস্ট দেখা গেছে। প্রকৃত ক্লাসের তারিখ যাচাই বাকি।",
+      "localCopyStatus": "recycle-bin",
+      "playbackVerification": {
+        "method": "Public website player, readyState4, advancing time and matching duration",
+        "duration": 7818.001,
+        "verifiedAt": "2026-10-07"
+      }
     },
     {
       "id": "entry-112",
