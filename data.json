@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-05T20:31:04.814Z",
+  "updatedAt": "2026-10-07",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -220,8 +220,8 @@
       ],
       "topic": "SQL Injection",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "e-PewC8sDlk",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 39,
       "dateVerified": true,
@@ -238,9 +238,12 @@
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "downloadStatus": "complete",
       "duration": "2:00:35",
-      "pendingYoutubeId": "e-PewC8sDlk",
+      "pendingYoutubeId": null,
       "uploadNote": "Upload complete; Unlisted will activate after YouTube processing.",
-      "topicTitle": "Cyber Safety ও SQL Injection by Tools"
+      "topicTitle": "Cyber Safety ও SQL Injection by Tools",
+      "playbackVerified": true,
+      "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-11",
@@ -291,8 +294,8 @@
       ],
       "topic": "OSINT",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "ISheHt-js2A",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 45,
       "dateVerified": true,
@@ -308,9 +311,12 @@
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "downloadStatus": "complete",
       "duration": "2:11:13",
-      "pendingYoutubeId": "ISheHt-js2A",
+      "pendingYoutubeId": null,
       "uploadNote": "Upload complete; Unlisted will activate after YouTube processing.",
-      "topicTitle": "OSINT — Open Source Intelligence"
+      "topicTitle": "OSINT — Open Source Intelligence",
+      "playbackVerified": true,
+      "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-9",
@@ -438,8 +444,8 @@
       ],
       "topic": "Session & Redirect",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "0fk1ksVPvQ0",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 57,
       "dateVerified": true,
@@ -454,11 +460,14 @@
       ],
       "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
-      "pendingYoutubeId": "0fk1ksVPvQ0",
+      "pendingYoutubeId": null,
       "downloadStatus": "complete",
       "duration": "1:48:09",
       "topicTitle": "Session hijacking, blocking ও Mid Exam প্রস্তুতি",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "playbackVerified": true,
+      "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-4",
@@ -553,8 +562,8 @@
       ],
       "topic": "SQL Injection",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "h4XYuv--GAI",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 63,
       "dateVerified": true,
@@ -570,11 +579,14 @@
       ],
       "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
-      "pendingYoutubeId": "h4XYuv--GAI",
+      "pendingYoutubeId": null,
       "downloadStatus": "complete",
       "duration": "2:13:04",
       "topicTitle": "Manual SQL Injection",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "playbackVerified": true,
+      "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-73",
@@ -609,8 +621,8 @@
       ],
       "topic": "XSS",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "EaLvBynOYp0",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 79,
       "dateVerified": true,
@@ -622,9 +634,12 @@
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "duration": "2:25:42",
       "downloadStatus": "complete",
-      "pendingYoutubeId": "EaLvBynOYp0",
+      "pendingYoutubeId": null,
       "topicTitle": "Cross Site Scripting (XSS)",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "playbackVerified": true,
+      "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-79",
@@ -694,7 +709,7 @@
       "topic": "WAF",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 87,
       "dateVerified": true,
@@ -707,7 +722,9 @@
       "duration": "2:12:57",
       "downloadStatus": "complete",
       "topicTitle": "SQLi WAF ও IDS",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "4ok4H2OmWsg",
+      "youtubeVisibility": "unlisted"
     },
     {
       "id": "entry-87",
@@ -740,7 +757,7 @@
       "topic": "Burp Suite",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 89,
       "dateVerified": true,
@@ -753,7 +770,9 @@
       "duration": "2:25:37",
       "downloadStatus": "complete",
       "topicTitle": "Burp Suite — Proxy ও Intruder",
-      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।"
+      "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
+      "pendingYoutubeId": "oJIRROzXEZI",
+      "youtubeVisibility": "unlisted"
     },
     {
       "id": "entry-99",
@@ -1009,7 +1028,7 @@
       "links": [
         "https://drive.google.com/file/d/1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Malware Concepts",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -1023,7 +1042,10 @@
       "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "duration": "2:23:29",
-      "downloadStatus": "complete"
+      "downloadStatus": "complete",
+      "topicTitle": "Crypter, Antivirus ও RAT Lab",
+      "topicVerification": "ভিডিওর নির্বাচিত অংশ এবং ১৩ সেপ্টেম্বরের Crypter/Antivirus/Virus PDF থেকে বিষয় শনাক্ত।",
+      "topicVerified": true
     },
     {
       "id": "entry-2",
@@ -1053,7 +1075,7 @@
       "links": [
         "https://drive.google.com/file/d/1EqmHoZaM6FRFG66-eSE70LODAIp30FS0/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "LFI & Server Security",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -1067,7 +1089,10 @@
       "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "duration": "2:17:14",
-      "downloadStatus": "complete"
+      "downloadStatus": "complete",
+      "topicTitle": "LFI ও Web Server Security Lab",
+      "topicVerification": "ভিডিওতে LFI simulator এবং Acunetix-এর প্রশিক্ষণ সার্ভার দেখা গেছে।",
+      "topicVerified": true
     },
     {
       "id": "entry-130",
@@ -1097,7 +1122,7 @@
       "links": [
         "https://drive.google.com/file/d/1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -1111,7 +1136,10 @@
       "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
       "downloadStatus": "complete",
-      "duration": "2:16:44"
+      "duration": "2:16:44",
+      "topicTitle": "Kali Tools Setup — Java, Go ও Burp Suite",
+      "topicVerification": "ভিডিওর নির্বাচিত অংশে Kali Linux, Burp Suite এবং Go tool setup দেখা গেছে।",
+      "topicVerified": true
     },
     {
       "id": "entry-142",
@@ -1124,7 +1152,7 @@
       "links": [
         "https://drive.google.com/file/d/1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "LFI & Server Security",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -1136,7 +1164,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "topicTitle": "Advanced LFI, Path Traversal ও RCE Lab",
+      "topicVerification": "ভিডিওর নির্বাচিত অংশে LFI lab এবং Burp Suite-এর প্রশিক্ষণ অনুশীলন দেখা গেছে।",
+      "topicVerified": true,
+      "duration": "2:01:36"
     },
     {
       "id": "entry-145",
@@ -1149,7 +1181,7 @@
       "links": [
         "https://drive.google.com/file/d/1WT64w91wmge9FczUis8I-ZRVXgR2cT3c/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "WordPress",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -1161,7 +1193,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "topicTitle": "WordPress, phpMyAdmin ও Elementor",
+      "topicVerification": "ভিডিওর বিভিন্ন অংশে WordPress dashboard, phpMyAdmin, theme এবং Elementor দিয়ে পেজ তৈরি দেখা গেছে।",
+      "topicVerified": true,
+      "duration": "2:13:34"
     },
     {
       "id": "entry-147",
@@ -1174,7 +1210,7 @@
       "links": [
         "https://drive.google.com/file/d/1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "Recon",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -1186,7 +1222,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "topicTitle": "Recon — VPS ও Shodan Setup",
+      "topicVerification": "ভিডিওর নির্বাচিত অংশে VPS terminal ও Shodan setup দেখা গেছে।",
+      "topicVerified": true,
+      "duration": "1:35:44"
     },
     {
       "id": "entry-1",
@@ -2723,7 +2763,8 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 126,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-126"
     },
     {
       "id": "entry-128",
@@ -2819,7 +2860,8 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 134,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-134"
     },
     {
       "id": "entry-136",
@@ -3004,7 +3046,7 @@
       "links": [
         "https://drive.google.com/file/d/12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2/view?usp=sharing"
       ],
-      "topic": null,
+      "topic": "WordPress",
       "category": "recordings",
       "youtubeId": null,
       "videoStatus": "upload-pending",
@@ -3016,7 +3058,11 @@
       "sameDateResourceIds": [],
       "relatedTopics": [],
       "scheduledTime": "21:30–23:30",
-      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।"
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত ক্লাসের শুরু ও শেষের সময় ভিডিও থেকে যাচাই বাকি।",
+      "topicTitle": "WordPress Backup, XAMPP ও phpMyAdmin",
+      "topicVerification": "ভিডিওতে XAMPP, WordPress backup এবং phpMyAdmin troubleshooting দেখা গেছে।",
+      "topicVerified": true,
+      "duration": "1:42:35"
     }
   ],
   "schedule": {
