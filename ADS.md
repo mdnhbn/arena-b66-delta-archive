@@ -13,4 +13,8 @@ Banner rendering depends on the provider's available campaigns and visitors' bro
 
 ## Visitor experience
 
-Only one banner loads per full page visit. Hash navigation keeps the same frame; there is no timed refresh. The close button hides the slot for the current browser tab session and unloads the ad. Autoplay, camera, microphone and geolocation are disallowed on the frame. No pop-under, redirect, push subscription or interstitial tags are installed. Ad links may open a new tab when a visitor clicks them. The current provider list contains only the verified active banner; add new verified provider files to ads/controller.js after obtaining their code.
+Only one banner loads per full page visit. Hash navigation keeps the same frame; there is no timed refresh. The close button hides the slot for the current browser tab session and unloads the ad. Autoplay, camera, microphone and geolocation are disallowed on the frame. No pop-under, redirect, push subscription or interstitial tags are installed. Ad links may open a new tab when a visitor clicks them. Adsterra and Advertica alternate on full page visits. Only the selected provider is loaded; there is no simultaneous network stacking. Add other networks only after confirming the exact platform and obtaining valid account code.
+
+## Advertica banner
+
+Existing publisher account used. Generated Non-adult (SFW) 300x250 banner placement arena_b66_delta_top on 2026-10-07 after the user confirmed the specific Publisher Domain Consent step. Original generated code is preserved in ads/advertica.html. Ad tag class n98893af0c5, serving domain data527.click. No pop, redirect or push tags generated. Account/profile/payment settings unchanged.

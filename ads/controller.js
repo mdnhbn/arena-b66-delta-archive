@@ -9,7 +9,7 @@
     }
   } catch {}
   // One banner per page visit. Hash navigation never reloads it.
-  const providers = ["/ads/banner.html"];
+  const providers = ["/ads/banner.html", "/ads/advertica.html"];
   let selected = 0;
   try {
     const next = Number(localStorage.getItem("delta-ad-next") || 0);
