@@ -47,7 +47,7 @@
       "uploadNote": "Unlisted playback verified on 2026-10-05",
       "playbackVerified": true,
       "duration": "15:19",
-      "localCopyStatus": "Removed from Downloads; sent to Recycle Bin after verified playback."
+      "localCopyStatus": "recycle-bin"
     },
     {
       "id": "entry-14",
@@ -350,7 +350,19 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 46,
-      "dateVerified": true
+      "dateVerified": true,
+      "preservedFiles": [
+        {
+          "name": "Havij_Pro.zip",
+          "url": "https://drive.google.com/file/d/1m0Q2mkGr_JqBAB6TWStJ1trRDDAIUjwF/view",
+          "bytes": 5302596,
+          "sha256": "dedf371d71fbb2c7207838859b0025dcf76c379e5d5a572d8e630b542b361a52",
+          "kind": "tool",
+          "preservedAt": "2026-10-07"
+        }
+      ],
+      "relatedRecordingId": "entry-40",
+      "classRelationVerification": "SQL Injection toolkit relevance; exact same-date relation not asserted"
     },
     {
       "id": "entry-8",
@@ -370,7 +382,28 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 7,
-      "dateVerified": true
+      "dateVerified": true,
+      "preservedFiles": [
+        {
+          "name": "Cyber_Fox.zip",
+          "url": "https://drive.google.com/file/d/1EwXd3srfDA_bVfTPOfp_e5CXve2h2D2c/view",
+          "bytes": 64415117,
+          "sha256": "fc678fb045d09937afd9c2daaa7a207bb2be362ce08d052a757127fe5b79f14f",
+          "kind": "tool",
+          "preservedAt": "2026-10-07"
+        },
+        {
+          "name": "cyberfox.mp4",
+          "url": "https://drive.google.com/file/d/1zLQidfN3VuybO92BovGbsxqJHrHEy23J/view",
+          "bytes": 22342585,
+          "sha256": "672a3b3854dc72292d0c99e298b5edcfaffea9e19764523a6db105ec71abc49c",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        }
+      ],
+      "companionVideoStatus": "youtube-daily-limit; Drive backup available",
+      "relatedRecordingId": "entry-40",
+      "classRelationVerification": "SQL Injection toolkit relevance; exact same-date relation not asserted"
     },
     {
       "id": "entry-49",
@@ -791,8 +824,8 @@
       ],
       "topic": "WebShell",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "OhPe_nt12Hc",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 98,
       "dateVerified": true,
@@ -806,9 +839,15 @@
       "downloadStatus": "complete",
       "topicTitle": "WebShell, Backdoor ও Deface Page",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "OhPe_nt12Hc",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "localCopyStatus": "recycle-bin",
+      "playbackVerification": {
+        "method": "Public website embedded player; visible Play action; readyState4 and advancing currentTime",
+        "duration": 7311.881,
+        "verifiedAt": "2026-10-07"
+      }
     },
     {
       "id": "entry-105",
@@ -893,7 +932,8 @@
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
       "pendingYoutubeId": "vDp2gdCRHf0",
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": false,
+      "classDateVerification": "রেকর্ড লিংকে ২৯ আগস্ট দেওয়া আছে; ভিডিওর পর্দায় ২৮ আগস্ট দেখা গেছে। প্রকৃত ক্লাসের তারিখ যাচাই বাকি।"
     },
     {
       "id": "entry-112",
@@ -908,8 +948,8 @@
       ],
       "topic": "Acunetix",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "EXo_XFtyQFg",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 111,
       "dateVerified": true,
@@ -923,9 +963,15 @@
       "downloadStatus": "complete",
       "topicTitle": "Acunetix — Scanner Setup ও Reports",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "EXo_XFtyQFg",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "localCopyStatus": "recycle-bin",
+      "playbackVerification": {
+        "method": "Public website embedded player; visible Play action; readyState4 and advancing currentTime",
+        "duration": 7668.201,
+        "verifiedAt": "2026-10-07"
+      }
     },
     {
       "id": "entry-117",
@@ -940,8 +986,8 @@
       ],
       "topic": "Linux & Scripting",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "zoWP4osM_uU",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 116,
       "dateVerified": true,
@@ -955,9 +1001,15 @@
       "downloadStatus": "complete",
       "topicTitle": "Batch Scripting",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "zoWP4osM_uU",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "localCopyStatus": "recycle-bin",
+      "playbackVerification": {
+        "method": "Public website embed; visible Play; readyState4; advancing time and matching duration",
+        "verifiedAt": "2026-10-07",
+        "duration": 6902.501
+      }
     },
     {
       "id": "entry-122",
@@ -1009,7 +1061,18 @@
       "truncated": false,
       "collectionIndex": 120,
       "dateVerified": true,
-      "relatedRecordingId": "entry-122"
+      "relatedRecordingId": "entry-122",
+      "preservedFiles": [
+        {
+          "name": "2026-04-14 18-46-53.mp4",
+          "url": "https://drive.google.com/file/d/1vmulNtpwqka3wUMG_WjG5klGPIFsaSlE/view",
+          "bytes": 20296204,
+          "sha256": "7a4811bb37134a2a7752586be4924cfae189f8222f989484f00b59d99c549b2c",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        }
+      ],
+      "companionVideoStatus": "youtube-daily-limit; Drive backup available"
     },
     {
       "id": "entry-124",
@@ -1024,8 +1087,8 @@
       ],
       "topic": "Linux & Scripting",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "hYPimjiyGok",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 123,
       "dateVerified": true,
@@ -1039,9 +1102,15 @@
       "downloadStatus": "complete",
       "topicTitle": "Linux Command Line",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "hYPimjiyGok",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "localCopyStatus": "recycle-bin",
+      "playbackVerification": {
+        "method": "Public website embed; visible Play; readyState4; advancing time and matching duration",
+        "verifiedAt": "2026-10-07",
+        "duration": 7762.361
+      }
     },
     {
       "id": "entry-126",
@@ -1106,8 +1175,8 @@
       ],
       "topic": "LFI & Server Security",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "Xrvly33q0wQ",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 131,
       "dateVerified": true,
@@ -1122,9 +1191,15 @@
       "topicTitle": "LFI ও Web Server Security Lab",
       "topicVerification": "ভিডিওতে LFI simulator এবং Acunetix-এর প্রশিক্ষণ সার্ভার দেখা গেছে।",
       "topicVerified": true,
-      "pendingYoutubeId": "Xrvly33q0wQ",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "localCopyStatus": "recycle-bin",
+      "playbackVerification": {
+        "method": "Public website embedded player; visible Play action; readyState4 and advancing currentTime",
+        "duration": 8234.933696145124,
+        "verifiedAt": "2026-10-07"
+      }
     },
     {
       "id": "entry-130",
@@ -1157,7 +1232,7 @@
       "topic": "Linux & Scripting",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "uploading",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 133,
       "dateVerified": true,
@@ -1190,7 +1265,7 @@
       "topic": "LFI & Server Security",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "upload-blocked-daily-limit",
       "truncated": false,
       "collectionIndex": 141,
       "dateVerified": true,
@@ -1203,7 +1278,19 @@
       "topicTitle": "Advanced LFI, Path Traversal ও RCE Lab",
       "topicVerification": "ভিডিওর নির্বাচিত অংশে LFI lab এবং Burp Suite-এর প্রশিক্ষণ অনুশীলন দেখা গেছে।",
       "topicVerified": true,
-      "duration": "2:01:36"
+      "duration": "2:01:36",
+      "downloadStatus": "complete",
+      "uploadBlockReason": "YouTube daily upload limit reached on 2026-10-07; retain local download until upload and playback verification",
+      "preservedFiles": [
+        {
+          "name": "class-2026-09-25.mp4",
+          "url": "https://drive.google.com/file/d/1Vqi4MdVSuPTJwacfYJz5Ot3LZFZ0n-35/view",
+          "bytes": 2342996387,
+          "sha256": "a306bb25487a7e3578ef65c8b0c924c808f698286e173feab08bcebf10ff94ac",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        }
+      ]
     },
     {
       "id": "entry-145",
@@ -1219,7 +1306,7 @@
       "topic": "WordPress",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "upload-blocked-daily-limit",
       "truncated": false,
       "collectionIndex": 144,
       "dateVerified": true,
@@ -1232,7 +1319,19 @@
       "topicTitle": "WordPress, phpMyAdmin ও Elementor",
       "topicVerification": "ভিডিওর বিভিন্ন অংশে WordPress dashboard, phpMyAdmin, theme এবং Elementor দিয়ে পেজ তৈরি দেখা গেছে।",
       "topicVerified": true,
-      "duration": "2:13:34"
+      "duration": "2:13:34",
+      "downloadStatus": "complete",
+      "uploadBlockReason": "YouTube daily upload limit reached on 2026-10-07; retain local download until upload and playback verification",
+      "preservedFiles": [
+        {
+          "name": "class-2026-09-27.mp4",
+          "url": "https://drive.google.com/file/d/1jwosHg2O9zKfFgE7S_HzFEmPnSsTNf0y/view",
+          "bytes": 965777529,
+          "sha256": "22db454bb56b200e6e134fb1743d4a6d06f14662ee2ea9d5ca3468dc117ed56e",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        }
+      ]
     },
     {
       "id": "entry-147",
@@ -1248,7 +1347,7 @@
       "topic": "Recon",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "upload-blocked-daily-limit",
       "truncated": false,
       "collectionIndex": 146,
       "dateVerified": true,
@@ -1261,7 +1360,19 @@
       "topicTitle": "Recon — VPS ও Shodan Setup",
       "topicVerification": "ভিডিওর নির্বাচিত অংশে VPS terminal ও Shodan setup দেখা গেছে।",
       "topicVerified": true,
-      "duration": "1:35:44"
+      "duration": "1:35:44",
+      "downloadStatus": "complete",
+      "uploadBlockReason": "YouTube daily upload limit reached on 2026-10-07; retain local download until upload and playback verification",
+      "preservedFiles": [
+        {
+          "name": "class-2026-10-02.mp4",
+          "url": "https://drive.google.com/file/d/1QtIQkLLqMQbIQWksRcWVzYcJ-9pKymBu/view",
+          "bytes": 216596450,
+          "sha256": "bab03a167d154d8c7c8139223250973387837e119f21587be4d2e836ed995cbe",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        }
+      ]
     },
     {
       "id": "entry-1",
@@ -1790,7 +1901,8 @@
       "noteText": "https://classic.waterfox.net/\t\t\t\t\t\t\t\tCyberfox Alternative\nhttps://drive.google.com/file/d/11rlRdQ_JZNbij2ie1TaMt4YHQ9vq4x-o/view\t\t\tHackBar Addons\n\nhttps://theunarchiver.com/\t\t\t\t\t\t\t\tfor zip extraction if need!\nhttps://drive.google.com/file/d/1EC-eNnWwfzTXn0eISqG7GLVa3rn9Wnsq/view?usp=drive_link\tSetup tutorial",
       "noteUrl": "/documents/cyberfox-for-mac.txt",
       "documentUrl": "/documents/cyberfox-for-mac.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "backupDocumentUrl": "https://drive.google.com/file/d/1s1Wv8auXxnJ11AtOFdBlAr4sPmkgf49V/view"
     },
     {
       "id": "entry-52",
@@ -2202,7 +2314,8 @@
       "relatedRecordingId": "entry-58",
       "originalFileLinks": [
         "https://www.facebook.com/download/2103561483890513/Correct-Answers-66-Delta.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/1O4WxsbolsiFdUj5fmPEKhvKYSkG4UTVP/view"
     },
     {
       "id": "entry-78",
@@ -2369,7 +2482,48 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 92,
-      "dateVerified": false
+      "dateVerified": false,
+      "preservedFiles": [
+        {
+          "name": "Burp Suite Unfiltered - Go from a Beginner to Advanced!.rar",
+          "url": "https://drive.google.com/file/d/1jlVQCoMTK1qhDw5BfmuayelXAyZR2je3/view",
+          "bytes": 2699770018,
+          "sha256": "89cee4d70f90dd0a37367d208ef94bb24beeb7ef8d191fb522fc495084a6ee6f",
+          "kind": "tool",
+          "preservedAt": "2026-10-07"
+        }
+      ],
+      "archivedVideos": [
+        "1. Welcome to the Course\\1. Introduction.mp4",
+        "1. Welcome to the Course\\2. Tips on how to best use this Course!.mp4",
+        "2. Setting up the Laboratory\\1. Installing up our Practice Lab.mp4",
+        "2. Setting up the Laboratory\\2. Get Burp Suite Community  PRO.mp4",
+        "3. Basics and Terminologies\\1. Do you know how any Website really works.mp4",
+        "3. Basics and Terminologies\\2. Let me show you Requests and Responses.mp4",
+        "3. Basics and Terminologies\\3. How Burp Suite can help you with Web Tests.mp4",
+        "3. Basics and Terminologies\\4. Let's get an 10,000 Foot Overview of Burp.mp4",
+        "4. Each Tab of Burp in Deep\\1. How to use Dashboard Tab.mp4",
+        "4. Each Tab of Burp in Deep\\10. How to use Decoder Tab.mp4",
+        "4. Each Tab of Burp in Deep\\11. How to use Comparer Tab.mp4",
+        "4. Each Tab of Burp in Deep\\12. How to use Logger Tab.mp4",
+        "4. Each Tab of Burp in Deep\\13. How to use Extender Tab.mp4",
+        "4. Each Tab of Burp in Deep\\2. Automated Scanning & Live Tasks in Burp Suite Pro.mp4",
+        "4. Each Tab of Burp in Deep\\3. How to use Target Tab.mp4",
+        "4. Each Tab of Burp in Deep\\4. Content Discovery & Item-Specific Scanning in Burp Suite Pro.mp4",
+        "4. Each Tab of Burp in Deep\\5. How to use Proxy Tab.mp4",
+        "4. Each Tab of Burp in Deep\\6. Best way to get rid of HTTPS Warnings!.mp4",
+        "4. Each Tab of Burp in Deep\\7. How to use Intruder Tab.mp4",
+        "4. Each Tab of Burp in Deep\\8. How to use Repeater Tab.mp4",
+        "4. Each Tab of Burp in Deep\\9. How to use Sequencer Tab.mp4",
+        "5. User and Project Options\\1. Essential User Options.mp4",
+        "5. User and Project Options\\2. [EXTRA] 5 Tips & Tricks that'll differentiate you from a Noob!.mp4",
+        "6. Hands-on Exercises  Labs\\1. File Upload & Max Length Limit Bypass [Proxy Ideas].mp4",
+        "6. Hands-on Exercises  Labs\\2. Testing Web Sockets [Proxy + Repeater Ideas].mp4",
+        "6. Hands-on Exercises  Labs\\3. Input Vulnerability Check Lab [Intruder Ideas].mp4",
+        "6. Hands-on Exercises  Labs\\4. Http Methods Exploitation [Repeater Ideas].mp4"
+      ],
+      "archiveVideoStatus": "27 videos preserved in downloadable RAR; individual YouTube upload pending",
+      "relatedRecordingId": "entry-90"
     },
     {
       "id": "entry-94",
@@ -2542,7 +2696,8 @@
       "relatedRecordingId": "entry-99",
       "originalFileLinks": [
         "https://www.facebook.com/download/1420612573243103/Webshell-B.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/1WkaeZzMyHFRDHz1tKIErZfj7cka5-XNG/view"
     },
     {
       "id": "entry-104",
@@ -2571,7 +2726,8 @@
       "text": "Advanced Shell Resource\nShell file password: aws\nhttps://drive.google.com/.../1Pm2LR1Zg3bI4vDCenjuAsc.../view\nVideo resource:\npart-1: https://drive.google.com/.../1aPft3a16Ue.../view\npart-2: https://drive.google.com/.../1WSWH50J_GD8HTeh.../view",
       "links": [
         "https://drive.google.com/file/d/1Pm2LR1Zg3bI4vDCenjuAsc6X9HWDYcH8/view",
-        "https://drive.google.com/file/d/1aPft3a16Ue-aFuY2pTNXvlSAv6Hsw2Ac/view"
+        "https://drive.google.com/file/d/1aPft3a16Ue-aFuY2pTNXvlSAv6Hsw2Ac/view",
+        "https://drive.google.com/file/d/1WSWH50J_GD8HTeh-UsAuybJg9kRml141/view"
       ],
       "topic": "File Upload",
       "category": "tools",
@@ -2580,7 +2736,35 @@
       "truncated": false,
       "collectionIndex": 105,
       "dateVerified": false,
-      "contentVerified": true
+      "contentVerified": true,
+      "preservedFiles": [
+        {
+          "name": "ShellTC.rar",
+          "url": "https://drive.google.com/file/d/1CVU48B_PTjiLMpNUzX4dLXmWfejc0_D8/view",
+          "bytes": 987081,
+          "sha256": "1e649a4c1c8175de51f16884dd0b8f41981d85afde9642690f46d815c14386eb",
+          "kind": "tool",
+          "preservedAt": "2026-10-07"
+        },
+        {
+          "name": "Asif_Shell_Part1.mp4",
+          "url": "https://drive.google.com/file/d/1DSSNWtalcz8Tuenlk-RRxneBkDG7Yvz-/view",
+          "bytes": 93444725,
+          "sha256": "ad80e79abad31512239ef8195e5ff77abfc494f1032285e8db53e24b54f917c1",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        },
+        {
+          "name": "Asif_Shell_part2.mp4",
+          "url": "https://drive.google.com/file/d/1wwdj8VHlfqQeYgMy72Gev0L16jh22Vsl/view",
+          "bytes": 49609922,
+          "sha256": "68d836133efade2013a776220205a00ca779b2ffc61badc621de737cb0ed7bf5",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        }
+      ],
+      "companionVideoStatus": "youtube-daily-limit; Drive backup available",
+      "relatedRecordingId": "entry-99"
     },
     {
       "id": "entry-108",
@@ -2607,7 +2791,8 @@
       "relatedRecordingId": "entry-107",
       "originalFileLinks": [
         "https://www.facebook.com/download/1615848803430194/Files%20Uploading%20Vulnerabilities.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/1vLTPR3iNcx1eMC95MtnusMT36ZEjrqfk/view"
     },
     {
       "id": "entry-109",
@@ -2634,7 +2819,8 @@
       "relatedRecordingId": "entry-107",
       "originalFileLinks": [
         "https://www.facebook.com/download/1417754170268096/FileUV.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/1AyJ2fl5INaP73482NB3A2lut5sjXm8Aw/view"
     },
     {
       "id": "entry-110",
@@ -2687,7 +2873,18 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 112,
-      "dateVerified": false
+      "dateVerified": false,
+      "preservedFiles": [
+        {
+          "name": "Acunetix-v24.1-Windows.rar",
+          "url": "https://drive.google.com/file/d/1fD5bqJjgQm1G2B2_FbMMKvdOwOeb6ahL/view",
+          "bytes": 275586582,
+          "sha256": "4358255fc7733b4d73a481ca84bd06bfbb80136f850e17d50ceccaf389b120b4",
+          "kind": "tool",
+          "preservedAt": "2026-10-07"
+        }
+      ],
+      "relatedRecordingId": "entry-112"
     },
     {
       "id": "entry-114",
@@ -2723,7 +2920,9 @@
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 115,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-122",
+      "videoReferenceVerification": "Related installation topic only; source video not copied or compared"
     },
     {
       "id": "entry-118",
@@ -2750,7 +2949,8 @@
       "relatedRecordingId": "entry-117",
       "originalFileLinks": [
         "https://www.facebook.com/download/932554422682616/Batch_Scripting_Short_Notes.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/1lRDz9r0yi4dVK51vFzpUJ7YJgExCRfsB/view"
     },
     {
       "id": "entry-119",
@@ -2820,11 +3020,21 @@
       ],
       "topic": "Linux & Scripting",
       "category": "classes",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "youtubeId": "hYPimjiyGok",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 124,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-124",
+      "classDate": "2026-09-11",
+      "pendingYoutubeId": null,
+      "videoReferenceVerification": {
+        "method": "Facebook rendered video duration exactly matches downloaded main recording and post topic matches",
+        "facebookDuration": 7762.366,
+        "recordingDuration": 7762.366,
+        "verifiedAt": "2026-10-07"
+      },
+      "archivedRecordingId": "entry-124"
     },
     {
       "id": "entry-127",
@@ -2851,7 +3061,8 @@
       "documentPreservedAt": "2026-10-07",
       "originalFileLinks": [
         "https://www.facebook.com/download/1070691385721202/What%20is%20Crypter%20Antivirus%20%26%20Virus.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/1pqLcxWJ3ff1DtLFCeAH5weTXjl26xXCH/view"
     },
     {
       "id": "entry-128",
@@ -2866,11 +3077,21 @@
       ],
       "topic": "LFI / LFD",
       "category": "classes",
-      "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "youtubeId": "Xrvly33q0wQ",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 127,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-132",
+      "classDate": "2026-09-18",
+      "pendingYoutubeId": null,
+      "videoReferenceVerification": {
+        "method": "Facebook rendered video duration exactly matches downloaded main recording and post topic matches",
+        "facebookDuration": 8234.899,
+        "recordingDuration": 8234.899,
+        "verifiedAt": "2026-10-07"
+      },
+      "archivedRecordingId": "entry-132"
     },
     {
       "id": "entry-129",
@@ -2889,7 +3110,16 @@
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 128,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-134",
+      "classDate": "2026-09-20",
+      "archivedRecordingId": "entry-134",
+      "videoReferenceVerification": {
+        "method": "Matching topic and duration within one video frame",
+        "facebookDuration": 8204.667,
+        "recordingDuration": 8204.634,
+        "verifiedAt": "2026-10-07"
+      }
     },
     {
       "id": "entry-131",
@@ -2916,7 +3146,8 @@
       "relatedRecordingId": "entry-132",
       "originalFileLinks": [
         "https://www.facebook.com/download/1056508810719747/Web%20Server.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/17PU-_wPXtJ0zI1IocRHg9Lu2cq6t5OqK/view"
     },
     {
       "id": "entry-133",
@@ -2963,7 +3194,8 @@
       "documentPreservedAt": "2026-10-07",
       "originalFileLinks": [
         "https://www.facebook.com/download/1142563261776299/java%26go%20commands.pdf"
-      ]
+      ],
+      "backupDocumentUrl": "https://drive.google.com/file/d/1fuBx65kgXos55G4_tN9x6Mb6hF1ckl8a/view"
     },
     {
       "id": "entry-136",
@@ -2983,7 +3215,17 @@
       "truncated": false,
       "collectionIndex": 135,
       "dateVerified": false,
-      "relatedRecordingId": "entry-134"
+      "relatedRecordingId": "entry-134",
+      "preservedFiles": [
+        {
+          "name": "burploader-source.zip",
+          "url": "https://drive.google.com/file/d/15P0WvfiBNKYdf8rVFul1wwiknBk3d5Ee/view",
+          "bytes": 9669,
+          "sha256": "d201dfd91386e677fcdf1630fd58f0067d5d38ad6b668b69b02cb66acd67a339",
+          "kind": "tool",
+          "preservedAt": "2026-10-07"
+        }
+      ]
     },
     {
       "id": "entry-137",
@@ -3040,7 +3282,16 @@
       "videoStatus": "upload-pending",
       "truncated": false,
       "collectionIndex": 138,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-142",
+      "classDate": "2026-09-25",
+      "archivedRecordingId": "entry-142",
+      "videoReferenceVerification": {
+        "method": "Matching topic and identical duration",
+        "facebookDuration": 7296.8,
+        "recordingDuration": 7296.8,
+        "verifiedAt": "2026-10-07"
+      }
     },
     {
       "id": "entry-140",
@@ -3100,7 +3351,16 @@
       "collectionIndex": 142,
       "dateVerified": false,
       "duration": "1:35:45",
-      "contentVerified": true
+      "contentVerified": true,
+      "relatedRecordingId": "entry-147",
+      "classDate": "2026-10-02",
+      "archivedRecordingId": "entry-147",
+      "videoReferenceVerification": {
+        "method": "Matching topic and identical duration",
+        "facebookDuration": 5744.799,
+        "recordingDuration": 5744.799,
+        "verifiedAt": "2026-10-07"
+      }
     },
     {
       "id": "entry-144",
@@ -3152,7 +3412,7 @@
       "topic": "WordPress",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "upload-blocked-daily-limit",
       "truncated": false,
       "collectionIndex": 147,
       "dateVerified": true,
@@ -3165,7 +3425,19 @@
       "topicTitle": "WordPress Backup, XAMPP ও phpMyAdmin",
       "topicVerification": "ভিডিওতে XAMPP, WordPress backup এবং phpMyAdmin troubleshooting দেখা গেছে।",
       "topicVerified": true,
-      "duration": "1:42:35"
+      "duration": "1:42:35",
+      "downloadStatus": "complete",
+      "uploadBlockReason": "YouTube daily upload limit reached on 2026-10-07; retain local download until upload and playback verification",
+      "preservedFiles": [
+        {
+          "name": "class-2026-10-04.mp4",
+          "url": "https://drive.google.com/file/d/1gfP2kgSkKJDOEYUsxjTNuaXCx-y0qFNH/view",
+          "bytes": 846922845,
+          "sha256": "6f3668f4003c85f30ef0f03d492b5897e0c6c4f55dc4f1c8591fb63f216c2428",
+          "kind": "video",
+          "preservedAt": "2026-10-07"
+        }
+      ]
     }
   ],
   "schedule": {
@@ -3435,5 +3707,11 @@
         "remaining": null
       }
     ]
+  },
+  "storage": {
+    "driveFolderUrl": "https://drive.google.com/drive/folders/1w4IiwP6jPfAKOZZxzeQ-ZjUeAlbjQgLU",
+    "access": "Anyone with the link, Viewer",
+    "preservedFileCount": 26,
+    "verifiedAt": "2026-10-07"
   }
 }
