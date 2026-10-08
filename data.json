@@ -379,7 +379,7 @@
       "topic": "Session & Redirect",
       "category": "tools",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 7,
       "dateVerified": true,
@@ -403,7 +403,22 @@
       ],
       "companionVideoStatus": "youtube-daily-limit; Drive backup available",
       "relatedRecordingId": "entry-40",
-      "classRelationVerification": "SQL Injection toolkit relevance; exact same-date relation not asserted"
+      "classRelationVerification": "SQL Injection toolkit relevance; exact same-date relation not asserted",
+      "dailymotionVideos": [
+        {
+          "id": "entry-8",
+          "part": 1,
+          "videoId": "xbjwzh6",
+          "privateId": "k601qXNsvsK5k4Lhat4",
+          "label": "Cyberfox সেটআপ",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-08"
+        }
+      ],
+      "playbackVerified": true,
+      "playbackVerifiedAt": "2026-10-08",
+      "videoProvider": "dailymotion"
     },
     {
       "id": "entry-49",
@@ -1070,7 +1085,7 @@
       "topic": "Linux & Scripting",
       "category": "tools",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 120,
       "dateVerified": true,
@@ -1085,7 +1100,22 @@
           "preservedAt": "2026-10-07"
         }
       ],
-      "companionVideoStatus": "youtube-daily-limit; Drive backup available"
+      "companionVideoStatus": "youtube-daily-limit; Drive backup available",
+      "dailymotionVideos": [
+        {
+          "id": "entry-121",
+          "part": 1,
+          "videoId": "xbjx6c6",
+          "privateId": "k2KdJ6Zi3UTBWeLhcMu",
+          "label": "Linux সেটআপ",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-08"
+        }
+      ],
+      "playbackVerified": true,
+      "playbackVerifiedAt": "2026-10-08",
+      "videoProvider": "dailymotion"
     },
     {
       "id": "entry-124",
@@ -1290,7 +1320,7 @@
       "topic": "LFI & Server Security",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-blocked-daily-limit",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 141,
       "dateVerified": true,
@@ -1315,7 +1345,32 @@
           "kind": "video",
           "preservedAt": "2026-10-07"
         }
-      ]
+      ],
+      "dailymotionVideos": [
+        {
+          "id": "entry-142",
+          "part": 1,
+          "videoId": "xbjwmpm",
+          "privateId": "kEs1ljdSOHhAbELh6ae",
+          "label": "অংশ ১ / ২",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-08"
+        },
+        {
+          "id": "entry-142",
+          "part": 2,
+          "videoId": "xbjwmpa",
+          "privateId": "k574BitLQ5sWVlLh6a2",
+          "label": "অংশ ২ / ২",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-08"
+        }
+      ],
+      "playbackVerified": true,
+      "playbackVerifiedAt": "2026-10-08",
+      "videoProvider": "dailymotion"
     },
     {
       "id": "entry-145",
@@ -1331,7 +1386,7 @@
       "topic": "WordPress",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-blocked-daily-limit",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 144,
       "dateVerified": true,
@@ -1356,7 +1411,32 @@
           "kind": "video",
           "preservedAt": "2026-10-07"
         }
-      ]
+      ],
+      "dailymotionVideos": [
+        {
+          "id": "entry-145",
+          "part": 1,
+          "videoId": "xbjwmpi",
+          "privateId": "k1kxIc56tECOoiLh6aa",
+          "label": "অংশ ১ / ২",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-08"
+        },
+        {
+          "id": "entry-145",
+          "part": 2,
+          "videoId": "xbjwmpu",
+          "privateId": "k3cLbO67P87yCwLh6am",
+          "label": "অংশ ২ / ২",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-08"
+        }
+      ],
+      "playbackVerified": true,
+      "playbackVerifiedAt": "2026-10-08",
+      "videoProvider": "dailymotion"
     },
     {
       "id": "entry-147",
@@ -1372,7 +1452,7 @@
       "topic": "Recon",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-blocked-daily-limit",
+      "videoStatus": "upload-blocked-dailymotion-limit",
       "truncated": false,
       "collectionIndex": 146,
       "dateVerified": true,
@@ -1397,7 +1477,9 @@
           "kind": "video",
           "preservedAt": "2026-10-07"
         }
-      ]
+      ],
+      "videoUploadMessage": "Dailymotion-এর আজকের আপলোড ফাইলের সীমা পূর্ণ। সীমা রিসেট হলে আপলোড পুনরায় চেষ্টা করা হবে; মূল ভিডিও নিরাপদে রাখা আছে।",
+      "playbackVerified": false
     },
     {
       "id": "entry-1",
@@ -2757,7 +2839,7 @@
       "topic": "File Upload",
       "category": "tools",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "upload-blocked-dailymotion-limit",
       "truncated": false,
       "collectionIndex": 105,
       "dateVerified": false,
@@ -2789,7 +2871,9 @@
         }
       ],
       "companionVideoStatus": "youtube-daily-limit; Drive backup available",
-      "relatedRecordingId": "entry-99"
+      "relatedRecordingId": "entry-99",
+      "videoUploadMessage": "Dailymotion-এর আজকের আপলোড ফাইলের সীমা পূর্ণ। সীমা রিসেট হলে আপলোড পুনরায় চেষ্টা করা হবে; মূল ভিডিও নিরাপদে রাখা আছে।",
+      "playbackVerified": false
     },
     {
       "id": "entry-108",
@@ -3437,7 +3521,7 @@
       "topic": "WordPress",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-blocked-daily-limit",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 147,
       "dateVerified": true,
@@ -3462,7 +3546,22 @@
           "kind": "video",
           "preservedAt": "2026-10-07"
         }
-      ]
+      ],
+      "dailymotionVideos": [
+        {
+          "id": "entry-148",
+          "part": 1,
+          "videoId": "xbjwmpe",
+          "privateId": "k7MKKjg2nthGG1Lh6a6",
+          "label": "পূর্ণ ক্লাস",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-08"
+        }
+      ],
+      "playbackVerified": true,
+      "playbackVerifiedAt": "2026-10-08",
+      "videoProvider": "dailymotion"
     }
   ],
   "schedule": {
@@ -3479,7 +3578,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2.0",
+  "siteVersion": "2026-10-08-dailymotion",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
