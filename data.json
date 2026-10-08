@@ -418,7 +418,8 @@
       ],
       "playbackVerified": true,
       "playbackVerifiedAt": "2026-10-08",
-      "videoProvider": "dailymotion"
+      "videoProvider": "dailymotion",
+      "duration": "0:01:11"
     },
     {
       "id": "entry-49",
@@ -1115,7 +1116,8 @@
       ],
       "playbackVerified": true,
       "playbackVerifiedAt": "2026-10-08",
-      "videoProvider": "dailymotion"
+      "videoProvider": "dailymotion",
+      "duration": "0:08:20"
     },
     {
       "id": "entry-124",
