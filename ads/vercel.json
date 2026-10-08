@@ -1,0 +1,14 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "headers": [{
+    "source": "/(.*)",
+    "headers": [
+      {"key": "X-Content-Type-Options", "value": "nosniff"},
+      {"key": "Referrer-Policy", "value": "strict-origin-when-cross-origin"},
+      {"key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), serial=()"},
+      {"key": "Content-Security-Policy", "value": "sandbox allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox; default-src https: data: blob:; script-src https: 'unsafe-inline'; worker-src 'none'; style-src https: 'unsafe-inline'; img-src https: data: blob:; connect-src https:; frame-src https:; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors https://arena-b66-delta-archive.vercel.app; upgrade-insecure-requests"}
+    ]
+  }]
+}
