@@ -10,6 +10,6 @@ Preserved on 2026-10-08 from the AWS B66-Delta course conversation. Conversation
 
 Class dates describe the related recordings, not the unknown attachment posting dates. HW5 is the homework name, not class serial 5. Resources are linked by relatedRecordingId and appear in each class’s Documents or Tools tab. SHA256 and file sizes are recorded in data.json.
 
-The old plugin version is preserved for course-lab reference. Review compatibility and use a current supported version on active websites. The Unlimited Extension ZIP was not mirrored because its supplied licence prohibits redistribution. Duplicator Pro download/licence verification remains incomplete. The shared website-files Drive link was unavailable when checked. The Malware Removal database/website files remain unarchived because their MEGA source could not be accessed through the permitted browser.
+The old plugin version is preserved for course-lab reference. Review compatibility and use a current supported version on active websites. The Unlimited Extension ZIP was not mirrored because its supplied licence prohibits redistribution. Duplicator Pro: existing course ZIP has an activation-state modification and is not mirrored. Official Lite alternative is available.
 
 Previously preserved syllabus and File Upload / WebShell PDFs remain available without duplicate copies. Identifiable student exam results are excluded from the public repository.

