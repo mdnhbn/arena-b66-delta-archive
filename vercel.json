@@ -1,1 +1,41 @@
-{"framework":null,"buildCommand":"","outputDirectory":".","headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"},{"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"}]}]}
+{
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), serial=(), accelerometer=(), gyroscope=(), magnetometer=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-src 'self' https://www.youtube-nocookie.com https://geo.dailymotion.com; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; upgrade-insecure-requests"
+        }
+      ]
+    },
+    {
+      "source": "/ads/(.*).html",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "sandbox allow-scripts allow-popups allow-popups-to-escape-sandbox; default-src https: data: blob:; script-src https: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; connect-src https:; frame-src https:; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; upgrade-insecure-requests"
+        }
+      ]
+    }
+  ]
+}

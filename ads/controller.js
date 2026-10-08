@@ -20,14 +20,14 @@
   }
   window.addEventListener("message", (event) => {
     if (slot.hidden || frame.getAttribute("src") !== "/ads/advertica.html") return;
-    if (event.origin !== location.origin || event.source !== frame.contentWindow) return;
+    if (event.origin !== "null" || event.source !== frame.contentWindow) return;
     if (event.data?.type !== "delta-ad-unavailable" || event.data?.path !== "/ads/advertica.html") return;
     // A failed provider never leaves an empty advertisement in place.
     frame.src = "/ads/banner.html";
   });
   frame.src = providers[selected];
   slot.querySelector(".ad-close")?.addEventListener("click", () => {
-    frame.src = "about:blank";
+    frame.removeAttribute("src");
     slot.hidden = true;
     try { sessionStorage.setItem("delta-ad-hidden", "1"); } catch {}
   });
