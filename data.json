@@ -688,7 +688,10 @@
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
       "playbackVerified": true,
       "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "relatedResourceIds": [
+        "msg-hw5-xss"
+      ]
     },
     {
       "id": "entry-79",
@@ -863,7 +866,10 @@
         "method": "Public website embedded player; visible Play action; readyState4 and advancing currentTime",
         "duration": 7311.881,
         "verifiedAt": "2026-10-07"
-      }
+      },
+      "relatedResourceIds": [
+        "msg-deface-example"
+      ]
     },
     {
       "id": "entry-105",
@@ -3563,7 +3569,117 @@
       ],
       "playbackVerified": true,
       "playbackVerifiedAt": "2026-10-08",
-      "videoProvider": "dailymotion"
+      "videoProvider": "dailymotion",
+      "relatedResourceIds": [
+        "msg-wp-migration"
+      ]
+    },
+    {
+      "id": "msg-hw5-xss",
+      "title": "XSS — Homework Task 5 (HW5.pdf)",
+      "author": "AWS B66-Delta কোর্স গ্রুপ",
+      "date": null,
+      "observedDate": "",
+      "source": "",
+      "sourceType": "messenger",
+      "sourceLabel": "AWS B66-Delta Messenger-এর কোর্স ফাইল",
+      "text": "Messenger-এ দেওয়া XSS homework। ক্লাস ৬-এর Cross Site Scripting বিষয়ের সঙ্গে যুক্ত। Homework Task 5 ফাইলের নাম; এটি ক্লাসের সিরিয়াল নয়।\nপাবলিক কপিতে স্ক্রিনশটের session cookie মানগুলো মুছে দেওয়া হয়েছে। মূল প্রশ্ন ও উদাহরণ অক্ষত আছে। অনুশীলন কেবল নিজস্ব বা অনুমতিপ্রাপ্ত ল্যাবে করুন।",
+      "links": [],
+      "topic": "XSS",
+      "category": "documents",
+      "videoStatus": "not-applicable",
+      "collectionIndex": 148,
+      "dateVerified": false,
+      "classDate": "2026-08-09",
+      "relatedRecordingId": "entry-80",
+      "relationshipVerification": "ফাইলের বিষয়বস্তু ও যাচাই করা ক্লাসের টপিক মিলিয়ে সংযুক্ত।",
+      "sourceCollectedAt": "2026-10-08",
+      "documentUrl": "/documents/hw5-xss-public.pdf",
+      "documentBytes": 127860,
+      "documentSha256": "0a51b6a9f283c2d712d4a785f389595b1e6bf0b2b4578156715541787fdf61b0",
+      "documentPreservedAt": "2026-10-08",
+      "preservedFiles": [
+        {
+          "name": "hw5-xss-public.pdf",
+          "url": "/documents/hw5-xss-public.pdf",
+          "bytes": 127860,
+          "sha256": "0a51b6a9f283c2d712d4a785f389595b1e6bf0b2b4578156715541787fdf61b0",
+          "kind": "document",
+          "preservedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "msg-deface-example",
+      "title": "Deface Page — HTML অনুশীলন ফাইল",
+      "author": "AWS B66-Delta কোর্স গ্রুপ",
+      "date": null,
+      "observedDate": "",
+      "source": "",
+      "sourceType": "messenger",
+      "sourceLabel": "AWS B66-Delta Messenger-এর কোর্স ফাইল",
+      "text": "Messenger-এর deface.html ফাইলটি মূল অবস্থায় ZIP-এর মধ্যে সংরক্ষিত। ক্লাস ৯-এর WebShell, Backdoor ও Deface Page বিষয়ের সঙ্গে যুক্ত।\nZIP-এ original HTML ও README আছে। HTML-এ বাহ্যিক রিসোর্স এবং স্থানীয় ছবি-পাথ আছে; নিজের ল্যাবে ব্যবহারের আগে source দেখুন।",
+      "links": [],
+      "topic": "WebShell",
+      "category": "documents",
+      "videoStatus": "not-applicable",
+      "collectionIndex": 149,
+      "dateVerified": false,
+      "classDate": "2026-08-21",
+      "relatedRecordingId": "entry-99",
+      "relationshipVerification": "ফাইলের বিষয়বস্তু ও যাচাই করা ক্লাসের টপিক মিলিয়ে সংযুক্ত।",
+      "sourceCollectedAt": "2026-10-08",
+      "documentUrl": "/documents/deface-class-example.zip",
+      "documentBytes": 4306,
+      "documentSha256": "eca71d59b71bd441efdd997808d82d683c5017a4133bf816058e7352773e2284",
+      "documentPreservedAt": "2026-10-08",
+      "preservedFiles": [
+        {
+          "name": "deface-class-example.zip",
+          "url": "/documents/deface-class-example.zip",
+          "bytes": 4306,
+          "sha256": "eca71d59b71bd441efdd997808d82d683c5017a4133bf816058e7352773e2284",
+          "kind": "document",
+          "preservedAt": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "msg-wp-migration",
+      "title": "WordPress Backup — All-in-One WP Migration 7.48",
+      "author": "AWS B66-Delta কোর্স গ্রুপ",
+      "date": null,
+      "observedDate": "",
+      "source": "",
+      "sourceType": "messenger",
+      "sourceLabel": "AWS B66-Delta Messenger-এর কোর্স ফাইল",
+      "text": "ক্লাস ২২-এর WordPress backup/migration বিষয়ের সঙ্গে সম্পর্কিত Messenger-এর migration ফোল্ডারের ফাইল। মূল ZIP এবং ভেতরের লাইসেন্স অক্ষত রেখে সংরক্ষণ করা হয়েছে।\nএটি কোর্সে দেওয়া পুরোনো 7.48 সংস্করণ; অনুশীলনের স্থানীয় ল্যাবের জন্য সংরক্ষিত। নতুন বা চলমান সাইটে ব্যবহারের আগে বর্তমান সংস্করণ ও compatibility যাচাই করুন।\nব্যবহার: WordPress dashboard → Plugins → Add New → Upload Plugin-এ ZIP নির্বাচন করুন। Backup/export ও import-এর জন্য All-in-One WP Migration মেনু ব্যবহার করুন।\nএকই ফোল্ডারের Unlimited Extension পুনর্বিতরণের অনুমতি দেয় না, তাই তার ZIP প্রকাশ করা হয়নি। Duplicator Pro-এর কপি ডাউনলোড ও লাইসেন্স যাচাই সম্পূর্ণ হয়নি।",
+      "links": [
+        "https://servmask.com/products"
+      ],
+      "topic": "WordPress",
+      "category": "tools",
+      "videoStatus": "not-applicable",
+      "collectionIndex": 150,
+      "dateVerified": false,
+      "classDate": "2026-10-04",
+      "relatedRecordingId": "entry-148",
+      "relationshipVerification": "ফাইলের বিষয়বস্তু ও যাচাই করা ক্লাসের টপিক মিলিয়ে সংযুক্ত।",
+      "sourceCollectedAt": "2026-10-08",
+      "documentUrl": "/tools/all-in-one-wp-migration-7.48.zip",
+      "documentBytes": 348878,
+      "documentSha256": "a923c5dd9f2255e4cabfd50510e7b1cf6b3f500c5a803534024d50a0f39587fb",
+      "documentPreservedAt": "2026-10-08",
+      "preservedFiles": [
+        {
+          "name": "all-in-one-wp-migration.zip",
+          "url": "/tools/all-in-one-wp-migration-7.48.zip",
+          "bytes": 348878,
+          "sha256": "a923c5dd9f2255e4cabfd50510e7b1cf6b3f500c5a803534024d50a0f39587fb",
+          "kind": "tool",
+          "preservedAt": "2026-10-08"
+        }
+      ]
     }
   ],
   "schedule": {
@@ -3580,7 +3696,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-08-dailymotion",
+  "siteVersion": "2026-10-08-messenger-files",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,

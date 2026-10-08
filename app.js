@@ -38,7 +38,7 @@ function overview(){const hero=node('section',null,'hero');const copy=node('div'
 function toolDownloads(pool){
  const files=pool.flatMap(e=>(e.preservedFiles||[]).filter(f=>f.kind==='tool').map(f=>({e,f})));
  if(!files.length)return;
- $('page').append(sectionHeading('টুল ফাইল ডাউনলোড'),node('p','ফাইলগুলো আপনার Drive আর্কাইভে সংরক্ষিত। ডাউনলোড বাটন থেকে ফাইল নেওয়া যাবে; Google Drive বড় বা পাসওয়ার্ড দেওয়া ফাইলের জন্য নিশ্চিতকরণ চাইতে পারে।','muted'));
+ $('page').append(sectionHeading('টুল ফাইল ডাউনলোড'),node('p','ডাউনলোড বাটন থেকে সংরক্ষিত ফাইল নেওয়া যাবে। কিছু ফাইল এই সাইটে এবং বড় ফাইলগুলো Drive আর্কাইভে রাখা আছে; Drive বড় বা পাসওয়ার্ড দেওয়া ফাইলের জন্য নিশ্চিতকরণ চাইতে পারে।','muted'));
  const grid=node('div',null,'resource-grid tool-downloads');
  for(const {e,f} of files){
   const card=node('article',null,'panel tool-download-card'),size=f.bytes>=1e9?(f.bytes/1e9).toFixed(2)+' GB':(f.bytes/1e6).toFixed(1)+' MB';
