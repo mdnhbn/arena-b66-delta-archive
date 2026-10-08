@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -1036,8 +1036,8 @@
       ],
       "topic": "Linux & Scripting",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "XMeZhuvd26Y",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 121,
       "dateVerified": true,
@@ -1051,9 +1051,10 @@
       "downloadStatus": "complete",
       "topicTitle": "Linux Installation ও Virtual Lab Setup",
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
-      "pendingYoutubeId": "XMeZhuvd26Y",
+      "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
-      "playbackVerified": false
+      "playbackVerified": true,
+      "playbackVerifiedAt": "2026-10-08"
     },
     {
       "id": "entry-121",
