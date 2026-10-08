@@ -1402,8 +1402,8 @@
       ],
       "topic": "Recon",
       "category": "recordings",
-      "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "youtubeId": "WUcDHIf3O2o",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 146,
       "dateVerified": true,
@@ -1427,11 +1427,11 @@
           "preservedAt": "2026-10-07"
         }
       ],
-      "videoUploadMessage": "ভিডিও YouTube-এ আপলোড হয়েছে। YouTube-এর SD processing চলছে; প্রস্তুত হলে এখানেই প্লে হবে। Processing-এ কয়েক ঘণ্টা দেরি হতে পারে।",
-      "playbackVerified": false,
-      "pendingYoutubeId": "WUcDHIf3O2o",
+      "playbackVerified": true,
       "videoProvider": "youtube",
-      "uploadCompletedAt": "2026-10-08T19:19:54.277Z"
+      "uploadCompletedAt": "2026-10-08T19:19:54.277Z",
+      "playbackVerifiedAt": "2026-10-08T19:50:44.338Z",
+      "youtubeVisibility": "unlisted"
     },
     {
       "id": "entry-1",
@@ -4083,7 +4083,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-08-all-classes-resource-audit",
+  "siteVersion": "2026-10-08-all-classes-audit-class21-ready",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -4631,7 +4631,7 @@
       {
         "recordingId": "entry-147",
         "serial": 21,
-        "note": "Shodan ও Recon prerequisite guides যুক্ত। YouTube upload সম্পন্ন; Studio-তে SD processing ও Unlisted প্রকাশ এখনও pending।"
+        "note": "ক্লাস ২১-এর YouTube SD processing সম্পন্ন, Unlisted প্রকাশ ও সাইটে প্লেব্যাক যাচাই হয়েছে। Shodan ও Recon prerequisite guides সংশ্লিষ্ট ট্যাবে যুক্ত।"
       },
       {
         "recordingId": "entry-148",
