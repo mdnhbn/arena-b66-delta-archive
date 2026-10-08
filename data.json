@@ -1397,7 +1397,7 @@
       "topic": "Recon",
       "category": "recordings",
       "youtubeId": null,
-      "videoStatus": "upload-blocked-dailymotion-limit",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 146,
       "dateVerified": true,
@@ -1421,8 +1421,11 @@
           "preservedAt": "2026-10-07"
         }
       ],
-      "videoUploadMessage": "Dailymotion-এর আজকের আপলোড ফাইলের সীমা পূর্ণ। সীমা রিসেট হলে আপলোড পুনরায় চেষ্টা করা হবে; মূল ভিডিও নিরাপদে রাখা আছে।",
-      "playbackVerified": false
+      "videoUploadMessage": "ভিডিও YouTube-এ আপলোড হয়েছে। YouTube-এর SD processing চলছে; প্রস্তুত হলে এখানেই প্লে হবে। Processing-এ কয়েক ঘণ্টা দেরি হতে পারে।",
+      "playbackVerified": false,
+      "pendingYoutubeId": "WUcDHIf3O2o",
+      "videoProvider": "youtube",
+      "uploadCompletedAt": "2026-10-08T19:19:54.277Z"
     },
     {
       "id": "entry-1",
@@ -3949,7 +3952,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-08-tools-privacy",
+  "siteVersion": "2026-10-08-class21-youtube-processing",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -4497,7 +4500,7 @@
       {
         "recordingId": "entry-147",
         "serial": 21,
-        "note": "Shodan ও prerequisite sources যুক্ত; মূল ভিডিও hosting বাকি।"
+        "note": "Shodan ও prerequisite sources যুক্ত। মূল ভিডিও YouTube-এ আপলোড হয়েছে; SD processing ও প্লেব্যাক যাচাই বাকি।"
       },
       {
         "recordingId": "entry-148",
