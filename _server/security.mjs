@@ -1,11 +1,11 @@
 import { createHmac, timingSafeEqual } from 'node:crypto';
 export const PUBLIC_ORIGIN = 'https://arena-b66-delta-archive.vercel.app';
-export const ADMIN_ORIGIN = 'https://arena-b66-delta-archive-git-main-mdnhbns-projects.vercel.app';
+export const ADMIN_ORIGIN = 'https://arena-b66-delta-archive-git-admin-mdnhbns-projects.vercel.app';
 export const PROJECT_ID = 'prj_Ts514bqmcaw8dmhGxNXa9on4LwTl';
 export function adminAllowed(env = process.env) {
   // Preview URLs are behind existing Vercel Authentication (one confirmed owner).
   // Production never serves private admin data, including the custom public domain.
-  return env.VERCEL_ENV === 'preview' && env.VERCEL_PROJECT_ID === PROJECT_ID && env.ADMIN_PREVIEW_ENABLED === '1';
+  return env.VERCEL_ENV === 'preview' && env.VERCEL_GIT_COMMIT_REF === 'admin' && env.VERCEL_PROJECT_ID === PROJECT_ID && env.ADMIN_PREVIEW_ENABLED === '1';
 }
 export function json(value, status = 200) {
   return Response.json(value, { status, headers: { 'Cache-Control': 'private, no-store, max-age=0', 'X-Content-Type-Options':'nosniff', 'X-Robots-Tag':'noindex, nofollow', 'Referrer-Policy':'no-referrer' } });
