@@ -5,6 +5,6 @@ export async function GET(){if(!adminAllowed())return json({error:'Not found'},4
 export async function POST(request){
   if(!adminAllowed())return json({error:'Not found'},404);
   if(!adminMutationAllowed(request))return json({error:'Forbidden'},403);
-  let settings;try{settings=cleanAds(await limitedJSON(request,65536));}catch{return json({error:'Invalid ad settings: check the banner code and size'},400);}
+  let settings;try{settings=cleanAds(await limitedJSON(request,131072));}catch{return json({error:'Invalid ad settings: check the banner code and size'},400);}
   try{return json(await saveAds(settings));}catch(error){console.error('Ad publication failed',error.name);return json({error:'Could not publish'},503);}
 }

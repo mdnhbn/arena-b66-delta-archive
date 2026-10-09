@@ -25,3 +25,24 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--teal);outline-offse
 @media(max-width:760px){.sponsor-slot{width:min(336px,calc(100% - 40px));margin:14px 20px 0;padding:9px 12px}.hero{border-radius:20px}.hero-art{perspective:none}.brand-mark{transform:none}}
 @media(max-width:340px){.sponsor-slot{width:calc(100% - 16px);margin-left:8px;margin-right:8px;padding:8px 0}.sponsor-caption{padding:0 6px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button,.icon-button,.tab-button,.class-row,.topic-card{transition:none!important;transform:none!important}}
+
+/* Only the three dashboard positions marked by the owner. */
+.sponsor-slot.placement-ad{width:100%;max-width:none;margin:28px 0;padding:8px 0;border-radius:12px;gap:7px;box-shadow:none}
+.placement-ad .sponsor-caption{max-width:728px;margin:0 auto;font-size:10px;gap:4px}
+.placement-ad .ad-controls{gap:4px}
+.placement-ad .ad-toggle{font-size:10px;padding:2px 5px}
+.placement-ad .ad-close{font-size:18px}
+.placement-ad .ad-banner{max-width:none;flex-shrink:0}
+.sponsor-slot.placement-footer{margin:34px 0 0}
+@media(min-width:761px){
+ .home-banner-layout{position:relative;min-height:calc(max(100vh,780px) + 670px)}
+ .home-banner-layout .sidebar{position:absolute;inset:0 auto auto 0;height:max(100vh,780px)}
+ .home-banner-layout .sponsor-slot.placement-rail{position:absolute;left:35px;top:calc(max(100vh,780px) + 16px);width:180px;margin:0;padding:9px;z-index:1}
+ .placement-rail .sponsor-caption{max-width:160px}
+}
+@media(max-width:760px){
+ .sponsor-slot.placement-rail{display:none!important}
+ .sponsor-slot.placement-ad{padding:6px 0;margin:24px 0;border:0}
+ .placement-ad .sponsor-caption{max-width:320px}
+ .sponsor-slot.placement-footer{margin:30px 0 0}
+}

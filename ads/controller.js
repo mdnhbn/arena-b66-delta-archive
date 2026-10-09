@@ -1,21 +1,33 @@
-(async()=>{
-  const slot=document.querySelector('.sponsor-slot'),frame=slot?.querySelector('[data-ad-frame]'),toggle=slot?.querySelector('.ad-toggle');
-  if(!slot||!frame||!toggle)return;slot.hidden=true;
-  try{if(sessionStorage.getItem('delta-ad-hidden')==='1')return;}catch{}
-  let settings;
-  try{const response=await fetch('/api/ads-config',{cache:'no-store',credentials:'omit'});if(!response.ok)return;settings=await response.json();}catch{return;}
-  if(settings?.enabled!==true || !['rotate','adsterra','advertica','custom'].includes(settings.provider) || typeof settings.defaultExpanded!=='boolean' || !['300x250','320x50','320x100'].includes(settings.format))return;
-  const origin='https://arena-b66-delta-ads.vercel.app',providers=[origin+'/banner.html',origin+'/advertica.html',origin+'/api/custom'];
-  let selected=settings.provider==='custom'?2:settings.provider==='advertica'?1:0,loaded=false;
-  if(settings.provider==='rotate')try{const next=Number(localStorage.getItem('delta-ad-next')||0);selected=Number.isSafeInteger(next)&&next>=0?next%2:0;}catch{}
-  const [width,height]=settings.format.split('x').map(Number);
-  frame.width=width;frame.height=height;frame.style.width=width+'px';frame.style.height=height+'px';slot.style.setProperty('--ad-width',width+'px');slot.classList.toggle('ad-wide',width===320);
-  if(width>document.documentElement.clientWidth)return;slot.hidden=false;
-  function setExpanded(expand){toggle.setAttribute('aria-expanded',String(expand));toggle.textContent=expand?'ছোট করুন':'দেখুন ↗';frame.hidden=!expand;if(expand&&!loaded){frame.src=providers[selected];loaded=true;if(settings.provider==='rotate')try{localStorage.setItem('delta-ad-next',String((selected+1)%2));}catch{}}}
-  toggle.addEventListener('click',()=>setExpanded(toggle.getAttribute('aria-expanded')!=='true'));setExpanded(settings.defaultExpanded);
-  window.addEventListener('message',event=>{
-    if(slot.hidden||frame.getAttribute('src')!==providers[1]||event.origin!==origin||event.source!==frame.contentWindow||event.data?.type!=='delta-ad-unavailable'||event.data?.path!=='/ads/advertica.html')return;
-    if(settings.provider==='rotate')frame.src=providers[0];else{frame.removeAttribute('src');slot.hidden=true;}
-  });
-  slot.querySelector('.ad-close')?.addEventListener('click',()=>{frame.removeAttribute('src');slot.hidden=true;try{sessionStorage.setItem('delta-ad-hidden','1');}catch{}});
+// Banners are restricted to the three marked dashboard locations.
+(()=>{
+  const ids=['rail','middle','footer'],origin='https://arena-b66-delta-ads.vercel.app';let settings=null;const mounted=new Map();
+  const element=(tag,text,cls)=>{const el=document.createElement(tag);if(text)el.textContent=text;if(cls)el.className=cls;return el;};
+  function dispose(id){const item=mounted.get(id);if(!item)return;item.observer?.disconnect();item.frame.removeAttribute('src');item.target.replaceChildren();item.target.hidden=true;mounted.delete(id);}
+  function mount(target,id){
+    const previous=mounted.get(id);
+    const hide=()=>{dispose(id);target.hidden=true;};
+    if(!settings?.enabled||!settings.placements?.[id]?.enabled){hide();return;}
+    try{if(sessionStorage.getItem('delta-ad-hidden:'+id)==='1'){hide();return;}}catch{}
+    if(id==='rail'&&document.documentElement.clientWidth<=760){hide();return;}
+    target.hidden=false;
+    const space=id==='rail'?180:target.getBoundingClientRect().width,mobile=id!=='rail'&&space<750,variant=mobile?'mobile':'desktop';
+    const width=id==='rail'?160:mobile?320:728,height=id==='rail'?600:mobile?50:90;
+    if(id!=='rail'&&space<width+2){hide();return;}
+    if(previous?.target===target&&previous.variant===variant)return;dispose(id);target.hidden=false;
+    const caption=element('div',null,'sponsor-caption'),label=element('span','বিজ্ঞাপন','ad-label'),controls=element('div',null,'ad-controls'),toggle=element('button','ছোট করুন','ad-toggle'),close=element('button','×','ad-close'),frame=element('iframe',null,'ad-banner');
+    toggle.type=close.type='button';close.setAttribute('aria-label','বিজ্ঞাপন বন্ধ করুন');
+    frame.id='banner-'+id;frame.title='বিজ্ঞাপন';frame.width=width;frame.height=height;frame.style.width=width+'px';frame.style.height=height+'px';
+    frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox');frame.setAttribute('referrerpolicy','no-referrer');frame.setAttribute('allow',"autoplay 'none'; camera 'none'; microphone 'none'; geolocation 'none'");toggle.setAttribute('aria-controls',frame.id);
+    controls.append(toggle,close);caption.append(label,controls);target.append(caption,frame);target.hidden=false;
+    const item={target,frame,variant,observer:null,visible:false,loaded:false};mounted.set(id,item);
+    const load=()=>{if(item.visible&&!frame.hidden&&!item.loaded){frame.src=origin+'/api/custom?'+new URLSearchParams({slot:id,variant});item.loaded=true;}};
+    function expanded(value){toggle.setAttribute('aria-expanded',String(value));toggle.textContent=value?'ছোট করুন':'দেখুন';frame.hidden=!value;load();}
+    toggle.addEventListener('click',()=>expanded(toggle.getAttribute('aria-expanded')!=='true'));
+    close.addEventListener('click',()=>{dispose(id);try{sessionStorage.setItem('delta-ad-hidden:'+id,'1');}catch{}});
+    expanded(settings.defaultExpanded!==false);
+    if('IntersectionObserver' in window){item.observer=new IntersectionObserver(entries=>{item.visible=entries.some(entry=>entry.isIntersecting);load();},{threshold:0.01});item.observer.observe(target);}else{item.visible=true;load();}
+  }
+  function render(){for(const id of ids){const target=document.querySelector('[data-ad-position="'+id+'"]');if(!document.body.classList.contains('home-banner-layout')||!target){dispose(id);continue;}mount(target,id);}}
+  window.addEventListener('delta:page',render);window.addEventListener('resize',render);
+  fetch('/api/ads-config',{cache:'no-store',credentials:'omit'}).then(async response=>{if(response.ok){settings=await response.json();render();}}).catch(()=>{});
 })();

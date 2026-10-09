@@ -1,0 +1,3 @@
+// Public advertisement tags from approved units; never account credentials.
+export const BANNER_KEYS={rail:'9df6658e36e4c5ac63ba406a0e797256',desktop:'b2c5b06169c8273ba52e23aad3a66a8b',mobile:'a56d352fbe5656d3ba8494ee997c592c'};
+export function presetCode(slot,variant){const key=BANNER_KEYS[slot==='rail'?'rail':variant==='mobile'?'mobile':'desktop'];const [width,height]=(slot==='rail'?'160x600':variant==='mobile'?'320x50':'728x90').split('x').map(Number);return '<script>atOptions={key:'+JSON.stringify(key)+',format:"iframe",width:'+width+',height:'+height+',params:{}};</script><script src="https://www.highrevenueformat.com/'+key+'/invoke.js"></script>';}
