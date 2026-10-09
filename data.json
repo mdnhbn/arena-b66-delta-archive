@@ -104,7 +104,15 @@
       ],
       "playbackVerified": true,
       "localCopyStatus": "Removed from task folder; sent to Recycle Bin after verified 720p playback.",
-      "topicTitle": "Orientation — কোর্স পরিচিতি"
+      "topicTitle": "Orientation — কোর্স পরিচিতি",
+      "classDateVerified": false,
+      "classDateVerification": "পরীক্ষা করা ভিডিও অংশগুলোতে তারিখ দেখা যায়নি। মূল রেকর্ড লিংকের তারিখ দেখানো হচ্ছে; পর্দা থেকে নিশ্চিত করা হয়নি।",
+      "classDateEvidence": {
+        "method": "original-record-link",
+        "observedDate": null,
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-13",
@@ -239,7 +247,15 @@
       "topicTitle": "Cyber Safety ও SQL Injection by Tools",
       "playbackVerified": true,
       "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": false,
+      "classDateVerification": "পরীক্ষা করা ভিডিও অংশগুলোতে তারিখ দেখা যায়নি। মূল রেকর্ড লিংকের তারিখ দেখানো হচ্ছে; পর্দা থেকে নিশ্চিত করা হয়নি।",
+      "classDateEvidence": {
+        "method": "original-record-link",
+        "observedDate": null,
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-11",
@@ -311,7 +327,15 @@
       "topicTitle": "OSINT — Open Source Intelligence",
       "playbackVerified": true,
       "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": false,
+      "classDateVerification": "পরীক্ষা করা ভিডিও অংশগুলোতে তারিখ দেখা যায়নি। মূল রেকর্ড লিংকের তারিখ দেখানো হচ্ছে; পর্দা থেকে নিশ্চিত করা হয়নি।",
+      "classDateEvidence": {
+        "method": "original-record-link",
+        "observedDate": null,
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-9",
@@ -503,7 +527,15 @@
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
       "playbackVerified": true,
       "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": false,
+      "classDateVerification": "পরীক্ষা করা ভিডিও অংশগুলোতে তারিখ দেখা যায়নি। মূল রেকর্ড লিংকের তারিখ দেখানো হচ্ছে; পর্দা থেকে নিশ্চিত করা হয়নি।",
+      "classDateEvidence": {
+        "method": "original-record-link",
+        "observedDate": null,
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-4",
@@ -621,7 +653,15 @@
       "topicVerification": "ভিডিওর একাধিক অংশ দেখে বিষয় শনাক্ত করা হয়েছে; পূর্ণ অধ্যায়ের তালিকা যাচাই বাকি।",
       "playbackVerified": true,
       "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-02",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-73",
@@ -676,7 +716,15 @@
       "localCopyStatus": "recycle-bin",
       "relatedResourceIds": [
         "msg-hw5-xss"
-      ]
+      ],
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-09",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-79",
@@ -762,7 +810,15 @@
       "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
       "playbackVerified": true,
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-14",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-87",
@@ -811,7 +867,15 @@
       "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
       "playbackVerified": true,
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-16",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-99",
@@ -851,7 +915,15 @@
       },
       "relatedResourceIds": [
         "msg-deface-example"
-      ]
+      ],
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-21",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-105",
@@ -909,7 +981,15 @@
         "duration": 6948.301,
         "verifiedAt": "2026-10-07"
       },
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-23",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-115",
@@ -941,12 +1021,20 @@
       "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
       "playbackVerified": true,
-      "classDateVerification": "রেকর্ড লিংকে ২৯ আগস্ট দেওয়া আছে; ভিডিওর পর্দায় ২৮ আগস্ট দেখা গেছে। প্রকৃত ক্লাসের তারিখ যাচাই বাকি।",
+      "classDateVerification": "ক্লাস হয়েছে ২৮ আগস্ট ২০২৬, শুক্রবার। ভিডিওর পর্দায় রাত ১০:১০, ১০:৪৬ ও ১১:১৬-তে 28/08/2026 দেখা যায়। মূল রেকর্ড লিংকে ২৯ আগস্ট লেখা ছিল; সেটি ক্লাসের তারিখ হিসেবে ব্যবহার করা হয়নি।",
       "localCopyStatus": "recycle-bin",
       "playbackVerification": {
         "method": "Public website player, readyState4, advancing time and matching duration",
         "duration": 7818.001,
         "verifiedAt": "2026-10-07"
+      },
+      "classDate": "2026-08-28",
+      "classDateVerified": true,
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-28",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
       }
     },
     {
@@ -984,6 +1072,14 @@
         "method": "Public website embedded player; visible Play action; readyState4 and advancing currentTime",
         "duration": 7668.201,
         "verifiedAt": "2026-10-07"
+      },
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-08-30",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
       }
     },
     {
@@ -1021,6 +1117,14 @@
         "method": "Public website embed; visible Play; readyState4; advancing time and matching duration",
         "verifiedAt": "2026-10-07",
         "duration": 6902.501
+      },
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-04",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
       }
     },
     {
@@ -1053,7 +1157,15 @@
       "pendingYoutubeId": null,
       "youtubeVisibility": "unlisted",
       "playbackVerified": true,
-      "playbackVerifiedAt": "2026-10-08"
+      "playbackVerifiedAt": "2026-10-08",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-06",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-121",
@@ -1131,6 +1243,14 @@
         "method": "Public website embed; visible Play; readyState4; advancing time and matching duration",
         "verifiedAt": "2026-10-07",
         "duration": 7762.361
+      },
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-11",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
       }
     },
     {
@@ -1169,7 +1289,15 @@
         "duration": 8609.181,
         "verifiedAt": "2026-10-07"
       },
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-13",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-2",
@@ -1224,6 +1352,14 @@
         "method": "Public website embedded player; visible Play action; readyState4 and advancing currentTime",
         "duration": 8234.933696145124,
         "verifiedAt": "2026-10-07"
+      },
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-18",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
       }
     },
     {
@@ -1279,7 +1415,15 @@
         "duration": 8204.661,
         "verifiedAt": "2026-10-07"
       },
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-20",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-142",
@@ -1333,7 +1477,15 @@
       ],
       "playbackVerified": true,
       "playbackVerifiedAt": "2026-10-08",
-      "videoProvider": "dailymotion"
+      "videoProvider": "dailymotion",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-25",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-145",
@@ -1387,7 +1539,15 @@
       ],
       "playbackVerified": true,
       "playbackVerifiedAt": "2026-10-08",
-      "videoProvider": "dailymotion"
+      "videoProvider": "dailymotion",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-09-27",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-147",
@@ -1431,7 +1591,15 @@
       "videoProvider": "youtube",
       "uploadCompletedAt": "2026-10-08T19:19:54.277Z",
       "playbackVerifiedAt": "2026-10-08T19:50:44.338Z",
-      "youtubeVisibility": "unlisted"
+      "youtubeVisibility": "unlisted",
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-10-02",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "entry-1",
@@ -3588,7 +3756,15 @@
       "videoProvider": "dailymotion",
       "relatedResourceIds": [
         "msg-wp-migration"
-      ]
+      ],
+      "classDateVerified": true,
+      "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
+      "classDateEvidence": {
+        "method": "recording-screen-clock",
+        "observedDate": "2026-10-04",
+        "checkedAt": "2026-10-09",
+        "scope": "selected video segments; full-duration viewing not claimed"
+      }
     },
     {
       "id": "msg-hw5-xss",
