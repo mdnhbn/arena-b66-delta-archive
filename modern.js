@@ -16,11 +16,16 @@
       { opacity: 1, transform: 'translateY(0)' }
     ], { duration: 160, easing: 'ease-out' }));
   });
-  // Counts anonymous visits only. No names, IPs, contacts, or Facebook identity.
+  // Anonymous country-level counts and visible-page presence; no IP or identity stored.
   if (navigator.doNotTrack === '1' || navigator.globalPrivacyControl === true) return;
   if (location.hostname !== 'arena-b66-delta-archive.vercel.app') return;
-  fetch('/api/visit', { method: 'POST', credentials: 'same-origin',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ route: location.hash || '#overview' }), keepalive: true
-  }).catch(() => {});
+  let sending=false,lastSent=0;
+  async function presence(){
+    if(sending || Date.now()-lastSent<120000)return;
+    sending=true;lastSent=Date.now();
+    try{await fetch('/api/visit',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json'},body:JSON.stringify({route:location.hash||'#overview'}),keepalive:true});}catch{}finally{sending=false;}
+  }
+  presence();
+  setInterval(()=>{if(document.visibilityState==='visible')presence();},120000);
+  document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')presence();});
 })();

@@ -16,6 +16,8 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--teal);outline-offse
 .sponsor-slot{position:relative;width:min(360px,calc(100% - 84px));margin:18px 42px 0;padding:10px 13px;border-radius:14px;gap:10px;align-items:stretch;box-shadow:0 5px 16px #0000000a}
 .sponsor-caption{gap:12px}.sponsor-caption .eyebrow{letter-spacing:.4px}.ad-controls{display:flex;align-items:center;gap:6px}.ad-toggle{border:1px solid var(--line);border-radius:8px;background:var(--surface-2);color:var(--text);padding:3px 10px;font-size:11px}.ad-close{padding:2px 5px;font-size:20px}.ad-banner{margin:auto}.ad-banner[hidden]{display:none}
 .privacy-notice{color:var(--muted);font-size:11px;margin:12px 0 0;max-width:580px}
+.sponsor-slot[hidden]{display:none!important}.sponsor-slot.ad-wide{width:348px}
+@media(max-width:385px){.sponsor-slot.ad-wide{width:320px;max-width:none;margin-left:max(0px,calc((100% - 320px)/2));margin-right:0;padding:9px 0;border:0}.sponsor-slot.ad-wide .sponsor-caption{padding:0 6px}}
 [data-theme="light"]{--depth-shadow:0 18px 42px #24482612,0 2px 0 #274e2212;--edge-light:#fff}
 [data-theme="light"] .hero{background:radial-gradient(ellipse at 83% 18%,#ffffffbb,transparent 55%),linear-gradient(115deg,#e9f6da,#dcf2e8)}
 [data-theme="light"] .delta-glyph{color:#a6d879;text-shadow:1px 2px 0 #7ead55,2px 4px 0 #709d4c,3px 6px 0 #608943,4px 8px 0 #537838,5px 10px 0 #466630,15px 25px 35px #2d532225}
