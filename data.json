@@ -4100,7 +4100,8 @@
       "relatedRecordingId": "entry-134",
       "relatedRecordingIds": [
         "entry-134",
-        "entry-147"
+        "entry-147",
+        "class-2026-10-09"
       ],
       "resourceKinds": [
         "tools",
@@ -4345,6 +4346,155 @@
       },
       "collectionIndex": 163,
       "sourceFileUrl": "https://drive.google.com/file/d/1RbBIbC3tw2KxvJG9MdYA9aO5ZTkDGkP9/view"
+    },
+    {
+      "id": "class-2026-10-09",
+      "title": "Recon Live ? 09/10/2026",
+      "topicTitle": "Recon — Web Application ও Directory Discovery",
+      "author": "Syed Sakib Alam Mubin",
+      "date": "2026-10-09",
+      "classDate": "2026-10-09",
+      "source": "https://www.facebook.com/thesamubin/videos/1144370648014165/",
+      "liveSource": "https://www.facebook.com/thesamubin/videos/1144370648014165/",
+      "sourceType": "facebook-live",
+      "text": "৯ অক্টোবর ২০২৬, শুক্রবারের Facebook live ক্লাস। বর্তমান ভিডিওর নির্বাচিত অংশে ffuf দিয়ে directory discovery এবং SecLists-এর wordlist path দেখা গেছে। চ্যাটে প্রশিক্ষকের pinned Recon for Web Application গাইডটি যুক্ত করা হয়েছে। পূর্ণ রেকর্ডিং, প্রকৃত শুরু/শেষের সময় ও সম্পূর্ণ টপিক তালিকা পরে যাচাই হবে।",
+      "links": [],
+      "topic": "Recon",
+      "category": "recordings",
+      "recordingSerial": 23,
+      "collectionIndex": 164,
+      "videoStatus": "recording-pending",
+      "videoUploadMessage": "এই ক্লাসের লাইভ সোর্স ও রিসোর্স যুক্ত আছে। সম্পূর্ণ রেকর্ডিং সংগ্রহ এবং YouTube/Dailymotion-এ আপলোড ও প্লেব্যাক যাচাই হলে এখানে ভিডিও চলবে।",
+      "youtubeId": null,
+      "playbackVerified": false,
+      "dateVerified": true,
+      "classDateVerified": true,
+      "classDateVerification": "আজকের ক্লাস হিসেবে ব্যবহারকারী নিশ্চিত করেছেন এবং একই দিনে Facebook LIVE চিহ্ন দেখা গেছে: ৯ অক্টোবর ২০২৬, শুক্রবার। পূর্ণ রেকর্ডিংয়ের পর্দার তারিখ পরে মিলিয়ে দেখা হবে।",
+      "classDateEvidence": {
+        "method": "user-confirmed-current-live-day",
+        "observedDate": "2026-10-09",
+        "checkedAt": "2026-10-09",
+        "scope": "Live event observed today; recording-screen date verification pending"
+      },
+      "topicVerified": true,
+      "topicVerification": "লাইভ ভিডিওর নির্বাচিত অংশে ffuf ও directory-discovery wordlist দেখা গেছে; পুরো ক্লাসের সব বিষয় যাচাই করা হয়নি।",
+      "scheduledTime": "21:30?23:30",
+      "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত লাইভ শুরুর সময় এখনও যাচাই বাকি।",
+      "duration": "",
+      "sourceCollectedAt": "2026-10-09",
+      "liveObservedAt": "2026-10-09 16:20:38 UTC",
+      "relatedResourceIds": [
+        "guide-recon-class23",
+        "tool-directory-discovery",
+        "tool-go-recon"
+      ],
+      "serialVerification": "Archive sequence after class 22; instructor class number not independently verified",
+      "recordingArchiveStatus": "awaiting-complete-recording"
+    },
+    {
+      "id": "guide-recon-class23",
+      "title": "Recon for Web Application — গাইড ও সংরক্ষিত সারাংশ",
+      "author": "",
+      "date": "2026-10-09",
+      "classDate": "2026-10-09",
+      "source": "",
+      "sourceFileUrl": "https://arenauser.notion.site/Recon-for-Web-Application-bc489086047f4320802b919f0cdeb70e",
+      "sourceLabel": "লাইভ ক্লাসে প্রশিক্ষকের দেওয়া Recon গাইড",
+      "sourceType": "course-notion",
+      "text": "আজকের লাইভ চ্যাটের pinned কোর্স গাইড। মূল Notion পৃষ্ঠা খুলে যাচাই করা হয়েছে; prerequisites, subdomain enumeration, probing এবং directory discovery অংশ আছে। নিচে নিজস্ব সংক্ষিপ্ত নোটের সংরক্ষিত কপি ও মূল গাইডের লিংক রয়েছে।",
+      "noteText": "ক্লাস ২৩: নির্বাচিত লাইভ অংশে ffuf দিয়ে directory discovery দেখা গেছে। গাইডের সব phase শেখানো শেষ হয়েছে—এমন দাবি নেই। পূর্ণ গাইডের জন্য মূল Notion সোর্স দেখুন; সংরক্ষিত সারাংশ নিচে ডাউনলোড করা যায়।",
+      "links": [],
+      "downloadLinks": [
+        {
+          "label": "??????????? ??? Recon ???? ????? ?",
+          "url": "https://arenauser.notion.site/Recon-for-Web-Application-bc489086047f4320802b919f0cdeb70e",
+          "origin": "course-source"
+        }
+      ],
+      "topic": "Recon",
+      "category": "documents",
+      "resourceKinds": [
+        "documents",
+        "notes",
+        "tools"
+      ],
+      "relatedRecordingId": "class-2026-10-09",
+      "relatedRecordingIds": [
+        "entry-147",
+        "class-2026-10-09"
+      ],
+      "relationshipVerification": "৯ অক্টোবরের লাইভ চ্যাটে প্রশিক্ষকের pinned link এবং ক্লাস ২১-এর বিদ্যমান Recon source মিলেছে।",
+      "videoStatus": "not-applicable",
+      "collectionIndex": 165,
+      "documentUrl": "/notes/recon-class23-summary.md",
+      "documentBytes": 1959,
+      "documentSha256": "1fa56518e34bcafd53e1f186358388d55d9f9d59b5181b8ffdab1c7c2189392d",
+      "documentPreservedAt": "2026-10-09",
+      "preservedFiles": [
+        {
+          "name": "recon-class23-summary.md",
+          "url": "/notes/recon-class23-summary.md",
+          "bytes": 1959,
+          "sha256": "1fa56518e34bcafd53e1f186358388d55d9f9d59b5181b8ffdab1c7c2189392d",
+          "kind": "note",
+          "preservedAt": "2026-10-09"
+        }
+      ],
+      "dateVerified": true,
+      "verifiedAt": "2026-10-09",
+      "originalGuidePreserved": false
+    },
+    {
+      "id": "tool-directory-discovery",
+      "title": "ffuf ও SecLists — Directory Discovery",
+      "author": "",
+      "date": null,
+      "classDate": "2026-10-09",
+      "source": "",
+      "text": "ক্লাস ২৩-এর নির্বাচিত লাইভ অংশে ffuf ও SecLists-এর directory-discovery wordlist path দেখা গেছে।\nffuf-এর অফিসিয়াল releases থেকে নিজের OS-এর ফাইল নিন অথবা অফিসিয়াল README-এর installation নির্দেশনা অনুসরণ করুন। Go দিয়ে সেটআপ করলে আগে Go ও PATH ঠিক আছে কি না যাচাই করুন। SecLists-এর Discovery/Web-Content অংশে directory wordlist পাওয়া যায়। নিজের lab বা অনুমোদিত scope অনুযায়ী wordlist, concurrency ও output রাখুন।\nকোর্স গাইডে Feroxbuster ও dirsearch-ও আছে; আজকের লাইভে তাদের ব্যবহার যাচাই হয়নি। সবগুলো অফিসিয়াল সোর্স নিচে দেওয়া আছে। সাইটে এই software package নতুন করে হোস্ট করা হয়নি।",
+      "links": [],
+      "downloadLinks": [
+        {
+          "label": "ffuf ???????? releases / ??????? ?",
+          "url": "https://github.com/ffuf/ffuf/releases",
+          "origin": "official"
+        },
+        {
+          "label": "ffuf ????? ? ??????? ?",
+          "url": "https://github.com/ffuf/ffuf",
+          "origin": "official"
+        },
+        {
+          "label": "SecLists wordlists ? ??????? ?",
+          "url": "https://github.com/danielmiessler/SecLists",
+          "origin": "official"
+        },
+        {
+          "label": "Feroxbuster ???????? releases ?",
+          "url": "https://github.com/epi052/feroxbuster/releases",
+          "origin": "official"
+        },
+        {
+          "label": "dirsearch ???????? source / ????? ?",
+          "url": "https://github.com/maurosoria/dirsearch",
+          "origin": "official"
+        }
+      ],
+      "topic": "Recon",
+      "category": "tools",
+      "resourceKinds": [
+        "tools",
+        "documents",
+        "notes"
+      ],
+      "relatedRecordingId": "class-2026-10-09",
+      "relatedRecordingIds": [
+        "class-2026-10-09"
+      ],
+      "videoStatus": "not-applicable",
+      "collectionIndex": 166,
+      "dateVerified": false,
+      "verifiedAt": "2026-10-09"
     }
   ],
   "schedule": {
@@ -4361,7 +4511,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-09-class22-messenger-files",
+  "siteVersion": "2026-10-09-friday-recon-live-class23",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -4680,10 +4830,11 @@
         "title": "Recon ও Linux দিয়ে Footprinting",
         "status": "partial",
         "classIds": [
-          "entry-147"
+          "entry-147",
+          "class-2026-10-09"
         ],
-        "summary": "VPS এবং Shodan setup-এর Recon ক্লাস পাওয়া গেছে।",
-        "remaining": "Whois, subdomain ও networking তথ্য সংগ্রহের সব উপবিষয় যাচাই বাকি।",
+        "summary": "VPS/Shodan setup-এর ক্লাস ২১ এবং ৯ অক্টোবরের Recon live ক্লাস যুক্ত আছে; নতুন ক্লাসের নির্বাচিত অংশে directory discovery দেখা গেছে।",
+        "remaining": "পূর্ণ নতুন রেকর্ডিং ও Whois, subdomain, networking এবং অন্যান্য উপবিষয়ের coverage যাচাই বাকি।",
         "officialTopics": [
           "With kali Linux",
           "Foot printing and Information Gathering",
@@ -4798,13 +4949,13 @@
     ]
   },
   "storage": {
-    "preservedFileCount": 21,
-    "verifiedAt": "2026-10-08",
+    "preservedFileCount": 22,
+    "verifiedAt": "2026-10-09",
     "note": "প্রয়োজনীয় ডকুমেন্ট ও টুল ফাইলের ডাউনলোড সংশ্লিষ্ট রিসোর্সে আছে। প্রস্তুত ভিডিও YouTube/Dailymotion থেকে চলে।"
   },
   "toolsAudit": {
-    "verifiedAt": "2026-10-08",
-    "method": "২২টি ক্লাসের live পৃষ্ঠা ও প্রতিটির ক্লাসের তথ্য, নোট, ডকুমেন্ট এবং টুলস ট্যাব পৃথকভাবে যাচাই; মূল ভিডিওর player সংযোগ পরীক্ষা। সম্পূর্ণ ভিডিওগুলো নতুন করে দেখা হয়নি।",
+    "verifiedAt": "2026-10-09",
+    "method": "ক্লাস ১–২২-এর পূর্বের রিসোর্স অডিট বজায় আছে। ক্লাস ২৩-এর নির্বাচিত লাইভ অংশ, pinned Recon guide ও অফিসিয়াল tool sources যাচাই করে সংযুক্ত; সম্পূর্ণ নতুন রেকর্ডিং এখনও যাচাই হয়নি।",
     "classes": [
       {
         "recordingId": "entry-20",
@@ -4915,6 +5066,12 @@
         "recordingId": "entry-148",
         "serial": 22,
         "note": "মূল Migration ZIP, Wordfence ও local lab guides যুক্ত। Messenger-এর Duplicator Pro ও Unlimited Extension-এর যাচাই, মূল কোর্স সোর্স এবং অফিসিয়াল বিকল্প এখন টুলস ও ডকুমেন্টস ট্যাবে আছে; এই দুই ZIP নতুন করে public mirror করা হয়নি। Practice website/database files-এর সংরক্ষিত কপি এখনও পাওয়া যায়নি।",
+        "verifiedAt": "2026-10-09"
+      },
+      {
+        "recordingId": "class-2026-10-09",
+        "serial": 23,
+        "note": "লাইভের নির্বাচিত অংশে ffuf ও SecLists দেখা গেছে। pinned Recon guide, সংরক্ষিত সংক্ষিপ্ত নোট এবং চারটি টুল/wordlist-এর অফিসিয়াল সোর্স সংশ্লিষ্ট ট্যাবে আছে। পূর্ণ রেকর্ডিং ও পুরো ক্লাসের টুল তালিকা পরে যাচাই হবে।",
         "verifiedAt": "2026-10-09"
       }
     ]
