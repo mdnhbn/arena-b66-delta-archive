@@ -4349,7 +4349,7 @@
     },
     {
       "id": "class-2026-10-09",
-      "title": "Recon Live ? 09/10/2026",
+      "title": "Recon Live — 09/10/2026",
       "topicTitle": "Recon — Web Application ও Directory Discovery",
       "author": "Syed Sakib Alam Mubin",
       "date": "2026-10-09",
@@ -4378,7 +4378,7 @@
       },
       "topicVerified": true,
       "topicVerification": "লাইভ ভিডিওর নির্বাচিত অংশে ffuf ও directory-discovery wordlist দেখা গেছে; পুরো ক্লাসের সব বিষয় যাচাই করা হয়নি।",
-      "scheduledTime": "21:30?23:30",
+      "scheduledTime": "21:30–23:30",
       "timeVerification": "সাপ্তাহিক শিডিউল; প্রকৃত লাইভ শুরুর সময় এখনও যাচাই বাকি।",
       "duration": "",
       "sourceCollectedAt": "2026-10-09",
@@ -4406,7 +4406,7 @@
       "links": [],
       "downloadLinks": [
         {
-          "label": "??????????? ??? Recon ???? ????? ?",
+          "label": "প্রশিক্ষকের মূল Recon গাইড খুলুন ↗",
           "url": "https://arenauser.notion.site/Recon-for-Web-Application-bc489086047f4320802b919f0cdeb70e",
           "origin": "course-source"
         }
@@ -4455,27 +4455,27 @@
       "links": [],
       "downloadLinks": [
         {
-          "label": "ffuf ???????? releases / ??????? ?",
+          "label": "ffuf অফিসিয়াল releases / ডাউনলোড ↗",
           "url": "https://github.com/ffuf/ffuf/releases",
           "origin": "official"
         },
         {
-          "label": "ffuf ????? ? ??????? ?",
+          "label": "ffuf সেটআপ ও ব্যবহার ↗",
           "url": "https://github.com/ffuf/ffuf",
           "origin": "official"
         },
         {
-          "label": "SecLists wordlists ? ??????? ?",
+          "label": "SecLists wordlists ও ডাউনলোড ↗",
           "url": "https://github.com/danielmiessler/SecLists",
           "origin": "official"
         },
         {
-          "label": "Feroxbuster ???????? releases ?",
+          "label": "Feroxbuster অফিসিয়াল releases ↗",
           "url": "https://github.com/epi052/feroxbuster/releases",
           "origin": "official"
         },
         {
-          "label": "dirsearch ???????? source / ????? ?",
+          "label": "dirsearch অফিসিয়াল source / সেটআপ ↗",
           "url": "https://github.com/maurosoria/dirsearch",
           "origin": "official"
         }
@@ -4511,7 +4511,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-09-friday-recon-live-class23",
+  "siteVersion": "2026-10-09-friday-recon-live-class23-verified",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
