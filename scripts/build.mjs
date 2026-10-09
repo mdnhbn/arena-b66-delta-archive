@@ -9,6 +9,9 @@ for (const file of files) await copyFile(file, path.join(output, file));
 for (const dir of ['documents','notes','assets']) {
   if (existsSync(dir)) await cp(dir, path.join(output, dir), { recursive: true });
 }
+// Preserve only the reviewed course plugin; private Messenger ZIPs stay excluded.
+await mkdir(path.join(output, 'tools'), { recursive: true });
+await copyFile('tools/all-in-one-wp-migration-7.48.zip', path.join(output, 'tools/all-in-one-wp-migration-7.48.zip'));
 await mkdir(path.join(output, 'ads'), { recursive: true });
 await copyFile('ads/controller.js', path.join(output, 'ads/controller.js'));
 console.log('Built public assets; backend source and private storage are excluded.');

@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -3755,7 +3755,9 @@
       "playbackVerifiedAt": "2026-10-08",
       "videoProvider": "dailymotion",
       "relatedResourceIds": [
-        "msg-wp-migration"
+        "msg-wp-migration",
+        "msg-class22-duplicator-pro",
+        "msg-class22-unlimited-extension"
       ],
       "classDateVerified": true,
       "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
@@ -3845,7 +3847,7 @@
       "source": "",
       "sourceType": "messenger",
       "sourceLabel": "AWS B66-Delta Messenger-এর কোর্স ফাইল",
-      "text": "ক্লাস ২২-এর WordPress backup/migration বিষয়ের সঙ্গে সম্পর্কিত Messenger-এর migration ফোল্ডারের ফাইল। মূল ZIP এবং ভেতরের লাইসেন্স অক্ষত রেখে সংরক্ষণ করা হয়েছে।\nএটি কোর্সে দেওয়া পুরোনো 7.48 সংস্করণ; অনুশীলনের স্থানীয় ল্যাবের জন্য সংরক্ষিত। নতুন বা চলমান সাইটে ব্যবহারের আগে বর্তমান সংস্করণ ও compatibility যাচাই করুন।\nব্যবহার: WordPress dashboard → Plugins → Add New → Upload Plugin-এ ZIP নির্বাচন করুন। Backup/export ও import-এর জন্য All-in-One WP Migration মেনু ব্যবহার করুন।\nএকই ফোল্ডারের Unlimited Extension পুনর্বিতরণের অনুমতি দেয় না, তাই তার ZIP প্রকাশ করা হয়নি। কোর্সের Duplicator Pro ZIP-এ activation-state পরিবর্তন পাওয়া গেছে; সেটি চালানো বা প্রকাশ করা হয়নি। অফিসিয়াল Duplicator Lite বিকল্প আলাদা রিসোর্সে আছে।",
+      "text": "ক্লাস ২২-এর WordPress backup/migration বিষয়ের সঙ্গে সম্পর্কিত Messenger-এর migration ফোল্ডারের ফাইল। মূল ZIP এবং ভেতরের লাইসেন্স অক্ষত রেখে সংরক্ষণ করা হয়েছে।\nএটি কোর্সে দেওয়া পুরোনো 7.48 সংস্করণ; অনুশীলনের স্থানীয় ল্যাবের জন্য সংরক্ষিত। নতুন বা চলমান সাইটে ব্যবহারের আগে বর্তমান সংস্করণ ও compatibility যাচাই করুন।\nব্যবহার: WordPress dashboard → Plugins → Add New → Upload Plugin-এ ZIP নির্বাচন করুন। Backup/export ও import-এর জন্য All-in-One WP Migration মেনু ব্যবহার করুন।\nএকই ফোল্ডারের Duplicator Pro ও Unlimited Extension ক্লাস ২২-এর আলাদা রিসোর্স হিসেবে যুক্ত আছে। সেগুলোর মূল সোর্স, যাচাই ও প্রকাশের সীমা সংশ্লিষ্ট রিসোর্সে দেখুন।",
       "links": [
         "https://servmask.com/products"
       ],
@@ -4243,6 +4245,108 @@
         }
       ],
       "verifiedAt": "2026-10-08"
+    },
+    {
+      "id": "msg-class22-duplicator-pro",
+      "title": "Duplicator Pro 4.5.10 — কোর্স ফাইল ও যাচাই",
+      "text": "ক্লাস ২২-এর WordPress backup ও migration অংশের সঙ্গে দেওয়া কোর্স ফাইল: duplicator-pro_v4.5.10.zip।\nডাউনলোড ফোল্ডারে আগে থেকে থাকা একই ZIP-এর কপি নেওয়া হয়েছে; ZIP-এর CRC ও SHA-256 যাচাই হয়েছে। এটি প্রকাশকের স্বাক্ষর বা malware-free হওয়ার নিশ্চয়তা নয়।\nযাচাইয়ে লাইসেন্স যাচাইয়ের কোড পরিবর্তিত পাওয়া গেছে। তাই এই ZIP সাইটে পুনরায় হোস্ট করা হয়নি এবং চালানো হয়নি। মূল কোর্স সোর্স নিচে রাখা আছে; কাজের সাইটে প্রকাশকের বৈধ, হালনাগাদ সংস্করণ ব্যবহার করুন।\nDuplicator Lite-এর অফিসিয়াল বিকল্প আলাদা রিসোর্সে আছে; Lite ও Pro-এর সুবিধা এক নয়।",
+      "downloadLinks": [
+        {
+          "label": "Duplicator Pro কোর্স ZIP — মূল সোর্স ↗",
+          "url": "https://drive.google.com/file/d/1q_Hr1q2Ex3rzPrCzLbNQunbu7xSD21Se/view",
+          "origin": "course-source"
+        },
+        {
+          "label": "Duplicator Pro — অফিসিয়াল সংস্করণ ও লাইসেন্স ↗",
+          "url": "https://duplicator.com/",
+          "origin": "official"
+        }
+      ],
+      "author": "",
+      "date": null,
+      "observedDate": "",
+      "source": "https://drive.google.com/file/d/1q_Hr1q2Ex3rzPrCzLbNQunbu7xSD21Se/view",
+      "sourceType": "messenger",
+      "sourceLabel": "?????? ????? ????? ??-?? ????",
+      "topic": "WordPress",
+      "category": "tools",
+      "videoStatus": "not-applicable",
+      "dateVerified": false,
+      "classDate": "2026-10-04",
+      "relatedRecordingId": "entry-148",
+      "relatedRecordingIds": [
+        "entry-148"
+      ],
+      "resourceKinds": [
+        "tools",
+        "documents",
+        "notes"
+      ],
+      "relationshipVerification": "??????????? ??????? ?????? ?? ???????? ????? ??-?? ????? ????? ??????",
+      "sourceCollectedAt": "2026-10-09",
+      "verifiedAt": "2026-10-09",
+      "links": [
+        "https://duplicator.com/"
+      ],
+      "fileVerification": {
+        "filename": "duplicator-pro_v4.5.10.zip",
+        "bytes": 5083110,
+        "sha256": "bf987ae7df2752fc4c06b6865dc00802024c03b3e49a44cde728fe9f716766dd",
+        "mirrorStatus": "not-mirrored-modified-license-check",
+        "zipCrcVerified": true
+      },
+      "collectionIndex": 162
+    },
+    {
+      "id": "msg-class22-unlimited-extension",
+      "title": "All-in-One WP Migration Unlimited Extension — কোর্স ফাইল",
+      "text": "ক্লাস ২২-এর WordPress backup/migration অংশের সঙ্গে দেওয়া কোর্স ফাইল: all-in-one-wp-migration-unlimited-extension.zip। মূল Migration plugin-এর সঙ্গে এটি আলাদা add-on; শুধু মূল plugin-ই Unlimited Extension নয়।\nডাউনলোড করা ZIP-এর কপি আছে; ZIP-এর CRC ও SHA-256 যাচাই হয়েছে। এটি প্রকাশকের স্বাক্ষর বা malware-free হওয়ার নিশ্চয়তা নয়।\nZIP-এর সঙ্গে থাকা End-User-License-Agreement-এ তৃতীয় পক্ষের কাছে বিতরণ বা হোস্ট করার সীমা আছে। তাই এই সাইটে নতুন public ZIP কপি প্রকাশ করা হয়নি। মূল কোর্স সোর্স ও প্রকাশকের লাইসেন্সযুক্ত সংস্করণের সংযোগ নিচে আছে। নিজের বৈধ লাইসেন্স ও compatibility যাচাই করে ব্যবহার করুন।\nসেটআপ: আগে মূল All-in-One WP Migration plugin ইনস্টল করুন। অনুমোদিত extension ZIP WordPress → Plugins → Add New → Upload Plugin দিয়ে যোগ করুন; import-এর আগে site ও database-এর backup রাখুন।",
+      "downloadLinks": [
+        {
+          "label": "Unlimited Extension কোর্স ZIP — মূল সোর্স ↗",
+          "url": "https://drive.google.com/file/d/1RbBIbC3tw2KxvJG9MdYA9aO5ZTkDGkP9/view",
+          "origin": "course-source"
+        },
+        {
+          "label": "Unlimited Extension — অফিসিয়াল সংস্করণ ও লাইসেন্স ↗",
+          "url": "https://servmask.com/products/unlimited-extension",
+          "origin": "official"
+        }
+      ],
+      "author": "",
+      "date": null,
+      "observedDate": "",
+      "source": "https://drive.google.com/file/d/1RbBIbC3tw2KxvJG9MdYA9aO5ZTkDGkP9/view",
+      "sourceType": "messenger",
+      "sourceLabel": "?????? ????? ????? ??-?? ????",
+      "topic": "WordPress",
+      "category": "tools",
+      "videoStatus": "not-applicable",
+      "dateVerified": false,
+      "classDate": "2026-10-04",
+      "relatedRecordingId": "entry-148",
+      "relatedRecordingIds": [
+        "entry-148"
+      ],
+      "resourceKinds": [
+        "tools",
+        "documents",
+        "notes"
+      ],
+      "relationshipVerification": "??????????? ??????? ?????? ?? ???????? ????? ??-?? ????? ????? ??????",
+      "sourceCollectedAt": "2026-10-09",
+      "verifiedAt": "2026-10-09",
+      "links": [
+        "https://servmask.com/products/unlimited-extension"
+      ],
+      "fileVerification": {
+        "filename": "all-in-one-wp-migration-unlimited-extension.zip",
+        "bytes": 102942,
+        "sha256": "57119e1d9773148344d835cc7e5e927dc24c80a1417b780f619e891a0e8fb8df",
+        "mirrorStatus": "not-mirrored-redistribution-restricted",
+        "zipCrcVerified": true
+      },
+      "collectionIndex": 163
     }
   ],
   "schedule": {
@@ -4259,7 +4363,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-08-all-classes-audit-class21-ready",
+  "siteVersion": "2026-10-09-class22-messenger-files",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -4812,7 +4916,8 @@
       {
         "recordingId": "entry-148",
         "serial": 22,
-        "note": "Migration plugin, Wordfence ও local lab guides যুক্ত। Practice website/database files-এর কপি এখনও পাওয়া যায়নি।"
+        "note": "মূল Migration ZIP, Wordfence ও local lab guides যুক্ত। Messenger-এর Duplicator Pro ও Unlimited Extension-এর যাচাই, মূল কোর্স সোর্স এবং অফিসিয়াল বিকল্প এখন টুলস ও ডকুমেন্টস ট্যাবে আছে; এই দুই ZIP নতুন করে public mirror করা হয়নি। Practice website/database files-এর সংরক্ষিত কপি এখনও পাওয়া যায়নি।",
+        "verifiedAt": "2026-10-09"
       }
     ]
   }
