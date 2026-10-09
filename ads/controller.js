@@ -1,4 +1,4 @@
-// Banners are restricted to the three marked dashboard locations.
+// Three isolated banner positions shared by all public archive routes.
 (()=>{
   const ids=['rail','middle','footer'],origin='https://arena-b66-delta-ads.vercel.app';let settings=null;const mounted=new Map();
   const element=(tag,text,cls)=>{const el=document.createElement(tag);if(text)el.textContent=text;if(cls)el.className=cls;return el;};
@@ -27,7 +27,7 @@
     expanded(settings.defaultExpanded!==false);
     if('IntersectionObserver' in window){item.observer=new IntersectionObserver(entries=>{item.visible=entries.some(entry=>entry.isIntersecting);load();},{threshold:0.01});item.observer.observe(target);}else{item.visible=true;load();}
   }
-  function render(){for(const id of ids){const target=document.querySelector('[data-ad-position="'+id+'"]');if(!document.body.classList.contains('home-banner-layout')||!target){dispose(id);continue;}mount(target,id);}}
+  function render(){for(const id of ids){const target=document.querySelector('[data-ad-position="'+id+'"]');if(!document.body.classList.contains('public-banner-layout')||!target){dispose(id);continue;}mount(target,id);}}
   window.addEventListener('delta:page',render);window.addEventListener('resize',render);
   fetch('/api/ads-config',{cache:'no-store',credentials:'omit'}).then(async response=>{if(response.ok){settings=await response.json();render();}}).catch(()=>{});
 })();
