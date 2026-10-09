@@ -21,4 +21,5 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--teal);outline-offse
 [data-theme="light"] .delta-glyph{color:#a6d879;text-shadow:1px 2px 0 #7ead55,2px 4px 0 #709d4c,3px 6px 0 #608943,4px 8px 0 #537838,5px 10px 0 #466630,15px 25px 35px #2d532225}
 [data-theme="light"] .floating-chip{box-shadow:0 8px 0 #9bb48a33,0 22px 30px #31542718}
 @media(max-width:760px){.sponsor-slot{width:min(336px,calc(100% - 40px));margin:14px 20px 0;padding:9px 12px}.hero{border-radius:20px}.hero-art{perspective:none}.brand-mark{transform:none}}
+@media(max-width:340px){.sponsor-slot{width:calc(100% - 16px);margin-left:8px;margin-right:8px;padding:8px 0}.sponsor-caption{padding:0 6px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button,.icon-button,.tab-button,.class-row,.topic-card{transition:none!important;transform:none!important}}

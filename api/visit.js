@@ -1,6 +1,7 @@
 import { randomBytes } from 'node:crypto';
 import { put, list } from '@vercel/blob';
 import { PUBLIC_ORIGIN, json, cookies, sign, verify, digest, safeRoute, limitedJSON } from '../_server/security.mjs';
+import { takeRateToken } from '../_server/rate-limit.mjs';
 export async function POST(request) {
   if (process.env.VERCEL_ENV !== 'production' || process.env.ANALYTICS_INGEST_ENABLED !== '1') return json({error:'Unavailable'},503);
   if (request.headers.get('origin') !== PUBLIC_ORIGIN || request.headers.get('sec-fetch-site') !== 'same-origin') return json({error:'Forbidden'},403);
@@ -17,6 +18,7 @@ export async function POST(request) {
     // Bounded pilot collection; the platform rate limit also protects this endpoint.
     const daily=await list({prefix:'visits/'+date+'/',limit:1000});
     if(daily.blobs.length>=1000)return new Response(null,{status:204,headers:{'Cache-Control':'no-store'}});
+    if(!await takeRateToken(request))return new Response(null,{status:429,headers:{'Cache-Control':'no-store','Retry-After':'60'}});
     await put('visits/'+date+'/'+record.visitor+'-'+session.id+'.json',JSON.stringify(record),{access:'private',contentType:'application/json',addRandomSuffix:false,allowOverwrite:false});
     const headers=new Headers({'Cache-Control':'no-store'});
     headers.append('Set-Cookie','__Host-delta-visitor='+sign(visitor)+'; Path=/; Secure; HttpOnly; SameSite=Strict; Max-Age=2592000');
