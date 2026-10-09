@@ -1,7 +1,7 @@
 {
   "framework": null,
-  "buildCommand": "",
-  "outputDirectory": ".",
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
   "headers": [
     {
       "source": "/(.*)",
@@ -24,25 +24,42 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self'; worker-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-src 'self' https://www.youtube-nocookie.com https://geo.dailymotion.com; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; upgrade-insecure-requests"
+          "value": "default-src 'self'; script-src 'self'; worker-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-src 'self' https://arena-b66-delta-ads.vercel.app https://www.youtube-nocookie.com https://geo.dailymotion.com; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; upgrade-insecure-requests"
         }
       ]
     },
     {
-      "source": "/ads/(.*).html",
+      "source": "/documents/(.*).pdf",
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "sandbox allow-scripts allow-popups allow-popups-to-escape-sandbox; default-src https: data: blob:; script-src https: 'unsafe-inline'; worker-src 'none'; style-src https: 'unsafe-inline'; img-src https: data: blob:; connect-src https:; frame-src https:; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; upgrade-insecure-requests"
+          "value": "default-src 'self'; script-src 'self'; worker-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-src 'self'; object-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; upgrade-insecure-requests"
+        }
+      ]
+    },
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "private, no-store, max-age=0"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex,nofollow"
         }
       ]
     }
-    ,{
-      "source": "/documents/(.*).pdf",
-      "headers": [{
-        "key": "Content-Security-Policy",
-        "value": "default-src 'self'; script-src 'self'; worker-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-src 'self'; object-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; upgrade-insecure-requests"
-      }]
+  ],
+  "rewrites": [
+    {
+      "source": "/admin",
+      "destination": "/api/admin/page"
     }
-  ]
+  ],
+  "functions": {
+    "api/**/*.js": {
+      "maxDuration": 30
+    }
+  }
 }
