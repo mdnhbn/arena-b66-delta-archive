@@ -4265,7 +4265,7 @@
       "author": "",
       "date": null,
       "observedDate": "",
-      "source": "https://drive.google.com/file/d/1q_Hr1q2Ex3rzPrCzLbNQunbu7xSD21Se/view",
+      "source": "",
       "sourceType": "messenger",
       "sourceLabel": "?????? ????? ????? ??-?? ????",
       "topic": "WordPress",
@@ -4285,9 +4285,7 @@
       "relationshipVerification": "??????????? ??????? ?????? ?? ???????? ????? ??-?? ????? ????? ??????",
       "sourceCollectedAt": "2026-10-09",
       "verifiedAt": "2026-10-09",
-      "links": [
-        "https://duplicator.com/"
-      ],
+      "links": [],
       "fileVerification": {
         "filename": "duplicator-pro_v4.5.10.zip",
         "bytes": 5083110,
@@ -4295,7 +4293,8 @@
         "mirrorStatus": "not-mirrored-modified-license-check",
         "zipCrcVerified": true
       },
-      "collectionIndex": 162
+      "collectionIndex": 162,
+      "sourceFileUrl": "https://drive.google.com/file/d/1q_Hr1q2Ex3rzPrCzLbNQunbu7xSD21Se/view"
     },
     {
       "id": "msg-class22-unlimited-extension",
@@ -4316,7 +4315,7 @@
       "author": "",
       "date": null,
       "observedDate": "",
-      "source": "https://drive.google.com/file/d/1RbBIbC3tw2KxvJG9MdYA9aO5ZTkDGkP9/view",
+      "source": "",
       "sourceType": "messenger",
       "sourceLabel": "?????? ????? ????? ??-?? ????",
       "topic": "WordPress",
@@ -4336,9 +4335,7 @@
       "relationshipVerification": "??????????? ??????? ?????? ?? ???????? ????? ??-?? ????? ????? ??????",
       "sourceCollectedAt": "2026-10-09",
       "verifiedAt": "2026-10-09",
-      "links": [
-        "https://servmask.com/products/unlimited-extension"
-      ],
+      "links": [],
       "fileVerification": {
         "filename": "all-in-one-wp-migration-unlimited-extension.zip",
         "bytes": 102942,
@@ -4346,7 +4343,8 @@
         "mirrorStatus": "not-mirrored-redistribution-restricted",
         "zipCrcVerified": true
       },
-      "collectionIndex": 163
+      "collectionIndex": 163,
+      "sourceFileUrl": "https://drive.google.com/file/d/1RbBIbC3tw2KxvJG9MdYA9aO5ZTkDGkP9/view"
     }
   ],
   "schedule": {
