@@ -4,7 +4,7 @@ Reviewed 2026-10-09. This is a scoped source and browser review of the archive a
 
 ## Improvements
 
-- Advertising scripts run on a separate origin containing only advertising files, inside sandboxed frames. They cannot read or modify the course page or its storage, navigate the top-level page, or use camera, microphone or location. Banner clicks may open a separate advertiser page. Advertisements load only after visitor expansion; the close control unloads them for the tab session.
+- Advertising scripts run on a separate origin containing only advertising files, inside sandboxed frames. They cannot read or modify the course page or its storage, navigate the top-level page, or use camera, microphone or location. Banner clicks may open a separate advertiser page. Advertisements load on page entry; visitors can collapse and reopen the same creative without refreshing it. The close control unloads them for the tab session.
 - The course page loads only its own scripts. CSP restricts frames to saved documents and the two video providers; objects, forms and unexpected remote scripts are blocked. A restrictive browser feature policy and same-origin framing policy are configured. Existing HTTPS/HSTS and MIME-sniffing protection remain in place.
 - Course text uses text nodes rather than HTML injection. Links reject executable schemes and credentials in URLs; external windows use `noopener noreferrer`. PDF previews accept only same-origin PDF files.
 - The Vercel toolbar is disabled for both production and previews.

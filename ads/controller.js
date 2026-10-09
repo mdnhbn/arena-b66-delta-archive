@@ -4,18 +4,19 @@
   const toggle=slot?.querySelector('.ad-toggle');
   if(!slot||!frame||!toggle)return;
   try{if(sessionStorage.getItem('delta-ad-hidden')==='1'){slot.hidden=true;return;}}catch{}
-  // Keep the approved 300x250 creative size. Load only after visitor expansion.
+  // Show the approved 300x250 creative on entry; visitors can collapse it.
   const origin='https://arena-b66-delta-ads.vercel.app';
   const providers=[origin+'/banner.html',origin+'/advertica.html'];
   let selected=0,loaded=false;
   try{const next=Number(localStorage.getItem('delta-ad-next')||0);selected=Number.isSafeInteger(next)&&next>=0?next%providers.length:0;}catch{}
-  toggle.addEventListener('click',()=>{
-    const expand=toggle.getAttribute('aria-expanded')!=='true';
+  function setExpanded(expand){
     toggle.setAttribute('aria-expanded',String(expand));
     toggle.textContent=expand?'ছোট করুন':'দেখুন ↗';
     frame.hidden=!expand;
     if(expand&&!loaded){frame.src=providers[selected];loaded=true;try{localStorage.setItem('delta-ad-next',String((selected+1)%providers.length));}catch{}}
-  });
+  }
+  toggle.addEventListener('click',()=>setExpanded(toggle.getAttribute('aria-expanded')!=='true'));
+  setExpanded(true);
   window.addEventListener('message',event=>{
     if(slot.hidden||frame.getAttribute('src')!==providers[1])return;
     if(event.origin!==origin||event.source!==frame.contentWindow)return;
