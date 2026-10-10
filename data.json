@@ -3039,21 +3039,24 @@
           "preservedAt": "2026-10-07"
         }
       ],
-      "companionVideoStatus": "Part 1 uploaded; YouTube processing. Part 2 pending.",
+      "companionVideoStatus": "Part 1 hosted and website playback verified; Part 2 pending.",
       "relatedRecordingId": "entry-99",
-      "videoUploadMessage": "প্রথম সহায়ক ভিডিও YouTube-এ আপলোড হয়েছে; প্রসেসিং ও প্লেব্যাক যাচাই চলছে। দ্বিতীয় অংশের আপলোড বাকি।",
+      "videoUploadMessage": "প্রথম সহায়ক ভিডিও সাইটের প্লেয়ারে দেখা যাচ্ছে। দ্বিতীয় অংশের আপলোড ও যাচাই বাকি।",
       "playbackVerified": false,
       "expectedVideoParts": 2,
       "youtubeVideos": [
         {
           "videoId": "OTbzdhMxEdE",
           "label": "অংশ ১ · Advanced Shell",
-          "durationSeconds": 2523.241701,
+          "durationSeconds": 2523.261,
           "sourceFilename": "Asif_Shell_Part1.mp4",
-          "visibility": "unlisted-pending-processing",
-          "playbackVerified": false
+          "visibility": "unlisted",
+          "playbackVerified": true,
+          "verifiedAt": "2026-10-10",
+          "playbackEvidence": "Website iframe: 1280x720, duration 2523.261s, readyState 4, playback advanced 2.39s to 18.35s."
         }
-      ]
+      ],
+      "duration": "42:03 · অংশ ১"
     },
     {
       "id": "entry-108",
@@ -5113,5 +5116,5 @@
       }
     ]
   },
-  "version": "2026-10-10-class09-companion-part1-processing"
+  "version": "2026-10-10-class09-companion-part1-verified"
 }
