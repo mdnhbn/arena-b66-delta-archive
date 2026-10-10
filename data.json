@@ -3008,7 +3008,7 @@
       "topic": "File Upload",
       "category": "tools",
       "youtubeId": null,
-      "videoStatus": "uploaded-processing",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 105,
       "dateVerified": false,
@@ -3039,10 +3039,10 @@
           "preservedAt": "2026-10-07"
         }
       ],
-      "companionVideoStatus": "Part 1 hosted and website playback verified; Part 2 pending.",
+      "companionVideoStatus": "Both companion parts uploaded to YouTube Unlisted; full hosted playback verified.",
       "relatedRecordingId": "entry-99",
-      "videoUploadMessage": "প্রথম সহায়ক ভিডিও সাইটের প্লেয়ারে দেখা যাচ্ছে। দ্বিতীয় অংশের আপলোড ও যাচাই বাকি।",
-      "playbackVerified": false,
+      "videoUploadMessage": "দুটি সহায়ক ভিডিও সাইটের প্লেয়ারে প্রস্তুত। অংশ ১ ও অংশ ২ বোতামে ক্লিক করে দেখুন।",
+      "playbackVerified": true,
       "expectedVideoParts": 2,
       "youtubeVideos": [
         {
@@ -3054,9 +3054,19 @@
           "playbackVerified": true,
           "verifiedAt": "2026-10-10",
           "playbackEvidence": "Website iframe: 1280x720, duration 2523.261s, readyState 4, playback advanced 2.39s to 18.35s."
+        },
+        {
+          "videoId": "dYYrpuLguE0",
+          "label": "অংশ ২ · Advanced Shell",
+          "durationSeconds": 1301.961,
+          "sourceFilename": "Asif_Shell_part2.mp4",
+          "visibility": "unlisted",
+          "playbackVerified": true,
+          "verifiedAt": "2026-10-10",
+          "copyrightNotice": "Potential earning limitation; YouTube states current video viewing is unaffected."
         }
       ],
-      "duration": "42:03 · অংশ ১"
+      "duration": "অংশ ১ · 42:03 | অংশ ২ · 21:42"
     },
     {
       "id": "entry-108",
@@ -5116,5 +5126,5 @@
       }
     ]
   },
-  "version": "2026-10-10-class09-companion-part1-verified"
+  "version": "2026-10-10-class09-companions-ready"
 }
