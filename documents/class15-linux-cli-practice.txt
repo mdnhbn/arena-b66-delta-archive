@@ -1,0 +1,24 @@
+Class 15 | Linux CLI practice | Delta Archive
+Own practice worksheet; original instructor lab package was not recovered.
+Reference: https://www.gnu.org/software/coreutils/manual/coreutils.html
+
+Use a separate practice directory in your own Linux training VM.
+Read and run one command at a time. The printf line writes notes.txt in
+this practice directory; repeating it replaces that practice file.
+
+mkdir -p "$HOME/delta-cli-practice"
+cd "$HOME/delta-cli-practice"
+pwd
+printf 'Arena Delta\nLinux practice\n' > notes.txt
+ls -la
+cat notes.txt
+wc -l notes.txt
+cp notes.txt notes-copy.txt
+mv notes-copy.txt notes-renamed.txt
+chmod u=rw,go=r notes-renamed.txt
+ls -l notes-renamed.txt
+
+Expected checks: notes.txt has 2 lines. The renamed copy has the same
+content. Its owner can read/write; group and others can read.
+No sudo, package installation, or deletion is required.
+Prepared 2026-10-11.

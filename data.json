@@ -1206,6 +1206,9 @@
       "resourceKinds": [
         "tools",
         "documents"
+      ],
+      "relatedRecordingIds": [
+        "entry-124"
       ]
     },
     {
@@ -3322,7 +3325,10 @@
         "width": 1920,
         "height": 1080,
         "durationSeconds": 564.866667
-      }
+      },
+      "relatedRecordingIds": [
+        "entry-124"
+      ]
     },
     {
       "id": "entry-123",
@@ -4586,6 +4592,43 @@
       "videoStatus": "not-applicable",
       "originalInstructorFileStatus": "not-found-in-reviewed-group-files-and-Acunetix-posts",
       "verificationScope": "Class topic previously checked in selected video segments; official references read; full transcript unavailable."
+    },
+    {
+      "id": "notes-class15-linux-cli",
+      "title": "Linux Command Line — সহায়ক নোট ও অনুশীলন",
+      "topic": "Linux & Scripting",
+      "category": "documents",
+      "author": "Delta Archive",
+      "date": "2026-10-11",
+      "classDate": "2026-09-11",
+      "relatedRecordingId": "entry-124",
+      "source": "",
+      "sourceType": "archive-study-note",
+      "resourceKinds": [
+        "notes",
+        "documents",
+        "tools"
+      ],
+      "noteText": "সংশ্লিষ্ট ক্লাস: ১১ সেপ্টেম্বর ২০২৬ · শুক্রবার · রেকর্ড ১৫।\nক্লাস রেকর্ড: https://arena-b66-delta-archive.vercel.app/#class/entry-124\n\nউৎস ও সীমা: এটি যাচাই করা ক্লাসের টপিক এবং Ubuntu ও GNU-এর অফিসিয়াল রেফারেন্স থেকে তৈরি নিজস্ব সহায়ক গাইড। শিক্ষক-প্রদত্ত আলাদা নোট বা lab package পর্যালোচিত উৎসে পাওয়া যায়নি। এটি পূর্ণ ক্লাসের প্রতিলিপি নয়।\n\nপূর্বপ্রস্তুতি\n১৪ নম্বর ক্লাসের Linux ও VMware সেটআপ ভিডিও এই ক্লাসের টুলস ট্যাবেও পাওয়া যাবে। নিজের Linux training VM-এ একটি আলাদা practice folder ব্যবহার করুন।\n\nমূল ধারণা\n- pwd: বর্তমান directory; ls বা ls -la: ফাইল এবং hidden file দেখা।\n- cd: directory বদলানো; absolute path ও relative path-এর পার্থক্য বুঝুন।\n- mkdir: directory তৈরি; cp: কপি; mv: ফাইলের নাম বা অবস্থান বদলানো।\n- cat: পাঠ্য ফাইল দেখা; wc -l: লাইন গণনা।\n- chmod: অনুমতি পরিবর্তন; owner, group ও others-এর অনুমতি আলাদা।\n- command-এর options ও arguments বুঝে ব্যবহার করুন; নিজের system-এর man pages দেখুন।\n\nঅনুশীলন\nডকুমেন্ট ট্যাবের class15-linux-cli-practice.txt ডাউনলোড করে কমান্ডগুলো একটির পর একটি পড়ে চালান। প্রতিটি ধাপে pwd, ls এবং সংশ্লিষ্ট ফাইলের ফল লিখে রাখুন। অনুশীলনে administrator privilege বা ফাইল মুছে দেওয়ার কমান্ড প্রয়োজন নেই।\n\nঅফিসিয়াল রেফারেন্স:\n- Ubuntu: https://ubuntu.com/desktop/docs/en/latest/tutorial/the-linux-command-line-for-beginners/\n- GNU Coreutils: https://www.gnu.org/software/coreutils/manual/coreutils.html\n- GNU-এর মূল reference PDF: https://www.gnu.org/software/coreutils/manual/coreutils.pdf\n\nগাইড প্রস্তুত ও উৎস পরীক্ষা: ১১ অক্টোবর ২০২৬।",
+      "documentUrl": "/notes/class15-linux-cli-study.md",
+      "noteUrl": "/notes/class15-linux-cli-study.md",
+      "downloadLinks": [
+        {
+          "label": "Linux CLI অনুশীলন ফাইল (.txt) ↓",
+          "url": "/documents/class15-linux-cli-practice.txt"
+        },
+        {
+          "label": "GNU-এর মূল reference PDF ↗",
+          "url": "https://www.gnu.org/software/coreutils/manual/coreutils.pdf"
+        }
+      ],
+      "links": [
+        "https://ubuntu.com/desktop/docs/en/latest/tutorial/the-linux-command-line-for-beginners/",
+        "https://www.gnu.org/software/coreutils/manual/coreutils.html"
+      ],
+      "videoStatus": "not-applicable",
+      "originalInstructorFileStatus": "not-found-in-collected-class-posts-and-reviewed-group-files",
+      "verificationScope": "Verified class topic and official references; own practice worksheet, not a full lecture transcript."
     }
   ],
   "schedule": {
@@ -5167,5 +5210,5 @@
       }
     ]
   },
-  "version": "2026-10-11-class12-study-notes"
+  "version": "2026-10-11-class15-linux-study"
 }
