@@ -3008,7 +3008,7 @@
       "topic": "File Upload",
       "category": "tools",
       "youtubeId": null,
-      "videoStatus": "upload-blocked-dailymotion-limit",
+      "videoStatus": "uploaded-processing",
       "truncated": false,
       "collectionIndex": 105,
       "dateVerified": false,
@@ -3039,10 +3039,21 @@
           "preservedAt": "2026-10-07"
         }
       ],
-      "companionVideoStatus": "youtube-daily-limit; Drive backup available",
+      "companionVideoStatus": "Part 1 uploaded; YouTube processing. Part 2 pending.",
       "relatedRecordingId": "entry-99",
-      "videoUploadMessage": "Dailymotion-এর আজকের আপলোড ফাইলের সীমা পূর্ণ। সীমা রিসেট হলে আপলোড পুনরায় চেষ্টা করা হবে; মূল ভিডিও নিরাপদে রাখা আছে।",
-      "playbackVerified": false
+      "videoUploadMessage": "প্রথম সহায়ক ভিডিও YouTube-এ আপলোড হয়েছে; প্রসেসিং ও প্লেব্যাক যাচাই চলছে। দ্বিতীয় অংশের আপলোড বাকি।",
+      "playbackVerified": false,
+      "expectedVideoParts": 2,
+      "youtubeVideos": [
+        {
+          "videoId": "OTbzdhMxEdE",
+          "label": "অংশ ১ · Advanced Shell",
+          "durationSeconds": 2523.241701,
+          "sourceFilename": "Asif_Shell_Part1.mp4",
+          "visibility": "unlisted-pending-processing",
+          "playbackVerified": false
+        }
+      ]
     },
     {
       "id": "entry-108",
@@ -5101,5 +5112,6 @@
         "verifiedAt": "2026-10-09"
       }
     ]
-  }
+  },
+  "version": "2026-10-10-class09-companion-part1-processing"
 }
