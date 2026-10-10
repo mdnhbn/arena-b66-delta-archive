@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-11",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -3299,8 +3299,8 @@
       ],
       "topic": "Linux & Scripting",
       "category": "tools",
-      "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "youtubeId": "NFT9gLMVhaQ",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 119,
       "dateVerified": false,
@@ -3308,7 +3308,21 @@
       "resourceKinds": [
         "tools",
         "documents"
-      ]
+      ],
+      "playbackVerified": true,
+      "duration": "9:25",
+      "sourceDurationSeconds": 564.866667,
+      "videoUploadMessage": "VMware-এ Linux ইনস্টলেশনের সহায়ক ভিডিও সাইটের প্লেয়ারে দেখা যাবে।",
+      "videoVisibility": "unlisted",
+      "playbackVerifiedAt": "2026-10-11",
+      "sourceMedia": {
+        "filename": "vmware-setup.mp4",
+        "bytes": 49676361,
+        "sha256": "ae468d2d19bd0ce1bb15c665186aa4975af0cabe36041a813d3fe520b622b5c9",
+        "width": 1920,
+        "height": 1080,
+        "durationSeconds": 564.866667
+      }
     },
     {
       "id": "entry-123",
@@ -5126,5 +5140,5 @@
       }
     ]
   },
-  "version": "2026-10-10-class09-companions-ready"
+  "version": "2026-10-11-class14-vmware-companion-ready"
 }
