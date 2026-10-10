@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -4357,24 +4357,24 @@
       "source": "https://www.facebook.com/thesamubin/videos/1144370648014165/",
       "liveSource": "https://www.facebook.com/thesamubin/videos/1144370648014165/",
       "sourceType": "facebook-live",
-      "text": "৯ অক্টোবর ২০২৬, শুক্রবারের ক্লাস। Facebook পোস্টের মূল শিরোনাম Recon Part 2। লাইভ শেষ হয়েছে এবং পূর্ণ রেকর্ডিংয়ের দৈর্ঘ্য ১:২৫:১০ দেখা গেছে। নির্বাচিত ভিডিও অংশে ffuf দিয়ে directory discovery ও SecLists wordlist path দেখা গেছে। প্রশিক্ষকের Recon for Web Application গাইড যুক্ত আছে। পুরো ৮৫ মিনিটের সব টপিক এবং প্রকৃত শুরু/শেষের সময় এখনও যাচাই বাকি।",
+      "text": "৯ অক্টোবর ২০২৬, শুক্রবারের ক্লাস। Facebook পোস্টের মূল শিরোনাম Recon Part 2। পূর্ণ ১:২৫:১০ রেকর্ডিং Dailymotion-এ সংরক্ষিত; 720p প্লেব্যাক যাচাই করা হয়েছে। নির্বাচিত ভিডিও অংশে ffuf দিয়ে directory discovery ও SecLists wordlist path দেখা গেছে। প্রশিক্ষকের Recon for Web Application গাইড ও সংরক্ষিত সারাংশ যুক্ত আছে। পুরো ৮৫ মিনিটের সব টপিক এবং প্রকৃত শুরু/শেষের সময় এখনও যাচাই বাকি।",
       "links": [],
       "topic": "Recon",
       "category": "recordings",
       "recordingSerial": 23,
       "collectionIndex": 164,
-      "videoStatus": "recording-pending",
-      "videoUploadMessage": "পূর্ণ Facebook রেকর্ডিং পাওয়া গেছে (১:২৫:১০)। সম্পূর্ণ ভিডিও ফাইল সংগ্রহ এবং YouTube/Dailymotion-এ আপলোড ও প্লেব্যাক যাচাই এখনও বাকি। যাচাই শেষ হলে এখানে ভিডিও চলবে।",
+      "videoStatus": "ready",
+      "videoUploadMessage": "",
       "youtubeId": null,
-      "playbackVerified": false,
+      "playbackVerified": true,
       "dateVerified": true,
       "classDateVerified": true,
-      "classDateVerification": "আজকের ক্লাস হিসেবে ব্যবহারকারী নিশ্চিত করেছেন এবং একই দিনে Facebook LIVE চিহ্ন দেখা গেছে: ৯ অক্টোবর ২০২৬, শুক্রবার। পূর্ণ রেকর্ডিংয়ের পর্দার তারিখ পরে মিলিয়ে দেখা হবে।",
+      "classDateVerification": "পূর্ণ রেকর্ডিংয়ের পর্দায় Windows taskbar-এর তারিখ 10/9/2026 দেখা গেছে (প্রায় ৮০ মিনিটে)। এটি ৯ অক্টোবর ২০২৬, শুক্রবার; মূল পোস্টের 09/10/2026 তারিখের সঙ্গেও মিলে।",
       "classDateEvidence": {
-        "method": "user-confirmed-current-live-day",
+        "method": "recording-screen-and-instructor-post",
         "observedDate": "2026-10-09",
-        "checkedAt": "2026-10-09",
-        "scope": "Live event observed today; recording-screen date verification pending"
+        "checkedAt": "2026-10-10",
+        "scope": "Recording screen at approximately 80 minutes shows 10/9/2026; instructor post identifies 09/10/2026. Actual class start/end times remain unverified."
       },
       "topicVerified": true,
       "topicVerification": "লাইভ ভিডিওর নির্বাচিত অংশে ffuf ও directory-discovery wordlist দেখা গেছে; পুরো ক্লাসের সব বিষয় যাচাই করা হয়নি।",
@@ -4389,10 +4389,10 @@
         "tool-go-recon"
       ],
       "serialVerification": "Archive sequence after class 22; instructor class number not independently verified",
-      "recordingArchiveStatus": "source-recording-available-upload-pending",
+      "recordingArchiveStatus": "hosted-playback-verified",
       "sourceRecordingAvailable": true,
       "sourceDurationSeconds": 5109.9,
-      "sourceRecordingCheckedAt": "2026-10-09",
+      "sourceRecordingCheckedAt": "2026-10-10",
       "sourceRecordingEvidence": "Facebook group post displays 'was live', post title 'Recon Part 2', and replay duration 1:25:10; HTML media duration 5109.9 seconds.",
       "sourceCommentsReview": {
         "displayedCount": 54,
@@ -4400,7 +4400,22 @@
         "additionalCourseAttachmentsFound": false,
         "guideLinkMatchesExisting": true,
         "scope": "53 loaded top-level comments; counter shows 54. Instructor Recon guide confirmed. No additional downloadable course attachment observed."
-      }
+      },
+      "playbackVerifiedAt": "2026-10-10T19:58:37.233Z",
+      "videoProvider": "dailymotion",
+      "dailymotionVideos": [
+        {
+          "id": "class-2026-10-09",
+          "part": 1,
+          "videoId": "xbl3jb6",
+          "privateId": "k7uaLlQv87EF0cLpuVk",
+          "label": "পূর্ণ ক্লাস",
+          "visibility": "private",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-10T19:58:37.233Z",
+          "durationSeconds": 5109.9
+        }
+      ]
     },
     {
       "id": "guide-recon-class23",
@@ -4522,7 +4537,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-09-class23-ended-source-recording-confirmed",
+  "siteVersion": "2026-10-10-class23-hosted-recording-verified",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
