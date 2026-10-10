@@ -1,0 +1,19 @@
+CLASS 19 — FILE INCLUSION REVIEW WORKSHEET
+Prepared: 2026-10-11. Related class: 2026-09-25.
+Own supplementary worksheet; not the instructor's original lab package.
+
+Use only your own training application or an explicitly authorized lab.
+No executable, remote target, payload or credential is bundled here.
+
+1. Draw: request input -> identifier validation -> fixed template map -> file operation.
+2. Identify whether the operation reads content or evaluates included code.
+3. List the allowed template identifiers; avoid accepting arbitrary filesystem paths.
+4. Record expected behavior for an allowed identifier, unknown identifier,
+   missing value, empty value and non-string input. Unknown values must be rejected.
+5. Review application file permissions and whether uploaded files can execute.
+6. Record actual results, environment, evidence and remediation separately.
+7. Distinguish observed LFI from demonstrated code execution; do not assume RCE.
+
+References:
+https://wstg.owasp.org/v4.2/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion/
+https://www.php.net/manual/en/function.include.php
