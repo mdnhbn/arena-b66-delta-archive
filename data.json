@@ -4719,6 +4719,163 @@
       "videoStatus": "not-applicable",
       "originalInstructorFileStatus": "not-found-in-collected-class-posts-and-reviewed-group-files",
       "verificationScope": "Verified class topic and official references; own study note and review worksheet, not original lab or lecture transcript."
+    },
+    {
+      "id": "class-2026-10-11",
+      "title": "SQLMap and Dalfox — 11/10/2026",
+      "topicTitle": "SQLMap ও Dalfox — SQL Injection ও XSS Tools",
+      "author": "Md. Khaledul Islam",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "category": "recordings",
+      "topic": "SQL Injection",
+      "relatedTopics": [
+        "XSS",
+        "Linux & Scripting"
+      ],
+      "recordingSerial": 24,
+      "collectionIndex": 170,
+      "serialVerification": "Archive sequence after record 23; instructor class number not independently verified",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1677570770612178/",
+      "liveSource": "https://www.facebook.com/khaleddevsec/videos/1116400244211783/",
+      "sourceType": "facebook-live",
+      "duration": "1:43:09",
+      "sourceDurationSeconds": 6189.267,
+      "dateVerified": true,
+      "classDateVerified": true,
+      "classDateVerification": "পোস্টের রবিবার, ১১ অক্টোবর ২০২৬ তারিখ এবং নির্বাচিত ভিডিও অংশে SQLMap লগের 2026-10-11 তারিখ মিলেছে।",
+      "classDateEvidence": {
+        "method": "source-post-and-recording-terminal-date",
+        "observedDate": "2026-10-11",
+        "checkedAt": "2026-10-11T20:11:35.371003+00:00",
+        "scope": "Selected recording segments; SQLMap log date observed. Full-duration viewing not claimed."
+      },
+      "scheduledTime": "21:45 (বাংলাদেশ, ঘোষিত)",
+      "timeVerification": "প্রশিক্ষকের মন্তব্যে বাংলাদেশ সময় রাত ৯:৪৫-এ ক্লাস শুরুর ঘোষণা আছে; সৌদি সময় সন্ধ্যা ৬:৪৫। প্রকৃত শুরু/শেষের সময় যাচাই বাকি।",
+      "topicVerified": true,
+      "topicVerification": "মূল পোস্টের SqlMap and Dalfox শিরোনাম; নির্বাচিত অংশে SQLMap terminal এবং Dalfox GitHub repository দেখা গেছে। পুরো ক্লাসের সব বিষয় বা ব্যবহৃত tool version যাচাই করা হয়নি।",
+      "text": "১১ অক্টোবর ২০২৬, রবিবারের ক্লাস: SQLMap ও Dalfox। Facebook-এ পূর্ণ ১:৪৩:০৯ replay পাওয়া গেছে। ক্লাসের তথ্য, নিজস্ব সহায়ক নোট এবং অফিসিয়াল টুল ডাউনলোড/সেটআপ লিংক সংযুক্ত আছে। YouTube/Dailymotion-এ স্বাধীন ভিডিও সংরক্ষণ এখনও বাকি।",
+      "links": [],
+      "youtubeId": null,
+      "videoStatus": "recording-pending",
+      "playbackVerified": false,
+      "videoUploadMessage": "Facebook-এ পূর্ণ রেকর্ডিং পাওয়া গেছে। সরাসরি ডাউনলোডযোগ্য ফাইলের লিংক এখনও পাওয়া যায়নি; YouTube/Dailymotion-এ আপলোড বাকি। নিচে মূল রেকর্ডিং এবং ক্লাসের নোট/টুলস আছে।",
+      "sourceRecordingAvailable": true,
+      "sourceRecordingCheckedAt": "2026-10-11T20:11:35.371003+00:00",
+      "sourceRecordingEvidence": "Facebook displays Recorded live / was live and replay duration 1:43:09; media duration 6189.267 seconds.",
+      "recordingArchiveStatus": "source-available-download-pending",
+      "relatedResourceIds": [
+        "notes-class24-sqlmap-dalfox",
+        "tool-sqlmap-class24",
+        "tool-dalfox-class24"
+      ]
+    },
+    {
+      "id": "notes-class24-sqlmap-dalfox",
+      "title": "SQLMap ও Dalfox — সংরক্ষিত সহায়ক পাঠনোট",
+      "author": "Delta Archive",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "relatedRecordingId": "class-2026-10-11",
+      "topic": "SQL Injection",
+      "relatedTopics": [
+        "XSS"
+      ],
+      "category": "documents",
+      "sourceType": "archive-study-note",
+      "source": "",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "noteText": "# SQLMap ও Dalfox — ক্লাস ২৪-এর সহায়ক পাঠনোট\n\nক্লাসের তারিখ: **১১ অক্টোবর ২০২৬, রবিবার**। প্রশিক্ষক: Md. Khaledul Islam। মূল পোস্টের শিরোনাম: **SqlMap and Dalfox**। রেকর্ডিংয়ের দৈর্ঘ্য: **১:৪৩:০৯**।\n\nপ্রশিক্ষকের ঘোষণা অনুযায়ী শুরু হওয়ার কথা ছিল বাংলাদেশ সময় রাত **৯:৪৫**, সৌদি সময় সন্ধ্যা **৬:৪৫**। এটি ঘোষিত সময়; ভিডিওর প্রকৃত শুরু/শেষের সময় এখনও আলাদাভাবে যাচাই করা হয়নি। নির্বাচিত ভিডিও অংশে SQLMap-এর লগে `2026-10-11` দেখা গেছে।\n\nএটি Delta Archive-এর তৈরি সহায়ক নোট, শিক্ষকের মূল PDF বা পুরো ভিডিওর প্রতিলিপি নয়। নির্বাচিত অংশে SQLMap terminal এবং Dalfox-এর GitHub repository দেখা গেছে। বাকি আলোচনা সম্পূর্ণ পর্যালোচনা করা হয়নি।\n\n## ক্লাসের সঙ্গে সম্পর্কিত বিষয়\n\n- SQLMap: SQL injection পরীক্ষার টুল; Python-এ চলে। ক্লাসের চ্যাটে এর অফিসিয়াল GitHub লিংক দেওয়া হয়েছে।\n- Dalfox: XSS ও parameter analysis-এর টুল। মূল ক্লাসের শিরোনাম এবং ভিডিওর GitHub পেজ থেকে এর সম্পর্ক যাচাই করা হয়েছে।\n- Linux terminal/WSL: ক্লাসের পরিবেশের সঙ্গে নিজের OS ও টুলের সংস্করণ মিলিয়ে সেটআপ করতে হবে। সহপাঠীর মন্তব্যকে প্রশিক্ষকের চূড়ান্ত নির্দেশনা হিসেবে ধরা হয়নি।\n\n## ডাউনলোড ও সেটআপ\n\nSQLMap-এর অফিসিয়াল ZIP নামিয়ে extract করুন, অথবা repository clone করুন। Python উপলব্ধ আছে কি না দেখে টুলের folder থেকে `python sqlmap.py -h` চালালে সহায়িকা দেখা যাবে।\n\nDalfox-এর অফিসিয়াল releases থেকে নিজের OS/CPU অনুযায়ী package বেছে নিন এবং প্রকাশিত checksum মিলিয়ে নিন। বর্তমান Dalfox v3 এবং পুরোনো Go-ভিত্তিক v2-এর সেটআপ এক নয়। ভিডিওতে ব্যবহৃত সংস্করণ এখনও নিশ্চিত করা হয়নি; পুরোনো ক্লাসের command ও বর্তমান installer মিশিয়ে ব্যবহার করবেন না। সংস্করণ ও help যাচাই করে এগোন।\n\nনিজের অনুশীলনের অ্যাপ বা অনুমোদিত ল্যাবে কাজ করুন। নোটে টুলের version, environment, পর্যবেক্ষণ ও সংশোধনের ফল লিখে রাখুন; ব্যক্তিগত cookie, password বা token প্রকাশ করবেন না।\n\n## মূল রেকর্ডিং ও অফিসিয়াল রেফারেন্স\n\n- ক্লাসের পোস্ট: https://www.facebook.com/groups/awsb66delta/posts/1677570770612178/\n- Facebook রেকর্ডিং: https://www.facebook.com/khaleddevsec/videos/1116400244211783/\n- SQLMap repository ও সেটআপ: https://github.com/sqlmapproject/sqlmap\n- SQLMap source ZIP: https://github.com/sqlmapproject/sqlmap/zipball/master\n- SQLMap নির্দেশিকা: https://github.com/sqlmapproject/sqlmap/wiki\n- Dalfox repository: https://github.com/hahwul/dalfox\n- Dalfox releases: https://github.com/hahwul/dalfox/releases\n- Dalfox installation: https://dalfox.hahwul.com/getting-started/installation/\n\nনোটটি এই সাইটে সংরক্ষিত, তাই মূল Facebook পোস্ট সরিয়ে ফেললেও এটি পড়া ও নামানো যাবে। ভিডিওর স্বাধীন সংরক্ষণ ও YouTube/Dailymotion আপলোড এখনও বাকি।\n",
+      "text": "ক্লাস ২৪-এর তথ্য, যাচাই করা বিষয়, টুল ডাউনলোড ও সেটআপের সংক্ষিপ্ত সহায়ক নোট। এটি শিক্ষকের মূল PDF বা পূর্ণ প্রতিলিপি নয়।",
+      "documentUrl": "/notes/class24-sqlmap-dalfox.md",
+      "noteUrl": "/notes/class24-sqlmap-dalfox.md",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "dateVerified": true,
+      "originalInstructorFileStatus": "not-found-in-reviewed-source",
+      "verificationScope": "Instructor post, selected video segments, course-chat tool link and official documentation."
+    },
+    {
+      "id": "tool-sqlmap-class24",
+      "title": "SQLMap — Source ZIP, Python ও Setup",
+      "topic": "SQL Injection",
+      "text": "ক্লাসের চ্যাটে SQLMap-এর অফিসিয়াল GitHub লিংক দেওয়া হয়েছে; ভিডিওতেও টুলটি দেখা গেছে। ZIP download থেকে source নামিয়ে extract করুন। Python প্রস্তুত থাকলে টুলের folder-এ python sqlmap.py -h দিয়ে সাহায্য দেখা যায়। টুলের সংস্করণ ও নিজের ল্যাবের scope লিখে রাখুন। সফটওয়্যার প্যাকেজ এখানে নতুন করে mirror করা হয়নি; নিচে অফিসিয়াল ডাউনলোড আছে।",
+      "downloadLinks": [
+        {
+          "label": "SQLMap অফিসিয়াল source ZIP ডাউনলোড ↓",
+          "url": "https://github.com/sqlmapproject/sqlmap/zipball/master",
+          "origin": "official"
+        },
+        {
+          "label": "SQLMap সেটআপ ও repository ↗",
+          "url": "https://github.com/sqlmapproject/sqlmap",
+          "origin": "official"
+        },
+        {
+          "label": "SQLMap ব্যবহার নির্দেশিকা ↗",
+          "url": "https://github.com/sqlmapproject/sqlmap/wiki",
+          "origin": "official"
+        },
+        {
+          "label": "Python অফিসিয়াল installer ↗",
+          "url": "https://www.python.org/downloads/",
+          "origin": "official"
+        }
+      ],
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "relatedRecordingId": "class-2026-10-11",
+      "category": "tools",
+      "source": "",
+      "links": [],
+      "resourceKinds": [
+        "tools",
+        "documents",
+        "notes"
+      ],
+      "videoStatus": "not-applicable",
+      "dateVerified": true,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "tool-dalfox-class24",
+      "title": "Dalfox — XSS Tool, Releases ও Setup",
+      "topic": "XSS",
+      "text": "ক্লাসের মূল শিরোনাম ও নির্বাচিত ভিডিও অংশে Dalfox repository দেখা গেছে। অফিসিয়াল releases থেকে OS ও CPU অনুযায়ী binary নিন এবং checksum যাচাই করুন। বর্তমান v3 এবং পুরোনো Go-ভিত্তিক v2-এর সেটআপ ভিন্ন; ক্লাসে ব্যবহৃত exact version এখনও নিশ্চিত করা হয়নি। সেই কারণে পুরোনো command-এর সঙ্গে নতুন installer মেশাবেন না। package এখানে নতুন করে mirror করা হয়নি।",
+      "downloadLinks": [
+        {
+          "label": "Dalfox অফিসিয়াল releases / ডাউনলোড ↗",
+          "url": "https://github.com/hahwul/dalfox/releases",
+          "origin": "official"
+        },
+        {
+          "label": "Dalfox অফিসিয়াল installation guide ↗",
+          "url": "https://dalfox.hahwul.com/getting-started/installation/",
+          "origin": "official"
+        },
+        {
+          "label": "Dalfox repository ও version তথ্য ↗",
+          "url": "https://github.com/hahwul/dalfox",
+          "origin": "official"
+        }
+      ],
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "relatedRecordingId": "class-2026-10-11",
+      "category": "tools",
+      "source": "",
+      "links": [],
+      "resourceKinds": [
+        "tools",
+        "documents",
+        "notes"
+      ],
+      "videoStatus": "not-applicable",
+      "dateVerified": true,
+      "verifiedAt": "2026-10-11"
     }
   ],
   "schedule": {
@@ -4735,7 +4892,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-11-burp-supplement-04",
+  "siteVersion": "2026-10-11-class24-sqlmap-dalfox",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -4776,9 +4933,10 @@
           "entry-40",
           "entry-64",
           "entry-88",
-          "entry-115"
+          "entry-115",
+          "class-2026-10-11"
         ],
-        "summary": "টুল দিয়ে SQLi, Manual SQLi, WAF এবং lab অনুশীলন শনাক্ত।",
+        "summary": "টুল দিয়ে SQLi, Manual SQLi, WAF এবং lab অনুশীলন শনাক্ত। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও হোস্টিং বাকি।",
         "remaining": "প্রতিটি SQLi পদ্ধতির পূর্ণ কভারেজ আলাদাভাবে যাচাই প্রয়োজন।",
         "officialTopics": [
           "Login Page injection",
@@ -4977,9 +5135,10 @@
         "status": "covered",
         "classIds": [
           "entry-80",
-          "entry-115"
+          "entry-115",
+          "class-2026-10-11"
         ],
-        "summary": "XSS ক্লাস এবং PortSwigger lab অনুশীলন পাওয়া গেছে।",
+        "summary": "XSS ক্লাস এবং PortSwigger lab অনুশীলন পাওয়া গেছে। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও হোস্টিং বাকি।",
         "remaining": null,
         "officialTopics": [
           "Cross Site Scripting (XSS)"
@@ -5300,5 +5459,5 @@
       }
     ]
   },
-  "version": "2026-10-11-class15-linux-study"
+  "version": "2026-10-11-class24-sqlmap-dalfox"
 }
