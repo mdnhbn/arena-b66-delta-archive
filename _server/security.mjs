@@ -32,7 +32,14 @@ export function cookies(request) {
   return Object.fromEntries((request.headers.get('cookie') || '').split(';').filter(x=>x.includes('=')).map(x=>{ const i=x.indexOf('='); return [x.slice(0,i).trim(),x.slice(i+1).trim()]; }));
 }
 export function safeRoute(value) {
-  return typeof value === 'string' && /^#(?:overview|classes|resources|tools|roadmap|preservation|schedule|notices|about|class\/entry-\d{1,4})$/.test(value) ? value : '#overview';
+  if (typeof value !== 'string' || value.length > 100) return '#overview';
+  if (/^#(?:overview|classes|resources|tools|roadmap|preservation|schedule|notices|about|class\/entry-\d{1,4}|resource\/(?:entry-\d{1,4}|(?:notes|guide|tool|msg)-[a-z0-9]+(?:-[a-z0-9]+){0,8}))$/.test(value)) return value;
+  const datedClass = /^#class\/class-(20\d{2}-\d{2}-\d{2})$/.exec(value);
+  if (datedClass) {
+    const date = new Date(datedClass[1] + 'T00:00:00Z');
+    if (Number.isFinite(date.getTime()) && date.toISOString().slice(0, 10) === datedClass[1]) return value;
+  }
+  return '#overview';
 }
 export function adminMutationAllowed(request) {
   const allowed = [ADMIN_ORIGIN, ...(process.env.VERCEL_URL ? ['https://' + process.env.VERCEL_URL] : [])];
