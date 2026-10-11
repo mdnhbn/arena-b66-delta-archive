@@ -2739,7 +2739,7 @@
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1628369578865631",
-      "text": "বার্পসুইট ভিডিও রিসোর্স\nপাসওয়ার্ডঃ aws\ndrive.google.com\nBurp Suite Unfiltered - Go from a Beginner to Advanced!.rar\nএটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ। প্রথম ভিডিও সাইটের প্লেয়ারে প্রস্তুত; বাকি ভিডিওগুলোর আপলোড চলছে। মূল live class-এর ভিডিও আলাদাভাবে প্রস্তুত আছে।",
+      "text": "বার্পসুইট ভিডিও রিসোর্স\nপাসওয়ার্ডঃ aws\ndrive.google.com\nBurp Suite Unfiltered - Go from a Beginner to Advanced!.rar\nএটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ। ২টি ভিডিও সাইটের প্লেয়ারে প্রস্তুত; বাকি ভিডিওগুলোর আপলোড চলছে। মূল live class-এর ভিডিও আলাদাভাবে প্রস্তুত আছে।",
       "links": [
         "https://drive.google.com/file/d/1h60zw8KvLbSolk5TQk8RxYwrtfHTDrQh/view?usp=sharing"
       ],
@@ -2770,10 +2770,6 @@
         "3. Basics and Terminologies\\3. How Burp Suite can help you with Web Tests.mp4",
         "3. Basics and Terminologies\\4. Let's get an 10,000 Foot Overview of Burp.mp4",
         "4. Each Tab of Burp in Deep\\1. How to use Dashboard Tab.mp4",
-        "4. Each Tab of Burp in Deep\\10. How to use Decoder Tab.mp4",
-        "4. Each Tab of Burp in Deep\\11. How to use Comparer Tab.mp4",
-        "4. Each Tab of Burp in Deep\\12. How to use Logger Tab.mp4",
-        "4. Each Tab of Burp in Deep\\13. How to use Extender Tab.mp4",
         "4. Each Tab of Burp in Deep\\2. Automated Scanning & Live Tasks in Burp Suite Pro.mp4",
         "4. Each Tab of Burp in Deep\\3. How to use Target Tab.mp4",
         "4. Each Tab of Burp in Deep\\4. Content Discovery & Item-Specific Scanning in Burp Suite Pro.mp4",
@@ -2782,6 +2778,10 @@
         "4. Each Tab of Burp in Deep\\7. How to use Intruder Tab.mp4",
         "4. Each Tab of Burp in Deep\\8. How to use Repeater Tab.mp4",
         "4. Each Tab of Burp in Deep\\9. How to use Sequencer Tab.mp4",
+        "4. Each Tab of Burp in Deep\\10. How to use Decoder Tab.mp4",
+        "4. Each Tab of Burp in Deep\\11. How to use Comparer Tab.mp4",
+        "4. Each Tab of Burp in Deep\\12. How to use Logger Tab.mp4",
+        "4. Each Tab of Burp in Deep\\13. How to use Extender Tab.mp4",
         "5. User and Project Options\\1. Essential User Options.mp4",
         "5. User and Project Options\\2. [EXTRA] 5 Tips & Tricks that'll differentiate you from a Noob!.mp4",
         "6. Hands-on Exercises  Labs\\1. File Upload & Max Length Limit Bypass [Proxy Ideas].mp4",
@@ -2789,7 +2789,7 @@
         "6. Hands-on Exercises  Labs\\3. Input Vulnerability Check Lab [Intruder Ideas].mp4",
         "6. Hands-on Exercises  Labs\\4. Http Methods Exploitation [Repeater Ideas].mp4"
       ],
-      "archiveVideoStatus": "1 of 27 supplementary videos verified on YouTube; remaining videos pending",
+      "archiveVideoStatus": "2 of 27 supplementary videos verified on YouTube; remaining videos pending",
       "relatedRecordingId": "entry-90",
       "youtubeVideos": [
         {
@@ -2800,10 +2800,19 @@
           "playbackVerified": true,
           "playbackVerifiedAt": "2026-10-11",
           "durationSeconds": 151.741
+        },
+        {
+          "part": 2,
+          "videoId": "rXqh8qxOTcg",
+          "label": "০২ · Course Tips",
+          "visibility": "unlisted",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-11",
+          "durationSeconds": 390.201
         }
       ],
       "expectedVideoParts": 27,
-      "uploadedVideoParts": 1
+      "uploadedVideoParts": 2
     },
     {
       "id": "entry-94",
@@ -4708,7 +4717,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-11-burp-supplement-01",
+  "siteVersion": "2026-10-11-burp-supplement-02",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
