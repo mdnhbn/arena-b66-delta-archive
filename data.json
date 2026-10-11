@@ -2739,14 +2739,14 @@
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1628369578865631",
-      "text": "বার্পসুইট ভিডিও রিসোর্স\nপাসওয়ার্ডঃ aws\ndrive.google.com\nBurp Suite Unfiltered - Go from a Beginner to Advanced!.rar\nএটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ; Burp Suite installer নয়।",
+      "text": "বার্পসুইট ভিডিও রিসোর্স\nপাসওয়ার্ডঃ aws\ndrive.google.com\nBurp Suite Unfiltered - Go from a Beginner to Advanced!.rar\nএটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ। প্রথম ভিডিও সাইটের প্লেয়ারে প্রস্তুত; বাকি ভিডিওগুলোর আপলোড চলছে। মূল live class-এর ভিডিও আলাদাভাবে প্রস্তুত আছে।",
       "links": [
         "https://drive.google.com/file/d/1h60zw8KvLbSolk5TQk8RxYwrtfHTDrQh/view?usp=sharing"
       ],
       "topic": "Burp Suite",
       "category": "tools",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "upload-partial",
       "truncated": false,
       "collectionIndex": 92,
       "dateVerified": false,
@@ -2789,8 +2789,21 @@
         "6. Hands-on Exercises  Labs\\3. Input Vulnerability Check Lab [Intruder Ideas].mp4",
         "6. Hands-on Exercises  Labs\\4. Http Methods Exploitation [Repeater Ideas].mp4"
       ],
-      "archiveVideoStatus": "27 videos preserved in downloadable RAR; individual YouTube upload pending",
-      "relatedRecordingId": "entry-90"
+      "archiveVideoStatus": "1 of 27 supplementary videos verified on YouTube; remaining videos pending",
+      "relatedRecordingId": "entry-90",
+      "youtubeVideos": [
+        {
+          "part": 1,
+          "videoId": "AxfCtB-Xn48",
+          "label": "০১ · Introduction",
+          "visibility": "unlisted",
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-11",
+          "durationSeconds": 151.741
+        }
+      ],
+      "expectedVideoParts": 27,
+      "uploadedVideoParts": 1
     },
     {
       "id": "entry-94",
@@ -4695,7 +4708,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-11-recon-hosts-index",
+  "siteVersion": "2026-10-11-burp-supplement-01",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
