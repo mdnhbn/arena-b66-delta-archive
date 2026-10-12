@@ -31,4 +31,6 @@ Dalfox-এর অফিসিয়াল releases থেকে নিজের 
 - Dalfox releases: https://github.com/hahwul/dalfox/releases
 - Dalfox installation: https://dalfox.hahwul.com/getting-started/installation/
 
-নোটটি এই সাইটে সংরক্ষিত, তাই মূল Facebook পোস্ট সরিয়ে ফেললেও এটি পড়া ও নামানো যাবে। ভিডিওর স্বাধীন সংরক্ষণ ও YouTube/Dailymotion আপলোড এখনও বাকি।
+নোটটি এই সাইটে সংরক্ষিত, তাই মূল Facebook পোস্ট সরিয়ে ফেললেও এটি পড়া ও নামানো যাবে। পূর্ণ ১:৪৩:০৯ রেকর্ডিং YouTube-এ Unlisted হিসেবে সংরক্ষিত এবং ক্লাসের সাইট-প্লেয়ারে যাচাই করা হয়েছে। মূল আপলোডের রেজোলিউশন ১৯২০×১০৮০।
+
+YouTube রেকর্ডিং: https://www.youtube.com/watch?v=akKImCYFXbA
