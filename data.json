@@ -2096,15 +2096,13 @@
     },
     {
       "id": "entry-43",
-      "title": "OSINT — B66 Delta",
+      "title": "OSINT — নিরাপদ সম্পাদিত ক্লাস নোট",
       "author": "Md. Khaledul Islam",
       "date": "2026-07-26",
       "observedDate": "July 26",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1609800807389175",
-      "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক\nOSINT - B66 Delta",
-      "links": [
-        "https://docs.google.com/document/d/1PVu1YmjTLqqe5ZToj9tb8fErVG36hUUxxVlHmNh9rZE/edit"
-      ],
+      "text": "ক্লাস ৩-এর নিরাপদ সম্পাদিত OSINT পাঠ; মূল classroom/tracking links বাদ দেওয়া হয়েছে। পূর্ণ transcript-ভিত্তিক সামারি ও scope-সীমিত search উদাহরণ সংশ্লিষ্ট ক্লাসে আছে।",
+      "links": [],
       "topic": "OSINT",
       "category": "documents",
       "youtubeId": null,
@@ -2114,11 +2112,15 @@
       "dateVerified": true,
       "contentVerified": true,
       "linkVerification": "Opened original Facebook document card",
-      "noteText": "Imp post: https://www.facebook.com/groups/awsb66delta/posts/1609893780713211\nHW: https://forms.gle/fPiaspqK6eU3vibL7\n\n\n\n\nOSINT -\n\n\nসবাই পোর্টালে লগিন করে উপস্থিতি দিয়ে দিন। \nপ্রথমে https://hw.arenaclass.stream/  আপনার একাউন্ট দিয়ে প্যানেলে লগিন করুন। উল্লেখ্য, আপনি হোমওয়ার্ক জমা দেওয়ার জন্য যেই আইডি পাসওয়ার্ড দিয়ে লগিন করেন সেটাই student panel.\n\n\nএরপর join class এ ক্লিক করুন। take attendance এ ক্লিক করলেই উপস্থিতি জমা হয়ে যাবে।\n\n\n\n\n1.1\n—----------------------------------------------------------------------------------------\nYour ip: https://whatismyipaddress.com/\nTrack: https://grabify.link/\n\nIp2Loc: https://whatismyipaddress.com/ip-lookup\n\n\nVideo: https://drive.google.com/file/d/19kNyR9LPDIAnq4EvsKzZOqvD6xTtJBjF/view?usp=drive_link\n—----------------------------------------------------------------------------------------\n\n\n\n\n1.2\n—----------------------------------------------------------------------------------------\nNotice: https://hackerinstitutebd.blogspot.com/2024/08/blog-post.html\n—----------------------------------------------------------------------------------------\n\n\n1.3\n—----------------------------------------------------------------------------------------\nhttps://whois.domaintools.com/      amardesh.com\nBdia btcl\nWayback machine\n—----------------------------------------------------------------------------------------\n\n\ntanjim@arenawebsecurity.net\nceo@arenawebsecurity.net\n\n\n1.4:\n—----------------------------------------------------------------------------------------\nURL: https://www.dainikcoxsbazar.com/\nCW: [সীমিত প্রবেশাধিকার]\n\n\n—----------------------------------------------------------------------------------------",
-      "noteSource": "https://docs.google.com/document/d/1PVu1YmjTLqqe5ZToj9tb8fErVG36hUUxxVlHmNh9rZE/edit",
+      "noteText": "প্রকাশিত নিরাপদ সম্পাদিত সংস্করণ\n\nক্লাস ৩-এর OSINT নোটের ধারণাগুলো এখানে সংরক্ষিত। মূল কোর্স নোটের ব্যক্তিকে লক্ষ্য করে অনুসন্ধান/ট্র্যাকিংয়ের নির্দেশনা, classroom attendance/homework form এবং সংশ্লিষ্ট সরাসরি tracking-service links প্রকাশিত সংস্করণ থেকে বাদ দেওয়া হয়েছে। মূল পাঠের ব্যক্তিগত archival copy ও এই সম্পাদনার রসিদ রাখা আছে। এটি শিক্ষকের অপরিবর্তিত মূল নথি নয়।\n\nOSINT-এর কাজ\nপ্রকাশ্যে উপলব্ধ তথ্যের উৎস, তারিখ, বিশ্বাসযোগ্যতা এবং সীমা যাচাই করা। নিজের বা লিখিত অনুমতিপ্রাপ্ত domain/asset-এর scope আগে নথিভুক্ত করুন। কারও পরিচয়, ঠিকানা বা অবস্থান অনুমানকে নিশ্চিত তথ্য হিসেবে প্রকাশ করবেন না।\n\nতথ্যের মান যাচাই\nএকটি তথ্য অন্তত দুইটি প্রাসঙ্গিক স্বাধীন উৎসে মিলিয়ে দেখুন। Whois/নিবন্ধন তথ্য, নিজের asset inventory, প্রকাশিত document এবং web archive-এর সময় আলাদা হতে পারে। পুরোনো search result বর্তমান অবস্থার প্রমাণ নয়।\n\nIP ও অবস্থানের সীমা\nIP থেকে সাধারণত network/provider বা আনুমানিক অঞ্চল সম্পর্কে ধারণা পাওয়া যায়; এটি ব্যক্তির পরিচয় বা নির্দিষ্ট বাড়ির অবস্থানের নিশ্চিত প্রমাণ নয়। অনুমতি ছাড়া tracking link পাঠানো বা গোপনে ব্যক্তিগত তথ্য সংগ্রহ এই প্রকাশিত অনুশীলনের অংশ নয়।\n\nনিজের ল্যাবে অনুশীলন\nএকটি অনুমোদিত domain-এর public asset list তৈরি করুন। প্রতিটি পর্যবেক্ষণের URL, দেখা সময়, প্রমাণের ধরন এবং confidence লিখুন। অপ্রয়োজনীয় ব্যক্তিগত তথ্য সংরক্ষণ করবেন না। Google Advanced Search-এর scope-সীমিত উদাহরণ এবং পূর্ণ transcript-ভিত্তিক সামারি ক্লাস ৩-এর নতুন পাঠনোটে আছে।\n\nরেফারেন্স\nhttps://www.icann.org/lookup\nhttps://web.archive.org/\nhttps://developers.google.com/search/docs/monitor-debug/search-operators\n",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-43.txt",
       "noteVerified": true,
-      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-43.txt"
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-43.txt",
+      "publicationEdition": "lab-scoped-redacted",
+      "relatedRecordingId": "entry-46",
+      "relatedRecordingIds": [
+        "entry-46"
+      ]
     },
     {
       "id": "entry-44",
@@ -4430,7 +4432,7 @@
       "observedDate": "",
       "source": "",
       "sourceType": "messenger",
-      "sourceLabel": "?????? ????? ????? ??-?? ????",
+      "sourceLabel": "Messenger — ক্লাস ২২-এর WordPress backup/migration রিসোর্স",
       "topic": "WordPress",
       "category": "tools",
       "videoStatus": "not-applicable",
@@ -4445,7 +4447,7 @@
         "documents",
         "notes"
       ],
-      "relationshipVerification": "??????????? ??????? ?????? ?? ???????? ????? ??-?? ????? ????? ??????",
+      "relationshipVerification": "ব্যবহারকারীর স্পষ্ট নির্দেশ এবং WordPress backup/migration বিষয়ের মিল অনুযায়ী ক্লাস ২২-এর সঙ্গে যুক্ত।",
       "sourceCollectedAt": "2026-10-09",
       "verifiedAt": "2026-10-09",
       "links": [],
@@ -4480,7 +4482,7 @@
       "observedDate": "",
       "source": "",
       "sourceType": "messenger",
-      "sourceLabel": "?????? ????? ????? ??-?? ????",
+      "sourceLabel": "Messenger — ক্লাস ২২-এর WordPress backup/migration রিসোর্স",
       "topic": "WordPress",
       "category": "tools",
       "videoStatus": "not-applicable",
@@ -4495,7 +4497,7 @@
         "documents",
         "notes"
       ],
-      "relationshipVerification": "??????????? ??????? ?????? ?? ???????? ????? ??-?? ????? ????? ??????",
+      "relationshipVerification": "ব্যবহারকারীর স্পষ্ট নির্দেশ এবং WordPress backup/migration বিষয়ের মিল অনুযায়ী ক্লাস ২২-এর সঙ্গে যুক্ত।",
       "sourceCollectedAt": "2026-10-09",
       "verifiedAt": "2026-10-09",
       "links": [],
@@ -6729,7 +6731,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-13-class-topic-google-search-notes",
+  "siteVersion": "2026-10-13-audit-fixes",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -6773,7 +6775,7 @@
           "entry-115",
           "class-2026-10-11"
         ],
-        "summary": "টুল দিয়ে SQLi, Manual SQLi, WAF এবং lab অনুশীলন শনাক্ত। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও হোস্টিং বাকি।",
+        "summary": "টুল দিয়ে SQLi, Manual SQLi, WAF এবং lab অনুশীলন শনাক্ত। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও YouTube-এ হোস্ট করা আছে এবং সাইটে প্লেব্যাক যাচাই হয়েছে।",
         "remaining": "প্রতিটি SQLi পদ্ধতির পূর্ণ কভারেজ আলাদাভাবে যাচাই প্রয়োজন।",
         "officialTopics": [
           "Login Page injection",
@@ -6975,7 +6977,7 @@
           "entry-115",
           "class-2026-10-11"
         ],
-        "summary": "XSS ক্লাস এবং PortSwigger lab অনুশীলন পাওয়া গেছে। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও হোস্টিং বাকি।",
+        "summary": "XSS ক্লাস এবং PortSwigger lab অনুশীলন পাওয়া গেছে। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও YouTube-এ হোস্ট করা আছে এবং সাইটে প্লেব্যাক যাচাই হয়েছে।",
         "remaining": null,
         "officialTopics": [
           "Cross Site Scripting (XSS)"
@@ -7169,9 +7171,9 @@
     ]
   },
   "storage": {
-    "preservedFileCount": 22,
-    "verifiedAt": "2026-10-09",
-    "note": "প্রয়োজনীয় ডকুমেন্ট ও টুল ফাইলের ডাউনলোড সংশ্লিষ্ট রিসোর্সে আছে। প্রস্তুত ভিডিও YouTube/Dailymotion থেকে চলে।"
+    "preservedFileCount": 50,
+    "verifiedAt": "2026-10-13",
+    "note": "সাইটের নিজস্ব নোট/ডকুমেন্ট/টুল URL-এর তালিকা গণনা করা হয়েছে; ভিডিও YouTube/Dailymotion থেকে চলে। নিজের কপি যুক্ত নয় এমন বাহ্যিক মূল ফাইলের পূর্ণ সংরক্ষণ যাচাই বাকি।"
   },
   "toolsAudit": {
     "verifiedAt": "2026-10-09",

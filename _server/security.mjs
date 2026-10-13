@@ -32,7 +32,10 @@ export function cookies(request) {
   return Object.fromEntries((request.headers.get('cookie') || '').split(';').filter(x=>x.includes('=')).map(x=>{ const i=x.indexOf('='); return [x.slice(0,i).trim(),x.slice(i+1).trim()]; }));
 }
 export function safeRoute(value) {
-  if (typeof value !== 'string' || value.length > 100) return '#overview';
+  if (typeof value !== 'string' || value.length > 2048) return '#overview';
+  // Persist only the route; tab/filter queries can contain private search text.
+  value=value.split('?')[0];
+  if(value.length>100)return '#overview';
   if (/^#(?:overview|classes|resources|tools|roadmap|preservation|schedule|notices|about|class\/entry-\d{1,4}|resource\/(?:entry-\d{1,4}|(?:notes|guide|tool|msg)-[a-z0-9]+(?:-[a-z0-9]+){0,8}))$/.test(value)) return value;
   const datedClass = /^#class\/class-(20\d{2}-\d{2}-\d{2})$/.exec(value);
   if (datedClass) {
