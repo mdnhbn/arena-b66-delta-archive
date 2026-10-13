@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -100,7 +100,8 @@
       "duration": "2:07:13",
       "uploadNote": "Unlisted recording plays successfully.",
       "relatedResourceIds": [
-        "entry-22"
+        "entry-22",
+        "notes-class01-google-dorks"
       ],
       "playbackVerified": true,
       "localCopyStatus": "Removed from task folder; sent to Recycle Bin after verified 720p playback.",
@@ -112,7 +113,8 @@
         "observedDate": null,
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "searchStudyGuideId": "notes-class01-google-dorks"
     },
     {
       "id": "entry-13",
@@ -255,7 +257,11 @@
         "observedDate": null,
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class02-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class02-google-dorks"
     },
     {
       "id": "entry-11",
@@ -335,7 +341,11 @@
         "observedDate": null,
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class03-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class03-google-dorks"
     },
     {
       "id": "entry-9",
@@ -535,7 +545,11 @@
         "observedDate": null,
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class04-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class04-google-dorks"
     },
     {
       "id": "entry-4",
@@ -661,7 +675,11 @@
         "observedDate": "2026-08-02",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class05-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class05-google-dorks"
     },
     {
       "id": "entry-73",
@@ -715,7 +733,8 @@
       "playbackVerification": "YouTube Unlisted and in-site player verified; advancing media time and decoded video observed.",
       "localCopyStatus": "recycle-bin",
       "relatedResourceIds": [
-        "msg-hw5-xss"
+        "msg-hw5-xss",
+        "notes-class06-google-dorks"
       ],
       "classDateVerified": true,
       "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
@@ -724,7 +743,8 @@
         "observedDate": "2026-08-09",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "searchStudyGuideId": "notes-class06-google-dorks"
     },
     {
       "id": "entry-79",
@@ -818,7 +838,11 @@
         "observedDate": "2026-08-14",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class07-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class07-google-dorks"
     },
     {
       "id": "entry-87",
@@ -875,7 +899,11 @@
         "observedDate": "2026-08-16",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class08-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class08-google-dorks"
     },
     {
       "id": "entry-99",
@@ -914,7 +942,8 @@
         "verifiedAt": "2026-10-07"
       },
       "relatedResourceIds": [
-        "msg-deface-example"
+        "msg-deface-example",
+        "notes-class09-google-dorks"
       ],
       "classDateVerified": true,
       "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
@@ -923,7 +952,8 @@
         "observedDate": "2026-08-21",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "searchStudyGuideId": "notes-class09-google-dorks"
     },
     {
       "id": "entry-105",
@@ -989,7 +1019,11 @@
         "observedDate": "2026-08-23",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class10-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class10-google-dorks"
     },
     {
       "id": "entry-115",
@@ -1035,7 +1069,11 @@
         "observedDate": "2026-08-28",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class11-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class11-google-dorks"
     },
     {
       "id": "entry-112",
@@ -1080,7 +1118,11 @@
         "observedDate": "2026-08-30",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class12-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class12-google-dorks"
     },
     {
       "id": "entry-117",
@@ -1125,7 +1167,11 @@
         "observedDate": "2026-09-04",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class13-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class13-google-dorks"
     },
     {
       "id": "entry-122",
@@ -1165,7 +1211,11 @@
         "observedDate": "2026-09-06",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class14-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class14-google-dorks"
     },
     {
       "id": "entry-121",
@@ -1254,7 +1304,11 @@
         "observedDate": "2026-09-11",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class15-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class15-google-dorks"
     },
     {
       "id": "entry-126",
@@ -1300,7 +1354,11 @@
         "observedDate": "2026-09-13",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class16-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class16-google-dorks"
     },
     {
       "id": "entry-2",
@@ -1363,7 +1421,11 @@
         "observedDate": "2026-09-18",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class17-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class17-google-dorks"
     },
     {
       "id": "entry-130",
@@ -1426,7 +1488,11 @@
         "observedDate": "2026-09-20",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class18-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class18-google-dorks"
     },
     {
       "id": "entry-142",
@@ -1488,7 +1554,11 @@
         "observedDate": "2026-09-25",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class19-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class19-google-dorks"
     },
     {
       "id": "entry-145",
@@ -1550,7 +1620,11 @@
         "observedDate": "2026-09-27",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class20-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class20-google-dorks"
     },
     {
       "id": "entry-147",
@@ -1602,7 +1676,11 @@
         "observedDate": "2026-10-02",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "relatedResourceIds": [
+        "notes-class21-google-dorks"
+      ],
+      "searchStudyGuideId": "notes-class21-google-dorks"
     },
     {
       "id": "entry-1",
@@ -1699,9 +1777,7 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1604086317960624",
       "text": "ডিরেক্ট ক্লাস রিসোর্স লিংক\nOrientation Class: B66 Delta",
-      "links": [
-        "https://docs.google.com/document/d/12U7ODuPdJCVEfEuIVt27d57fDxhtskkkT6lBZbohD2M/edit"
-      ],
+      "links": [],
       "topic": "Orientation",
       "category": "documents",
       "youtubeId": null,
@@ -1713,11 +1789,11 @@
       "relatedRecordingId": "entry-20",
       "linkVerification": "Opened course Orientation Class: B66 Delta document",
       "contentVerified": true,
-      "noteText": "Sec 1:\n—-------------------\n1. https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains\n2. https://en.wikipedia.org/wiki/Country_code_top-level_domain\n—-------------------\n\n\n\n\n\n\n2.1 —-------------------------------------------------------------------------------------------\n\n\nFront end: https://www.bamesschool.com.ng/\n\n\nBack end:  https://www.bamesschool.com.ng/secondary/admin/login.php\n\n\nusername: password\n1'or'1'='1\n1'or'1'='1\n—-------------------------------------------------------------------------------------------\n\n\n\n\n2.2 —-------------------------------------------------------------------------------------------\n\n\nhttps://brahmaputradegreecollege.edu.in/dpt_login/index.php\n\n\n\n\n\n\nusername: password\n1'or'1'='1\n1'or'1'='1\n—-------------------------------------------------------------------------------------------\n\n\n\n\n2.3 —-------------------------------------------------------------------------------------------\n\n\nhttps://www.online.pharmaasia.com.pk/admin/login.php\n\n\n\n\n\n\nusername: password\n1'or'1'='1\n1'or'1'='1\n—-------------------------------------------------------------------------------------------\nSec 3:\n—-------------------------------------------------------------------------------------------\nDork = Advance search technique\n1337 / leet  - https://1337.me\n—-------------------------------------------------------------------------------------------\n\n\n\n\nSec 4: \n—-------------------------------------------------------------------------------------------\nDork:\nei duita te beshi kaj hobe.\n\n\ninurl: admin/login.php site:.com\ninurl: admin/login.php site:.in\ninurl: admin/login.php\ninurl: admin/index.php\ninurl: admin\ninurl: login.php\ninurl: login.php site:.in\n1'or'1'='1\n\n\n—-------------------------------------------------------------------------------------------\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrientation Class: B66 Delta\nDate: 19/07/2026\n\n\nAttendance form: https://forms.gle/49vegvDWTkNjdKB46\n\n\n\n\n\n\nসবাই এই ফর্মে গিয়ে উপস্থিতি দিয়ে দিন।\n১। আপাতত সাউন্ড অফ আছে, লাইভ ক্লাস শুরু হচ্ছে ৯টা ৪৫ মিনিট থেকে।\n২। পোর্টালে লগিন করার প্রয়োজন নেই। আমরা পর্যায়ক্রমে পোর্টালে সংযুক্ত হবো।\n৩। গুগল ফর্ম থেকে উপস্থিতি দিয়ে দিন। সেখানে আপনার তথ্যগুলো দিয়ে সাবমিট করলে স্বয়ংক্রিয় ভাবেই attendance হয়ে যাবে এবং আপনাকে কনফার্মেশন মেসেজ দেখাবে।\n৪। উপস্থিতি দেওয়া হলে ৯ টা ৪৫ মিনিট মানে ক্লাস শুরু হওয়া পর্যন্ত অপেক্ষা করুন। ধন্যবাদ।",
-      "noteSource": "https://docs.google.com/document/d/12U7ODuPdJCVEfEuIVt27d57fDxhtskkkT6lBZbohD2M/edit",
+      "noteText": "Orientation Class: B66 Delta — নিরাপদ সম্পাদিত প্রকাশিত সংস্করণ\n\nএই মূল নোটে domain/TLD, front end/back end, Google Dork এবং 1337 লেখার ধারণা ছিল। তৃতীয় পক্ষের বাস্তব login-target তালিকা, login-bypass input এবং attendance form এই প্রকাশিত সংস্করণে রাখা হয়নি। শিক্ষক-প্রদত্ত মূল নোটের একটি কপি ব্যক্তিগত আর্কাইভে সংরক্ষিত আছে।\n\nGoogle Dork = Advanced Search technique। URL-এর শব্দ দিয়ে খোঁজা এবং নির্দিষ্ট domain-এ ফল সীমিত করা এই অংশের বিষয়। নিজের/লিখিত অনুমতিপ্রাপ্ত domain ছাড়া উদাহরণ ব্যবহার করবেন না। Google ফল কোনো vulnerability বা access permission-এর প্রমাণ নয়।\n\nক্লাস ১-এর নতুন পাঠনোটে উপলব্ধ পূর্ণ ক্যাপশনের সারাংশ, যাচাই করা সময়চিহ্ন এবং নিজের lab-এর জন্য scope-এ সীমিত উদাহরণ রয়েছে।",
       "noteUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-22.txt",
       "noteVerified": true,
-      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-22.txt"
+      "documentUrl": "https://arena-b66-delta-archive.vercel.app/notes/entry-22.txt",
+      "publicationEdition": "lab-scoped-redacted"
     },
     {
       "id": "entry-23",
@@ -3841,7 +3917,8 @@
       "relatedResourceIds": [
         "msg-wp-migration",
         "msg-class22-duplicator-pro",
-        "msg-class22-unlimited-extension"
+        "msg-class22-unlimited-extension",
+        "notes-class22-google-dorks"
       ],
       "classDateVerified": true,
       "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
@@ -3850,7 +3927,8 @@
         "observedDate": "2026-10-04",
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
-      }
+      },
+      "searchStudyGuideId": "notes-class22-google-dorks"
     },
     {
       "id": "msg-hw5-xss",
@@ -4470,7 +4548,8 @@
       "relatedResourceIds": [
         "guide-recon-class23",
         "tool-directory-discovery",
-        "tool-go-recon"
+        "tool-go-recon",
+        "notes-class23-google-dorks"
       ],
       "serialVerification": "Archive sequence after class 22; instructor class number not independently verified",
       "recordingArchiveStatus": "hosted-playback-verified",
@@ -4511,7 +4590,8 @@
           "durationSeconds": 5109.881
         }
       ],
-      "youtubeArchiveStatus": "hosted-playback-verified"
+      "youtubeArchiveStatus": "hosted-playback-verified",
+      "searchStudyGuideId": "notes-class23-google-dorks"
     },
     {
       "id": "guide-recon-class23",
@@ -4767,7 +4847,8 @@
       "relatedResourceIds": [
         "notes-class24-sqlmap-dalfox",
         "tool-sqlmap-class24",
-        "tool-dalfox-class24"
+        "tool-dalfox-class24",
+        "notes-class24-google-dorks"
       ],
       "youtubeVideos": [
         {
@@ -4779,7 +4860,8 @@
           "durationSeconds": 6189.281
         }
       ],
-      "hostedRecordingVerifiedAt": "2026-10-12T14:05:12.608587+00:00"
+      "hostedRecordingVerifiedAt": "2026-10-12T14:05:12.608587+00:00",
+      "searchStudyGuideId": "notes-class24-google-dorks"
     },
     {
       "id": "notes-class24-sqlmap-dalfox",
@@ -4887,6 +4969,1750 @@
       "videoStatus": "not-applicable",
       "dateVerified": true,
       "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "notes-class01-google-dorks",
+      "title": "ক্লাস 01 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-07-19",
+      "classDate": "2026-07-19",
+      "relatedRecordingId": "entry-20",
+      "topic": "Orientation",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-transcript-study-note",
+      "noteText": "পূর্ণ ট্রান্সক্রিপ্টভিত্তিক সামারি পর্যালোচিত\n\nপর্যালোচনার ভিত্তি\nপূর্ণ উপলব্ধ বাংলা auto-caption পর্যালোচনা: ২১:৩৯ থেকে ২:০৭:০৫; ভিডিও ২:০৭:১৩। শুরুর অপেক্ষার অংশে কথোপকথনের ক্যাপশন নেই। গুরুত্বপূর্ণ বিষয় ট্রান্সক্রিপ্টের সঙ্গে মিলিয়ে দেখা হয়েছে; প্রতিটি দৃশ্যের আলাদা ভিজ্যুয়াল পরীক্ষা দাবি করা হচ্ছে না।\n\nটপিকের সঙ্গে সম্পর্ক\nDomain, TLD, front end/back end ও Google Advanced Search-এর মৌলিক ধারণা।\n\nরেকর্ডিংয়ের বিস্তারিত সারাংশ\nঅরিয়েন্টেশনে কোর্সের কাঠামো, ক্লাসে অংশগ্রহণ, নির্দেশনা অনুসরণ ও অনুশীলনের গুরুত্ব নিয়ে আলোচনা হয়েছে। ট্রান্সক্রিপ্টে সাইবার সিকিউরিটি, ইথিক্যাল হ্যাকিং, Linux এবং freelancing-কে শেখার ধারাবাহিকতার অংশ হিসেবে উল্লেখ করা হয়েছে। এরপর domain name-এর গঠন, সাধারণ TLD এবং country-code TLD বোঝানো হয়। একটি domain-এর শেষ অংশ দেখে তার ধরন সম্পর্কে ধারণা পাওয়া গেলেও সেটি সাইটের নিরাপত্তা বা মালিকের পরিচয়ের প্রমাণ নয়।\n\nFront end ও back end-এর পার্থক্য, ব্যবহারকারীর সামনে দৃশ্যমান পেজ এবং প্রশাসনিক কাজের ধারণা আলোচিত হয়েছে। প্রশাসনিক পেজ আলাদা রাখার ধারণা শেখানো হলেও শুধু লিংক আড়াল করলেই access control তৈরি হয় না: server-side authentication ও authorization দরকার। এটি সারাংশের সঙ্গে যুক্ত ব্যাখ্যা।\n\nশেষের অংশে Google Dork-কে advanced search technique হিসেবে পরিচয় করানো হয়েছে এবং URL-এর শব্দ ও domain দিয়ে ফল সীমাবদ্ধ করার ধারণা আছে। লিট বা 1337 লেখার পরিচয়ও দেওয়া হয়েছে। নিচের উদাহরণগুলো সেই ধারণাকে নিজের ল্যাবের scope-এ সাজানো সংস্করণ; এগুলো তৃতীয় পক্ষের সাইটের লক্ষ্য তালিকা নয়।\n\nনিরাপত্তা শেখার সময় কেবল search result পাওয়া, কোনো URL খুঁজে পাওয়া এবং একটি ত্রুটি প্রমাণ করা—এই তিনটি আলাদা পর্যায়। অনুশীলনের আগে scope লিখে নিন, পর্যবেক্ষণ ও ব্যাখ্যা আলাদা রাখুন এবং cookie, password বা ব্যক্তিগত তথ্য নোটে প্রকাশ করবেন না। এ অংশটি আর্কাইভের যোগ করা অনুশীলন নির্দেশনা।\n\nক্যাপশনের যাচাই করা সময়চিহ্ন\n৩৭:২৫ — ব্যবহারিক অনুশীলনের ওপর জোর\n১:০৩:১৭ — top-level domain আলোচনা\n১:১১:১৫ — front end/back end প্রসঙ্গ শুরু\n১:৩১:০১ — Dork পরিচিতি\n\nরেকর্ডিংয়ে Dork-এর প্রমাণ ও যোগ করা উদাহরণ\nশিক্ষকের নোট ও ক্যাপশনে site: এবং URL-ভিত্তিক অনুসন্ধানের ধারণা আছে। অতিরিক্ত exact phrase ও filetype উদাহরণ আর্কাইভের যোগ করা অনুশীলন।\n\nশেখার সময় খেয়াল রাখুন\n• Domain ও URL-এর অংশ আলাদা করুন।\n• Search result পাওয়া আর access permission পাওয়া আলাদা বিষয়।\n• নিজের lab-এর প্রকাশ্য pages ও নথির ছোট inventory তৈরি করুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Domain, TLD, front end/back end ও Google Advanced Search-এর মৌলিক ধারণা। পূর্ণ ট্রান্সক্রিপ্টভিত্তিক সামারি পর্যালোচিত",
+      "noteUrl": "/notes/class01-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org",
+          "purpose": "নিজের অনুমোদিত domain-এর indexed pages",
+          "kind": "Domain scope",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:login",
+          "purpose": "ল্যাবের login-সম্পর্কিত indexed URL",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"course policy\"",
+          "purpose": "নির্দিষ্ট বাক্যযুক্ত lab নথি",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf",
+          "purpose": "ল্যাবের প্রকাশ্য PDF documentation",
+          "kind": "File type",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": true,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "full-available-auto-captions",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class02-google-dorks",
+      "title": "ক্লাস 02 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-07-24",
+      "classDate": "2026-07-24",
+      "relatedRecordingId": "entry-40",
+      "topic": "SQL Injection",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-transcript-study-note",
+      "noteText": "পূর্ণ ট্রান্সক্রিপ্টভিত্তিক সামারি পর্যালোচিত\n\nপর্যালোচনার ভিত্তি\nমূল রেকর্ডিংয়ের সম্পূর্ণ অডিও ২:০০:৩৫ থেকে বাংলা auto-transcript তৈরি ও সংরক্ষণ করা হয়েছে। শুরু ও শেষের কথোপকথন উপস্থিত। অডিও ট্রান্সক্রিপ্টে নির্ভরযোগ্য সময়চিহ্ন নেই; টাইমস্ট্যাম্প বানিয়ে যোগ করা হয়নি।\n\nটপিকের সঙ্গে সম্পর্ক\nCyber safety এবং SQLi tool-এর ফলকে সঠিকভাবে বোঝা।\n\nরেকর্ডিংয়ের বিস্তারিত সারাংশ\nএই ক্লাসের রেকর্ডিংয়ে প্রথমে cyber safety, এরপর cyber security-এর গুরুত্ব এবং শেষে tools দিয়ে SQL injection-এর পরিচয় দেওয়া হয়েছে। ক্লাউডে রাখা ছবি, password ও account activity-এর গোপনীয়তা, ভেতরের কর্মী বা insider-এর ঝুঁকি এবং hardware keylogger-এর মতো ডিভাইস নিয়ে আলোচনা রয়েছে। হার্ডওয়্যারের উল্লেখ এখানে ঝুঁকি বোঝানোর প্রসঙ্গে রাখা হয়েছে; ব্যক্তিগত তথ্য সংগ্রহের কৌশল দেওয়া হচ্ছে না।\n\nওয়েব অ্যাপের database কেন গুরুত্বপূর্ণ এবং অনিরাপদ input handling-এর ফলে তথ্য প্রকাশের ঝুঁকি কীভাবে তৈরি হতে পারে, তা আলোচিত হয়েছে। URL-এ id-এর মতো parameter চিনে নেওয়া ও tool-এর ফল দেখার ধারণা আছে। Havij-এর নাম এবং database table/column নিয়ে demonstration-এর উল্লেখ পাওয়া গেছে। কোনো tool report-কে একা চূড়ান্ত প্রমাণ হিসেবে ধরে নেওয়া যাবে না; নিজের test data ও অনুমোদিত পরিবেশে ফল যাচাই করতে হয়। এটি আর্কাইভের যোগ করা ব্যাখ্যা।\n\nঅডিওতে inurl: ব্যবহার করে id-ধরনের URL খোঁজার কথা আছে। নিচের lab-scoped উদাহরণগুলো সেই search ধারণার রূপান্তর। id= আছে মানেই SQL injection আছে—এমন সিদ্ধান্ত ভুল। একই parameter নিরাপদ prepared statement দিয়েও ব্যবহার করা যায়। ফলের URL, পর্যবেক্ষণ ও অনুমতির সীমা আলাদা লিখে রাখুন।\n\nট্রান্সক্রিপ্টে ক্লাউডে মুছে দেওয়া তথ্য নিয়ে সাধারণীকরণ রয়েছে। সংশোধিত ব্যাখ্যা: local deletion, cloud sync, trash এবং backup retention আলাদা ব্যবস্থা; সব provider সব data আজীবন রাখে—এমন দাবি এখানে করা হচ্ছে না। কোনো নির্দিষ্ট account-এর অবস্থা জানতে সেই service-এর বর্তমান settings ও policy দেখতে হবে।\n\nযোগ করা অনুশীলন হিসেবে নিজের demo application's input map তৈরি করুন, synthetic data ব্যবহার করুন এবং একই input নিরাপদভাবে handle করার পরে ফলের পার্থক্য নথিভুক্ত করুন। নিচের reference query-গুলো প্রতিরোধ ও lab শেখার জন্য।\n\nরেকর্ডিংয়ে Dork-এর প্রমাণ ও যোগ করা উদাহরণ\nঅডিওতে inurl: এবং id= ধরনের URL অনুসন্ধানের উল্লেখ আছে। নিচের site: সীমা ও অতিরিক্ত document/reference query আর্কাইভের যোগ করা অংশ।\n\nশেখার সময় খেয়াল রাখুন\n• Input/parameter inventory নিজের lab-এ তৈরি করুন।\n• id= বা tool warning দুর্বলতার প্রমাণ নয়।\n• Synthetic data ব্যবহার করে পর্যবেক্ষণ ও সংশোধনের ফল আলাদা রাখুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Cyber safety এবং SQLi tool-এর ফলকে সঠিকভাবে বোঝা। পূর্ণ ট্রান্সক্রিপ্টভিত্তিক সামারি পর্যালোচিত",
+      "noteUrl": "/notes/class02-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/web-security/sql-injection"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:\"id=\"",
+          "purpose": "নিজের lab-এর parameter-যুক্ত indexed URL",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:product",
+          "purpose": "ল্যাবের product/details page inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"input validation\"",
+          "purpose": "Input handling-এর নিজের প্রকাশ্য নথি",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:portswigger.net/web-security/sql-injection \"Lab\"",
+          "purpose": "অফিসিয়াল training lab/reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": true,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "full-audio-auto-transcript",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class03-google-dorks",
+      "title": "ক্লাস 03 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-07-26",
+      "classDate": "2026-07-26",
+      "relatedRecordingId": "entry-46",
+      "topic": "OSINT",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-transcript-study-note",
+      "noteText": "পূর্ণ ট্রান্সক্রিপ্টভিত্তিক সামারি পর্যালোচিত\n\nপর্যালোচনার ভিত্তি\nসম্পূর্ণ ২:১১:১৩ রেকর্ডিং থেকে বাংলা auto-transcript তৈরি ও সংরক্ষণ করা হয়েছে। শুরু, OSINT আলোচনা এবং শেষের homework/বিদায় অংশ উপস্থিত। সময়চিহ্ন নেই; সামারি শ্রবণভিত্তিক।\n\nটপিকের সঙ্গে সম্পর্ক\nOSINT source verification ও নিজের organization's প্রকাশ্য content inventory।\n\nরেকর্ডিংয়ের বিস্তারিত সারাংশ\nOSINT ক্লাসে প্রকাশ্য তথ্য থেকে প্রয়োজনীয় পর্যবেক্ষণ সংগ্রহ, তথ্যের বিশ্বাসযোগ্যতা যাচাই এবং বিচ্ছিন্ন তথ্যকে একটি ব্যাখ্যায় সাজানোর ধারণা আলোচিত হয়েছে। প্রথম অংশে মোবাইল নেটওয়ার্ক, GSM, cellular tower ও last radio location নিয়ে আলোচনা আছে। এরপর IP address, shared/dedicated IP এবং network log-এর ভূমিকা ব্যাখ্যা করা হয়েছে। এই ধারণাগুলো location data-এর সীমাবদ্ধতা বোঝার জন্য; কারও ব্যক্তিগত অবস্থান অনুসরণ করার নির্দেশনা হিসেবে দেওয়া হচ্ছে না।\n\nDomain registration তথ্য, Whois lookup এবং পুরোনো web page দেখার জন্য web archive-এর ব্যবহার উল্লেখ করা হয়েছে। পুরোনো ও বর্তমান পেজের তথ্য এক নাও হতে পারে; তাই source URL, সংগ্রহের তারিখ এবং তথ্যটি historical না current—তা লিখে রাখা জরুরি। প্রকাশ্য তথ্য পেলেও সেটিকে ব্যক্তির পরিচয় বা বর্তমান অবস্থানের নিশ্চিত প্রমাণ হিসেবে ধরা যাবে না। এ ব্যাখ্যা আর্কাইভের যোগ করা অংশ।\n\nট্রান্সক্রিপ্টে IP logging এবং social engineering-এর ঝুঁকির আলোচনা আছে। নোটে গোপনে visitor শনাক্ত করা, ব্যক্তিগত যোগাযোগ তথ্য উদ্ধার বা কারও পরিবার/বন্ধুদের লক্ষ্য করার workflow অন্তর্ভুক্ত করা হয়নি। অনুশীলনের জন্য নিজের organization বা অনুমোদিত lab-এর প্রকাশ্য content inventory ব্যবহার করুন।\n\nGoogle search প্রসঙ্গে site: দিয়ে ফল সীমিত করার উল্লেখ পাওয়া গেছে। আলাদা জটিল Dork তালিকা এই অডিও থেকে নিশ্চিত হয়নি। নিচের exact phrase, filetype ও URL উদাহরণগুলো সহায়ক অনুশীলন। এগুলো দিয়ে নিজের সাইটের প্রকাশ্য documentation, about page ও security policy খুঁজে তথ্যের উৎস মিলিয়ে দেখা যাবে।\n\nযোগ করা অনুশীলন: নিজের test organization's বর্তমান ও archived page তুলনা করুন, কোন তথ্য সরাসরি দেখা গেছে আর কোনটি অনুমান তা আলাদা করুন, এবং একটি source log লিখুন। তথ্য সংগ্রহের উদ্দেশ্য, scope ও privacy-এর সীমা শুরুতেই নির্ধারণ করুন।\n\nরেকর্ডিংয়ে Dork-এর প্রমাণ ও যোগ করা উদাহরণ\nঅডিওতে site: অপারেটরের উল্লেখ আছে। অন্য query-গুলো আর্কাইভের যোগ করা, অনুমোদিত scope-এ সীমিত অনুশীলন।\n\nশেখার সময় খেয়াল রাখুন\n• Current এবং historical তথ্য আলাদা করুন।\n• তথ্য ও অনুমান আলাদা কলামে লিখুন।\n• ব্যক্তিগত পরিচয়, যোগাযোগ বা অবস্থান সংগ্রহের বদলে নিজের lab content ব্যবহার করুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "OSINT source verification ও নিজের organization's প্রকাশ্য content inventory। পূর্ণ ট্রান্সক্রিপ্টভিত্তিক সামারি পর্যালোচিত",
+      "noteUrl": "/notes/class03-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org \"about\"",
+          "purpose": "নিজের organization-এর প্রকাশ্য পরিচিতি",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf",
+          "purpose": "নিজের lab-এর প্রকাশ্য নথি",
+          "kind": "File type",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:docs",
+          "purpose": "Documentation URL inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"security policy\"",
+          "purpose": "নিজের domain-এর প্রকাশিত policy",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": true,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "full-audio-auto-transcript",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class04-google-dorks",
+      "title": "ক্লাস 04 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-07-31",
+      "classDate": "2026-07-31",
+      "relatedRecordingId": "entry-58",
+      "topic": "Session & Redirect",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nSession, login flow এবং redirect আচরণকে search URL-এর শব্দ থেকে আলাদা করে বোঝা।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের login flow-এর expected redirect লিখে রাখুন।\n• Google ফল দিয়ে HTTP status বা no-redirect নিশ্চিত করা যায় না।\n• শুধু নিজের/অনুমোদিত lab-এর URL ও server-side access checks পর্যালোচনা করুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Session, login flow এবং redirect আচরণকে search URL-এর শব্দ থেকে আলাদা করে বোঝা। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class04-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:redirect",
+          "purpose": "নিজের domain-এর redirect শব্দযুক্ত indexed URL",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:return",
+          "purpose": "ল্যাবের return/callback-সম্পর্কিত URL",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"login\" -inurl:redirect",
+          "purpose": "Redirect শব্দ বাদ দিয়ে lab login নথি; এটি no-redirect-এর প্রমাণ নয়",
+          "kind": "Phrase + exclusion",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:cheatsheetseries.owasp.org \"Unvalidated Redirects and Forwards\"",
+          "purpose": "অফিসিয়াল redirect validation reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class05-google-dorks",
+      "title": "ক্লাস 05 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-02",
+      "classDate": "2026-08-02",
+      "relatedRecordingId": "entry-64",
+      "topic": "SQL Injection",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nManual SQLi ধারণার জন্য input ও query handling-এর lab documentation খুঁজে নেওয়া।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app-এর input থেকে query পর্যন্ত flow আঁকুন।\n• Search result বা error message থেকে সরাসরি vulnerability ঘোষণা করবেন না।\n• Prepared statements ও least privilege-এর documentation পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Manual SQLi ধারণার জন্য input ও query handling-এর lab documentation খুঁজে নেওয়া। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class05-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:\"id=\"",
+          "purpose": "নিজের app-এর indexed input-যুক্ত page",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:details",
+          "purpose": "নিজের details page inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"prepared statement\"",
+          "purpose": "নিজের প্রকাশ্য development note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:cheatsheetseries.owasp.org \"SQL Injection Prevention\"",
+          "purpose": "অফিসিয়াল prevention reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class06-google-dorks",
+      "title": "ক্লাস 06 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-09",
+      "classDate": "2026-08-09",
+      "relatedRecordingId": "entry-80",
+      "topic": "XSS",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nXSS-এর input/output context বোঝা এবং lab-এর search/form inventory।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app-এ কোন input কোথায় render হয় তা নথিভুক্ত করুন।\n• URL-এ q= বা search থাকা XSS প্রমাণ করে না।\n• Output encoding ও browser context-এর পার্থক্য পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "XSS-এর input/output context বোঝা এবং lab-এর search/form inventory। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class06-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/web-security/cross-site-scripting"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:search",
+          "purpose": "নিজের indexed search pages",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:\"q=\"",
+          "purpose": "নিজের query parameter-যুক্ত URL",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"output encoding\"",
+          "purpose": "নিজের coding guideline",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:portswigger.net/web-security/cross-site-scripting \"Lab\"",
+          "purpose": "অফিসিয়াল XSS training reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class07-google-dorks",
+      "title": "ক্লাস 07 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-14",
+      "classDate": "2026-08-14",
+      "relatedRecordingId": "entry-88",
+      "topic": "WAF",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nWAF/IDS সম্পর্কে documentation এবং protection-এর সীমা বোঝা।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের lab-এর protection ও expected logs লিখুন।\n• WAF আছে/নেই—Google ফল থেকে নিশ্চিত করবেন না।\n• WAF/IDS ও নিরাপদ application code-এর কাজ আলাদা করে দেখুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "WAF/IDS সম্পর্কে documentation এবং protection-এর সীমা বোঝা। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class07-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://owasp.org/www-community/Web_Application_Firewall"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org \"WAF\"",
+          "purpose": "নিজের প্রকাশ্য protection note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"security policy\"",
+          "purpose": "নিজের policy documentation",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"IDS\"",
+          "purpose": "নিজের প্রকাশ্য detection guide",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:owasp.org \"Web Application Firewall\"",
+          "purpose": "অফিসিয়াল background reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class08-google-dorks",
+      "title": "ক্লাস 08 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-16",
+      "classDate": "2026-08-16",
+      "relatedRecordingId": "entry-90",
+      "topic": "Burp Suite",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nBurp Suite শেখার জন্য proxy workflow, request log এবং lab documentation।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের lab request/response আলাদা করে সংরক্ষণ করুন।\n• Cookie ও authorization header নোটে প্রকাশ করবেন না।\n• Burp ব্যবহার করে অনুমোদিত scope-এর বাইরে traffic পাঠাবেন না।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Burp Suite শেখার জন্য proxy workflow, request log এবং lab documentation। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class08-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/burp/documentation"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:api",
+          "purpose": "নিজের indexed API documentation",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"request\" \"response\"",
+          "purpose": "নিজের workflow note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:portswigger.net/burp/documentation \"Proxy\"",
+          "purpose": "অফিসিয়াল Burp Proxy guide",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:portswigger.net/burp/documentation \"Intruder\"",
+          "purpose": "অফিসিয়াল Intruder documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class09-google-dorks",
+      "title": "ক্লাস 09 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-21",
+      "classDate": "2026-08-21",
+      "relatedRecordingId": "entry-99",
+      "topic": "WebShell",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nWebShell/upload প্রসঙ্গে নিজের lab-এর upload surface ও প্রতিরক্ষামূলক নথি।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app-এর অনুমোদিত upload entry points তালিকাভুক্ত করুন।\n• Upload page পাওয়া মানেই executable file গ্রহণ বা shell execution সম্ভব নয়।\n• File storage ও execution permission আলাদা রাখার ধারণা পড়ুন; shell payload এখানে দেওয়া হয়নি।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "WebShell/upload প্রসঙ্গে নিজের lab-এর upload surface ও প্রতিরক্ষামূলক নথি। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class09-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:upload",
+          "purpose": "নিজের indexed upload URL inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org intitle:\"Upload\"",
+          "purpose": "নিজের upload-সম্পর্কিত page title",
+          "kind": "Title",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"file storage\"",
+          "purpose": "নিজের storage design note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:cheatsheetseries.owasp.org \"File Upload Cheat Sheet\"",
+          "purpose": "অফিসিয়াল upload defense reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class10-google-dorks",
+      "title": "ক্লাস 10 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-23",
+      "classDate": "2026-08-23",
+      "relatedRecordingId": "entry-107",
+      "topic": "File Upload",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nFile upload validation, storage এবং access control-এর lab inventory।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• Allowed file types, size এবং storage rule নিজের lab-এর জন্য লিখুন।\n• Indexed form-এর নাম দেখে upload vulnerability ধরে নেবেন না।\n• Server-side validation ও file execution policy আলাদা করে দেখুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "File upload validation, storage এবং access control-এর lab inventory। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class10-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/web-security/file-upload"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:upload",
+          "purpose": "নিজের upload URL inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"allowed file types\"",
+          "purpose": "নিজের file policy documentation",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"upload\"",
+          "purpose": "নিজের প্রকাশ্য upload guide",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:portswigger.net/web-security/file-upload \"Lab\"",
+          "purpose": "অফিসিয়াল training lab reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class11-google-dorks",
+      "title": "ক্লাস 11 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-28",
+      "classDate": "2026-08-28",
+      "relatedRecordingId": "entry-115",
+      "topic": "PortSwigger Labs",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nPortSwigger Academy-এর উদ্দেশ্যপ্রণোদিত training labs ও নিজের lab log।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• Lab-এর learning objective আগে লিখুন।\n• বাস্তব production site ও training lab একসঙ্গে মিশিয়ে ফেলবেন না।\n• ফল, কারণ ও প্রতিরোধ আলাদা করে revision note তৈরি করুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "PortSwigger Academy-এর উদ্দেশ্যপ্রণোদিত training labs ও নিজের lab log। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class11-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/web-security"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:portswigger.net/web-security/sql-injection \"Lab:\"",
+          "purpose": "অফিসিয়াল SQLi lab catalog",
+          "kind": "Official training lab",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:portswigger.net/web-security/cross-site-scripting \"Lab:\"",
+          "purpose": "অফিসিয়াল XSS lab catalog",
+          "kind": "Official training lab",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:portswigger.net/web-security/file-upload \"Lab:\"",
+          "purpose": "অফিসিয়াল file-upload lab catalog",
+          "kind": "Official training lab",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org \"lab report\"",
+          "purpose": "নিজের প্রকাশ্য practice report",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class12-google-dorks",
+      "title": "ক্লাস 12 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-08-30",
+      "classDate": "2026-08-30",
+      "relatedRecordingId": "entry-112",
+      "topic": "Acunetix",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nAcunetix setup, scan scope ও report review-এর reference খুঁজে নেওয়া।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• অনুমোদিত scan scope এবং exclusions লিখুন।\n• Scanner finding ও নিশ্চিত vulnerability আলাদা রাখুন।\n• নিজের synthetic target নিয়ে report ও remediation পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Acunetix setup, scan scope ও report review-এর reference খুঁজে নেওয়া। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class12-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://www.acunetix.com/support/docs/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:acunetix.com/support/docs \"target\"",
+          "purpose": "অফিসিয়াল target configuration reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:acunetix.com/support/docs \"report\"",
+          "purpose": "অফিসিয়াল report documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org \"scan scope\"",
+          "purpose": "নিজের scan scope নথি",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"remediation\"",
+          "purpose": "নিজের প্রকাশ্য remediation guide",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class13-google-dorks",
+      "title": "ক্লাস 13 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-04",
+      "classDate": "2026-09-04",
+      "relatedRecordingId": "entry-117",
+      "topic": "Linux & Scripting",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nBatch scripting-এর command reference ও নিজের lab exercise। এই ক্লাসে সাইট খোঁজার Dork বাধ্যতামূলক নয়।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• Script-এর input, output ও error handling লিখুন।\n• ইন্টারনেট থেকে script নিয়ে যাচাই ছাড়া চালাবেন না।\n• নিজের test folder-এ reversible exercise করুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Batch scripting-এর command reference ও নিজের lab exercise। এই ক্লাসে সাইট খোঁজার Dork বাধ্যতামূলক নয়। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class13-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:learn.microsoft.com/windows-server/administration/windows-commands \"for\"",
+          "purpose": "অফিসিয়াল FOR command reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:learn.microsoft.com/windows-server/administration/windows-commands \"set\"",
+          "purpose": "অফিসিয়াল SET/variable reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"batch scripting\"",
+          "purpose": "নিজের course/lab guide",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"script exercise\"",
+          "purpose": "নিজের প্রকাশ্য exercise page",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class14-google-dorks",
+      "title": "ক্লাস 14 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-06",
+      "classDate": "2026-09-06",
+      "relatedRecordingId": "entry-122",
+      "topic": "Linux & Scripting",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nLinux installation ও virtual lab-এর অফিসিয়াল guide। এটি attack target discovery-এর ক্লাস নয়।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের OS/CPU-এর সঙ্গে installer ও image মিলিয়ে নিন।\n• Installation-এর আগে data backup ও VM snapshot রাখুন।\n• Virtual lab networking ও host resource পরিকল্পনা লিখুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Linux installation ও virtual lab-এর অফিসিয়াল guide। এটি attack target discovery-এর ক্লাস নয়। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class14-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://www.kali.org/docs/installation/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:kali.org/docs/installation \"virtual\"",
+          "purpose": "অফিসিয়াল virtual installation guide",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:kali.org/docs/installation \"installation\"",
+          "purpose": "অফিসিয়াল installation documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org \"virtual lab\"",
+          "purpose": "নিজের lab setup note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"installation\"",
+          "purpose": "নিজের প্রকাশ্য installation checklist",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class15-google-dorks",
+      "title": "ক্লাস 15 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-11",
+      "classDate": "2026-09-11",
+      "relatedRecordingId": "entry-124",
+      "topic": "Linux & Scripting",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nLinux command-line revision ও নিজের lab worksheets।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• Command চালানোর working directory ও permission বুঝুন।\n• Help/manual ও command output-এর পার্থক্য লিখুন।\n• নিজের test files নিয়ে অনুশীলন করুন; system files মুছবেন না।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Linux command-line revision ও নিজের lab worksheets। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class15-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://www.gnu.org/software/bash/manual/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:gnu.org/software/bash/manual \"Shell Commands\"",
+          "purpose": "অফিসিয়াল Bash command reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:gnu.org/software/bash/manual \"Redirections\"",
+          "purpose": "অফিসিয়াল shell redirection documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org \"Linux command line\"",
+          "purpose": "নিজের CLI পাঠনোট",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"Linux\"",
+          "purpose": "নিজের প্রকাশ্য worksheet",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class16-google-dorks",
+      "title": "ক্লাস 16 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-13",
+      "classDate": "2026-09-13",
+      "relatedRecordingId": "entry-126",
+      "topic": "Malware Concepts",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nMalware concepts, antivirus এবং endpoint defense-এর reference। Malware বা evasion tool খোঁজার Dork দেওয়া হচ্ছে না।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• Threat concept ও detection signal আলাদা করে লিখুন।\n• নিজের বিচ্ছিন্ন lab ও harmless test artifacts ব্যবহার করুন।\n• Endpoint protection-এর policy ও telemetry documentation পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Malware concepts, antivirus এবং endpoint defense-এর reference। Malware বা evasion tool খোঁজার Dork দেওয়া হচ্ছে না। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class16-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://learn.microsoft.com/defender-endpoint/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:learn.microsoft.com/defender-endpoint \"antivirus\"",
+          "purpose": "অফিসিয়াল antivirus reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:learn.microsoft.com/defender-endpoint \"malware\"",
+          "purpose": "অফিসিয়াল endpoint protection documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org \"endpoint protection\"",
+          "purpose": "নিজের defense policy",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"incident response\"",
+          "purpose": "নিজের প্রকাশ্য response checklist",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class17-google-dorks",
+      "title": "ক্লাস 17 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-18",
+      "classDate": "2026-09-18",
+      "relatedRecordingId": "entry-132",
+      "topic": "LFI & Server Security",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nLFI ও web-server security প্রসঙ্গে নিজের file-handling design ও training reference।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app কোথায় filename/path input নেয় তা লিখুন।\n• URL-এ page= থাকা LFI প্রমাণ করে না।\n• Path validation ও server permission-এর documentation পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "LFI ও web-server security প্রসঙ্গে নিজের file-handling design ও training reference। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class17-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/web-security/file-path-traversal"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:\"page=\"",
+          "purpose": "নিজের indexed page parameter inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:view",
+          "purpose": "নিজের view-সম্পর্কিত URL inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"path validation\"",
+          "purpose": "নিজের design note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:portswigger.net/web-security/file-path-traversal \"Lab\"",
+          "purpose": "অফিসিয়াল path traversal training reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class18-google-dorks",
+      "title": "ক্লাস 18 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-20",
+      "classDate": "2026-09-20",
+      "relatedRecordingId": "entry-134",
+      "topic": "Linux & Scripting",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nJava, Go ও Burp setup-এর version-উপযোগী official reference।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের OS, architecture ও tool version লিখুন।\n• পুরোনো ক্লাসের command ও বর্তমান installer আলাদা করে দেখুন।\n• Installation verification-এর help/version output সংরক্ষণ করুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Java, Go ও Burp setup-এর version-উপযোগী official reference। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class18-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://go.dev/doc/install"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/burp/documentation"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:go.dev/doc/install",
+          "purpose": "অফিসিয়াল Go installation guide",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:portswigger.net/burp/documentation \"install\"",
+          "purpose": "অফিসিয়াল Burp installation documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:kali.org/docs \"Java\"",
+          "purpose": "অফিসিয়াল Kali/Java reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org \"tools setup\"",
+          "purpose": "নিজের setup checklist",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class19-google-dorks",
+      "title": "ক্লাস 19 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-25",
+      "classDate": "2026-09-25",
+      "relatedRecordingId": "entry-142",
+      "topic": "LFI & Server Security",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; Dailymotion কপির সম্পূর্ণ কথোপকথনের ট্রান্সক্রিপ্টও এখনও সংগ্রহ করা হয়নি। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nAdvanced LFI, path traversal ও server-side execution risk-এর lab documentation।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের path input ও server file boundary নথিভুক্ত করুন।\n• Search result দিয়ে RCE বা execution নিশ্চিত করা যায় না।\n• অফিসিয়াল lab ও প্রতিরোধের আলোচনা পড়ুন; execution payload এখানে দেওয়া হয়নি।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Advanced LFI, path traversal ও server-side execution risk-এর lab documentation। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class19-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://portswigger.net/web-security/file-path-traversal"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:download",
+          "purpose": "নিজের download route-এর indexed inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"file path\"",
+          "purpose": "নিজের file-handling design note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"server security\"",
+          "purpose": "নিজের প্রকাশ্য security guide",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:portswigger.net/web-security/file-path-traversal \"Lab\"",
+          "purpose": "অফিসিয়াল training reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class20-google-dorks",
+      "title": "ক্লাস 20 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-09-27",
+      "classDate": "2026-09-27",
+      "relatedRecordingId": "entry-145",
+      "topic": "WordPress",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; Dailymotion কপির সম্পূর্ণ কথোপকথনের ট্রান্সক্রিপ্টও এখনও সংগ্রহ করা হয়নি। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nWordPress, database administration ও Elementor-এর নিজস্ব lab inventory।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের WordPress environment ও database access policy লিখুন।\n• Public content ও administrative access আলাদা রাখুন।\n• Backup, updates ও hardening-এর official guide পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "WordPress, database administration ও Elementor-এর নিজস্ব lab inventory। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class20-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developer.wordpress.org/advanced-administration/security/hardening/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:wp-content",
+          "purpose": "নিজের domain-এর indexed WordPress content",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org \"WordPress\" \"backup\"",
+          "purpose": "নিজের backup note",
+          "kind": "Exact phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:developer.wordpress.org \"Hardening WordPress\"",
+          "purpose": "অফিসিয়াল hardening guide",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:elementor.com/help \"getting started\"",
+          "purpose": "অফিসিয়াল Elementor learning reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class21-google-dorks",
+      "title": "ক্লাস 21 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-10-02",
+      "classDate": "2026-10-02",
+      "relatedRecordingId": "entry-147",
+      "topic": "Recon",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nRecon, VPS ও Shodan-এর অনুমোদিত asset scope এবং documentation।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের domain/asset scope আগে নির্ধারণ করুন।\n• Search engine data-এর তারিখ ও completeness যাচাই করুন।\n• Asset তালিকা ও vulnerability finding আলাদা রাখুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Recon, VPS ও Shodan-এর অনুমোদিত asset scope এবং documentation। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class21-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://docs.shodan.io/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:api",
+          "purpose": "নিজের indexed API documentation",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:docs",
+          "purpose": "নিজের docs inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:docs.shodan.io \"search\"",
+          "purpose": "অফিসিয়াল Shodan search documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"asset inventory\"",
+          "purpose": "নিজের প্রকাশ্য asset guide",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class22-google-dorks",
+      "title": "ক্লাস 22 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-10-04",
+      "classDate": "2026-10-04",
+      "relatedRecordingId": "entry-148",
+      "topic": "WordPress",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; Dailymotion কপির সম্পূর্ণ কথোপকথনের ট্রান্সক্রিপ্টও এখনও সংগ্রহ করা হয়নি। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nWordPress backup/migration, Wordfence ও XAMPP lab-এর reference।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের backup-এর restore test ও access policy লিখুন।\n• Backup archive Google-indexed হওয়া উচিত কি না review করুন; private backup search query দেওয়া হয়নি।\n• Migration ও malware scan-এর ফল আলাদা করে নথিভুক্ত করুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "WordPress backup/migration, Wordfence ও XAMPP lab-এর reference। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class22-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://www.wordfence.com/help/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://duplicator.com/knowledge-base/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://www.apachefriends.org/"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:wordfence.com/help \"scan\"",
+          "purpose": "অফিসিয়াল Wordfence scan documentation",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:duplicator.com/knowledge-base \"restore\"",
+          "purpose": "অফিসিয়াল restore guide",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:apachefriends.org \"XAMPP\"",
+          "purpose": "অফিসিয়াল XAMPP reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"migration checklist\"",
+          "purpose": "নিজের প্রকাশ্য migration checklist",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class23-google-dorks",
+      "title": "ক্লাস 23 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-10-09",
+      "classDate": "2026-10-09",
+      "relatedRecordingId": "class-2026-10-09",
+      "topic": "Recon",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nRecon Part 2-এর web application ও directory documentation inventory।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের domain-এর pages, docs ও API route আলাদা তালিকায় রাখুন।\n• Google index-এ না থাকা মানেই route নেই—এমন সিদ্ধান্ত ভুল।\n• Passive search ও active directory testing আলাদা কাজ; নোটে কোনো active scan চালানো হয়নি।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "Recon Part 2-এর web application ও directory documentation inventory। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class23-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:api",
+          "purpose": "নিজের indexed API URL inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:docs",
+          "purpose": "নিজের documentation route inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org intitle:\"API\"",
+          "purpose": "নিজের API documentation title",
+          "kind": "Title",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org filetype:pdf \"architecture\"",
+          "purpose": "নিজের প্রকাশ্য architecture guide",
+          "kind": "File type + phrase",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
+    },
+    {
+      "id": "notes-class24-google-dorks",
+      "title": "ক্লাস 24 — পাঠনোট ও Google Advanced Search / Dork",
+      "author": "Delta Archive",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "relatedRecordingId": "class-2026-10-11",
+      "topic": "SQL Injection",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "",
+      "sourceType": "archive-topic-study-guide",
+      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nSQLMap/Dalfox প্রসঙ্গে নিজের input inventory, version checks ও official tool reference।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের lab-এর input map ও অনুমতির scope লিখুন।\n• URL pattern বা tool alert দুর্বলতার প্রমাণ নয়।\n• Tool version ও help যাচাই করুন; recording-এর নির্দিষ্ট version এখনও নিশ্চিত নয়।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "SQLMap/Dalfox প্রসঙ্গে নিজের input inventory, version checks ও official tool reference। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "noteUrl": "/notes/class24-search-study-guide.md",
+      "downloadLinks": [
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://github.com/sqlmapproject/sqlmap"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://github.com/hahwul/dalfox"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://support.google.com/websearch/answer/2466433?hl=en"
+        },
+        {
+          "label": "অফিসিয়াল রেফারেন্স ↗",
+          "url": "https://developers.google.com/search/docs/monitor-debug/search-operators"
+        }
+      ],
+      "googleDorks": [
+        {
+          "query": "site:lab.example.org inurl:\"id=\"",
+          "purpose": "নিজের lab-এর id parameter inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:lab.example.org inurl:search",
+          "purpose": "নিজের lab-এর search page inventory",
+          "kind": "URL",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "owned-authorized-lab"
+        },
+        {
+          "query": "site:github.com/sqlmapproject/sqlmap \"Usage\"",
+          "purpose": "অফিসিয়াল SQLMap usage reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:github.com/hahwul/dalfox \"installation\"",
+          "purpose": "অফিসিয়াল Dalfox repository/reference",
+          "kind": "Official reference",
+          "origin": "archive-added-scope-limited-example",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
+      "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "fullRecordingSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "noteVerified": true,
+      "examplesAreInstructorVerbatim": false
     }
   ],
   "schedule": {
@@ -4903,7 +6729,7 @@
     "timeZoneNote": "মূল পোস্টে সময় অঞ্চল লেখা নেই; সময়গুলো পোস্টের ভাষা অনুযায়ী।",
     "source": "https://www.facebook.com/groups/awsb66delta/posts/1598190601883529"
   },
-  "siteVersion": "2026-10-12-class24-hosted-recording-verified",
+  "siteVersion": "2026-10-13-class-topic-google-search-notes",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -5470,5 +7296,15 @@
       }
     ]
   },
-  "version": "2026-10-11-class24-sqlmap-dalfox"
+  "version": "2026-10-11-class24-sqlmap-dalfox",
+  "studyGuideAudit": {
+    "topicGuides": 24,
+    "queryExamples": 96,
+    "fullRecordingSummariesReviewed": 3,
+    "fullRecordingSummariesPending": 21,
+    "fullAnalysisComplete": false,
+    "examplesAreInstructorVerbatim": false,
+    "liveGoogleResultsChecked": false,
+    "checkedAt": "2026-10-13"
+  }
 }
