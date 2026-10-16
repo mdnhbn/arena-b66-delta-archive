@@ -67,4 +67,6 @@ Nuclei-এর অফিসিয়াল release থেকে নিজের OS/C
 • মূল সিলেবাস: /documents/arena-course-syllabus-v7.pdf
 • মূল ক্লাস পোস্ট: https://www.facebook.com/groups/awsb66delta/posts/1682376176798304/
 
-যাচাই ও সম্পাদনা: ১৬ অক্টোবর ২০২৬। ভিডিওর স্বাধীন YouTube/Dailymotion কপি এখনও যোগ হয়নি; মূল Facebook replay পাওয়া যাচ্ছে।
+যাচাই ও সম্পাদনা: ১৬ অক্টোবর ২০২৬। পূর্ণ ১:৫৫:০১ রেকর্ডিং YouTube-এ Unlisted হিসেবে সংরক্ষিত; সাইটের ভেতরে প্লেব্যাক যাচাই করা হয়েছে। মূল ফাইলের রেজোলিউশন 1280×720।
+
+YouTube রেকর্ডিং: https://www.youtube.com/watch?v=9TtwbPEZEi4

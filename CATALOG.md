@@ -32,7 +32,7 @@
 | 22 | [WordPress Backup, Wordfence Malware Scan ও XAMPP Lab](https://arena-b66-delta-archive.vercel.app/#class/entry-148) | 2026-10-04 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 23 | [Recon Part 2 — Web Application ও Directory Discovery](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-09) | 2026-10-09 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 24 | [SQLMap ও Dalfox — SQL Injection ও XSS Tools](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-11) | 2026-10-11 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
-| 25 | [Nuclei ও Nikto — Scanner, Templates ও Report Verification](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-16) | 2026-10-16 | যাচাই/হোস্টিং বাকি | পূর্ণ বিশ্লেষণ বাকি |
+| 25 | [Nuclei ও Nikto — Scanner, Templates ও Report Verification](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-16) | 2026-10-16 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 
 ## সব পোস্ট ও রিসোর্স
 
