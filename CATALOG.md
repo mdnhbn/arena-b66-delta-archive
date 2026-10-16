@@ -1,8 +1,8 @@
 # Delta Archive — পোস্ট ও রিসোর্স ক্যাটালগ
 
-হালনাগাদ: 2026-10-13
+হালনাগাদ: 2026-10-16
 
-24টি মূল ক্লাস এবং 198টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
+25টি মূল ক্লাস এবং 205টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
 
 ## ক্লাসের সিরিয়াল
 
@@ -32,6 +32,7 @@
 | 22 | [WordPress Backup, Wordfence Malware Scan ও XAMPP Lab](https://arena-b66-delta-archive.vercel.app/#class/entry-148) | 2026-10-04 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 23 | [Recon Part 2 — Web Application ও Directory Discovery](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-09) | 2026-10-09 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 24 | [SQLMap ও Dalfox — SQL Injection ও XSS Tools](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-11) | 2026-10-11 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 25 | [Nuclei ও Nikto — Scanner, Templates ও Report Verification](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-16) | 2026-10-16 | যাচাই/হোস্টিং বাকি | পূর্ণ বিশ্লেষণ বাকি |
 
 ## সব পোস্ট ও রিসোর্স
 
@@ -1400,6 +1401,63 @@
 - [অফিসিয়াল রেফারেন্স ↗](https://github.com/hahwul/dalfox)
 - [অফিসিয়াল রেফারেন্স ↗](https://support.google.com/websearch/answer/2466433?hl=en)
 - [অফিসিয়াল রেফারেন্স ↗](https://developers.google.com/search/docs/monitor-debug/search-operators)
+
+### class-2026-10-16 — Nuclei ও Nikto — Scanner, Templates ও Report Verification
+
+বিষয়: Vulnerability Scanning · তারিখ: 2026-10-16 · ধরন: recordings
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-16)
+
+### notes-class25-nuclei-nikto — ক্লাস ২৫ — NotebookLM বিশ্লেষণ ও সম্পাদিত পাঠনোট
+
+বিষয়: Vulnerability Scanning · তারিখ: 2026-10-16 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class25-nuclei-nikto)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class25-nuclei-nikto.md)
+- [মূল সিলেবাস · পৃষ্ঠা ৫ ↗](https://arena-b66-delta-archive.vercel.app/documents/arena-course-syllabus-v7.pdf#page=5)
+- [অফিসিয়াল Nuclei documentation ↗](https://docs.projectdiscovery.io/opensource/nuclei/overview)
+- [অফিসিয়াল Nikto documentation ↗](https://github.com/sullo/nikto/wiki)
+
+### homework-class25-revision — ক্লাস ২৫ — হোমওয়ার্ক ও রিভিশন
+
+বিষয়: Vulnerability Scanning · তারিখ: 2026-10-16 · ধরন: information
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/homework-class25-revision)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class25-homework-revision.md)
+
+### doc-class25-report-worksheet — ক্লাস ২৫ — Report Verification Worksheet
+
+বিষয়: Vulnerability Scanning · তারিখ: 2026-10-16 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/doc-class25-report-worksheet)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class25-report-worksheet.md)
+
+### tool-nuclei-class25 — Nuclei — Official Downloads, Templates ও Setup
+
+বিষয়: Vulnerability Scanning · তারিখ: 2026-10-16 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-nuclei-class25)
+- [Nuclei অফিসিয়াল binary / releases ডাউনলোড ↗](https://github.com/projectdiscovery/nuclei/releases)
+- [Nuclei অফিসিয়াল source ZIP ডাউনলোড ↓](https://github.com/projectdiscovery/nuclei/archive/refs/heads/dev.zip)
+- [Setup ও Go requirements ↗](https://docs.projectdiscovery.io/opensource/nuclei/install)
+- [Nuclei templates ও repository ↗](https://github.com/projectdiscovery/nuclei-templates)
+
+### tool-nikto-class25 — Nikto — Official Source ZIP, Perl ও Setup
+
+বিষয়: Vulnerability Scanning · তারিখ: 2026-10-16 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-nikto-class25)
+- [Nikto অফিসিয়াল source ZIP ডাউনলোড ↓](https://github.com/sullo/nikto/archive/refs/heads/main.zip)
+- [Nikto repository ↗](https://github.com/sullo/nikto)
+- [Perl requirements ও setup ↗](https://github.com/sullo/nikto/wiki/Install-Unix)
+- [Command options ↗](https://github.com/sullo/nikto/wiki/Annotated-Option-List)
+- [Output / export formats ↗](https://github.com/sullo/nikto/wiki/Export-Formats)
+
+### notice-class25-holiday — ছুটির ঘোষণা — ১৮ অক্টোবরের ক্লাস ও ২১–২৬ অক্টোবরের বিরতি
+
+বিষয়: Vulnerability Scanning · তারিখ: 2026-10-16 · ধরন: information
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notice-class25-holiday)
 
 ## অফিসিয়াল সিলেবাস
 
