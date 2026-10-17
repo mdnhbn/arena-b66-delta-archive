@@ -11,7 +11,7 @@
 | 1 | [Orientation — কোর্স পরিচিতি](https://arena-b66-delta-archive.vercel.app/#class/entry-20) | 2026-07-19 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 2 | [Cyber Safety ও SQL Injection by Tools](https://arena-b66-delta-archive.vercel.app/#class/entry-40) | 2026-07-24 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 3 | [OSINT — Open Source Intelligence](https://arena-b66-delta-archive.vercel.app/#class/entry-46) | 2026-07-26 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
-| 4 | [Session hijacking, blocking ও Mid Exam প্রস্তুতি](https://arena-b66-delta-archive.vercel.app/#class/entry-58) | 2026-07-31 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 4 | [Session hijacking, blocking ও Mid Exam প্রস্তুতি](https://arena-b66-delta-archive.vercel.app/#class/entry-58) | 2026-07-31 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 5 | [Manual SQL Injection](https://arena-b66-delta-archive.vercel.app/#class/entry-64) | 2026-08-02 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 6 | [Cross Site Scripting (XSS)](https://arena-b66-delta-archive.vercel.app/#class/entry-80) | 2026-08-09 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 7 | [SQLi WAF ও IDS](https://arena-b66-delta-archive.vercel.app/#class/entry-88) | 2026-08-14 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
