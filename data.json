@@ -681,9 +681,13 @@
         "scope": "selected video segments; full-duration viewing not claimed"
       },
       "relatedResourceIds": [
-        "notes-class05-google-dorks"
+        "notes-class05-google-dorks",
+        "tool-link-gopher-class05"
       ],
-      "searchStudyGuideId": "notes-class05-google-dorks"
+      "searchStudyGuideId": "notes-class05-google-dorks",
+      "fullRecordingSummaryReviewed": true,
+      "availableTranscriptSummaryReviewed": true,
+      "summaryReviewMethod": "full-imported-audio-transcript-and-ai-summary-reviewed"
     },
     {
       "id": "entry-73",
@@ -5281,9 +5285,9 @@
         "documents"
       ],
       "source": "",
-      "sourceType": "archive-topic-study-guide",
-      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nManual SQLi ধারণার জন্য input ও query handling-এর lab documentation খুঁজে নেওয়া।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app-এর input থেকে query পর্যন্ত flow আঁকুন।\n• Search result বা error message থেকে সরাসরি vulnerability ঘোষণা করবেন না।\n• Prepared statements ও least privilege-এর documentation পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
-      "text": "Manual SQLi ধারণার জন্য input ও query handling-এর lab documentation খুঁজে নেওয়া। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "sourceType": "notebooklm-audio-summary-editorially-reviewed",
+      "noteText": "NotebookLM-ভিত্তিক পূর্ণ অডিওর পাঠনোট · মূল ট্রান্সক্রিপ্ট ও AI সারাংশ মিলিয়ে সম্পাদিত\n\nপর্যালোচনার ভিত্তি\nপূর্ণ ২:১৩:০৪ রেকর্ডিংয়ের অডিও (৭৯৮৪.৩৬৭ সেকেন্ড) থেকে NotebookLM ট্রান্সক্রিপ্ট ও সারাংশ প্রস্তুত হয়েছে। প্রদর্শিত ভিডিও সময় rounding-এর কারণে ২:১৩:০৫ হতে পারে। ট্রান্সক্রিপ্টে নির্ভরযোগ্য chapter timestamp নেই; সময় বানিয়ে দেওয়া হয়নি। প্রতিটি ভিডিও ফ্রেম আলাদাভাবে দেখা হয়নি; স্বয়ংক্রিয় বাংলা ট্রান্সক্রিপশনে শব্দের ভুল থাকতে পারে।\n\nক্লাসের মূল আলোচনা\n১. আগের টুলভিত্তিক SQL Injection আলোচনার পরে এখানে manual analysis-এর যুক্তি বোঝানো হয়েছে। একটি টুলের ফল ব্যাখ্যা করতে ওয়েব রিকোয়েস্ট ও ডাটাবেসের সম্পর্ক জানা দরকার।\n২. URL ও URI দিয়ে রিসোর্সের ঠিকানা ও পরিচয় বোঝা, query string-এ parameter name এবং value আলাদা করা আলোচনা হয়েছে। URL-এর নাম বা parameter-এর ধরন একা কোনো দুর্বলতার প্রমাণ নয়।\n৩. HTTP ও HTTPS-এর পার্থক্য এসেছে। HTTPS চলাচলের তথ্য encrypt করে; ইনপুটের ভুল ব্যবহার বা SQL Injection নিজে থেকে ঠেকায় না।\n৪. ইনপুট কীভাবে ডাটাবেস query-এর অর্থ বদলে দিতে পারে, তার ম্যানুয়াল বিশ্লেষণ দেখানো হয়। এখানে ব্যবহারযোগ্য exploit payload, database extraction command বা তৃতীয় পক্ষের টার্গেট তালিকা পুনর্মুদ্রণ করা হয়নি।\n৫. Error-based, union-based, boolean/time-based blind এবং out-of-band SQL Injection-এর ধারণাগত শ্রেণিবিভাগ আলোচনা হয়েছে। Response ও application context মিলিয়ে পর্যবেক্ষণ ব্যাখ্যা করতে হয়।\n৬. Bug ও vulnerability-এর পার্থক্য: সব প্রোগ্রামিং ভুলের নিরাপত্তার প্রভাব এক নয়। ফলাফল, প্রভাব ও পুনরায় যাচাইয়ের প্রমাণ আলাদা করে লিখতে হবে।\n৭. ক্লাসে Link Gopher দিয়ে পেজের লিংক সংগ্রহ, duplicate বাদ দিয়ে URL পর্যবেক্ষণের কথা এসেছে। এটি vulnerability scanner নয়। Cyberfox/Waterfox পরিবেশ ও HackBar-এর উল্লেখ ঐতিহাসিক কোর্স-প্রসঙ্গ হিসেবে রাখা হয়েছে।\n\nশিক্ষকের হোমওয়ার্ক\nপ্রদানকৃত practice link-এ করা কাজের ফলের পরিষ্কার screenshot হোমওয়ার্ক প্যানেলে জমা দেওয়ার কথা আছে। অডিওতে আলাদা নির্দিষ্ট জমার তারিখ বা সময় নিশ্চিত হয়নি। এই আর্কাইভের ব্যবহারকারীরা কেবল নিজেদের বা স্পষ্ট অনুমতিপ্রাপ্ত practice environment ব্যবহার করবেন; screenshot-এ ব্যক্তিগত বা সংবেদনশীল তথ্য রাখবেন না। ডকুমেন্ট ও ছোট গাইডলাইন ভিডিওর উল্লেখ আছে; নোট তৈরি করাকে হারানো মূল instructor file উদ্ধার বলা হচ্ছে না।\n\nটুল ও সেটআপ\nLink Gopher-এর Firefox ও Chrome-এর অফিসিয়াল স্টোর লিংক এই ক্লাসের “টুলস” ও “ডকুমেন্ট” ট্যাবে যুক্ত। নিজের পরীক্ষামূলক পেজে পাওয়া লিংক sort ও deduplicate করে inventory বানানো যায়। Extension install করার সময় browser-এর দেখানো permissions নিজে পর্যালোচনা করুন।\n\nআর্কাইভের যোগ করা প্রতিরক্ষামূলক ব্যাখ্যা ও অনুশীলন\n• নিজস্ব ছোট অ্যাপে test data ব্যবহার করে parameter name, value ও expected response-এর একটি তালিকা তৈরি করুন।\n• নিজের source code-এ parameterized query/prepared statement ব্যবহার হচ্ছে কি না review করুন; validation-কে তার বিকল্প ধরে নেবেন না।\n• নিজের test page থেকে Link Gopher দিয়ে পাওয়া unique link-এর inventory তৈরি করুন এবং হাতে লেখা তালিকার সঙ্গে মিলিয়ে দেখুন।\nএগুলো আর্কাইভের সংযোজন; শিক্ষকের দেওয়া হোমওয়ার্কের হুবহু তালিকা নয়। Google ফল, HTTPS, error message বা AI সারাংশ কোনোটি একা vulnerability নিশ্চিত করে না।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। এগুলো আর্কাইভের নিজস্ব সীমিত উদাহরণ; মূল ভিডিওর হুবহু query-list হিসেবে দাবি করা হচ্ছে না।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app-এর input থেকে query পর্যন্ত flow আঁকুন।\n• Search result বা error message থেকে সরাসরি vulnerability ঘোষণা করবেন না।\n• Prepared statements ও least privilege-এর documentation পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "পূর্ণ অডিওর NotebookLM ট্রান্সক্রিপ্ট ও AI সারাংশ মিলিয়ে সম্পাদিত পাঠনোট।",
       "noteUrl": "/notes/class05-search-study-guide.md",
       "downloadLinks": [
         {
@@ -5331,13 +5335,16 @@
       ],
       "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
       "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
-      "fullRecordingSummaryReviewed": false,
+      "fullRecordingSummaryReviewed": true,
       "visualFullRecordingReviewed": false,
-      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "summaryReviewMethod": "full-imported-audio-transcript-and-ai-summary-reviewed",
       "matchedSiteCount": null,
       "matchedSiteCountVerified": false,
       "noteVerified": true,
-      "examplesAreInstructorVerbatim": false
+      "examplesAreInstructorVerbatim": false,
+      "summaryReviewedAt": "2026-10-17",
+      "summarySourceDurationSeconds": 7984.367188,
+      "verifiedChapterTimestampsAvailable": false
     },
     {
       "id": "notes-class06-google-dorks",
@@ -7060,6 +7067,49 @@
       "nextRegularClass": "2026-10-18",
       "supportSessionConfirmed": false,
       "sourceTimestamp": "01:52:30–01:54:00"
+    },
+    {
+      "id": "tool-link-gopher-class05",
+      "title": "Link Gopher — Official Firefox / Chrome Downloads ও Setup",
+      "author": "Delta Archive",
+      "date": "2026-10-17",
+      "classDate": "2026-08-02",
+      "relatedRecordingId": "entry-64",
+      "topic": "SQL Injection",
+      "category": "tools",
+      "resourceKinds": [
+        "tools",
+        "documents"
+      ],
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "sourceType": "official-tool-reference",
+      "text": "ক্লাসের পূর্ণ অডিওতে Link Gopher-এর উল্লেখ নিশ্চিত। পেজের link সংগ্রহ, sort ও duplicate বাদ দেওয়ার browser extension; এটি vulnerability scanner নয়। নিজের browser অনুযায়ী অফিসিয়াল স্টোর থেকে নিন। Permissions দেখুন, নিজের/অনুমোদিত পেজে extension খুলে link inventory পরীক্ষা করুন। বর্তমান রিলিজ ক্লাসের পুরোনো custom browser-এর সঙ্গে চলবে—এমন নিশ্চয়তা দেওয়া হচ্ছে না। Source ZIP একটি source archive, ready-made installer নয়।",
+      "downloadLinks": [
+        {
+          "label": "Firefox অফিসিয়াল Add-on ডাউনলোড ↗",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/link-gopher/",
+          "origin": "official"
+        },
+        {
+          "label": "Chrome অফিসিয়াল Extension ডাউনলোড ↗",
+          "url": "https://chromewebstore.google.com/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf",
+          "origin": "official"
+        },
+        {
+          "label": "অফিসিয়াল source ও documentation ↗",
+          "url": "https://github.com/az0/linkgopher",
+          "origin": "official"
+        },
+        {
+          "label": "Source ZIP ডাউনলোড ↓",
+          "url": "https://github.com/az0/linkgopher/archive/refs/heads/master.zip",
+          "origin": "official"
+        }
+      ],
+      "verifiedAt": "2026-10-17",
+      "verificationScope": "Tool name matched to complete source transcript; official developer and Firefox/Chrome store references verified. No extension installed or binary safety guarantee."
     }
   ],
   "schedule": {
@@ -7089,7 +7139,7 @@
       }
     ]
   },
-  "siteVersion": "2026-10-17-class04-notebook-summary-reviewed",
+  "siteVersion": "2026-10-17-class05-notebook-summary-reviewed",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -7536,8 +7586,8 @@
     "note": "GitHub-এর notes/documents/tools ফোল্ডারে ৫৮টি নিজস্ব সংরক্ষিত ফাইল আছে; ভিডিও YouTube/Dailymotion থেকে চলে। বাইরের সব মূল ফাইলের পূর্ণ সংরক্ষণ এখনও যাচাই বাকি।"
   },
   "toolsAudit": {
-    "verifiedAt": "2026-10-09",
-    "method": "ক্লাস ১–২২-এর রিসোর্স অডিট বজায় আছে। ক্লাস ২৩-এর দুই হোস্টের পূর্ণ দৈর্ঘ্য ও নির্বাচিত অংশের প্লেব্যাক, বর্তমান Recon গাইডের ধাপ এবং টুল সূচি যাচাই করা হয়েছে। সব ক্লাসের প্রতিটি মিনিট ও সব মূল রিসোর্স উদ্ধার এখনও সম্পূর্ণ নয়।",
+    "verifiedAt": "2026-10-17",
+    "method": "ক্লাস ১–২৫-এর রিসোর্স ট্যাব ও নিজস্ব ফাইল লিংক পুনরায় যাচাই। পূর্ণ বিষয়বস্তু-ভিত্তিক টুল তালিকা এখনও সব ক্লাসে সম্পূর্ণ নয়।",
     "classes": [
       {
         "recordingId": "entry-20",
@@ -7562,7 +7612,7 @@
       {
         "recordingId": "entry-64",
         "serial": 5,
-        "note": "সংরক্ষিত manual SQLi homework নোট যুক্ত। এই ক্লাসের আলাদা tool package পাওয়া যায়নি।"
+        "note": "পূর্ণ অডিও-ভিত্তিক নোট ও শিক্ষক-উল্লিখিত Link Gopher-এর অফিসিয়াল ডাউনলোড/সেটআপ যুক্ত। পুরোনো custom browser package-এর নিরাপত্তা বা বর্তমান সামঞ্জস্য নিশ্চিত নয়।"
       },
       {
         "recordingId": "entry-80",
@@ -7658,16 +7708,16 @@
       }
     ]
   },
-  "version": "2026-10-17-class04-notebook-summary-reviewed",
+  "version": "2026-10-17-class05-notebook-summary-reviewed",
   "studyGuideAudit": {
     "topicGuides": 25,
     "queryExamples": 100,
-    "fullRecordingSummariesReviewed": 4,
-    "fullRecordingSummariesPending": 21,
+    "fullRecordingSummariesReviewed": 5,
+    "fullRecordingSummariesPending": 20,
     "fullAnalysisComplete": false,
     "examplesAreInstructorVerbatim": false,
     "liveGoogleResultsChecked": false,
     "checkedAt": "2026-10-17",
-    "availableTranscriptSummariesReviewed": 5
+    "availableTranscriptSummariesReviewed": 6
   }
 }
