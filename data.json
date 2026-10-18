@@ -742,7 +742,8 @@
       "localCopyStatus": "recycle-bin",
       "relatedResourceIds": [
         "msg-hw5-xss",
-        "notes-class06-google-dorks"
+        "notes-class06-google-dorks",
+        "tool-everything-class06"
       ],
       "classDateVerified": true,
       "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
@@ -752,7 +753,10 @@
         "checkedAt": "2026-10-09",
         "scope": "selected video segments; full-duration viewing not claimed"
       },
-      "searchStudyGuideId": "notes-class06-google-dorks"
+      "searchStudyGuideId": "notes-class06-google-dorks",
+      "fullRecordingSummaryReviewed": true,
+      "availableTranscriptSummaryReviewed": true,
+      "summaryReviewMethod": "full-imported-audio-transcript-and-ai-summary-reviewed"
     },
     {
       "id": "entry-79",
@@ -5360,9 +5364,9 @@
         "documents"
       ],
       "source": "",
-      "sourceType": "archive-topic-study-guide",
-      "noteText": "টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি\n\nপর্যালোচনার ভিত্তি\nক্লাসের আগে যাচাই করা টপিক ও সংযুক্ত রিসোর্স থেকে নিচের সহায়ক অনুশীলন সাজানো। এটি পুরো ভিডিওর সামারি নয়। মূল Drive রেকর্ডিং এখন download quota-এর কারণে নেওয়া যায়নি; উপলব্ধ YouTube কপিতে ক্যাপশন নেই। তাই পুরো কথোপকথনের বিশ্লেষণ এখনও বাকি।\n\nটপিকের সঙ্গে সম্পর্ক\nXSS-এর input/output context বোঝা এবং lab-এর search/form inventory।\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। ভিডিও থেকে নিশ্চিত তালিকা পরে আলাদা করে যোগ হবে।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app-এ কোন input কোথায় render হয় তা নথিভুক্ত করুন।\n• URL-এ q= বা search থাকা XSS প্রমাণ করে না।\n• Output encoding ও browser context-এর পার্থক্য পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
-      "text": "XSS-এর input/output context বোঝা এবং lab-এর search/form inventory। টপিকভিত্তিক সহায়ক নোট · পূর্ণ রেকর্ডিংয়ের সামারি যাচাই বাকি",
+      "sourceType": "notebooklm-audio-summary-editorially-reviewed",
+      "noteText": "NotebookLM-ভিত্তিক পূর্ণ অডিওর পাঠনোট · মূল ট্রান্সক্রিপ্ট ও AI সারাংশ মিলিয়ে সম্পাদিত\n\nপর্যালোচনার ভিত্তি\n৯ আগস্ট ২০২৬, রবিবারের ২:২৫:৪২ রেকর্ডিংয়ের সম্পূর্ণ অডিও NotebookLM-এ বিশ্লেষণ করা হয়েছে। মূল ভিডিওর দৈর্ঘ্য ৮৭৪২.৬৬৬ সেকেন্ড; আলাদা অডিও ৮৭৪২.৫৭১ সেকেন্ড। ট্রান্সক্রিপ্টে শুরুর পরিচিতি থেকে শেষের প্রশ্নোত্তর ও বিদায় পর্যন্ত বক্তব্য আছে। এটি অডিওর সম্পাদিত পাঠনোট; ভিডিওর প্রতিটি ফ্রেম বা স্ক্রিনে থাকা সব URL, script ও tool version যাচাইয়ের দাবি নয়। নিচের বিভাগগুলো বিষয়ভিত্তিক; নির্ভুল chapter timestamp পাওয়া যায়নি। ক্লাসের তারিখ আগের রেকর্ড-পর্দা যাচাই অনুযায়ী বহাল আছে; অডিওতে নতুন কোনো নির্দিষ্ট পঞ্জিকা তারিখ পাওয়া যায়নি।\n\n১. শুরু, শেখার পদ্ধতি ও পূর্ববর্তী পরীক্ষা\n• মেন্টর সাকিব আলম মুবিন নিজের পরিচয় দিয়ে শেখার সময় প্রশ্ন করতে, কঠিন অংশে আটকে না থেকে সাপোর্ট নিতে এবং পোর্টালে উপস্থিতি সম্পন্ন করতে বলেন।\n• আগের পরীক্ষার খাতা একাধিক ধাপে যাচাই হচ্ছে ও ফল পরে পোর্টালে প্রকাশ হবে বলে জানান। এখানে কোনো নতুন পরীক্ষার তারিখ ঘোষণা পাওয়া যায়নি।\n• আজকের বিষয় Cross-Site Scripting বা XSS। HTML দিয়ে কাঠামো, CSS দিয়ে উপস্থাপনা এবং JavaScript দিয়ে আচরণ বোঝানোর রূপক ব্যবহার করা হয়েছে। রূপকটি ধারণা বোঝানোর জন্য, সম্পূর্ণ browser architecture নয়।\n\n২. XSS-এর মূল ধারণা\nঅবিশ্বস্ত ইনপুট উপযুক্ত সুরক্ষা ছাড়া এমন জায়গায় গেলে, যেখানে browser সেটিকে সাধারণ লেখা না ধরে executable code হিসেবে ব্যাখ্যা করে, XSS-এর ঝুঁকি তৈরি হতে পারে। ক্লাসে input field, server response, page source এবং browser-এর আচরণের সম্পর্ক বোঝানো হয়েছে। শুধু কোনো লেখা পেজে ফিরে আসা বা পপআপ দেখা XSS প্রমাণের জন্য যথেষ্ট নয়; কীভাবে এবং কোন context-এ ইনপুটটি ব্যবহার হচ্ছে, তা বুঝতে হবে।\n• Reflected: নির্দিষ্ট request-এর ইনপুট response-এ ফিরে আসে। একটি সাধারণ URL বা স্বাভাবিক ভিজিটে একই প্রভাব স্থায়ীভাবে থাকবে—এমন নয়।\n• Stored: সংরক্ষিত ইনপুট পরে পেজে ব্যবহার করা হয়; ফলে পরবর্তী ভিজিটেও সমস্যাটি দেখা দিতে পারে। ক্লাসে profile/input সংরক্ষণের প্রসঙ্গ এসেছে।\n• DOM-based: client-side JavaScript কীভাবে তথ্য পড়ে এবং document-এর কোন জায়গায় বসায়, সেটি গুরুত্বপূর্ণ। শেষের প্রশ্নোত্তরে browser-এর মধ্যে পরিবর্তনের একটি উদাহরণ আলোচনা হয়। প্রদর্শিত উদাহরণটি পুরোপুরি কাজ করেনি—তাই নোটে সফল পরীক্ষা হিসেবে ধরা হয়নি।\n\n৩. প্রদর্শনগুলোর শেখার উদ্দেশ্য\nক্লাসে alert/popup, redirect, পেজের দৃশ্যমান পরিবর্তন এবং অপ্রত্যাশিত download-এর মতো আচরণ আলোচনা হয়েছে। উদ্দেশ্য ছিল ইনপুট কীভাবে code context-এ প্রভাব ফেলতে পারে, তা বোঝানো। এসব আচরণের অন্য কারণও থাকতে পারে; শুধু লক্ষণ দেখে কারণ নিশ্চিত করবেন না। এই নোটে বাস্তব সাইটের target, কার্যকর exploit payload বা অনাকাঙ্ক্ষিত download করানোর ধাপ রাখা হয়নি। অনুমোদিত ল্যাবে কোন input থেকে কোন output পর্যন্ত তথ্য যায়, সেই পথ ব্যাখ্যা করাই অনুশীলনের লক্ষ্য।\n\n৪. নিরাপদ browser ও ফাইল ব্যবস্থাপনা\n• শিক্ষক Chrome, Edge ও Brave-এর প্রসঙ্গে download কোথায় রাখা হবে তা জিজ্ঞাসা করার সুবিধা এবং download সম্পন্ন হওয়ার বার্তা খেয়াল করার কথা বলেন। নিজের browser-এর বর্তমান নির্দেশনা অনুযায়ী সুবিধাগুলো যাচাই করুন।\n• Windows-এ file name extension দৃশ্যমান রাখার উপকারিতা আলোচনা হয়েছে। শুধু আইকন বা নাম দেখে কোনো ফাইলকে ছবি/PDF ধরে নেওয়া ঠিক নয়; প্রকৃত ধরন ও উৎস দেখুন। এখানে কোনো executable চালানোর অনুশীলন নেই।\n• Everything নামের Windows file-search utility দিয়ে নিজের PC-র ফাইল দ্রুত খোঁজার উদাহরণ দেখানো হয়েছে। এটি XSS scanner নয়। এর অফিসিয়াল download ও setup এই ক্লাসের “টুলস” ট্যাবে যুক্ত আছে। রেকর্ডিংয়ে ব্যবহৃত Everything-এর নির্দিষ্ট version নিশ্চিত নয়; ডাউনলোড কার্ডে বর্তমান অফিসিয়াল release আলাদা করে দেখানো হয়েছে।\n\n৫. প্রতিরক্ষা: ক্লাসের আলোচনা ও সম্পাদিত ব্যাখ্যা\nশিক্ষক numeric field-এ গ্রহণযোগ্য সংখ্যা, input validation, বিশেষ character এবং encoding-এর প্রসঙ্গ আলোচনা করেন। উন্নয়নকাজে শুধু কয়েকটি character নিষিদ্ধ করলেই সব XSS বন্ধ হয় না। OWASP-এর প্রতিরক্ষা নির্দেশনা অনুযায়ী এই অতিরিক্ত ব্যাখ্যা যুক্ত করা হলো:\n• যে output context-এ তথ্য বসবে, সেই context অনুযায়ী encoding করুন।\n• সাধারণ text দেখানোর জন্য নিরাপদ DOM API ব্যবহার করুন; অবিশ্বস্ত HTML সরাসরি render করবেন না। Rich HTML দরকার হলে উপযুক্ত sanitization লাগতে পারে।\n• Input validation এবং CSP সহায়ক স্তর; সঠিক output handling-এর বিকল্প নয়।\nDOM হলো document-এর node/tree model; প্রতিটি আলাদা JavaScript function-কে আলাদা DOM বলা সঠিক নয়। DOM-ভিত্তিক সমস্যার ক্ষেত্রেও পেজ load বা অন্য কাজে server request হতে পারে। বড় প্রতিষ্ঠানের সাইট মানেই ঝুঁকিমুক্ত, অথবা প্রস্তুত script থাকলেই বোঝাপড়া ছাড়া নির্ভরযোগ্য পরীক্ষা করা যায়—এমন সিদ্ধান্তও নেওয়া যাবে না।\n\n৬. শিক্ষক-উল্লিখিত হোমওয়ার্ক ও সংরক্ষিত দলিল\nরেকর্ডিংয়ে তিনটি কেসের লিংক ও স্ক্রিনশট এক PDF-এ সাজিয়ে পোর্টালে জমা দেওয়ার নির্দেশ আছে। নির্দিষ্ট শেষ তারিখ বা সময় পাওয়া যায়নি; কোনো ডেডলাইন অনুমান করা হয়নি। ক্লাসের resource document-এ দর্ক ও উদাহরণ দেওয়ার কথা বলা হয়েছে।\nবর্তমান অনুশীলনে নিজের বা নির্দিষ্ট অনুমতিপ্রাপ্ত ল্যাবের তিনটি কেস ব্যবহার করুন। এটি আর্কাইভের পরিসর-সীমিত প্রয়োগ; তৃতীয় পক্ষের সাইট খুঁজে পরীক্ষা করার নির্দেশ হিসেবে এই নোট ব্যবহার করবেন না। “ডকুমেন্ট” ট্যাবে সংরক্ষিত XSS নোট ও HW5 PDF আছে। অডিওতে অদৃশ্য কোনো নতুন ফাইল/লিংক উদ্ধার হয়েছে বলে দাবি করা হচ্ছে না।\n\n৭. আর্কাইভের যোগ করা অনুশীলন ও আত্ম-যাচাই\nএ অংশ শিক্ষক-নির্ধারিত নতুন হোমওয়ার্ক নয়।\n• নিজের ছোট অ্যাপের input → server response → browser DOM flow আঁকুন এবং কোথায় তথ্য text হিসেবে ব্যবহৃত হচ্ছে লিখুন।\n• তিন ধরনের XSS-এর পার্থক্য নিজের ভাষায় লিখুন; স্থায়ী storage থাকা ও client-side execution path এক বিষয় কি না ব্যাখ্যা করুন।\n• অনুমোদিত ল্যাবের harmless text দিয়ে output encoding ও text rendering পর্যবেক্ষণ করে screenshot-সহ সংক্ষিপ্ত প্রতিবেদন তৈরি করুন।\n• নিজের download directory-তে পরিচিত test file-এর নাম খুঁজে browser download history ও Everything-এর local search-এর উদ্দেশ্যের পার্থক্য লিখুন। অন্যের ডিভাইস বা ব্যক্তিগত ফাইল ব্যবহার করবেন না।\n• পুনরালোচনার প্রশ্ন: লেখা reflect হওয়া আর code execute হওয়ার পার্থক্য কী? Character blocklist একা যথেষ্ট নয় কেন? DOM demo ব্যর্থ হলে প্রতিবেদনে সেটি কীভাবে সঠিকভাবে লিখবেন?\n\nউদাহরণের উৎস\nনিচের query-গুলো আর্কাইভের তৈরি, টপিক অনুযায়ী সীমিত অনুশীলন। এগুলো শিক্ষকের ভিডিওতে হুবহু বলা হয়েছে—এমন দাবি করা হচ্ছে না। এগুলো আর্কাইভের নিজস্ব সীমিত উদাহরণ; মূল ভিডিওর হুবহু query-list হিসেবে দাবি করা হচ্ছে না।\n\nশেখার সময় খেয়াল রাখুন\n• নিজের app-এ কোন input কোথায় render হয় তা নথিভুক্ত করুন।\n• URL-এ q= বা search থাকা XSS প্রমাণ করে না।\n• Output encoding ও browser context-এর পার্থক্য পড়ুন।\n\nGoogle Dork ও scope\nGoogle Dork বলতে Google Advanced Search-এর query বোঝায়; Google Docs দলিল সম্পাদনার আলাদা সেবা। site: domain সীমিত করে, inurl: URL-এর শব্দ, intitle: title, quotes নির্দিষ্ট phrase এবং filetype: file type বাছাইয়ে কাজে লাগে। অপারেটরের colon-এর পরে ফাঁকা দেবেন না।\nlab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।\n\nফল ও সীমাবদ্ধতা\nএখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
+      "text": "পূর্ণ অডিওর NotebookLM ট্রান্সক্রিপ্ট ও AI সারাংশ মিলিয়ে সম্পাদিত পাঠনোট।",
       "noteUrl": "/notes/class06-search-study-guide.md",
       "downloadLinks": [
         {
@@ -5410,13 +5414,16 @@
       ],
       "dorkScopeNote": "lab.example.org একটি সংরক্ষিত উদাহরণ domain। শুধু নিজের বা লিখিত অনুমতিপ্রাপ্ত, scope-এর মধ্যে থাকা domain দিয়ে বদলাবেন। নিজের private/local lab Google-এ indexed না হলে ফল নাও আসতে পারে; তখন নিজের route/document inventory ব্যবহার করুন।",
       "dorkResultNote": "এখানে উদাহরণের সংখ্যা দেখানো হয়েছে, সব সম্ভাব্য Dork-এর সংখ্যা নয়। বাস্তবে কতটি site/page মিলবে তা পরীক্ষা করা হয়নি। Google-এর index ও আনুমানিক result count সম্পূর্ণ তালিকা নয়; কোনো ফলই vulnerability, no-redirect বা shell execution-এর প্রমাণ নয়। কোনো public target list বা active scan তৈরি/চালানো হয়নি।",
-      "fullRecordingSummaryReviewed": false,
+      "fullRecordingSummaryReviewed": true,
       "visualFullRecordingReviewed": false,
-      "summaryReviewMethod": "verified-topic-study-guide-only",
+      "summaryReviewMethod": "full-imported-audio-transcript-and-ai-summary-reviewed",
       "matchedSiteCount": null,
       "matchedSiteCountVerified": false,
       "noteVerified": true,
-      "examplesAreInstructorVerbatim": false
+      "examplesAreInstructorVerbatim": false,
+      "summaryReviewedAt": "2026-10-18",
+      "summarySourceDurationSeconds": 8742.570688,
+      "verifiedChapterTimestampsAvailable": false
     },
     {
       "id": "notes-class07-google-dorks",
@@ -7110,6 +7117,49 @@
       ],
       "verifiedAt": "2026-10-17",
       "verificationScope": "Tool name matched to complete source transcript; official developer and Firefox/Chrome store references verified. No extension installed or binary safety guarantee."
+    },
+    {
+      "id": "tool-everything-class06",
+      "title": "Everything — Windows File Search, Official Downloads ও Setup",
+      "author": "Delta Archive",
+      "date": "2026-10-18",
+      "classDate": "2026-08-09",
+      "relatedRecordingId": "entry-80",
+      "topic": "XSS",
+      "category": "tools",
+      "resourceKinds": [
+        "tools",
+        "documents"
+      ],
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "sourceType": "official-tool-reference",
+      "text": "ক্লাসের পূর্ণ অডিওতে Everything দিয়ে নিজের PC-র file name দ্রুত খোঁজার উদাহরণ নিশ্চিত। এটি Windows file-search utility; XSS scanner নয়। অফিসিয়াল Downloads পেজে নিজের Windows architecture অনুযায়ী নিন। x64 portable ZIP extract করে Everything.exe ব্যবহার করা যায়; installer-এর নির্দেশনা vendor-এর setup guide-এ আছে। নিচের নির্দিষ্ট x64 ফাইলগুলো 1.4.1.1032 release-এর; রেকর্ডিংয়ের version নিশ্চিত নয়। অন্য architecture-এর জন্য All downloads দেখুন। এখানে নিজস্ব binary mirror বা ব্যবহারকারীর PC-তে installation করা হয়নি।",
+      "downloadLinks": [
+        {
+          "label": "Windows x64 Portable ZIP ডাউনলোড ↓",
+          "url": "https://www.voidtools.com/Everything-1.4.1.1032.x64.zip",
+          "origin": "official"
+        },
+        {
+          "label": "Windows x64 Installer ডাউনলোড ↓",
+          "url": "https://www.voidtools.com/Everything-1.4.1.1032.x64-Setup.exe",
+          "origin": "official"
+        },
+        {
+          "label": "সব architecture ও অফিসিয়াল downloads ↗",
+          "url": "https://www.voidtools.com/downloads/",
+          "origin": "official"
+        },
+        {
+          "label": "অফিসিয়াল setup guide ↗",
+          "url": "https://www.voidtools.com/support/everything/installing_everything/",
+          "origin": "official"
+        }
+      ],
+      "verifiedAt": "2026-10-18",
+      "verificationScope": "Tool name checked against complete Class06 audio transcript. Official vendor download links and setup documentation verified; software not executed."
     }
   ],
   "schedule": {
@@ -7139,7 +7189,7 @@
       }
     ]
   },
-  "siteVersion": "2026-10-17-class05-notebook-summary-reviewed",
+  "siteVersion": "2026-10-18-class06-notebook-summary-reviewed",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -7586,7 +7636,7 @@
     "note": "GitHub-এর notes/documents/tools ফোল্ডারে ৫৮টি নিজস্ব সংরক্ষিত ফাইল আছে; ভিডিও YouTube/Dailymotion থেকে চলে। বাইরের সব মূল ফাইলের পূর্ণ সংরক্ষণ এখনও যাচাই বাকি।"
   },
   "toolsAudit": {
-    "verifiedAt": "2026-10-17",
+    "verifiedAt": "2026-10-18",
     "method": "ক্লাস ১–২৫-এর রিসোর্স ট্যাব ও নিজস্ব ফাইল লিংক পুনরায় যাচাই। পূর্ণ বিষয়বস্তু-ভিত্তিক টুল তালিকা এখনও সব ক্লাসে সম্পূর্ণ নয়।",
     "classes": [
       {
@@ -7617,7 +7667,7 @@
       {
         "recordingId": "entry-80",
         "serial": 6,
-        "note": "সংরক্ষিত XSS নোট ও HW5 PDF যুক্ত। আলাদা software package পাওয়া যায়নি।"
+        "note": "পূর্ণ অডিওর NotebookLM পাঠনোট, বিদ্যমান XSS নোট ও HW5 PDF, এবং শিক্ষক-উল্লিখিত Everything-এর অফিসিয়াল download/setup যুক্ত। নতুন মূল resource document উদ্ধারের দাবি নয়।"
       },
       {
         "recordingId": "entry-88",
@@ -7708,16 +7758,16 @@
       }
     ]
   },
-  "version": "2026-10-17-class05-notebook-summary-reviewed",
+  "version": "2026-10-18-class06-notebook-summary-reviewed",
   "studyGuideAudit": {
     "topicGuides": 25,
     "queryExamples": 100,
-    "fullRecordingSummariesReviewed": 5,
-    "fullRecordingSummariesPending": 20,
+    "fullRecordingSummariesReviewed": 6,
+    "fullRecordingSummariesPending": 19,
     "fullAnalysisComplete": false,
     "examplesAreInstructorVerbatim": false,
     "liveGoogleResultsChecked": false,
-    "checkedAt": "2026-10-17",
-    "availableTranscriptSummariesReviewed": 6
+    "checkedAt": "2026-10-18",
+    "availableTranscriptSummariesReviewed": 7
   }
 }

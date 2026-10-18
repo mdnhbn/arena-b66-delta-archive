@@ -2,7 +2,7 @@
 
 হালনাগাদ: 2026-10-16
 
-25টি মূল ক্লাস এবং 206টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
+25টি মূল ক্লাস এবং 207টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
 
 ## ক্লাসের সিরিয়াল
 
@@ -13,7 +13,7 @@
 | 3 | [OSINT — Open Source Intelligence](https://arena-b66-delta-archive.vercel.app/#class/entry-46) | 2026-07-26 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 4 | [Session hijacking, blocking ও Mid Exam প্রস্তুতি](https://arena-b66-delta-archive.vercel.app/#class/entry-58) | 2026-07-31 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 5 | [Manual SQL Injection](https://arena-b66-delta-archive.vercel.app/#class/entry-64) | 2026-08-02 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
-| 6 | [Cross Site Scripting (XSS)](https://arena-b66-delta-archive.vercel.app/#class/entry-80) | 2026-08-09 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 6 | [Cross Site Scripting (XSS)](https://arena-b66-delta-archive.vercel.app/#class/entry-80) | 2026-08-09 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 7 | [SQLi WAF ও IDS](https://arena-b66-delta-archive.vercel.app/#class/entry-88) | 2026-08-14 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 8 | [Burp Suite — Proxy ও Intruder](https://arena-b66-delta-archive.vercel.app/#class/entry-90) | 2026-08-16 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 9 | [WebShell, Backdoor ও Deface Page](https://arena-b66-delta-archive.vercel.app/#class/entry-99) | 2026-08-21 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
@@ -1468,6 +1468,16 @@
 - [Chrome অফিসিয়াল Extension ডাউনলোড ↗](https://chromewebstore.google.com/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf)
 - [অফিসিয়াল source ও documentation ↗](https://github.com/az0/linkgopher)
 - [Source ZIP ডাউনলোড ↓](https://github.com/az0/linkgopher/archive/refs/heads/master.zip)
+
+### tool-everything-class06 — Everything — Windows File Search, Official Downloads ও Setup
+
+বিষয়: XSS · তারিখ: 2026-08-09 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-everything-class06)
+- [Windows x64 Portable ZIP ডাউনলোড ↓](https://www.voidtools.com/Everything-1.4.1.1032.x64.zip)
+- [Windows x64 Installer ডাউনলোড ↓](https://www.voidtools.com/Everything-1.4.1.1032.x64-Setup.exe)
+- [সব architecture ও অফিসিয়াল downloads ↗](https://www.voidtools.com/downloads/)
+- [অফিসিয়াল setup guide ↗](https://www.voidtools.com/support/everything/installing_everything/)
 
 ## অফিসিয়াল সিলেবাস
 
