@@ -2,7 +2,7 @@
 
 হালনাগাদ: 2026-10-16
 
-25টি মূল ক্লাস এবং 207টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
+25টি মূল ক্লাস এবং 208টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
 
 ## ক্লাসের সিরিয়াল
 
@@ -14,7 +14,7 @@
 | 4 | [Session hijacking, blocking ও Mid Exam প্রস্তুতি](https://arena-b66-delta-archive.vercel.app/#class/entry-58) | 2026-07-31 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 5 | [Manual SQL Injection](https://arena-b66-delta-archive.vercel.app/#class/entry-64) | 2026-08-02 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 6 | [Cross Site Scripting (XSS)](https://arena-b66-delta-archive.vercel.app/#class/entry-80) | 2026-08-09 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
-| 7 | [SQLi WAF ও IDS](https://arena-b66-delta-archive.vercel.app/#class/entry-88) | 2026-08-14 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 7 | [SQLi WAF ও IDS](https://arena-b66-delta-archive.vercel.app/#class/entry-88) | 2026-08-14 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 8 | [Burp Suite — Proxy ও Intruder](https://arena-b66-delta-archive.vercel.app/#class/entry-90) | 2026-08-16 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 9 | [WebShell, Backdoor ও Deface Page](https://arena-b66-delta-archive.vercel.app/#class/entry-99) | 2026-08-21 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 10 | [File Upload Vulnerabilities](https://arena-b66-delta-archive.vercel.app/#class/entry-107) | 2026-08-23 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
@@ -1478,6 +1478,14 @@
 - [Windows x64 Installer ডাউনলোড ↓](https://www.voidtools.com/Everything-1.4.1.1032.x64-Setup.exe)
 - [সব architecture ও অফিসিয়াল downloads ↗](https://www.voidtools.com/downloads/)
 - [অফিসিয়াল setup guide ↗](https://www.voidtools.com/support/everything/installing_everything/)
+
+### tool-virustotal-class07 — VirusTotal — Official Web Service ও ব্যবহারবিধি
+
+বিষয়: WAF · তারিখ: 2026-08-14 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-virustotal-class07)
+- [অফিসিয়াল VirusTotal খুলুন ↗](https://www.virustotal.com/)
+- [অফিসিয়াল ব্যবহার ও sharing নির্দেশনা ↗](https://docs.virustotal.com/docs/how-it-works)
 
 ## অফিসিয়াল সিলেবাস
 
