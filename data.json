@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -7200,6 +7200,186 @@
       ],
       "verifiedAt": "2026-10-18",
       "verificationScope": "Name matched to complete Class07 audio transcript. Official service documentation verified. Web service reference, not a downloadable installer; no sample uploaded."
+    },
+    {
+      "id": "class-2026-10-18",
+      "title": "Report Writing — 18/10/2026",
+      "topicTitle": "Report Writing — Evidence, Findings ও Report Structure",
+      "author": "Syed Sakib Alam Mubin",
+      "date": "2026-10-18",
+      "classDate": "2026-10-18",
+      "category": "recordings",
+      "topic": "Report Writing",
+      "recordingSerial": 26,
+      "collectionIndex": 199,
+      "serialVerification": "Archive sequence after class25; instructor class number not independently stated",
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1684276329941622/",
+      "liveSource": "https://www.facebook.com/thesamubin/videos/1705325477831840/",
+      "sourceType": "facebook-live-replay",
+      "duration": "22:31 + 1:13:08",
+      "classDateVerified": true,
+      "dateVerified": true,
+      "classDateVerification": "১৮ অক্টোবরের মূল পোস্ট/ক্লাস কথোপকথন এবং রবিবারের ক্লাস পরিচয় মিলেছে; recording screen clock আলাদাভাবে যাচাই বাকি।",
+      "topicVerified": true,
+      "topicVerification": "Instructor Facebook replay caption Report Writing",
+      "text": "রবিবারের Report Writing ক্লাসের দুই Facebook replay পাওয়া গেছে। Report library ও নিজস্ব worksheet সংরক্ষিত; আলাদা video hosting ও পূর্ণ NotebookLM বিশ্লেষণ বাকি।",
+      "links": [
+        "https://www.facebook.com/thesamubin/videos/2460335754772902/",
+        "https://www.facebook.com/thesamubin/videos/1705325477831840/"
+      ],
+      "sourceVideos": [
+        {
+          "label": "প্রথম অংশ",
+          "url": "https://www.facebook.com/thesamubin/videos/2460335754772902/",
+          "displayDuration": "22:31",
+          "playbackVerified": false
+        },
+        {
+          "label": "পরের অংশ",
+          "url": "https://www.facebook.com/thesamubin/videos/1705325477831840/",
+          "displayDuration": "1:13:08",
+          "durationSeconds": 4388.1,
+          "resolution": "1280x720",
+          "sourcePlaybackSampleVerified": true
+        }
+      ],
+      "videoStatus": "recording-pending",
+      "playbackVerified": false,
+      "sourceRecordingAvailable": true,
+      "sourceRecordingCheckedAt": "2026-10-19",
+      "recordingArchiveStatus": "source-replays-found-hosting-pending",
+      "videoUploadMessage": "Facebook-এর দুই replay পাওয়া গেছে। YouTube/Dailymotion-এ সংরক্ষণ এখনো সম্পন্ন হয়নি।",
+      "relatedResourceIds": [
+        "notes-class26-report-writing",
+        "doc-class26-report-worksheet",
+        "resource-class26-pentestreports"
+      ],
+      "searchStudyGuideId": "notes-class26-report-writing",
+      "fullRecordingSummaryReviewed": false,
+      "availableTranscriptSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "homeworkStatus": "not-yet-verified-from-full-recording",
+      "homeworkDeadline": null,
+      "syllabusMapping": {
+        "primaryStage": "Website Penetration Testing",
+        "pdfPage": 5,
+        "mappingType": "topic-match-full-coverage-not-yet-reviewed",
+        "fullModuleComplete": false
+      }
+    },
+    {
+      "author": "Delta Archive",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "topic": "Report Writing",
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "id": "notes-class26-report-writing",
+      "title": "ক্লাস ২৬ — Report Writing: রিসোর্স সূচি ও বিশ্লেষণের অবস্থা",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "sourceType": "archive-source-index-awaiting-full-analysis",
+      "noteText": "ক্লাস ২৬ — Report Writing · রবিবার, ১৮ অক্টোবর ২০২৬\n\nবর্তমানে সংরক্ষিত তথ্য\nপ্রশিক্ষক Syed Sakib Alam Mubin-এর Facebook পোস্টে Report Writing বিষয় নিশ্চিত। দুটি replay পাওয়া গেছে: প্রথম অংশ ২২:৩১, পরের অংশ ১:১৩:০৮। পরের অংশের প্রকৃত player duration ৪৩৮৮.১ সেকেন্ড ও resolution 1280×720; playback এগোতে দেখা হয়েছে। প্রথম অংশের দৈর্ঘ্য group player-এর display অনুযায়ী। এগুলো অবিচ্ছিন্ন পূর্ণ ক্লাসের সব মিনিট—এমন নিশ্চয়তা দেওয়া হচ্ছে না।\n\nসংরক্ষণের অবস্থা\nমূল দুই ভিডিওর লিংক নিচে আছে। YouTube/Dailymotion mirror এখনো যোগ হয়নি; সাইটের player-ready বা upload-processing হিসেবে দেখানো হয়নি। পূর্ণ অডিও NotebookLM-এ বিশ্লেষণ, বিস্তারিত শিক্ষকভিত্তিক পাঠনোট, নির্দিষ্ট homework ও deadline যাচাই বাকি। এই প্রাথমিক সূচিকে পূর্ণ ভিডিও-সারাংশ হিসেবে ব্যবহার করবেন না।\n\nরিপোর্টের রেফারেন্স লাইব্রেরি\nগ্রুপ চ্যাটে PentestReports.com লিংক শেয়ার হয়েছে। সাইটটি public penetration-test report, template ও অন্যান্য security resource-এর সূচি হিসেবে দেখা গেছে। নিচের রিসোর্স কার্ড থেকে পরিষ্কার মূল লিংক খুলতে পারবেন; Facebook tracking link সংরক্ষণ করা হয়নি। এই পর্যায়ে লিংকটি শিক্ষক সরাসরি দিয়েছেন—এমন attribution যাচাই হয়নি। অন্য প্রতিষ্ঠানের report নিজের করা কাজ বা নিজের client-এর তথ্য হিসেবে ব্যবহার করবেন না। মূল report-এর ব্যবহারবিধি ও লেখকের attribution দেখুন।\n\nনিজস্ব সহায়ক worksheet\nডকুমেন্ট ট্যাবে Scope → Evidence → Impact → Remediation → Retest সাজানোর একটি ডাউনলোডযোগ্য Markdown worksheet রাখা হয়েছে। এটি আর্কাইভের নিজস্ব সহায়ক সংযোজন, শিক্ষকপ্রদত্ত মূল document নয়। কোনো live client data বা private report এতে দেওয়া হয়নি।\n\nসিলেবাসের সঙ্গে মিল\nঅফিসিয়াল Version 7.0 PDF পৃষ্ঠা ৫-এর Website Penetration Testing অংশের scope/process ও tools/manual process-এর সঙ্গে report-writing বিষয়ের সম্পর্ক আছে। Roadmap-এ এই ক্লাস সেই অংশে যুক্ত করা হয়েছে। শুধু এই শিরোনাম দেখে HackerOne/Bugcrowd-এর First Bug Report বা পুরো pentest module সম্পন্ন হিসেবে চিহ্নিত করা হয়নি; পূর্ণ রেকর্ডিং বিশ্লেষণের পর coverage সংশোধন হবে।\n\nভিডিও — প্রথম অংশ: https://www.facebook.com/thesamubin/videos/2460335754772902/\nভিডিও — পরের অংশ: https://www.facebook.com/thesamubin/videos/1705325477831840/\nমূল পোস্ট: https://www.facebook.com/groups/awsb66delta/posts/1684276329941622/\nরেফারেন্স: https://www.pentestreports.com/\n\nযাচাই: ১৯ অক্টোবর ২০২৬। ক্লাসের তারিখ ১৮ অক্টোবর, রবিবার; পোস্ট ও ওই দিনের class conversation অনুযায়ী। Recording screen clock আলাদাভাবে যাচাই বাকি। নিচের search উদাহরণগুলো আর্কাইভের যোগ করা reference search; শিক্ষকের হুবহু dork বা target list নয়।\n",
+      "text": "দুই replay ও শেয়ার করা reference-এর যাচাইকৃত সূচি; পূর্ণ NotebookLM নোট এখনো বাকি।",
+      "noteUrl": "/notes/class26-report-writing.md",
+      "fullRecordingSummaryReviewed": false,
+      "availableTranscriptSummaryReviewed": false,
+      "visualFullRecordingReviewed": false,
+      "examplesAreInstructorVerbatim": false,
+      "matchedSiteCount": null,
+      "matchedSiteCountVerified": false,
+      "googleDorks": [
+        {
+          "query": "site:www.pentestreports.com reports",
+          "purpose": "Public report library খোঁজা",
+          "kind": "Official reference",
+          "origin": "archive-added-reference-search",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:www.pentestreports.com templates",
+          "purpose": "প্রকাশিত template-এর সূচি খোঁজা",
+          "kind": "Official reference",
+          "origin": "archive-added-reference-search",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:owasp.org reporting",
+          "purpose": "OWASP-এর reporting reference খোঁজা",
+          "kind": "Official reference",
+          "origin": "archive-added-reference-search",
+          "scope": "official-documentation-only"
+        },
+        {
+          "query": "site:csrc.nist.gov \"security testing\"",
+          "purpose": "NIST-এর security testing reference খোঁজা",
+          "kind": "Official reference",
+          "origin": "archive-added-reference-search",
+          "scope": "official-documentation-only"
+        }
+      ],
+      "originalInstructorFileStatus": "not-yet-found",
+      "downloadLinks": [
+        {
+          "label": "Report reference library ↗",
+          "url": "https://www.pentestreports.com/"
+        },
+        {
+          "label": "মূল সিলেবাস · পৃষ্ঠা ৫ ↗",
+          "url": "/documents/arena-course-syllabus-v7.pdf#page=5"
+        }
+      ]
+    },
+    {
+      "author": "Delta Archive",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "topic": "Report Writing",
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "id": "doc-class26-report-worksheet",
+      "title": "ক্লাস ২৬ — Report Writing Worksheet",
+      "category": "documents",
+      "resourceKinds": [
+        "documents"
+      ],
+      "sourceType": "archive-added-practice-template",
+      "originalInstructorFile": false,
+      "text": "Scope, evidence, impact, remediation ও retest-এর নিজস্ব সহায়ক worksheet; শিক্ষকপ্রদত্ত মূল file নয়।",
+      "documentUrl": "/notes/class26-report-worksheet.md"
+    },
+    {
+      "author": "Delta Archive",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "topic": "Report Writing",
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "id": "resource-class26-pentestreports",
+      "title": "PentestReports — Public Report ও Template Library",
+      "category": "tools",
+      "resourceKinds": [
+        "tools",
+        "documents"
+      ],
+      "sourceType": "group-shared-public-reference",
+      "text": "গ্রুপ চ্যাটে শেয়ার করা report-reference website। এটি web library; installer নয়। মূল report/template-এর attribution ও ব্যবহারবিধি দেখুন। শিক্ষক-প্রদত্ত লিংক হিসেবে attribution এখনো নিশ্চিত হয়নি।",
+      "downloadLinks": [
+        {
+          "label": "Report library খুলুন ↗",
+          "url": "https://www.pentestreports.com/"
+        }
+      ],
+      "verifiedAt": "2026-10-19"
     }
   ],
   "schedule": {
@@ -7229,7 +7409,7 @@
       }
     ]
   },
-  "siteVersion": "2026-10-18-class07-notebook-summary-reviewed",
+  "siteVersion": "2026-10-19-class26-report-writing-sources",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -7593,10 +7773,11 @@
           "entry-112",
           "entry-115",
           "entry-142",
-          "class-2026-10-16"
+          "class-2026-10-16",
+          "class-2026-10-18"
         ],
-        "summary": "Acunetix, web lab এবং ১৬ অক্টোবরের Nuclei/Nikto ক্লাসে scanner, template, output report ও ফল যাচাই আলোচনা পাওয়া গেছে। Official PDF পৃষ্ঠা ৫-এর Website Penetration Testing Tools ও tools/manual process-এর সঙ্গে বিষয়ভিত্তিক মিল; PDF-তে Nuclei/Nikto নাম আলাদা করে নেই।",
-        "remaining": "পূর্ণ test scope/methodology, complete project এবং dedicated manual report-writing ক্লাসের কভারেজ এখনও যাচাই বাকি; ১৬ অক্টোবরের বক্তব্যে report-writing ক্লাস পরবর্তীতে হবে বলা হয়েছে।",
+        "summary": "Acunetix, web lab এবং ১৬ অক্টোবরের Nuclei/Nikto ক্লাসে scanner, template, output report ও ফল যাচাই আলোচনা পাওয়া গেছে। Official PDF পৃষ্ঠা ৫-এর Website Penetration Testing Tools ও tools/manual process-এর সঙ্গে বিষয়ভিত্তিক মিল; PDF-তে Nuclei/Nikto নাম আলাদা করে নেই। ১৮ অক্টোবরের dedicated Report Writing ক্লাসের দুই source replay পাওয়া গেছে; reference library ও worksheet যুক্ত।",
+        "remaining": "পূর্ণ methodology/project এবং নতুন Report Writing ক্লাসের বিস্তারিত coverage যাচাই বাকি; ক্লাসের শিরোনাম পাওয়াকে পুরো module সম্পন্ন ধরা হয়নি।",
         "officialTopics": [
           "Website Penetration Testing",
           "Website Penetration Testing Tools",
@@ -7606,7 +7787,7 @@
           "Tools and manual process of penetration testing"
         ],
         "pdfPage": 5,
-        "verifiedAt": "2026-10-16"
+        "verifiedAt": "2026-10-19"
       },
       {
         "week": "১৫তম সপ্তাহ",
@@ -7630,7 +7811,7 @@
         "title": "HackerOne ও Bugcrowd",
         "status": "pending",
         "classIds": [],
-        "summary": "Bug bounty এবং report-writing-এর নিশ্চিত মূল ক্লাস পাওয়া যায়নি।",
+        "summary": "১৮ অক্টোবর generic Report Writing ক্লাস পাওয়া গেছে। HackerOne/Bugcrowd platform-specific First Bug Report-এর coverage পূর্ণ বিশ্লেষণ ছাড়া নিশ্চিত নয়।",
         "remaining": null,
         "officialTopics": [
           "Outsourcing in Hackerone and Bugcroud",
@@ -7795,19 +7976,25 @@
         "serial": 23,
         "note": "পূর্ণ রেকর্ডিং Dailymotion ও YouTube-এ যাচাই করা হয়েছে। গাইডের দশটি ধাপের সংরক্ষিত টুল সূচি, নিজস্ব সারাংশ ও মূল সফটওয়্যার সোর্স যুক্ত। পুরো ক্লাসের সব টপিক সম্পন্ন হয়েছে—এমন দাবি নেই।",
         "verifiedAt": "2026-10-09"
+      },
+      {
+        "recordingId": "class-2026-10-18",
+        "serial": 26,
+        "note": "Public report-reference library ও নিজস্ব worksheet যুক্ত। শিক্ষক-প্রদত্ত নির্দিষ্ট software/file এবং পূর্ণ আলোচনার যাচাই বাকি।",
+        "verifiedAt": "2026-10-19"
       }
     ]
   },
-  "version": "2026-10-18-class07-notebook-summary-reviewed",
+  "version": "2026-10-19-class26-report-writing-sources",
   "studyGuideAudit": {
-    "topicGuides": 25,
-    "queryExamples": 100,
+    "topicGuides": 26,
+    "queryExamples": 104,
     "fullRecordingSummariesReviewed": 7,
-    "fullRecordingSummariesPending": 18,
+    "fullRecordingSummariesPending": 19,
     "fullAnalysisComplete": false,
     "examplesAreInstructorVerbatim": false,
     "liveGoogleResultsChecked": false,
-    "checkedAt": "2026-10-18",
+    "checkedAt": "2026-10-19",
     "availableTranscriptSummariesReviewed": 8
   }
 }

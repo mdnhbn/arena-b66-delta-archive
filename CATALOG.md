@@ -1,8 +1,8 @@
 # Delta Archive — পোস্ট ও রিসোর্স ক্যাটালগ
 
-হালনাগাদ: 2026-10-16
+হালনাগাদ: 2026-10-19
 
-25টি মূল ক্লাস এবং 208টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
+26টি মূল ক্লাস এবং 212টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
 
 ## ক্লাসের সিরিয়াল
 
@@ -33,6 +33,7 @@
 | 23 | [Recon Part 2 — Web Application ও Directory Discovery](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-09) | 2026-10-09 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 24 | [SQLMap ও Dalfox — SQL Injection ও XSS Tools](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-11) | 2026-10-11 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 25 | [Nuclei ও Nikto — Scanner, Templates ও Report Verification](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-16) | 2026-10-16 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 26 | [Report Writing — Evidence, Findings ও Report Structure](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-18) | 2026-10-18 | যাচাই/হোস্টিং বাকি | পূর্ণ বিশ্লেষণ বাকি |
 
 ## সব পোস্ট ও রিসোর্স
 
@@ -1486,6 +1487,35 @@
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-virustotal-class07)
 - [অফিসিয়াল VirusTotal খুলুন ↗](https://www.virustotal.com/)
 - [অফিসিয়াল ব্যবহার ও sharing নির্দেশনা ↗](https://docs.virustotal.com/docs/how-it-works)
+
+### class-2026-10-18 — Report Writing — Evidence, Findings ও Report Structure
+
+বিষয়: Report Writing · তারিখ: 2026-10-18 · ধরন: recordings
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-18)
+
+### notes-class26-report-writing — ক্লাস ২৬ — Report Writing: রিসোর্স সূচি ও বিশ্লেষণের অবস্থা
+
+বিষয়: Report Writing · তারিখ: 2026-10-18 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/notes-class26-report-writing)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class26-report-writing.md)
+- [Report reference library ↗](https://www.pentestreports.com/)
+- [মূল সিলেবাস · পৃষ্ঠা ৫ ↗](https://arena-b66-delta-archive.vercel.app/documents/arena-course-syllabus-v7.pdf#page=5)
+
+### doc-class26-report-worksheet — ক্লাস ২৬ — Report Writing Worksheet
+
+বিষয়: Report Writing · তারিখ: 2026-10-18 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/doc-class26-report-worksheet)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class26-report-worksheet.md)
+
+### resource-class26-pentestreports — PentestReports — Public Report ও Template Library
+
+বিষয়: Report Writing · তারিখ: 2026-10-18 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/resource-class26-pentestreports)
+- [Report library খুলুন ↗](https://www.pentestreports.com/)
 
 ## অফিসিয়াল সিলেবাস
 

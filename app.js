@@ -62,6 +62,7 @@ const learningThemes={
  'PortSwigger Labs':{key:'proxy',glyph:'⌘',label:'LAB / PRACTICE',nodes:['LEARN','TEST','REVIEW']},
  'Acunetix':{key:'scanner',glyph:'⌕',label:'SCAN / REVIEW',nodes:['TARGET','SCAN','REPORT']},
  'Vulnerability Scanning':{key:'scanner',glyph:'⌕',label:'SCAN / VERIFY',nodes:['SCOPE','SCAN','REVIEW']},
+ 'Report Writing':{key:'scanner',glyph:'▤',label:'FINDINGS / REPORT',nodes:['EVIDENCE','IMPACT','REMEDY']},
  'Linux & Scripting':{key:'terminal',glyph:'$_',label:'LINUX / COMMAND LINE',nodes:['SHELL','SCRIPT','PRACTICE']},
  'Malware Concepts':{key:'analysis',glyph:'◈',label:'BEHAVIOUR / ANALYSIS',nodes:['OBSERVE','ANALYSE','DEFEND']},
  'Malware Removal':{key:'analysis',glyph:'◈',label:'INSPECT / RECOVER',nodes:['INSPECT','CLEAN','VERIFY']},
