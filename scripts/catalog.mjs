@@ -13,7 +13,7 @@ export function renderCatalog(data){
     '|---|---|---|---|---|'];
   for(const record of records){
     const guide=entries.find(e=>e.id===record.searchStudyGuideId);
-    out.push(`| ${record.recordingSerial} | [${line(record.topicTitle||record.title)}](${ORIGIN}/#class/${encodeURIComponent(record.id)}) | ${line(record.classDate||record.date)||'যাচাই বাকি'} | ${record.videoStatus==='ready'?'হোস্ট করা আছে':'যাচাই/হোস্টিং বাকি'} | ${guide?.fullRecordingSummaryReviewed?'ট্রান্সক্রিপ্ট যাচাই হয়েছে':'পূর্ণ বিশ্লেষণ বাকি'} |`);
+    out.push(`| ${record.recordingSerial} | [${line(record.topicTitle||record.title)}](${ORIGIN}/#class/${encodeURIComponent(record.id)}) | ${line(record.classDate||record.date)||'যাচাই বাকি'} | ${record.videoStatus==='ready'?'হোস্ট করা আছে':record.videoStatus==='partially-ready'?'একটি অংশ হোস্ট করা; বাকি আছে':'যাচাই/হোস্টিং বাকি'} | ${guide?.fullRecordingSummaryReviewed?'ট্রান্সক্রিপ্ট যাচাই হয়েছে':'পূর্ণ বিশ্লেষণ বাকি'} |`);
   }
   out.push('','## সব পোস্ট ও রিসোর্স','');
   for(const entry of entries){

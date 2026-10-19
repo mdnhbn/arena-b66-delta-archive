@@ -7226,10 +7226,10 @@
       "duration": "22:31 + 1:13:08",
       "classDateVerified": true,
       "dateVerified": true,
-      "classDateVerification": "১৮ অক্টোবরের মূল পোস্ট/ক্লাস কথোপকথন এবং রবিবারের ক্লাস পরিচয় মিলেছে; recording screen clock আলাদাভাবে যাচাই বাকি।",
+      "classDateVerification": "মূল ১৮ অক্টোবরের পোস্ট, রবিবারের পরিচয় এবং দ্বিতীয় অংশের নির্বাচিত recording frame-এর Windows 18/10/2026 তারিখ মিলেছে।",
       "topicVerified": true,
-      "topicVerification": "মূল ক্লাস পোস্টে Report Writing বিষয় নিশ্চিত; পূর্ণ অধ্যায়ের বিশ্লেষণ বাকি।",
-      "text": "রবিবারের Report Writing ক্লাসের দুই Facebook replay পাওয়া গেছে। Report library ও নিজস্ব worksheet সংরক্ষিত; আলাদা video hosting ও পূর্ণ NotebookLM বিশ্লেষণ বাকি।",
+      "topicVerification": "মূল পোস্ট ও দ্বিতীয় অংশের পূর্ণ অডিওর বিষয় মিলেছে। প্রথম অংশে শুধু বিচ্ছিন্ন captions পাওয়া গেছে; পুরো ক্লাসের পূর্ণ analysis নয়।",
+      "text": "দ্বিতীয় অংশ Dailymotion-এ সংরক্ষিত; প্রথম ২২:৩১ আলাদা hosting বাকি। পাওয়া উৎস থেকে NotebookLM-ভিত্তিক পাঠনোট, একটি report-এর homework, worksheet ও tool-reference সংযুক্ত।",
       "links": [
         "https://www.facebook.com/thesamubin/videos/2460335754772902/",
         "https://www.facebook.com/thesamubin/videos/1705325477831840/"
@@ -7239,7 +7239,11 @@
           "label": "প্রথম অংশ",
           "url": "https://www.facebook.com/thesamubin/videos/2460335754772902/",
           "displayDuration": "22:31",
-          "playbackVerified": false
+          "playbackVerified": false,
+          "durationSeconds": 1351.167,
+          "resolution": "1280x720",
+          "sourcePlaybackSampleVerified": true,
+          "independentlyHosted": false
         },
         {
           "label": "পরের অংশ",
@@ -7247,31 +7251,66 @@
           "displayDuration": "1:13:08",
           "durationSeconds": 4388.1,
           "resolution": "1280x720",
-          "sourcePlaybackSampleVerified": true
+          "sourcePlaybackSampleVerified": true,
+          "independentlyHosted": true,
+          "hostedVideoId": "xbpo9ze"
         }
       ],
-      "videoStatus": "recording-pending",
+      "videoStatus": "partially-ready",
       "playbackVerified": false,
       "sourceRecordingAvailable": true,
       "sourceRecordingCheckedAt": "2026-10-19",
-      "recordingArchiveStatus": "source-replays-found-hosting-pending",
-      "videoUploadMessage": "Facebook-এর দুই replay পাওয়া গেছে। YouTube/Dailymotion-এ সংরক্ষণ এখনো সম্পন্ন হয়নি।",
+      "recordingArchiveStatus": "part2-hosted-part1-pending",
+      "videoUploadMessage": "দ্বিতীয় অংশ (১:১৩:০৮) এখানেই দেখা যাবে। প্রথম অংশের ২২:৩১ এখনো আলাদাভাবে সংরক্ষণ বাকি; নিচে মূল Facebook উৎস আছে।",
       "relatedResourceIds": [
         "notes-class26-report-writing",
         "doc-class26-report-worksheet",
-        "resource-class26-pentestreports"
+        "resource-class26-pentestreports",
+        "homework-class26-report",
+        "tools-class26-report-references"
       ],
       "searchStudyGuideId": "notes-class26-report-writing",
       "fullRecordingSummaryReviewed": false,
-      "availableTranscriptSummaryReviewed": false,
+      "availableTranscriptSummaryReviewed": true,
       "visualFullRecordingReviewed": false,
-      "homeworkStatus": "not-yet-verified-from-full-recording",
+      "homeworkStatus": "one-bug-report-confirmed-in-part2",
       "homeworkDeadline": null,
       "syllabusMapping": {
         "primaryStage": "Website Penetration Testing",
         "pdfPage": 5,
         "mappingType": "topic-match-full-coverage-not-yet-reviewed",
         "fullModuleComplete": false
+      },
+      "expectedVideoParts": 2,
+      "dailymotionVideos": [
+        {
+          "videoId": "xbpo9ze",
+          "privateId": "k72NUb18Tq3rEvLVKrw",
+          "label": "দ্বিতীয় অংশ · Report Writing (১:১৩:০৮)",
+          "visibility": "private",
+          "durationSeconds": 4388.1,
+          "part": 2,
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-19T19:05:19.337994+00:00"
+        }
+      ],
+      "recordingSourcePost": "https://www.facebook.com/groups/awsb66delta/posts/1684800149889240",
+      "originalRecordingUrl": "https://drive.google.com/file/d/1bHettqYVSC6NjUuZG8bcKk1YVAqceL5E/view",
+      "classDateEvidence": {
+        "method": "recording-screen-and-instructor-post",
+        "observedDate": "2026-10-18",
+        "checkedAt": "2026-10-19",
+        "scope": "Selected4200secondframe and sourcepost; no full visual review."
+      },
+      "transcriptAnalysis": {
+        "method": "NotebookLM-part2-audio-and-part1-sparse-captions-editorially-reviewed",
+        "part2AudioDurationSeconds": 4388.010688,
+        "part2TranscriptCharacters": 40711,
+        "part1CaptionStart": "00:09:37.500",
+        "part1CaptionEnd": "00:18:05.640",
+        "firstPartFullAudioReviewed": false,
+        "rawTranscriptPublic": false,
+        "reviewedAt": "2026-10-19"
       }
     },
     {
@@ -7284,18 +7323,18 @@
       "links": [],
       "videoStatus": "not-applicable",
       "id": "notes-class26-report-writing",
-      "title": "ক্লাস ২৬ — Report Writing: রিসোর্স সূচি ও বিশ্লেষণের অবস্থা",
+      "title": "ক্লাস ২৬ — Report Writing: পাঠনোট ও হোমওয়ার্ক",
       "category": "documents",
       "resourceKinds": [
         "notes",
         "documents"
       ],
-      "sourceType": "archive-source-index-awaiting-full-analysis",
-      "noteText": "ক্লাস ২৬ — Report Writing · রবিবার, ১৮ অক্টোবর ২০২৬\n\nবর্তমানে সংরক্ষিত তথ্য\nপ্রশিক্ষক Syed Sakib Alam Mubin-এর Facebook পোস্টে Report Writing বিষয় নিশ্চিত। দুটি replay পাওয়া গেছে: প্রথম অংশ ২২:৩১, পরের অংশ ১:১৩:০৮। পরের অংশের প্রকৃত player duration ৪৩৮৮.১ সেকেন্ড ও resolution 1280×720; playback এগোতে দেখা হয়েছে। প্রথম অংশের দৈর্ঘ্য group player-এর display অনুযায়ী। এগুলো অবিচ্ছিন্ন পূর্ণ ক্লাসের সব মিনিট—এমন নিশ্চয়তা দেওয়া হচ্ছে না।\n\nসংরক্ষণের অবস্থা\nমূল দুই ভিডিওর লিংক নিচে আছে। YouTube/Dailymotion mirror এখনো যোগ হয়নি; সাইটের player-ready বা upload-processing হিসেবে দেখানো হয়নি। পূর্ণ অডিও NotebookLM-এ বিশ্লেষণ, বিস্তারিত শিক্ষকভিত্তিক পাঠনোট, নির্দিষ্ট homework ও deadline যাচাই বাকি। এই প্রাথমিক সূচিকে পূর্ণ ভিডিও-সারাংশ হিসেবে ব্যবহার করবেন না।\n\nরিপোর্টের রেফারেন্স লাইব্রেরি\nগ্রুপ চ্যাটে PentestReports.com লিংক শেয়ার হয়েছে। সাইটটি public penetration-test report, template ও অন্যান্য security resource-এর সূচি হিসেবে দেখা গেছে। নিচের রিসোর্স কার্ড থেকে পরিষ্কার মূল লিংক খুলতে পারবেন; Facebook tracking link সংরক্ষণ করা হয়নি। এই পর্যায়ে লিংকটি শিক্ষক সরাসরি দিয়েছেন—এমন attribution যাচাই হয়নি। অন্য প্রতিষ্ঠানের report নিজের করা কাজ বা নিজের client-এর তথ্য হিসেবে ব্যবহার করবেন না। মূল report-এর ব্যবহারবিধি ও লেখকের attribution দেখুন।\n\nনিজস্ব সহায়ক worksheet\nডকুমেন্ট ট্যাবে Scope → Evidence → Impact → Remediation → Retest সাজানোর একটি ডাউনলোডযোগ্য Markdown worksheet রাখা হয়েছে। এটি আর্কাইভের নিজস্ব সহায়ক সংযোজন, শিক্ষকপ্রদত্ত মূল document নয়। কোনো live client data বা private report এতে দেওয়া হয়নি।\n\nসিলেবাসের সঙ্গে মিল\nঅফিসিয়াল Version 7.0 PDF পৃষ্ঠা ৫-এর Website Penetration Testing অংশের scope/process ও tools/manual process-এর সঙ্গে report-writing বিষয়ের সম্পর্ক আছে। Roadmap-এ এই ক্লাস সেই অংশে যুক্ত করা হয়েছে। শুধু এই শিরোনাম দেখে HackerOne/Bugcrowd-এর First Bug Report বা পুরো pentest module সম্পন্ন হিসেবে চিহ্নিত করা হয়নি; পূর্ণ রেকর্ডিং বিশ্লেষণের পর coverage সংশোধন হবে।\n\nভিডিও — প্রথম অংশ: https://www.facebook.com/thesamubin/videos/2460335754772902/\nভিডিও — পরের অংশ: https://www.facebook.com/thesamubin/videos/1705325477831840/\nমূল পোস্ট: https://www.facebook.com/groups/awsb66delta/posts/1684276329941622/\nরেফারেন্স: https://www.pentestreports.com/\n\nযাচাই: ১৯ অক্টোবর ২০২৬। ক্লাসের তারিখ ১৮ অক্টোবর, রবিবার; পোস্ট ও ওই দিনের class conversation অনুযায়ী। Recording screen clock আলাদাভাবে যাচাই বাকি। নিচের search উদাহরণগুলো আর্কাইভের যোগ করা reference search; শিক্ষকের হুবহু dork বা target list নয়।\n",
-      "text": "দুই replay ও শেয়ার করা reference-এর যাচাইকৃত সূচি; পূর্ণ NotebookLM নোট এখনো বাকি।",
+      "sourceType": "notebooklm-part2-full-audio-part1-partial-captions",
+      "noteText": "রবিবার, ১৮ অক্টোবর ২০২৬ · প্রশিক্ষক: Syed Sakib Alam Mubin\n\nপর্যালোচনার সীমা\nদ্বিতীয় অংশের সম্পূর্ণ ৭৩:০৮ অডিও (৪৩৮৮.০১১ সেকেন্ড) NotebookLM-এ বিশ্লেষণ করা হয়েছে। প্রথম ২২:৩১ ভিডিওর শুধু ০৯:৩৭.৫০০–১৮:০৫.৬৪০-এর বিচ্ছিন্ন Facebook স্বয়ংক্রিয় captions পাওয়া গেছে। তাই এটি পাওয়া উৎসের সম্পাদিত নোট; পুরো দুই অংশের সম্পূর্ণ অডিও বা প্রতিটি ভিডিও ফ্রেম দেখার দাবি নয়। স্বয়ংক্রিয় লেখায় বানান ও নামের ভুল থাকতে পারে। দ্বিতীয় অংশ Dailymotion-এ সংরক্ষিত; প্রথম অংশের আলাদা hosting বাকি।\n\n১. বাগ রিপোর্ট ও পূর্ণ pentest report\nবাগ রিপোর্টে একটি নির্দিষ্ট finding-এর প্রমাণ ও প্রভাব বোঝানো হয়। পূর্ণ pentest report-এ কাজের scope, পদ্ধতি, একাধিক finding, সীমাবদ্ধতা এবং সামগ্রিক ফল সাজানো হয়। কোন audience-এর জন্য লেখা হচ্ছে, সেই অনুযায়ী ভাষা ও বিস্তারিত বাছতে হবে। শুধু scanner-এর output পাঠানো আর যাচাই করা নিজস্ব report লেখা একই কাজ নয়।\n\n২. একটি finding-এর লেখার ধারা\nস্পষ্ট title/name → সংক্ষিপ্ত description → অনুমোদিত affected component → যাচাইকৃত evidence ও reproduction-এর বিবরণ → পরীক্ষার environment → impact → remediation → প্রয়োজনীয় screenshot/সংক্ষিপ্ত PoC সংযুক্তি। ভিডিওতে প্রতিটি ধাপ পরিষ্কারভাবে লেখার গুরুত্ব এসেছে। এখানে বাস্তব target, exploit payload, credential বা ব্যক্তিগত IP প্রকাশ করা হয়নি। Public নমুনায় ব্যক্তিগত তথ্য ও secret ঢেকে দিন; অনুমোদিত recipient-কে প্রয়োজন অনুযায়ী মূল evidence দিন।\n\n৩. Executive Summary ও Technical Details\nExecutive Summary অকারিগরি পাঠককে scope, গুরুত্বপূর্ণ ঝুঁকি ও পরবর্তী করণীয় অল্প কথায় বোঝাবে। Technical অংশে developer ও security reviewer-এর জন্য finding, প্রমাণ, environment, সীমা এবং সংশোধনের কারণ থাকবে। Cover page, confidentiality notice, document details/version, team roles, table of contents, findings ও test-case তালিকার নমুনা দেখানো হয়েছে। অন্য প্রতিষ্ঠানের নাম, logo বা ফল নিজের কাজ হিসেবে ব্যবহার করবেন না।\n\n৪. Severity, impact ও ফল যাচাই\nCritical/High/Medium/Low/Informational শ্রেণি এবং CVSS আলোচনায় এসেছে। Score finding-এর বাস্তব পরিস্থিতি ও প্রভাবের সঙ্গে মিলিয়ে ব্যাখ্যা করতে হবে; AI-এর বলা সংখ্যা একা প্রমাণ নয়। Scanner alert নিশ্চিত bug নয়; manual যাচাই ও scope দরকার। কোনো নির্দিষ্ট test-case সংখ্যা করলেই সব vulnerability ধরা পড়বে—এমন নিশ্চয়তা নেই। Impact না দেখানো আর finding আদৌ নেই—এই দুই সিদ্ধান্তও এক নয়; platform policy ও পরীক্ষার সীমা বিবেচ্য।\n\n৫. টুলস, AI ও রেফারেন্সের ভূমিকা\nক্লাসে Acunetix, Nuclei, Nikto, Nessus, SQLmap, Burp Suite, OWASP ZAP ও Postman-এর কথা এসেছে। এগুলো ভিন্ন কাজের টুল; সবগুলো নতুন করে install করা এই ক্লাসের homework হিসেবে ঘোষণা পাওয়া যায়নি। আগের ক্লাসের tool cards ও official setup ব্যবহার করুন। ChatGPT, Gemini ও DeepSeek লেখার সহায়ক হিসেবে এসেছে; তাদের লেখা, score বা remediation নিজে যাচাই করতে হবে। Client-এর গোপন তথ্য অনুমতি ছাড়া AI-তে দেবেন না।\n\n৬. Report template ও মূল ফাইল\nগ্রুপে শেয়ার করা PentestReports.com report/template library সংযুক্ত আছে। ভিডিওতে Astra-র report format আলোচিত এবং শিক্ষকের PC-তে “BUG reportt.pdf” নামের চার পৃষ্ঠার sample দেখা গেছে। শিক্ষক demo দেবেন বলেছেন; ওই মূল PDF-এর downloadable copy পাওয়া যায়নি। নিচের নিজস্ব worksheet সেই মূল PDF নয়। কোর্সের ভবিষ্যৎ update-এ মূল ফাইল পাওয়া গেলে আলাদা provenance দিয়ে যুক্ত করা যাবে।\n\n৭. শিক্ষকের নির্ধারিত হোমওয়ার্ক\nনিজেদের আগের homework/practice থেকে একটি সাইটের একটি finding বেছে একটি নির্দিষ্ট bug report তৈরি করে submit করতে বলেছেন। সাধারণ scanner dump-এর বদলে নিজস্ব সাজানো report দরকার। জমার সংখ্যা: একটি report। নির্দিষ্ট deadline, জমার channel বা বাধ্যতামূলক file extension এই পর্যালোচিত অংশে নিশ্চিত হয়নি। আর্কাইভের scope নির্দেশনা: কেবল নিজের বা স্পষ্ট অনুমতিপ্রাপ্ত lab-এর কাজ ব্যবহার করুন। ডকুমেন্ট ট্যাবে homework ও worksheet আলাদা আছে।\n\n৮. ঘোষণা ও পরের বিষয়\nকোথায় client/site পাওয়া যায় এবং bug-bounty platform নিয়ে পরের ক্লাসে আলোচনা করার কথা এসেছে। HackerOne, Bugcrowd, Intigriti ও YesWeHack-এর পরিচয় উল্লেখ হয়েছে; account খোলা বা প্রথম report সত্যি submit করার পূর্ণ প্রক্রিয়া সম্পন্ন হয়েছে—এমন প্রমাণ পাওয়া যায়নি। তাই সিলেবাসে এগুলো পরিচিতি/আংশিক অগ্রগতি। নির্দিষ্ট পরের তারিখ নতুন করে অনুমান করা হয়নি।\n\nআর্কাইভের যোগ করা অনুশীলন — শিক্ষকের নতুন assignment নয়\n১. অনুমোদিত lab-এর একটি finding নিয়ে worksheet পূরণ করুন; evidence-এর সঙ্গে প্রতিটি দাবি মিলিয়ে দেখুন।\n২. একই finding-এর জন্য তিন বাক্যের executive summary ও আলাদা technical explanation লিখুন।\n৩. প্রকাশের আগে report থেকে ব্যক্তিগত তথ্য/secret সরিয়ে source attribution ও remediation যাচাই করুন।\n\nপুনরালোচনার প্রশ্ন\nবাগ রিপোর্ট ও পূর্ণ pentest report-এর পার্থক্য কী? Scanner alert যাচাই ছাড়া নিশ্চিত finding বলা যায় না কেন? Executive Summary কার জন্য? Severity-এর ব্যাখ্যা ছাড়া শুধু score দিলে কী অসম্পূর্ণ থাকে? মূল teacher PDF ও আর্কাইভের worksheet কীভাবে আলাদা করবেন?\n\nসিলেবাসের সঙ্গে মিল\nঅফিসিয়াল Version 7.0 PDF পৃষ্ঠা ৫-এর Website Penetration Testing-এর scope/process ও tools/manual process-এর সঙ্গে এই report-writing lesson মেলে। একই পৃষ্ঠার HackerOne/Bugcrowd অংশে platform পরিচিতি ও report ধারণার আংশিক অগ্রগতি যুক্ত করা হয়েছে। সম্পূর্ণ module বা platform-এ First Bug Report জমা complete হিসেবে চিহ্নিত নয়।\n\nউৎস: ক্লাসের মূল দুই Facebook replay, শিক্ষকপ্রদত্ত ৭৩:০৮ recording, NotebookLM-এর Part2 transcript/summary, Part1-এর পাওয়া captions এবং নির্বাচিত recording-screen date। যাচাই: ১৯ অক্টোবর ২০২৬। Raw transcript/ব্যক্তিগত report public করা হয়নি। নিচের চারটি search উদাহরণ আর্কাইভের reference search; শিক্ষক-উদ্ধৃত dork বা vulnerable-site তালিকা নয়।\n",
+      "text": "দ্বিতীয় অংশের পূর্ণ অডিও ও প্রথম অংশের পাওয়া captions থেকে সম্পাদিত নোট; পুরো দুই অংশের পূর্ণ বিশ্লেষণ নয়।",
       "noteUrl": "/notes/class26-report-writing.md",
       "fullRecordingSummaryReviewed": false,
-      "availableTranscriptSummaryReviewed": false,
+      "availableTranscriptSummaryReviewed": true,
       "visualFullRecordingReviewed": false,
       "examplesAreInstructorVerbatim": false,
       "matchedSiteCount": null,
@@ -7330,7 +7369,7 @@
           "scope": "official-documentation-only"
         }
       ],
-      "originalInstructorFileStatus": "not-yet-found",
+      "originalInstructorFileStatus": "teacher-demo-pdf-promised-download-not-found",
       "downloadLinks": [
         {
           "label": "Report reference library ↗",
@@ -7340,7 +7379,10 @@
           "label": "মূল সিলেবাস · পৃষ্ঠা ৫ ↗",
           "url": "/documents/arena-course-syllabus-v7.pdf#page=5"
         }
-      ]
+      ],
+      "summarySourceCoverage": "Part2 full73:08;Part1 sparse09:37.500-18:05.640 only",
+      "homeworkVerified": true,
+      "homeworkDeadline": null
     },
     {
       "author": "Delta Archive",
@@ -7430,6 +7472,75 @@
       ],
       "verifiedAt": "2026-10-19",
       "verificationScope": "FoxyProxy name matched to complete Class08 transcript. Three store URLs resolved from official vendor Downloads page. No extension installed or archive binary mirrored."
+    },
+    {
+      "author": "Delta Archive",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "topic": "Report Writing",
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "id": "homework-class26-report",
+      "title": "ক্লাস ২৬ — একটি বাগ রিপোর্ট: শিক্ষকের হোমওয়ার্ক",
+      "category": "homework",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "sourceType": "instructor-assignment-confirmed-from-part2-audio",
+      "text": "আগের practice থেকে একটি finding নিয়ে একটি report জমা। নির্দিষ্ট deadline, channel ও file extension নিশ্চিত হয়নি।",
+      "noteText": "ক্লাস: ১৮ অক্টোবর ২০২৬, Report Writing।\n\nশিক্ষকের নির্দেশ: নিজেদের আগের homework/practice-এর একটি finding বেছে একটি নির্দিষ্ট bug report তৈরি করে submit করতে হবে। জমার সংখ্যা: একটি report। নিজের মতো report design আগে থেকে প্রস্তুত রাখতে বলেছেন। শুধু scanner-এর raw report-কে মূল report হিসেবে পাঠাবেন না; ফল যাচাই করে নিজের ব্যাখ্যা লিখুন।\n\nনির্দিষ্ট deadline, submission channel বা বাধ্যতামূলক file extension এই পর্যালোচিত অডিওতে নিশ্চিত হয়নি। শিক্ষক demo report দেবেন বলেছেন; মূল downloadable PDF এখনো পাওয়া যায়নি।\n\nআর্কাইভের সহায়ক checklist — শিক্ষক-নির্ধারিত অতিরিক্ত grading rule নয়:\n- নিজের বা অনুমতিপ্রাপ্ত lab-এর একটি finding ব্যবহার করুন।\n- Title, description, evidence, environment, impact ও remediation সাজান।\n- Scanner output ও AI-এর বক্তব্যের সত্যতা যাচাই করুন।\n- Public কপিতে ব্যক্তিগত তথ্য, credential ও client secret ঢেকে দিন।\n- পাশের Report Writing Worksheet নিজের কাজ সাজাতে ব্যবহার করতে পারেন; এটি শিক্ষকপ্রদত্ত মূল demo নয়।\n\nউৎসের সীমা: দ্বিতীয় অংশের সম্পূর্ণ ৭৩:০৮ অডিও ও তার শেষের পুনরাবৃত্ত homework নির্দেশ থেকে যাচাই। প্রথম অংশের পূর্ণ অডিও বিশ্লেষণ এখনো হয়নি।\n",
+      "noteUrl": "/notes/class26-homework-report.md",
+      "documentUrl": "/notes/class26-homework-report.md",
+      "mandatoryNewAssignment": true,
+      "reportCount": 1,
+      "submissionDeadline": null,
+      "fullRecordingSummaryReviewed": false,
+      "originalInstructorFile": false
+    },
+    {
+      "author": "Delta Archive",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "topic": "Report Writing",
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "id": "tools-class26-report-references",
+      "title": "ক্লাস ২৬ — উল্লেখিত টুলস ও রিপোর্টের রেফারেন্স",
+      "category": "tools",
+      "resourceKinds": [
+        "tools",
+        "documents"
+      ],
+      "sourceType": "instructor-tool-mentions-with-archive-navigation",
+      "text": "Acunetix, Nuclei, Nikto, Nessus, SQLmap, Burp Suite, OWASP ZAP ও Postman ভিন্ন কাজের উদাহরণ হিসেবে এসেছে; সবগুলো নতুন install করার নির্দেশ নয়। AI লেখার সহায়ক, তার output যাচাই দরকার। মূল teacher PDF এখনো পাওয়া যায়নি।",
+      "downloadLinks": [
+        {
+          "label": "ক্লাস ২৫ · Nuclei/Nikto setup ও official links",
+          "url": "https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-16?tab=tools"
+        },
+        {
+          "label": "ক্লাস ২৪ · SQLmap ও Dalfox",
+          "url": "https://arena-b66-delta-archive.vercel.app/#class/class-2026-10-11?tab=tools"
+        },
+        {
+          "label": "Burp Suite official setup",
+          "url": "https://arena-b66-delta-archive.vercel.app/#resource/tool-burp-official"
+        },
+        {
+          "label": "ক্লাস ১২ · Acunetix resource status",
+          "url": "https://arena-b66-delta-archive.vercel.app/#class/entry-112?tab=tools"
+        },
+        {
+          "label": "Report/template library",
+          "url": "https://www.pentestreports.com/"
+        }
+      ],
+      "originalInstructorFile": false
     }
   ],
   "schedule": {
@@ -7826,8 +7937,8 @@
           "class-2026-10-16",
           "class-2026-10-18"
         ],
-        "summary": "Acunetix, web lab এবং ১৬ অক্টোবরের Nuclei/Nikto ক্লাসে scanner, template, output report ও ফল যাচাই আলোচনা পাওয়া গেছে। Official PDF পৃষ্ঠা ৫-এর Website Penetration Testing Tools ও tools/manual process-এর সঙ্গে বিষয়ভিত্তিক মিল; PDF-তে Nuclei/Nikto নাম আলাদা করে নেই। ১৮ অক্টোবরের dedicated Report Writing ক্লাসের দুই source replay পাওয়া গেছে; reference library ও worksheet যুক্ত।",
-        "remaining": "পূর্ণ methodology/project এবং নতুন Report Writing ক্লাসের বিস্তারিত coverage যাচাই বাকি; ক্লাসের শিরোনাম পাওয়াকে পুরো module সম্পন্ন ধরা হয়নি।",
+        "summary": "Acunetix, web lab এবং ১৬ অক্টোবরের Nuclei/Nikto ক্লাসে scanner, template, output report ও ফল যাচাই আলোচনা পাওয়া গেছে। Official PDF পৃষ্ঠা ৫-এর Website Penetration Testing Tools ও tools/manual process-এর সঙ্গে বিষয়ভিত্তিক মিল; PDF-তে Nuclei/Nikto নাম আলাদা করে নেই। ১৮ অক্টোবরের Report Writing-এর দ্বিতীয় অংশ বিশ্লেষণে report structure, evidence, impact, remediation ও একটি report-এর homework নিশ্চিত; worksheet যুক্ত।",
+        "remaining": "পূর্ণ methodology/project এবং প্রথম replay-এর সম্পূর্ণ অডিও coverage যাচাই বাকি।",
         "officialTopics": [
           "Website Penetration Testing",
           "Website Penetration Testing Tools",
@@ -7859,15 +7970,18 @@
       {
         "week": "১৬তম সপ্তাহ",
         "title": "HackerOne ও Bugcrowd",
-        "status": "pending",
-        "classIds": [],
-        "summary": "১৮ অক্টোবর generic Report Writing ক্লাস পাওয়া গেছে। HackerOne/Bugcrowd platform-specific First Bug Report-এর coverage পূর্ণ বিশ্লেষণ ছাড়া নিশ্চিত নয়।",
-        "remaining": null,
+        "status": "partial",
+        "classIds": [
+          "class-2026-10-18"
+        ],
+        "summary": "১৮ অক্টোবরের ক্লাসে HackerOne, Bugcrowd ও অন্যান্য platform পরিচয় এবং bug report-এর কাঠামো আলোচনা হয়েছে। Platform-এ প্রকৃত First Bug Report submit করার পূর্ণ প্রক্রিয়া যাচাই হয়নি।",
+        "remaining": "Platform-specific setup ও First Bug Report submission coverage বাকি।",
         "officialTopics": [
           "Outsourcing in Hackerone and Bugcroud",
           "First Bug Report in Hackerone and Bugcroud"
         ],
-        "pdfPage": 5
+        "pdfPage": 5,
+        "verifiedAt": "2026-10-19"
       },
       {
         "week": "কোর্সের শেষ ধাপ",
