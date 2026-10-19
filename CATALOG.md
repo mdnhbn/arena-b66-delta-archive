@@ -45,7 +45,7 @@
 
 ### entry-16 — হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা
 
-বিষয়: Orientation · তারিখ: 2026-07-17 · ধরন: classes
+বিষয়: Orientation · তারিখ: 2026-07-19 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-16)
 
@@ -175,7 +175,7 @@
 
 ### entry-3 — Noredirect Practice
 
-বিষয়: Session & Redirect · তারিখ: 2026-08-02 · ধরন: information
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-3)
 
@@ -229,7 +229,7 @@
 
 ### entry-87 — Errorbased SQLi
 
-বিষয়: SQL Injection · তারিখ: 2026-08-15 · ধরন: classes
+বিষয়: SQL Injection · তারিখ: 2026-08-14 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-87)
 
@@ -313,7 +313,7 @@
 
 ### entry-130 — LFI/LFD Basics
 
-বিষয়: LFI / LFD · তারিখ: 2026-09-19 · ধরন: classes
+বিষয়: LFI / LFD · তারিখ: 2026-09-18 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-130)
 
@@ -383,13 +383,13 @@
 
 ### entry-23 — আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!
 
-বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
+বিষয়:  · তারিখ: 2026-07-19 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-23)
 
 ### entry-24 — Basic SQLI practice video
 
-বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: information
+বিষয়: SQL Injection · তারিখ: 2026-07-24 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-24)
 
@@ -401,7 +401,7 @@
 
 ### entry-27 — হেল্প পোস্ট
 
-বিষয়:  · তারিখ: যাচাই বাকি · ধরন: classes
+বিষয়:  · তারিখ: 2026-07-19 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-27)
 
@@ -562,7 +562,7 @@
 
 ### entry-60 — VIDEO FOR NO-REDIRECT
 
-বিষয়: Session & Redirect · তারিখ: যাচাই বাকি · ধরন: classes
+বিষয়: Session & Redirect · তারিখ: 2026-07-31 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-60)
 
@@ -587,7 +587,7 @@
 
 ### entry-66 — Manual SQLI practice video
 
-বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: classes
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-66)
 
@@ -599,7 +599,7 @@
 
 ### entry-68 — Manual SQL Injection practice output
 
-বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: information
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-68)
 
@@ -617,7 +617,7 @@
 
 ### entry-71 — Understanding Google dork
 
-বিষয়: Google Dork · তারিখ: যাচাই বাকি · ধরন: information
+বিষয়: Google Dork · তারিখ: 2026-08-02 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-71)
 
@@ -698,7 +698,7 @@
 
 ### entry-92 — Post Based SQLi
 
-বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: classes
+বিষয়: SQL Injection · তারিখ: 2026-08-16 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-92)
 
@@ -729,7 +729,7 @@
 
 ### entry-97 — Deface page making
 
-বিষয়: File Upload · তারিখ: 2026-08-21 · ধরন: information
+বিষয়: File Upload · তারিখ: 2026-08-21 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-97)
 
@@ -747,13 +747,13 @@
 
 ### entry-101 — up_shell_fight
 
-বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: information
+বিষয়: File Upload · তারিখ: 2026-08-21 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-101)
 
 ### entry-102 — Upload vulnerability
 
-বিষয়: File Upload · তারিখ: যাচাই বাকি · ধরন: classes
+বিষয়: File Upload · তারিখ: 2026-08-23 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-102)
 
@@ -801,7 +801,7 @@
 
 ### entry-111 — Deepseek SSRF --BUT sandbox :(
 
-বিষয়:  · তারিখ: যাচাই বাকি · ধরন: information
+বিষয়:  · তারিখ: যাচাই বাকি · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-111)
 
@@ -823,6 +823,7 @@
 বিষয়: Linux & Scripting · তারিখ: যাচাই বাকি · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-116)
+- [একই বিষয় · যাচাইকৃত ক্লাস ১৪ দেখুন](https://arena-b66-delta-archive.vercel.app/#class/entry-122)
 
 ### entry-118 — Batch Scripting Resource
 
@@ -927,7 +928,7 @@
 
 ### entry-141 — LFI to RFI
 
-বিষয়: LFI / LFD · তারিখ: যাচাই বাকি · ধরন: classes
+বিষয়: LFI / LFD · তারিখ: 2026-09-25 · ধরন: classes
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-141)
 

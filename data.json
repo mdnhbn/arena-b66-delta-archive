@@ -34,7 +34,8 @@
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1601798241522765",
       "text": "আসসালামু আলাইকুম\nএরিনা ওয়েব সিকিউরিটি ৬৬ তম ডেল্টা ব্যাচের সকলকে জানাই স্বাগতম। আগামী রবিবার রাত ৯ টা ৩০ মিনিটে আপনাদের ওরিয়েন্টেশন ক্লাস আনুষ্ঠানিকভাবে অনুষ্ঠিত হবে। তাই সবাইকে যথাসময়ে ফেসবুক গ্রুপে ফলোআপ রাখার জন্য বলা হচ্ছে। এর পাশাপাশি\nআসুন দেখে নেই কিভাবে আমরা আমাদের হোমওয়ার্ক প্যানেল ব্যবহার করতে পারি।\nhttps://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view?usp=sharing\n0:00 / 14:38",
       "links": [
-        "https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view"
+        "https://drive.google.com/file/d/1vYQORaAT5jfQJY9BCYIR-sDQR671CzsD/view",
+        "https://www.facebook.com/romanmoonshi/videos/882035054515256/"
       ],
       "topic": "Orientation",
       "category": "classes",
@@ -46,7 +47,15 @@
       "uploadNote": "Unlisted playback verified on 2026-10-05",
       "playbackVerified": true,
       "duration": "15:19",
-      "localCopyStatus": "recycle-bin"
+      "localCopyStatus": "recycle-bin",
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/882035054515256/",
+      "sourceVideoId": "882035054515256",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "relatedRecordingId": "entry-20",
+      "classDate": "2026-07-19",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-14",
@@ -101,7 +110,10 @@
       "uploadNote": "Unlisted recording plays successfully.",
       "relatedResourceIds": [
         "entry-22",
-        "notes-class01-google-dorks"
+        "notes-class01-google-dorks",
+        "entry-27",
+        "entry-23",
+        "entry-16"
       ],
       "playbackVerified": true,
       "localCopyStatus": "Removed from task folder; sent to Recycle Bin after verified 720p playback.",
@@ -259,7 +271,8 @@
         "scope": "selected video segments; full-duration viewing not claimed"
       },
       "relatedResourceIds": [
-        "notes-class02-google-dorks"
+        "notes-class02-google-dorks",
+        "entry-24"
       ],
       "searchStudyGuideId": "notes-class02-google-dorks"
     },
@@ -547,7 +560,9 @@
         "scope": "selected video segments; full-duration viewing not claimed"
       },
       "relatedResourceIds": [
-        "notes-class04-google-dorks"
+        "notes-class04-google-dorks",
+        "entry-3",
+        "entry-60"
       ],
       "searchStudyGuideId": "notes-class04-google-dorks",
       "fullRecordingSummaryReviewed": true,
@@ -609,14 +624,27 @@
       "observedDate": "August 2",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1614257613610161",
       "text": "Noredirect Practice",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/3683264715162244/"
+      ],
       "topic": "Session & Redirect",
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 2,
-      "dateVerified": true
+      "dateVerified": true,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/3683264715162244/",
+      "sourceVideoId": "3683264715162244",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/3683264715162244/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-58",
+      "classDate": "2026-07-31",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-62",
@@ -682,7 +710,10 @@
       },
       "relatedResourceIds": [
         "notes-class05-google-dorks",
-        "tool-link-gopher-class05"
+        "tool-link-gopher-class05",
+        "entry-71",
+        "entry-68",
+        "entry-66"
       ],
       "searchStudyGuideId": "notes-class05-google-dorks",
       "fullRecordingSummaryReviewed": true,
@@ -853,7 +884,8 @@
       },
       "relatedResourceIds": [
         "notes-class07-google-dorks",
-        "tool-virustotal-class07"
+        "tool-virustotal-class07",
+        "entry-87"
       ],
       "searchStudyGuideId": "notes-class07-google-dorks",
       "fullRecordingSummaryReviewed": true,
@@ -868,14 +900,27 @@
       "observedDate": "August 15",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1626383115730944",
       "text": "Errorbased SQLi\n0:00 / 18:45",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1380543414026433/"
+      ],
       "topic": "SQL Injection",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 86,
-      "dateVerified": true
+      "dateVerified": true,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1380543414026433/",
+      "sourceVideoId": "1380543414026433",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1380543414026433/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-88",
+      "classDate": "2026-08-14",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-90",
@@ -918,7 +963,8 @@
       },
       "relatedResourceIds": [
         "notes-class08-google-dorks",
-        "tool-foxyproxy-class08"
+        "tool-foxyproxy-class08",
+        "entry-92"
       ],
       "searchStudyGuideId": "notes-class08-google-dorks",
       "fullRecordingSummaryReviewed": true,
@@ -963,7 +1009,9 @@
       },
       "relatedResourceIds": [
         "msg-deface-example",
-        "notes-class09-google-dorks"
+        "notes-class09-google-dorks",
+        "entry-101",
+        "entry-97"
       ],
       "classDateVerified": true,
       "classDateVerification": "ভিডিওর পর্দায় দেখা তারিখের সঙ্গে মিলিয়ে যাচাই করা হয়েছে।",
@@ -1041,7 +1089,8 @@
         "scope": "selected video segments; full-duration viewing not claimed"
       },
       "relatedResourceIds": [
-        "notes-class10-google-dorks"
+        "notes-class10-google-dorks",
+        "entry-102"
       ],
       "searchStudyGuideId": "notes-class10-google-dorks"
     },
@@ -1443,7 +1492,8 @@
         "scope": "selected video segments; full-duration viewing not claimed"
       },
       "relatedResourceIds": [
-        "notes-class17-google-dorks"
+        "notes-class17-google-dorks",
+        "entry-130"
       ],
       "searchStudyGuideId": "notes-class17-google-dorks"
     },
@@ -1455,14 +1505,27 @@
       "observedDate": "September 19 at 8:06 AM",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1656477746054814",
       "text": "LFI/LFD Basics\n0:00 / 16:36",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/3533934326788489/"
+      ],
       "topic": "LFI / LFD",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 129,
-      "dateVerified": true
+      "dateVerified": true,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/3533934326788489/",
+      "sourceVideoId": "3533934326788489",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/3533934326788489/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-132",
+      "classDate": "2026-09-18",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-134",
@@ -1576,7 +1639,8 @@
         "scope": "selected video segments; full-duration viewing not claimed"
       },
       "relatedResourceIds": [
-        "notes-class19-google-dorks"
+        "notes-class19-google-dorks",
+        "entry-141"
       ],
       "searchStudyGuideId": "notes-class19-google-dorks"
     },
@@ -1823,14 +1887,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1604209217948334",
       "text": "আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!\n0:00 / 3:35",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1029113189865247/"
+      ],
       "topic": null,
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 22,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1029113189865247/",
+      "sourceVideoId": "1029113189865247",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1029113189865247/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-20",
+      "classDate": "2026-07-19",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-24",
@@ -1840,14 +1917,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1604211184614804",
       "text": "Basic SQLI practice video",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/4391110361157533/"
+      ],
       "topic": "SQL Injection",
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 23,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/4391110361157533/",
+      "sourceVideoId": "4391110361157533",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/4391110361157533/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-40",
+      "classDate": "2026-07-24",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-26",
@@ -1881,14 +1971,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1604211724614750",
       "text": "হেল্প পোস্ট\nগ্রুপে অনেকেই রয়েছেন যাদের সিস্টেমে মাইক্রোসফট অফিস এপ্লিকেশন সেটআপ করা নেই। সেই ক্ষেত্রে তারা গুগল ডকস এর মাধ্যমে হোমওয়ার্ক এর জন্য পিডিএফ ফাইল তৈরি করে ব্যবহার করতে পারেন। এছাড়াও\nআসুন হোম ওয়ার্ক সাবমিট করার ফুল প্রসেস টি দেখে নেই\nধন্যবাদ ...\n0:00 / 0:00",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1653359195759972/"
+      ],
       "topic": null,
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 26,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1653359195759972/",
+      "sourceVideoId": "1653359195759972",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1653359195759972/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-20",
+      "classDate": "2026-07-19",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-28",
@@ -2378,15 +2481,44 @@
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1614257150276874",
-      "text": "VIDEO FOR NO-REDIRECT\nফাইনালী সাথে একটি পুরনো ভিডিও সংযুক্ত করে দিলাম\n( ভিডওটি ব্যাচ-২২ এর সময়ে, এখানে যে এক্সপ্লয়েটটি দেখানো হয়েছে সেটি পুরনো, নতুন এক্সপ্লোয়েটটি হ্যাকবারের সাথেই দেয়া আছে।)\nভিডিও এর HD Quality Copy - https://drive.google.com/file/d/1VA3BG_TVIl9yLDSDiIMGwTP2aVvPLgff/view\nEnjoy video\n0:00 / 0:00",
-      "links": [],
+      "text": "VIDEO FOR NO-REDIRECT\nফাইনালী সাথে একটি পুরনো ভিডিও সংযুক্ত করে দিলাম\n( ভিডওটি ব্যাচ-২২ এর সময়ে, এখানে যে এক্সপ্লয়েটটি দেখানো হয়েছে সেটি পুরনো, নতুন এক্সপ্লোয়েটটি হ্যাকবারের সাথেই দেয়া আছে।)\nভিডিও এর HD Quality Copy - https://drive.google.com/file/d/1VA3BG_TVIl9yLDSDiIMGwTP2aVvPLgff/view\nEnjoy video\n0:00 / 0:00\nমূল পোস্টে এটি Batch22-এর পুরোনো demo বলা হয়েছে; B66-এর live class নয়। শিক্ষকপ্রদত্ত HD original থেকে ১৬:৪৯ ভিডিও হোস্ট করা হয়েছে।",
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1560213568832056/"
+      ],
       "topic": "Session & Redirect",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "ready",
       "truncated": false,
       "collectionIndex": 59,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1560213568832056/",
+      "sourceVideoId": "1560213568832056",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1560213568832056/",
+      "videoUploadMessage": "পুরোনো Batch22-এর সহায়ক demo; B66-এর পূর্ণ live class নয়। HD কপি সংরক্ষিত।",
+      "relatedRecordingId": "entry-58",
+      "classDate": "2026-07-31",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।",
+      "playbackVerified": true,
+      "duration": "16:49",
+      "sourceDurationSeconds": 1008.69805,
+      "recordingArchiveStatus": "hosted-awaiting-production-sample",
+      "originalRecordingUrl": "https://drive.google.com/file/d/1VA3BG_TVIl9yLDSDiIMGwTP2aVvPLgff/view",
+      "dailymotionVideos": [
+        {
+          "videoId": "xbpoha2",
+          "privateId": "k7zGPjvDLgnj39LVMU2",
+          "label": "পুরোনো Batch22-এর সহায়ক demo · ১৬:৪৯",
+          "visibility": "private",
+          "durationSeconds": 1008.666667,
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-19T19:38:21.305775+00:00"
+        }
+      ]
     },
     {
       "id": "entry-61",
@@ -2468,14 +2600,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1615969490105640",
       "text": "Manual SQLI practice video\n0:00 / 0:00",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1036732242613799/"
+      ],
       "topic": "SQL Injection",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 65,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1036732242613799/",
+      "sourceVideoId": "1036732242613799",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1036732242613799/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-64",
+      "classDate": "2026-08-02",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-67",
@@ -2502,14 +2647,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1615974870105102",
       "text": "Manual SQL Injection practice output",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/2897732810606940/"
+      ],
       "topic": "SQL Injection",
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 67,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/2897732810606940/",
+      "sourceVideoId": "2897732810606940",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/2897732810606940/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-64",
+      "classDate": "2026-08-02",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-69",
@@ -2556,14 +2714,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1618321853203737",
       "text": "Understanding Google dork",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1775979490386291/"
+      ],
       "topic": "Google Dork",
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 70,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1775979490386291/",
+      "sourceVideoId": "1775979490386291",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1775979490386291/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-64",
+      "classDate": "2026-08-02",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-72",
@@ -2821,14 +2992,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1626383545730901",
       "text": "Post Based SQLi\n0:00 / 6:30",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/2099862794076516/"
+      ],
       "topic": "SQL Injection",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 91,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/2099862794076516/",
+      "sourceVideoId": "2099862794076516",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/2099862794076516/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-90",
+      "classDate": "2026-08-16",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-93",
@@ -2995,17 +3179,28 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1632429445126311",
       "text": "Deface page making",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/2153923032226655/"
+      ],
       "topic": "File Upload",
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 96,
       "dateVerified": false,
       "relatedRecordingId": "entry-99",
       "classDate": "2026-08-21",
-      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।"
+      "classDateVerification": "পোস্টে উল্লেখ করা নির্দিষ্ট ক্লাসের বিষয় ও যাচাই করা ক্লাস টপিক মিলিয়ে যুক্ত; পোস্টের তারিখ অনুমান করা হয়নি।",
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/2153923032226655/",
+      "sourceVideoId": "2153923032226655",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/2153923032226655/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-98",
@@ -3055,14 +3250,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1632440608458528",
       "text": "up_shell_fight",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1884289859211653/"
+      ],
       "topic": "File Upload",
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 100,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1884289859211653/",
+      "sourceVideoId": "1884289859211653",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1884289859211653/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-99",
+      "classDate": "2026-08-21",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-102",
@@ -3072,14 +3280,27 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1632429668459622",
       "text": "Upload vulnerability\n0:00 / 0:00",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1839602843679246/"
+      ],
       "topic": "File Upload",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 101,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1839602843679246/",
+      "sourceVideoId": "1839602843679246",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1839602843679246/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-107",
+      "classDate": "2026-08-23",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-103",
@@ -3087,7 +3308,7 @@
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
-      "source": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/permalink/1634040964965159/",
       "text": "PDF\nWebshell-B.pdf",
       "links": [
         "/documents/webshell-b.pdf"
@@ -3215,7 +3436,7 @@
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
-      "source": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/permalink/1634041884965067/",
       "text": "PDF\nFiles Uploading Vulnerabilities.pdf",
       "links": [
         "/documents/files-uploading-vulnerabilities.pdf"
@@ -3247,7 +3468,7 @@
       "author": "Md Ashif Islam",
       "date": null,
       "observedDate": "",
-      "source": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/permalink/1634041354965120/",
       "text": "PDF\nFileUV.pdf",
       "links": [
         "/documents/fileuv.pdf"
@@ -3298,14 +3519,24 @@
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1634471391588783",
       "text": "Deepseek SSRF --BUT sandbox :(",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/XploitAsh.sh/videos/1324060929578845/"
+      ],
       "topic": null,
-      "category": "information",
+      "category": "classes",
       "youtubeId": null,
-      "videoStatus": "not-applicable",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 110,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/XploitAsh.sh/videos/1324060929578845/",
+      "sourceVideoId": "1324060929578845",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/XploitAsh.sh/videos/1324060929578845/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।"
     },
     {
       "id": "entry-113",
@@ -3373,7 +3604,16 @@
       "collectionIndex": 115,
       "dateVerified": false,
       "relatedRecordingId": "entry-122",
-      "videoReferenceVerification": "Related installation topic only; source video not copied or compared"
+      "videoReferenceVerification": "Related installation topic only; source video not copied or compared",
+      "sourceAvailabilityStatus": "facebook-content-not-available-at-check",
+      "sourceAvailabilityCheckedAt": "2026-10-19",
+      "videoUploadMessage": "এই পুরোনো Facebook উৎস এখন খুলছে না। একই বিষয়ের সংরক্ষিত ক্লাস ১৪ নিচের লিংকে দেখা যাবে; আলাদা source file-এর অভিন্নতা নিশ্চিত হয়নি।",
+      "downloadLinks": [
+        {
+          "label": "একই বিষয় · যাচাইকৃত ক্লাস ১৪ দেখুন",
+          "url": "https://arena-b66-delta-archive.vercel.app/#class/entry-122"
+        }
+      ]
     },
     {
       "id": "entry-118",
@@ -3381,7 +3621,7 @@
       "author": "Md. Khaledul Islam",
       "date": null,
       "observedDate": "",
-      "source": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/permalink/1644343157268273/",
       "text": "Batch Scripting Resource\nPDF\nBatch_Scripting_Short_Notes.pdf",
       "links": [
         "/documents/batch-scripting-short-notes.pdf"
@@ -3667,7 +3907,7 @@
       "author": "Sakib Ahmed Sadhin",
       "date": null,
       "observedDate": "",
-      "source": "",
+      "source": "https://www.facebook.com/groups/awsb66delta/permalink/1658072369228685/",
       "text": "Java & Go commands:\nPDF\njava&go commands.pdf",
       "links": [
         "/documents/java-go-commands.pdf"
@@ -3817,14 +4057,27 @@
       "observedDate": "",
       "source": "",
       "text": "LFI to RFI\n0:00 / 0:00",
-      "links": [],
+      "links": [
+        "https://www.facebook.com/romanmoonshi/videos/1111783461364311/"
+      ],
       "topic": "LFI / LFD",
       "category": "classes",
       "youtubeId": null,
-      "videoStatus": "upload-pending",
+      "videoStatus": "recording-pending",
       "truncated": false,
       "collectionIndex": 140,
-      "dateVerified": false
+      "dateVerified": false,
+      "sourceVideoUrl": "https://www.facebook.com/romanmoonshi/videos/1111783461364311/",
+      "sourceVideoId": "1111783461364311",
+      "sourceType": "facebook-supplementary-course-video",
+      "sourceIndexCheckedAt": "2026-10-19",
+      "supplementaryVideo": true,
+      "sourceRecordingAvailable": true,
+      "liveSource": "https://www.facebook.com/romanmoonshi/videos/1111783461364311/",
+      "videoUploadMessage": "মূল সহায়ক ভিডিওর Facebook লিংক পাওয়া গেছে। স্বাধীন ভিডিও হোস্টিং এখনো বাকি; এটি নতুন live class-এর serial নয়।",
+      "relatedRecordingId": "entry-142",
+      "classDate": "2026-09-25",
+      "relationshipVerification": "আর্কাইভের বিষয়ভিত্তিক সহায়ক সংযোগ; মূল পোস্টের শিক্ষক-ঘোষিত class serial হিসেবে দাবি নয়।"
     },
     {
       "id": "entry-143",
@@ -8160,5 +8413,19 @@
     "liveGoogleResultsChecked": false,
     "checkedAt": "2026-10-19",
     "availableTranscriptSummariesReviewed": 9
+  },
+  "resourceAudit": {
+    "checkedAt": "2026-10-19",
+    "batchMediaSourcesIndexed": 23,
+    "batchFilesIndexed": 9,
+    "batchFileCopiesHTTP200": 9,
+    "messengerOriginalPDFsByteMatched": 4,
+    "supplementalFacebookSourcesMatched": 17,
+    "supplementalFacebookSourcesIndependentlyHosted": 2,
+    "supplementalFacebookSourcesHostingPending": 15,
+    "burpArchiveParts": 27,
+    "burpArchivePartsHosted": 4,
+    "class26FirstPartHostingPending": true,
+    "allSourcesAndResourcesComplete": false
   }
 }
