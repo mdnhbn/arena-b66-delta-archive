@@ -1,6 +1,6 @@
 {
   "name": "Arena Web Security, Batch-66(Delta)",
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-22",
   "complete": false,
   "chronologyVerified": false,
   "notes": "Facebook feed থেকে সংগ্রহ। সব পোস্টের তারিখ ও পূর্ণতা এখনো যাচাই হয়নি। collectionIndex ক্লাস নম্বর নয়।",
@@ -3021,7 +3021,7 @@
       "date": null,
       "observedDate": "",
       "source": "https://www.facebook.com/groups/awsb66delta/posts/1628369578865631",
-      "text": "বার্পসুইট ভিডিও রিসোর্স\nপাসওয়ার্ডঃ aws\ndrive.google.com\nBurp Suite Unfiltered - Go from a Beginner to Advanced!.rar\nএটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ। ৫টি ভিডিও সাইটের প্লেয়ারে প্রস্তুত; বাকি ভিডিওগুলোর আপলোড চলছে। মূল live class-এর ভিডিও আলাদাভাবে প্রস্তুত আছে।\nপ্রথম ৪টি ক্লিপ YouTube থেকে এবং ৫ নম্বর ক্লিপ Dailymotion থেকে দেখা যাবে। হোস্ট বদলের বোতাম দিয়ে প্রয়োজনীয় অংশ বেছে নিন।",
+      "text": "বার্পসুইট ভিডিও রিসোর্স\nপাসওয়ার্ডঃ aws\ndrive.google.com\nBurp Suite Unfiltered - Go from a Beginner to Advanced!.rar\nএটি ২৭টি সহায়ক ভিডিওর RAR আর্কাইভ। ৬টি ভিডিও সাইটের প্লেয়ারে প্রস্তুত; বাকি ভিডিওগুলোর আপলোড চলছে। মূল live class-এর ভিডিও আলাদাভাবে প্রস্তুত আছে।\nপ্রথম ৪টি ক্লিপ YouTube থেকে এবং ৫–৬ নম্বর ক্লিপ Dailymotion থেকে দেখা যাবে। হোস্ট বদলের বোতাম দিয়ে প্রয়োজনীয় অংশ বেছে নিন।",
       "links": [
         "https://drive.google.com/file/d/1h60zw8KvLbSolk5TQk8RxYwrtfHTDrQh/view?usp=sharing"
       ],
@@ -3071,7 +3071,7 @@
         "6. Hands-on Exercises  Labs\\3. Input Vulnerability Check Lab [Intruder Ideas].mp4",
         "6. Hands-on Exercises  Labs\\4. Http Methods Exploitation [Repeater Ideas].mp4"
       ],
-      "archiveVideoStatus": "5 of 27 supplementary clips verified;22 remaining uploads pending",
+      "archiveVideoStatus": "6 of 27 supplementary clips verified;21 remaining uploads pending",
       "relatedRecordingId": "entry-90",
       "youtubeVideos": [
         {
@@ -3112,7 +3112,7 @@
         }
       ],
       "expectedVideoParts": 27,
-      "uploadedVideoParts": 5,
+      "uploadedVideoParts": 6,
       "dailymotionVideos": [
         {
           "part": 5,
@@ -3123,6 +3123,16 @@
           "durationSeconds": 727.266667,
           "playbackVerified": true,
           "playbackVerifiedAt": "2026-10-20"
+        },
+        {
+          "part": 6,
+          "videoId": "xbqau16",
+          "privateId": "k1OHuyoUnuBQxoM0adY",
+          "label": "০৬ · HTTP Requests and Responses · ৮:২৬",
+          "visibility": "private",
+          "durationSeconds": 505.566667,
+          "playbackVerified": true,
+          "playbackVerifiedAt": "2026-10-22"
         }
       ],
       "preferredVideoHost": "youtube"
@@ -7836,7 +7846,7 @@
       }
     ]
   },
-  "siteVersion": "2026-10-20-burp-supplement-05",
+  "siteVersion": "2026-10-22-burp-supplement-06",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -8437,10 +8447,10 @@
     "supplementalFacebookSourcesIndependentlyHosted": 2,
     "supplementalFacebookSourcesHostingPending": 15,
     "burpArchiveParts": 27,
-    "burpArchivePartsHosted": 5,
+    "burpArchivePartsHosted": 6,
     "class26FirstPartHostingPending": true,
     "allSourcesAndResourcesComplete": false,
-    "burpArchivePartsHostingPending": 22,
-    "burpArchiveCheckedAt": "2026-10-20"
+    "burpArchivePartsHostingPending": 21,
+    "burpArchiveCheckedAt": "2026-10-22"
   }
 }
