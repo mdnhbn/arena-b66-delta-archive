@@ -272,7 +272,8 @@
       },
       "relatedResourceIds": [
         "notes-class02-google-dorks",
-        "entry-24"
+        "entry-24",
+        "portal-sqli-input-points"
       ],
       "searchStudyGuideId": "notes-class02-google-dorks"
     },
@@ -713,7 +714,8 @@
         "tool-link-gopher-class05",
         "entry-71",
         "entry-68",
-        "entry-66"
+        "entry-66",
+        "portal-manual-sqli-study-copy"
       ],
       "searchStudyGuideId": "notes-class05-google-dorks",
       "fullRecordingSummaryReviewed": true,
@@ -1094,7 +1096,8 @@
       },
       "relatedResourceIds": [
         "notes-class10-google-dorks",
-        "entry-102"
+        "entry-102",
+        "portal-advanced-upload-references"
       ],
       "searchStudyGuideId": "notes-class10-google-dorks"
     },
@@ -7877,6 +7880,117 @@
       ],
       "verifiedAt": "2026-10-22",
       "verificationScope": "Names checked against complete Class09 audio transcript; vendor download/setup and CodePen official documentation read. No software executed; current release is not asserted as the recording version."
+    },
+    {
+      "id": "portal-sqli-input-points",
+      "title": "SQL Injection Points — সম্পাদিত ধারণানোট",
+      "author": "Delta Archive",
+      "date": "2026-07-25",
+      "classDate": "2026-07-24",
+      "relatedRecordingId": "entry-40",
+      "topic": "SQL Injection",
+      "category": "information",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1608247534211169/",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "verifiedAt": "2026-10-22",
+      "sourceType": "instructor-post-editorial-study-copy",
+      "text": "শিক্ষকের “আসুন জেনে নেই -৩” পোস্টের ধারণাভিত্তিক সংরক্ষিত নোট। পোর্টালের দুটি সারি একই মূল পোস্টে যায়; এখানে একবার যুক্ত করা হয়েছে।",
+      "noteText": "উৎস ও পরিধি\n২৫ জুলাইয়ের শিক্ষক-পোস্টে URL-এর query parameter, তার নাম এবং value দেখে একটি app-এর input চিহ্নিত করার আলোচনা আছে। এটি সেই পোস্টের সম্পাদিত শিক্ষাসংস্করণ; মূল পোস্টের তৃতীয় পক্ষের সাইট ও দেশভিত্তিক target-finding তালিকা এখানে রাখা হয়নি।\n\nমূল ধারণা\nনিজের app-এর URL-এ query string থাকলে parameter-এর নাম ও value আলাদা করে পড়তে শিখুন। একটি parameter থাকা কিংবা তার নাম id হওয়া SQL Injection-এর প্রমাণ নয়। Parameter আদৌ database query-তে যায় কি না, server কীভাবে input প্রক্রিয়াকরণ করে এবং query কীভাবে তৈরি হয়—এসব আলাদা বিষয়। একটি URL দেখে নিশ্চিত vulnerability ঘোষণা করা ঠিক নয়।\n\nক্লাসের সঙ্গে মিল\nক্লাস ০২-এর SQL Injection বিষয়টির সহায়ক পাঠ হিসেবে এটি যুক্ত করা হয়েছে। পোস্টের তারিখকে live class-এর তারিখ হিসেবে ব্যবহার করা হয়নি। ক্লাসের নোট ট্যাবে নিজের/অনুমোদিত lab-এ সীমিত Google Advanced Search-এর উদাহরণ আলাদা আছে; সেগুলোকে শিক্ষকের হুবহু query-list বলা হচ্ছে না।\n\nআর্কাইভের যোগ করা অনুশীলন\nনিজের test app-এর কয়েকটি URL থেকে parameter-name ও value-এর তালিকা করুন। কোন input কোন server handler-এ যায় তা নথিভুক্ত করুন। ফলাফলকে input inventory বলুন; vulnerability report হিসেবে ঘোষণা করবেন না।\n",
+      "noteUrl": "/notes/class02-sqli-input-points.md"
+    },
+    {
+      "id": "portal-manual-sqli-study-copy",
+      "title": "Manual SQLI — শিক্ষক-ডকের সম্পাদিত পাঠসংস্করণ",
+      "author": "Delta Archive",
+      "date": "2026-08-02",
+      "classDate": "2026-08-02",
+      "relatedRecordingId": "entry-64",
+      "topic": "SQL Injection",
+      "category": "documents",
+      "resourceKinds": [
+        "notes",
+        "documents"
+      ],
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1615975843438338/",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "verifiedAt": "2026-10-22",
+      "sourceType": "instructor-document-redacted-study-copy",
+      "text": "মূল Google Docs-এর পাঠ্য রপ্তানি দেখে সংরক্ষিত শিক্ষাসংস্করণ। তৃতীয় পক্ষের ঠিকানা এবং login-সংক্রান্ত নমুনা বাদ দেওয়া হয়েছে; এটি হুবহু মূল নথি নয়।",
+      "preservationScope": "Edited text study copy; original layout, third-party targets and login-like fields excluded.",
+      "noteText": "কোন সংস্করণটি পড়ছেন\nক্লাস ০৫-এর সঙ্গে সম্পর্কিত শিক্ষক-দেওয়া Manual SQLI Google Docs-এর সম্পাদিত পাঠসংস্করণ এটি। মূল নথির তৃতীয় পক্ষের domain, admin URL এবং username/password-সদৃশ ক্ষেত্র প্রকাশ করা হয়নি। মূল document-এর হুবহু PDF বা screenshot হিসেবে এই ফাইলকে ব্যবহার করবেন না।\n\nনথিতে পাওয়া বিষয়\nURL/URI-এর পরিভাষা, URL-এর path ও query parameter আলাদা করে দেখা, input যাচাইয়ের প্রয়োজন এবং database-কেন্দ্রিক পরীক্ষার ধাপের একটি সংক্ষিপ্ত outline আছে। এই outline নিজে কোনো vulnerability প্রমাণ করে না। পূর্ণ ব্যাখ্যা ও সীমাবদ্ধতার জন্য ক্লাস ০৫-এর ভিডিও ও পূর্ণ অডিও-ভিত্তিক পাঠনোট দেখুন।\n\nশিক্ষক-দেওয়া টুলের সূত্র\nLink Gopher-এর Chrome ও Firefox-এর অফিসিয়াল store link ছিল। ক্লাস ০৫-এর টুলস ট্যাবে তার download ও setup আগেই সংরক্ষিত আছে। নিজের/অনুমোদিত app-এর link inventory বোঝার কাজে ব্যবহার করুন।\n\nআর্কাইভের যোগ করা অনুশীলন\nনিজের একটি URL-এর scheme, host, path এবং query আলাদা করে লিখুন। Browser request-এর input কীভাবে নিজের server handler-এ পৌঁছায় তা ব্যাখ্যা করুন। কোনো বাস্তব তৃতীয় পক্ষের তথ্য সংগ্রহ বা login পরীক্ষা এই অনুশীলনের অংশ নয়।\n",
+      "noteUrl": "/notes/class05-manual-sqli-teacher-study-copy.md"
+    },
+    {
+      "id": "portal-advanced-upload-references",
+      "title": "File Upload — শিক্ষক-দেওয়া Resource Links ও Fake Filler",
+      "author": "Delta Archive",
+      "date": "2026-08-23",
+      "classDate": "2026-08-23",
+      "relatedRecordingId": "entry-107",
+      "topic": "File Upload",
+      "category": "documents",
+      "resourceKinds": [
+        "documents",
+        "tools"
+      ],
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1634107568291832/",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "verifiedAt": "2026-10-22",
+      "sourceType": "instructor-document-text-export",
+      "text": "শিক্ষকের Google Docs-এর পাঠ্য অংশের নিজস্ব কপি নিচে রাখা আছে। এতে Fake Filler-এর Chrome Web Store, file-upload বিষয়ে HackTricks ও PayloadsAllTheThings, এবং file signatures-এর reference link আছে। এটি formatting বা ছবিসহ মূল Google Docs-এর পুনরুৎপাদন নয়। Fake Filler নিজের test form-এ নমুনা data ভরার browser extension; এখানে install করা হয়নি এবং রেকর্ডিংয়ের version নিশ্চিত নয়।",
+      "preservedFiles": [
+        {
+          "name": "Class10 Advanced Upload — শিক্ষক-ডকের পাঠ্য লিংক",
+          "url": "/documents/class10-advanced-upload-resource-links.txt",
+          "bytes": 382,
+          "sha256": "a00536a8a7c58f2c90f7def554ffcba76ba95c63dd980fae3c28f6a581f38158",
+          "kind": "document"
+        }
+      ],
+      "downloadLinks": [
+        {
+          "label": "Fake Filler অফিসিয়াল Chrome download ↗",
+          "url": "https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo",
+          "origin": "official"
+        },
+        {
+          "label": "মূল শিক্ষক-ডক ↗",
+          "url": "https://docs.google.com/document/d/1RyJ3beO9s-NkfV0OCsPNyvzCNHcEQb8tx2sVE6znHaI/edit",
+          "origin": "instructor"
+        }
+      ]
+    },
+    {
+      "id": "portal-arena-toolkit",
+      "title": "Arena Web Security Toolkit — শিক্ষার্থীদের Web Tools",
+      "author": "Delta Archive",
+      "date": "2026-07-30",
+      "topic": "Recon",
+      "category": "tools",
+      "resourceKinds": [
+        "tools"
+      ],
+      "source": "",
+      "links": [],
+      "videoStatus": "not-applicable",
+      "sourceType": "instructor-service-reference",
+      "text": "একই ব্যাচের resource portal-এ দেওয়া Arena toolkit-এর সংযোগ। বর্তমানে পেজে “Secure Access – For Arena Web Security Students” দেখা যায় এবং password লাগে। প্রবেশতথ্য এখানে সংরক্ষণ বা প্রকাশ করা হয়নি। এটি online service-এর reference; নিজস্ব download বা offline mirror নয়। কোন live class-এ এই নির্দিষ্ট service ব্যবহার হয়েছে তা আলাদাভাবে যাচাই বাকি।",
+      "downloadLinks": [
+        {
+          "label": "Arena toolkit খুলুন ↗",
+          "url": "https://toolkit.arenawebsecurity.net/tools/admin_finder.php",
+          "origin": "instructor"
+        }
+      ],
+      "verifiedAt": "2026-10-22",
+      "verificationScope": "Visible password gate verified; no login, scan, target lookup or form submission performed."
     }
   ],
   "schedule": {
@@ -7906,7 +8020,7 @@
       }
     ]
   },
-  "siteVersion": "2026-10-22-class09-notebook-summary-reviewed",
+  "siteVersion": "2026-10-22-portal-resource-reconciliation",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -8383,7 +8497,7 @@
       {
         "recordingId": "entry-64",
         "serial": 5,
-        "note": "পূর্ণ অডিও-ভিত্তিক নোট ও শিক্ষক-উল্লিখিত Link Gopher-এর অফিসিয়াল ডাউনলোড/সেটআপ যুক্ত। পুরোনো custom browser package-এর নিরাপত্তা বা বর্তমান সামঞ্জস্য নিশ্চিত নয়।"
+        "note": "পূর্ণ অডিও-ভিত্তিক নোট ও শিক্ষক-উল্লিখিত Link Gopher-এর অফিসিয়াল ডাউনলোড/সেটআপ যুক্ত। পুরোনো custom browser package-এর নিরাপত্তা বা বর্তমান সামঞ্জস্য নিশ্চিত নয়। শিক্ষকের অতিরিক্ত Manual SQLI document-এর login ও তৃতীয় পক্ষের ঠিকানা বাদ দেওয়া শিক্ষাসংস্করণও যুক্ত।"
       },
       {
         "recordingId": "entry-80",
@@ -8408,7 +8522,7 @@
       {
         "recordingId": "entry-107",
         "serial": 10,
-        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন।"
+        "note": "এই ক্লাসের পাওয়া নোট, ডকুমেন্ট ও tool/setup resources সংশ্লিষ্ট ট্যাবে যুক্ত। পূর্ণ resource তালিকা নিচের সংযোগে দেখুন। অতিরিক্ত শিক্ষক-ডকের resource-link পাঠ্য কপি ও Fake Filler-এর অফিসিয়াল Chrome download যুক্ত।"
       },
       {
         "recordingId": "entry-115",
@@ -8485,7 +8599,7 @@
       }
     ]
   },
-  "version": "2026-10-22-class09-notebook-summary-reviewed",
+  "version": "2026-10-22-portal-resource-reconciliation",
   "studyGuideAudit": {
     "topicGuides": 26,
     "queryExamples": 104,
@@ -8511,6 +8625,10 @@
     "class26FirstPartHostingPending": true,
     "allSourcesAndResourcesComplete": false,
     "burpArchivePartsHostingPending": 20,
-    "burpArchiveCheckedAt": "2026-10-22"
+    "burpArchiveCheckedAt": "2026-10-22",
+    "portalCanonicalLinksReviewedAt": "2026-10-22",
+    "portalSourceRowsReviewed": 42,
+    "portalAdditionalResourcesAdded": 4,
+    "portalBinaryPreservationComplete": false
   }
 }

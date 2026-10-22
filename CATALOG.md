@@ -2,7 +2,7 @@
 
 হালনাগাদ: 2026-10-22
 
-26টি মূল ক্লাস এবং 216টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
+26টি মূল ক্লাস এবং 220টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
 
 ## ক্লাসের সিরিয়াল
 
@@ -1555,6 +1555,36 @@
 - [VS Code Windows setup guide ↗](https://code.visualstudio.com/docs/setup/windows)
 - [CodePen editor খুলুন ↗](https://codepen.io/)
 - [CodePen অফিসিয়াল documentation ↗](https://blog.codepen.io/docs/)
+
+### portal-sqli-input-points — SQL Injection Points — সম্পাদিত ধারণানোট
+
+বিষয়: SQL Injection · তারিখ: 2026-07-24 · ধরন: information
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/portal-sqli-input-points)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class02-sqli-input-points.md)
+
+### portal-manual-sqli-study-copy — Manual SQLI — শিক্ষক-ডকের সম্পাদিত পাঠসংস্করণ
+
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/portal-manual-sqli-study-copy)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/notes/class05-manual-sqli-teacher-study-copy.md)
+
+### portal-advanced-upload-references — File Upload — শিক্ষক-দেওয়া Resource Links ও Fake Filler
+
+বিষয়: File Upload · তারিখ: 2026-08-23 · ধরন: documents
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/portal-advanced-upload-references)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/class10-advanced-upload-resource-links.txt)
+- [Fake Filler অফিসিয়াল Chrome download ↗](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
+- [মূল শিক্ষক-ডক ↗](https://docs.google.com/document/d/1RyJ3beO9s-NkfV0OCsPNyvzCNHcEQb8tx2sVE6znHaI/edit)
+
+### portal-arena-toolkit — Arena Web Security Toolkit — শিক্ষার্থীদের Web Tools
+
+বিষয়: Recon · তারিখ: 2026-07-30 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/portal-arena-toolkit)
+- [Arena toolkit খুলুন ↗](https://toolkit.arenawebsecurity.net/tools/admin_finder.php)
 
 ## অফিসিয়াল সিলেবাস
 

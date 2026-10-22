@@ -1,0 +1,14 @@
+﻿https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en
+
+
+
+
+https://hacktricks.wiki/en/pentesting-web/file-upload/index.html#file-upload-general-methodology
+
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Upload%20Insecure%20Files/README.md#upload-tricks
+
+
+
+
+https://en.wikipedia.org/wiki/List_of_file_signatures
