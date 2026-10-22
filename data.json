@@ -715,7 +715,8 @@
         "entry-71",
         "entry-68",
         "entry-66",
-        "portal-manual-sqli-study-copy"
+        "portal-manual-sqli-study-copy",
+        "entry-69"
       ],
       "searchStudyGuideId": "notes-class05-google-dorks",
       "fullRecordingSummaryReviewed": true,
@@ -2678,22 +2679,52 @@
     },
     {
       "id": "entry-69",
-      "title": "প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…",
+      "title": "SQL Injection — ৩টি সংরক্ষিত PDF পাঠসংস্করণ",
       "author": "Roman Moonshi",
-      "date": null,
+      "date": "2026-08-05",
       "observedDate": "",
-      "source": "",
-      "text": "প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ গুলো অবশ্যই পড়বেন। কোথাও কোন প্রবলেম হলে আমাকে অবশ্যই জানাবেন ধন্যবাদ।\ndrive.google.com\nSQLI - Google Drive",
-      "links": [
-        "https://drive.google.com/drive/u/3/folders/1QyI7Rwl62MMvV0MsZnWAJz2pZJEUP-Fl"
-      ],
+      "source": "https://www.facebook.com/groups/awsb66delta/posts/1615970563438866/",
+      "text": "শিক্ষক-দেওয়া তিনটি SQLi PDF থেকে সম্পাদিত পাঠসংস্করণ সংরক্ষিত আছে। মূল পাঠ্যের ক্রম রাখা হয়েছে; screenshot, ব্যক্তিগত তথ্য এবং বাস্তব তৃতীয় পক্ষের ঠিকানা বাদ দেওয়া হয়েছে। এগুলো ছবিসহ হুবহু মূল PDF নয়। নিজের বা অনুমোদিত lab-এ শেখার সহায়ক পাঠ। পোস্টের তারিখ ৫ আগস্ট; সংশ্লিষ্ট ক্লাসের তারিখ ২ আগস্ট।",
+      "links": [],
       "topic": "SQL Injection",
       "category": "information",
       "youtubeId": null,
       "videoStatus": "not-applicable",
       "truncated": false,
       "collectionIndex": 68,
-      "dateVerified": false
+      "dateVerified": true,
+      "classDate": "2026-08-02",
+      "sourceType": "instructor-pdf-redacted-text-study-editions",
+      "resourceKinds": [
+        "documents"
+      ],
+      "relatedRecordingId": "entry-64",
+      "preservedFiles": [
+        {
+          "name": "SQLi: URL, Parameter and Search Concepts — সম্পাদিত PDF",
+          "url": "/documents/sqli-google-dork-study-edition.pdf",
+          "bytes": 462452,
+          "sha256": "7bd13e1cb88c5674b254226690c9be6ce39e7a6ef7cb1c6bf22720d7a6b5fb4e",
+          "kind": "document"
+        },
+        {
+          "name": "SQL Injection Reference — সম্পাদিত PDF",
+          "url": "/documents/sqli-reference-study-edition.pdf",
+          "bytes": 1014811,
+          "sha256": "922fac1825fecaed440df1ae771ad046e6fb9201766137f4d0cc52924b9886d2",
+          "kind": "document"
+        },
+        {
+          "name": "UNION-Based Basic SQL Injection — সম্পাদিত PDF",
+          "url": "/documents/sqli-union-study-edition.pdf",
+          "bytes": 266180,
+          "sha256": "193188dbdfa4bf0bc3a47cac53a322a3aa788b6791be489686c07d841f035c7c",
+          "kind": "document"
+        }
+      ],
+      "verifiedAt": "2026-10-22",
+      "verificationScope": "All 43 edited pages rendered and visually reviewed; source screenshots and sensitive examples omitted; own download byte verification required after deployment.",
+      "documentUrl": "/documents/sqli-google-dork-study-edition.pdf"
     },
     {
       "id": "entry-70",
@@ -8020,7 +8051,7 @@
       }
     ]
   },
-  "siteVersion": "2026-10-22-portal-resource-reconciliation",
+  "siteVersion": "2026-10-22-sqli-pdf-preservation",
   "resourcePlan": {
     "phase": "website-first",
     "structureReady": true,
@@ -8497,7 +8528,7 @@
       {
         "recordingId": "entry-64",
         "serial": 5,
-        "note": "পূর্ণ অডিও-ভিত্তিক নোট ও শিক্ষক-উল্লিখিত Link Gopher-এর অফিসিয়াল ডাউনলোড/সেটআপ যুক্ত। পুরোনো custom browser package-এর নিরাপত্তা বা বর্তমান সামঞ্জস্য নিশ্চিত নয়। শিক্ষকের অতিরিক্ত Manual SQLI document-এর login ও তৃতীয় পক্ষের ঠিকানা বাদ দেওয়া শিক্ষাসংস্করণও যুক্ত।"
+        "note": "পূর্ণ অডিও-ভিত্তিক নোট ও শিক্ষক-উল্লিখিত Link Gopher-এর অফিসিয়াল ডাউনলোড/সেটআপ যুক্ত। পুরোনো custom browser package-এর নিরাপত্তা বা বর্তমান সামঞ্জস্য নিশ্চিত নয়। শিক্ষকের অতিরিক্ত Manual SQLI document-এর login ও তৃতীয় পক্ষের ঠিকানা বাদ দেওয়া শিক্ষাসংস্করণও যুক্ত। শিক্ষক-দেওয়া তিনটি SQLi PDF-এর screenshot ও ব্যক্তিগত তথ্য বাদ দেওয়া পাঠসংস্করণ ডকুমেন্টস ট্যাবে সংরক্ষিত।"
       },
       {
         "recordingId": "entry-80",
@@ -8599,7 +8630,7 @@
       }
     ]
   },
-  "version": "2026-10-22-portal-resource-reconciliation",
+  "version": "2026-10-22-sqli-pdf-preservation",
   "studyGuideAudit": {
     "topicGuides": 26,
     "queryExamples": 104,
@@ -8629,6 +8660,8 @@
     "portalCanonicalLinksReviewedAt": "2026-10-22",
     "portalSourceRowsReviewed": 42,
     "portalAdditionalResourcesAdded": 4,
-    "portalBinaryPreservationComplete": false
+    "portalBinaryPreservationComplete": false,
+    "portalSQLiPDFStudyEditionsPreserved": 3,
+    "portalSQLiPDFStudyEditionsCheckedAt": "2026-10-22"
   }
 }

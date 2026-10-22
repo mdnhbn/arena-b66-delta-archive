@@ -603,11 +603,14 @@
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-68)
 
-### entry-69 — প্রাক্টিক্যালি শেখার পাশাপাশি থিউরিটিক্যালি কিছু বিষয় আমাদেরকে আত্মস্থ করতে হবে। সময় করে পিডিএফ…
+### entry-69 — SQL Injection — ৩টি সংরক্ষিত PDF পাঠসংস্করণ
 
-বিষয়: SQL Injection · তারিখ: যাচাই বাকি · ধরন: information
+বিষয়: SQL Injection · তারিখ: 2026-08-02 · ধরন: information
 
 [বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/entry-69)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/sqli-google-dork-study-edition.pdf)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/sqli-reference-study-edition.pdf)
+- [সংরক্ষিত ফাইল/নোট](https://arena-b66-delta-archive.vercel.app/documents/sqli-union-study-edition.pdf)
 
 ### entry-70 — কাল‌কে না‌কি পরীক্ষা!!
 
