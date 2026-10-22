@@ -2,7 +2,7 @@
 
 হালনাগাদ: 2026-10-22
 
-26টি মূল ক্লাস এবং 215টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
+26টি মূল ক্লাস এবং 216টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।
 
 ## ক্লাসের সিরিয়াল
 
@@ -16,7 +16,7 @@
 | 6 | [Cross Site Scripting (XSS)](https://arena-b66-delta-archive.vercel.app/#class/entry-80) | 2026-08-09 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 7 | [SQLi WAF ও IDS](https://arena-b66-delta-archive.vercel.app/#class/entry-88) | 2026-08-14 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 8 | [Burp Suite — Proxy ও Intruder](https://arena-b66-delta-archive.vercel.app/#class/entry-90) | 2026-08-16 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
-| 9 | [WebShell, Backdoor ও Deface Page](https://arena-b66-delta-archive.vercel.app/#class/entry-99) | 2026-08-21 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
+| 9 | [WebShell, Backdoor ও Deface Page](https://arena-b66-delta-archive.vercel.app/#class/entry-99) | 2026-08-21 | হোস্ট করা আছে | ট্রান্সক্রিপ্ট যাচাই হয়েছে |
 | 10 | [File Upload Vulnerabilities](https://arena-b66-delta-archive.vercel.app/#class/entry-107) | 2026-08-23 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 11 | [PortSwigger Labs — SQLi, XSS ও File Upload](https://arena-b66-delta-archive.vercel.app/#class/entry-115) | 2026-08-28 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
 | 12 | [Acunetix — Scanner Setup ও Reports](https://arena-b66-delta-archive.vercel.app/#class/entry-112) | 2026-08-30 | হোস্ট করা আছে | পূর্ণ বিশ্লেষণ বাকি |
@@ -1545,6 +1545,16 @@
 - [Burp Suite official setup](https://arena-b66-delta-archive.vercel.app/#resource/tool-burp-official)
 - [ক্লাস ১২ · Acunetix resource status](https://arena-b66-delta-archive.vercel.app/#class/entry-112?tab=tools)
 - [Report/template library](https://www.pentestreports.com/)
+
+### tool-vscode-codepen-class09 — VS Code ও CodePen — Official Downloads, Editor ও Setup
+
+বিষয়: WebShell · তারিখ: 2026-08-21 · ধরন: tools
+
+[বিস্তারিত, নোট ও সংযুক্তি](https://arena-b66-delta-archive.vercel.app/#resource/tool-vscode-codepen-class09)
+- [VS Code অফিসিয়াল ডাউনলোড ↗](https://code.visualstudio.com/download)
+- [VS Code Windows setup guide ↗](https://code.visualstudio.com/docs/setup/windows)
+- [CodePen editor খুলুন ↗](https://codepen.io/)
+- [CodePen অফিসিয়াল documentation ↗](https://blog.codepen.io/docs/)
 
 ## অফিসিয়াল সিলেবাস
 
