@@ -35,3 +35,9 @@ test('secret live presence writes only its own prefix',async()=>{
  const writes=[];const store={get:async()=>null,put:async(path,data)=>{writes.push({path,data});}};
  await touchPresence('a'.repeat(64),'BD',Date.UTC(2026,9,24),store,'sites/secret/');assert.equal(writes.length,1);assert.match(writes[0].path,/^sites\/secret\/presence\/2026-10-24\//);assert.doesNotMatch(writes[0].data,/ip|visitor|cookie/i);
 });
+
+
+test('isolated banner host keeps site selection scoped and rejects unknown sites',async()=>{
+ const {GET}=await import('../ads/api/custom.js');const original=globalThis.fetch;const calls=[];globalThis.fetch=async url=>{calls.push(String(url));return Response.json({code:'<p>owned test banner</p>',format:'728x90'});};
+ try{assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&variant=desktop&site=secret'))).status,200);assert.match(calls[0],/site=secret/);assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&site=invalid'))).status,404);assert.equal((await GET(new Request('https://ads.example/api/custom?slot=rail&site=secret'))).status,404);assert.equal(calls.length,1);}finally{globalThis.fetch=original;}
+});

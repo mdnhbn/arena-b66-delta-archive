@@ -1,8 +1,8 @@
 export async function GET(request){
-  const params=new URL(request.url).searchParams,slot=params.get('slot'),variant=params.get('variant')||'desktop';
-  if(!['rail','middle','footer'].includes(slot)||!['desktop','mobile'].includes(variant)||slot==='rail'&&variant==='mobile')return new Response(null,{status:404});
+  const params=new URL(request.url).searchParams,slot=params.get('slot'),variant=params.get('variant')||'desktop',site=params.get('site')||'archive';
+  if(!['archive','secret'].includes(site)||!['rail','middle','footer'].includes(slot)||!['desktop','mobile'].includes(variant)||slot==='rail'&&(variant==='mobile'||site==='secret'))return new Response(null,{status:404});
   try{
-    const response=await fetch('https://arena-b66-delta-archive.vercel.app/api/ad-code?'+new URLSearchParams({slot,variant}),{cache:'no-store',signal:AbortSignal.timeout(8000)});
+    const response=await fetch('https://arena-b66-delta-archive.vercel.app/api/ad-code?'+new URLSearchParams({slot,variant,site}),{cache:'no-store',signal:AbortSignal.timeout(8000)});
     if(response.status===204)return new Response(null,{status:204});
     if(!response.ok)throw new Error('Unavailable');
     const expected=slot==='rail'?'160x600':variant==='mobile'?'320x50':'728x90',data=await response.json();
