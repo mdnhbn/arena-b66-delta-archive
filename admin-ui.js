@@ -1,10 +1,11 @@
 (()=>{
   const $=id=>document.getElementById(id),num=x=>new Intl.NumberFormat('bn-BD').format(x),text=(tag,value,cls)=>{const el=document.createElement(tag);el.textContent=value;if(cls)el.className=cls;return el;};
-  let members=[],stats=null,busy=false,liveSamples=[],period=28;
+  let members=[],stats=null,liveSamples=[],period=28,statsRequest=0,adsRequest=0;
+  const selectedSite=()=>$('managed-site').value;
   const regions=new Intl.DisplayNames(['bn'],{type:'region'});
   async function read(path){const response=await fetch(path,{cache:'no-store',credentials:'same-origin',signal:AbortSignal.timeout(20000)});if(!response.ok)throw new Error('Access unavailable');return response.json();}
 
-  const titles={overview:'সাইট অ্যানালিটিক্স',audience:'দর্শক ও দেশ',ads:'বিজ্ঞাপন নিয়ন্ত্রণ',members:'সদস্যতালিকা'};
+  const titles={overview:'সাইট অ্যানালিটিক্স',audience:'দর্শক ও দেশ',ads:'বিজ্ঞাপন নিয়ন্ত্রণ',members:'সদস্যতালিকা',courses:'Secret course তালিকা'};
   function closeMenu(){$('admin-sidebar').classList.remove('is-open');$('admin-backdrop').hidden=true;$('admin-menu').setAttribute('aria-expanded','false');document.body.classList.remove('menu-open');}
   $('admin-menu').addEventListener('click',()=>{const open=!$('admin-sidebar').classList.contains('is-open');$('admin-sidebar').classList.toggle('is-open',open);$('admin-backdrop').hidden=!open;$('admin-menu').setAttribute('aria-expanded',String(open));document.body.classList.toggle('menu-open',open);});
   $('admin-backdrop').addEventListener('click',closeMenu);window.addEventListener('resize',closeMenu);
@@ -15,7 +16,7 @@
   $('admin-search').addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();$('admin-search-results').querySelector('button')?.click();}if(event.key==='Escape'){$('admin-search-results').hidden=true;closeMenu();}});
   document.addEventListener('keydown',event=>{if(event.key==='Escape'){closeMenu();$('admin-search-results').hidden=true;}});
   document.querySelectorAll('[data-chart-choice]').forEach(button=>button.addEventListener('click',()=>{$('chart-metric').value=button.dataset.chartChoice;drawStats();}));
-  function view(name){if(!['overview','audience','ads','members'].includes(name))name='overview';$('admin-title').textContent=titles[name];closeMenu();document.querySelectorAll('[data-admin-panel]').forEach(el=>{el.hidden=el.dataset.adminPanel!==name;});document.querySelectorAll('[data-admin-view]').forEach(el=>{const active=el.dataset.adminView===name;el.classList.toggle('active',active);if(active)el.setAttribute('aria-current','page');else el.removeAttribute('aria-current');});}
+  function view(name){if(name==='courses'&&selectedSite()!=='secret'){$('managed-site').value='secret';$('managed-site').dispatchEvent(new Event('change'));}if(!['overview','audience','ads','members','courses'].includes(name))name='overview';$('admin-title').textContent=titles[name];closeMenu();document.querySelectorAll('[data-admin-panel]').forEach(el=>{el.hidden=el.dataset.adminPanel!==name;});document.querySelectorAll('[data-admin-view]').forEach(el=>{const active=el.dataset.adminView===name;el.classList.toggle('active',active);if(active)el.setAttribute('aria-current','page');else el.removeAttribute('aria-current');});}
   document.querySelectorAll('[data-admin-view]').forEach(el=>el.addEventListener('click',()=>view(el.dataset.adminView)));
   window.addEventListener('hashchange',()=>view(location.hash.slice(1)));view(location.hash.slice(1)||'overview');
   function svgElement(tag,attrs,label){const el=document.createElementNS('http://www.w3.org/2000/svg',tag);for(const [key,value]of Object.entries(attrs||{}))el.setAttribute(key,String(value));if(label!==undefined)el.textContent=label;return el;}
@@ -48,21 +49,21 @@
     const history=$('day-history');history.replaceChildren();for(const day of stats.days.slice().reverse()){const row=text('tr','');row.append(text('td',day.date),text('td',day.collected===false?'গণনা হয়নি':num(day.visitors)),text('td',day.collected===false?'—':num(day.visits)));history.append(row);}
     $('status').textContent='সুরক্ষিত সংযোগ · আপডেট '+new Date(stats.updatedAt).toLocaleString('bn-BD');
   }
-  async function loadStats(){if(busy)return;busy=true;$('refresh').disabled=true;try{stats=await read('/api/admin/stats?days='+period);drawStats();}catch{$('status').textContent='অ্যানালিটিক্স পাওয়া যাচ্ছে না। লগইন বা storage সংযোগ পরীক্ষা করুন।';$('live-status').textContent='লাইভ আপডেট সাময়িক বন্ধ';$('active-visitors').textContent='—';}finally{busy=false;$('refresh').disabled=false;}}
+  async function loadStats(){const requestId=++statsRequest,site=selectedSite();$('refresh').disabled=true;try{const value=await read('/api/admin/stats?days='+period+'&site='+site);if(requestId!==statsRequest||site!==selectedSite())return;stats=value;drawStats();$('collection-start-note').textContent=stats.startDate+' UTC থেকে গণনা। আগের দিনের তথ্য সংগ্রহ করা হয়নি।';}catch{if(requestId!==statsRequest)return;$('status').textContent='অ্যানালিটিক্স পাওয়া যাচ্ছে না। লগইন বা সংযোগ পরীক্ষা করুন।';$('live-status').textContent='লাইভ আপডেট সাময়িক বন্ধ';$('active-visitors').textContent='—';}finally{if(requestId===statsRequest)$('refresh').disabled=false;}}
   function renderMembers(){const query=$('member-search').value.toLocaleLowerCase();$('members').replaceChildren();const visible=members.filter(m=>m.name.toLocaleLowerCase().includes(query));for(const member of visible){const row=text('li','');row.append(text('span',member.name));if(member.profile){const u=new URL(member.profile);if(u.protocol==='https:'&&['facebook.com','www.facebook.com'].includes(u.hostname)&&!u.username&&!u.password){const link=text('a','Profile ↗');link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';row.append(link);}}$('members').append(row);}if(!visible.length)$('members').append(text('li',members.length?'এই নামে সদস্য পাওয়া যায়নি।':'যাচাইকৃত সদস্যতালিকা যোগ করুন।','hint'));}
   async function loadMembers(){try{const roster=await read('/api/admin/members');members=roster.members;$('member-count').textContent=num(members.length);$('roster-source').textContent=roster.source+(roster.updatedAt?' · আপডেট '+new Date(roster.updatedAt).toLocaleString('bn-BD'):'');renderMembers();}catch{$('roster-source').textContent='সদস্যতালিকা পাওয়া যাচ্ছে না।';}}
 
   function applyAds(s){
     $('ads-enabled').checked=s.enabled;$('ads-display').value=String(s.defaultExpanded);
     for(const id of ['rail','middle','footer']){const p=s.placements[id];$('ad-'+id+'-enabled').checked=p.enabled;$('ad-'+id+'-desktop').value=p.desktopCode;if(id!=='rail')$('ad-'+id+'-mobile').value=p.mobileCode;}
-    $('ads-status').textContent=s.updatedAt?'প্রকাশিত · '+new Date(s.updatedAt).toLocaleString('bn-BD'):'চিহ্নিত তিন জায়গার বর্তমান ব্যানার চালু আছে।';$('publish-ads').disabled=false;
+    $('ads-status').textContent=s.updatedAt?'প্রকাশিত · '+new Date(s.updatedAt).toLocaleString('bn-BD'):(selectedSite()==='secret'?'Secret course-এর বিজ্ঞাপন বর্তমানে বন্ধ। কোড দিয়ে চালু করে প্রকাশ করুন।':'চিহ্নিত তিন জায়গার বর্তমান ব্যানার চালু আছে।');$('publish-ads').disabled=false;
   }
-  async function loadAds(){try{applyAds(await read('/api/admin/ads'));}catch{$('ads-status').textContent='বিজ্ঞাপনের সেটিংস পাওয়া যাচ্ছে না।';}}
+  async function loadAds(){const id=++adsRequest,site=selectedSite();$('publish-ads').disabled=true;try{const value=await read('/api/admin/ads?site='+site);if(id===adsRequest&&site===selectedSite())applyAds(value);}catch{if(id===adsRequest)$('ads-status').textContent='বিজ্ঞাপনের সেটিংস পাওয়া যাচ্ছে না।';}}
   $('ads-form').addEventListener('submit',async event=>{
-    event.preventDefault();$('publish-ads').disabled=true;$('ads-status').textContent='প্রকাশ করা হচ্ছে…';
+    event.preventDefault();const site=selectedSite();$('managed-site').disabled=true;$('publish-ads').disabled=true;$('ads-status').textContent='প্রকাশ করা হচ্ছে…';
     const placements=Object.fromEntries(['rail','middle','footer'].map(id=>[id,{enabled:$('ad-'+id+'-enabled').checked,desktopCode:$('ad-'+id+'-desktop').value,mobileCode:id==='rail'?'':$('ad-'+id+'-mobile').value}]));
-    try{const response=await fetch('/api/admin/ads',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json','X-Delta-Admin':'1'},body:JSON.stringify({enabled:$('ads-enabled').checked,defaultExpanded:$('ads-display').value==='true',provider:'placements',format:'728x90',customCode:'',placements})});if(!response.ok)throw new Error();applyAds(await response.json());}
-    catch{$('ads-status').textContent='প্রকাশ করা যায়নি। কোড ও সংযোগ পরীক্ষা করুন।';}finally{$('publish-ads').disabled=false;}
+    try{const response=await fetch('/api/admin/ads?site='+site,{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json','X-Delta-Admin':'1'},body:JSON.stringify({enabled:$('ads-enabled').checked,defaultExpanded:$('ads-display').value==='true',provider:'placements',format:'728x90',customCode:'',placements})});if(!response.ok)throw new Error();applyAds(await response.json());}
+    catch{$('ads-status').textContent='প্রকাশ করা যায়নি। কোড ও সংযোগ পরীক্ষা করুন।';}finally{$('publish-ads').disabled=false;$('managed-site').disabled=false;}
   });
   $('member-search').addEventListener('input',renderMembers);
   $('refresh').addEventListener('click',loadStats);$('chart-metric').addEventListener('change',drawStats);$('period').addEventListener('change',()=>{period=Number($('period').value);loadStats();});
@@ -72,5 +73,6 @@
   });
   setInterval(()=>{if(document.visibilityState==='visible')loadStats();},60000);
   document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')loadStats();});
+  window.addEventListener('delta:admin-site',()=>{stats=null;liveSamples=[];for(const id of ['today-visitors','today-visits','yesterday-visitors','period-visits','active-visitors'])$(id).textContent='—';for(const id of ['visit-chart','live-chart','today-countries','active-countries','realtime-countries','day-history'])$(id).replaceChildren();$('ads-status').textContent='সেটিংস আনা হচ্ছে…';$('publish-ads').disabled=true;for(const id of ['rail','middle','footer']){for(const variant of ['desktop','mobile']){const input=$('ad-'+id+'-'+variant);if(input)input.value='';}}loadStats();loadAds();});
   loadStats();loadMembers();loadAds();
 })();

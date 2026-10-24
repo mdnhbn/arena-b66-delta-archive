@@ -6,9 +6,10 @@ export async function takeRateToken(request, options = {}) {
   const read=options.get??get, write=options.put??put;
   // This site reaches Vercel directly. Vercel overwrites this header at its proxy.
   const ip=request.headers.get('x-vercel-forwarded-for')||request.headers.get('x-forwarded-for')||'';
-  if(!isIP(ip.trim()))throw new Error('Trusted client address unavailable');
+  if(options.identity!==undefined&&!/^[a-f0-9]{64}$/.test(options.identity))throw new Error('Invalid trusted identity');
+  if(options.identity===undefined&&!isIP(ip.trim()))throw new Error('Trusted client address unavailable');
   const minute=Math.floor(now/60000);
-  const path='rate/'+new Date(now).toISOString().slice(0,10)+'/'+digest('rate:'+minute+':'+ip.trim())+'.json';
+  const path='rate/'+new Date(now).toISOString().slice(0,10)+'/'+digest('rate:'+minute+':'+(options.identity?'secret:'+options.identity:ip.trim()))+'.json';
   // Private store CAS coordinates concurrent functions. The IP itself is never saved.
   for(let attempt=0;attempt<3;attempt++){
     const old=await read(path,{access:'private',useCache:false});
