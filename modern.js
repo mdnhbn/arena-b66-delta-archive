@@ -18,7 +18,7 @@
   });
   // Anonymous country-level counts and visible-page presence; no IP or identity stored.
   if (navigator.doNotTrack === '1' || navigator.globalPrivacyControl === true) return;
-  if (location.hostname !== 'arena-b66-delta-archive.vercel.app') return;
+  if (!['arena-b66-delta-archive.vercel.app','cybernest-learn.vercel.app'].includes(location.hostname)) return;
   let sending=false,lastSent=0;
   async function presence(){
     if(sending || Date.now()-lastSent<120000)return;
