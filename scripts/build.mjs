@@ -2,6 +2,7 @@ import { mkdir, copyFile, cp, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { renderCatalog } from './catalog.mjs';
+import { isReadOnlyPreview, previewHTML } from '../_server/preview.mjs';
 const output = path.resolve('public');
 await mkdir(output, { recursive: true });
 const archive=JSON.parse(await readFile('data.json','utf8'));
@@ -18,3 +19,9 @@ await copyFile('tools/all-in-one-wp-migration-7.48.zip', path.join(output, 'tool
 await mkdir(path.join(output, 'ads'), { recursive: true });
 await copyFile('ads/controller.js', path.join(output, 'ads/controller.js'));
 console.log('Built public assets; backend source and private storage are excluded.');
+
+const html = previewHTML(await readFile(path.join(output, 'index.html'), 'utf8'));
+await writeFile(path.join(output, 'index.html'), html, 'utf8');
+if (isReadOnlyPreview()) {
+  for (const file of ['preview.css', 'preview-check.html']) await copyFile('scripts/' + file, path.join(output, file));
+}
