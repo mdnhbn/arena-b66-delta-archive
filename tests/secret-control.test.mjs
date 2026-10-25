@@ -18,7 +18,7 @@ test('site namespaces never overlap or accept arbitrary storage paths',()=>{
 test('course validation rejects credentials, executable links and duplicated IDs',()=>{
  assert.deepEqual(cleanCourses(DEFAULT_COURSES),DEFAULT_COURSES);assert.deepEqual(cleanCourses([]),[]);
  const course=DEFAULT_COURSES[0];for(const url of ['javascript:alert(1)','http://example.org/','https://name:password@example.org/','https://example.org/?access_token=secret'])assert.throws(()=>cleanCourses([{...course,url}]));
- assert.throws(()=>cleanCourses([course,course]));assert.throws(()=>cleanCourses([{...course,category:'other'}]));assert.throws(()=>cleanCourses([{...course,adminSecret:'value'}]));
+ assert.throws(()=>cleanCourses([course,course]));assert.throws(()=>cleanCourses([{...course,category:'unknown-category'}]));assert.throws(()=>cleanCourses([{...course,adminSecret:'value'}]));
 });
 test('bridge key verification is strict and non-ASCII input cannot throw',()=>{
  const key='a'.repeat(64);assert.equal(bridgeAllowed(new Request('https://example.org/',{headers:{'x-secret-course-key':key}}),key),true);
@@ -43,3 +43,4 @@ test('isolated banner host keeps site selection scoped and rejects unknown sites
  const {GET}=await import('../ads/api/custom.js');const original=globalThis.fetch;const calls=[];globalThis.fetch=async url=>{calls.push(String(url));return Response.json({code:'<p>owned test banner</p>',format:'728x90'});};
  try{assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&variant=desktop&site=secret'))).status,200);assert.match(calls[0],/site=secret/);assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&site=invalid'))).status,404);assert.equal((await GET(new Request('https://ads.example/api/custom?slot=rail&site=secret'))).status,404);assert.equal(calls.length,1);}finally{globalThis.fetch=original;}
 });
+
