@@ -1,12 +1,12 @@
 import { randomBytes } from 'node:crypto';
 import { put, list } from '@vercel/blob';
-import { PUBLIC_ORIGIN, json, cookies, sign, verify, digest, safeRoute, limitedJSON } from '../_server/security.mjs';
+import { PUBLIC_ORIGINS, json, cookies, sign, verify, digest, safeRoute, limitedJSON } from '../_server/security.mjs';
 import { takeRateToken } from '../_server/rate-limit.mjs';
 import {touchPresence} from '../_server/presence.mjs';
 import {countryCode,HEARTBEAT_INTERVAL} from '../_server/analytics.mjs';
 export async function POST(request) {
   if (process.env.VERCEL_ENV !== 'production' || process.env.ANALYTICS_INGEST_ENABLED !== '1') return json({error:'Unavailable'},503);
-  if (request.headers.get('origin') !== PUBLIC_ORIGIN || request.headers.get('sec-fetch-site') !== 'same-origin') return json({error:'Forbidden'},403);
+  if (!PUBLIC_ORIGINS.includes(request.headers.get('origin')) || request.headers.get('sec-fetch-site') !== 'same-origin') return json({error:'Forbidden'},403);
   if (request.headers.get('dnt')==='1' || request.headers.get('sec-gpc')==='1') return new Response(null,{status:204});
   if (request.headers.get('content-type')?.split(';')[0] !== 'application/json') return json({error:'Unsupported format'},415);
   let input;try{input=await limitedJSON(request,1024);}catch{return json({error:'Invalid request'},400);}
