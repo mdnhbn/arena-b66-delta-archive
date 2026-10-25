@@ -2,7 +2,9 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {siteFrom,sitePrefix,secretRoute} from '../_server/sites.mjs';
 import {cleanCourses,DEFAULT_COURSES} from '../_server/secret-courses.mjs';
-import {bridgeAllowed,POST as collect} from '../api/secret/visit.js';
+import {POST as collect} from '../api/secret/visit.js';
+import {bridgeAllowed} from '../_server/secret-auth.mjs';
+import {GET as privateCatalog} from '../api/secret/courses.js';
 import {GET as stats} from '../api/admin/stats.js';
 import {GET as courses,POST as publish} from '../api/admin/courses.js';
 import {touchPresence} from '../_server/presence.mjs';
@@ -23,7 +25,7 @@ test('bridge key verification is strict and non-ASCII input cannot throw',()=>{
  for(const supplied of ['','b'.repeat(64),'é'.repeat(64),'a'.repeat(63)])assert.equal(bridgeAllowed(new Request('https://example.org/',{headers:{'x-secret-course-key':supplied}}),key),false);
 });
 test('public deployment never serves admin course list or stats and rejects unauthenticated bridge writes',()=>env({VERCEL_ENV:'production',VERCEL_PROJECT_ID:PROJECT_ID,ANALYTICS_INGEST_ENABLED:'1',SECRET_COURSE_BRIDGE_KEY:'a'.repeat(64)},async()=>{
- assert.equal((await courses()).status,404);assert.equal((await stats(new Request('https://example.org/api/admin/stats?site=secret'))).status,404);assert.equal((await collect(new Request('https://example.org/api/secret/visit',{method:'POST',body:'{}'}))).status,403);
+ assert.equal((await courses()).status,404);assert.equal((await stats(new Request('https://example.org/api/admin/stats?site=secret'))).status,404);assert.equal((await collect(new Request('https://example.org/api/secret/visit',{method:'POST',body:'{}'}))).status,403);assert.equal((await privateCatalog(new Request('https://example.org/api/secret/courses'))).status,403);
 }));
 test('owner mutation still requires trusted origin and invalid links never reach storage',()=>env({VERCEL_ENV:'preview',VERCEL_GIT_COMMIT_REF:'admin',VERCEL_PROJECT_ID:PROJECT_ID,ADMIN_PREVIEW_ENABLED:'1'},async()=>{
  const request=(origin,payload)=>new Request(ADMIN_ORIGIN+'/api/admin/courses',{method:'POST',headers:{origin,'Content-Type':'application/json','X-Delta-Admin':'1'},body:JSON.stringify(payload)});
