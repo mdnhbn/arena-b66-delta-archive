@@ -8,7 +8,7 @@ await mkdir(output, { recursive: true });
 const archive=JSON.parse(await readFile('data.json','utf8'));
 await writeFile('CATALOG.md',renderCatalog(archive),'utf8');
 // Explicit public allowlist: server modules, API source, manifests and secrets never ship.
-const files = ['index.html','app.js','theme.js','style.css','modern.css','modern.js','data.json','CATALOG.md','sw.js','SECURITY.md','admin-ui.js','admin-secret.js','admin-curriculum.js','admin-ui.css'];
+const files = ['index.html','app.js','theme.js','style.css','modern.css','modern.js','data.json','CATALOG.md','sw.js','SECURITY.md','admin-ui.js','admin-secret.js','admin-curriculum.js','admin-ui.css','learning-library.css','learning-library.js'];
 for (const file of files) await copyFile(file, path.join(output, file));
 for (const dir of ['documents','notes','assets']) {
   if (existsSync(dir)) await cp(dir, path.join(output, dir), { recursive: true });
