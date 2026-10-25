@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {cleanCourses} from '../_server/secret-courses.mjs';
+const course=i=>({id:'course-'+i,title:'Course '+i,category:'other',categories:['other'],description:'Pending review',tags:[],url:'https://example.com/#course/course-'+i,serial:i,sourceUrl:'https://example.com/source/'+i});
+test('complete1082 catalog fits private admin schema and preserves source order',()=>{const data=Array.from({length:1082},(_,i)=>course(i+1)),out=cleanCourses(data);assert.equal(out.length,1082);assert.equal(out[1081].serial,1082);assert.equal(out[0].sourceUrl,'https://example.com/source/1');assert.deepEqual(out[0].categories,['other']);assert.throws(()=>cleanCourses(Array.from({length:1501},(_,i)=>course(i+1))));});
+test('category/source fields reject unsafe or unknown values',()=>{for(const patch of [{categories:['untrusted']},{sourceUrl:'javascript:alert(1)'},{sourceUrl:'https://example.com/?access_token=secret'},{serial:-1},{categories:{other:true}}])assert.throws(()=>cleanCourses([{...course(1),...patch}]))});
+
