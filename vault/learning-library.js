@@ -44,7 +44,7 @@
    const slot=document.getElementById('library-filters');
    if(lastRoute!==location.hash){slot?.replaceChildren();if(slot)slot.hidden=true;lastRoute=location.hash;}
    const filters=host.querySelector('.filter-bar');if(filters&&slot){slot.hidden=false;slot.replaceChildren(make('h2','','খুঁজুন ও ফিল্টার করুন'),filters);if(location.hash.startsWith('#classes')){const saved=make('button','saved-filter','♡ শুধু সংরক্ষিত ক্লাস');saved.type='button';saved.setAttribute('aria-pressed',String(!!window.ArchiveSavedOnly));saved.addEventListener('click',()=>{window.ArchiveSavedOnly=!window.ArchiveSavedOnly;window.dispatchEvent(new Event('hashchange'));});slot.append(saved);}}
-   document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
+   document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=window.CyberNestLanguage?.originalText(row.querySelector('.class-meta')?.lastElementChild)||row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
   }
   const path=location.hash,match=vault?path.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/):path.match(/^#class\/(entry-[0-9]+)$/);
   if(match&&!host.querySelector('.enrollment-lock')){
@@ -54,7 +54,7 @@
    }
   }
   if(vault){let completed=0,total=0;host.querySelectorAll('.lesson-list a').forEach(a=>{const m=a.hash.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/);if(!m)return;total++;const on=prefs.isComplete(m[1]+':'+m[2]);if(on)completed++;a.classList.toggle('lesson-done',on);});const side=host.querySelector('.lesson-sidebar');if(side&&total){let bar=side.querySelector('.learning-progress');if(!bar){bar=make('progress','learning-progress');bar.setAttribute('aria-label','Your completion progress');side.querySelector('.course-progress')?.after(bar);}bar.max=total;bar.value=completed;bar.title=completed+' of '+total+' lessons marked complete on this browser';}}
-  const resume=document.getElementById('resume-learning'),recent=prefs.recent();if(resume){resume.hidden=!recent;if(recent){resume.href=recent.href;resume.title='Continue: '+recent.title;}}
+  const resume=document.getElementById('resume-learning'),recent=prefs.recent();if(resume){resume.hidden=!recent;if(recent){resume.href=(recent.href.startsWith('#course/')?'/vault/':'/')+recent.href;resume.title='Continue: '+recent.title;}}
   observer?.observe(host,{childList:true,subtree:true});
  }
  function queue(){if(scheduled)return;scheduled=true;queueMicrotask(refresh);}
