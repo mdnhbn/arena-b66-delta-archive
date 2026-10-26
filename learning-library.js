@@ -44,7 +44,7 @@
    const slot=document.getElementById('library-filters');
    if(lastRoute!==location.hash){slot?.replaceChildren();if(slot)slot.hidden=true;lastRoute=location.hash;}
    const filters=host.querySelector('.filter-bar');if(filters&&slot){slot.hidden=false;slot.replaceChildren(make('h2','','খুঁজুন ও ফিল্টার করুন'),filters);if(location.hash.startsWith('#classes')){const saved=make('button','saved-filter','♡ শুধু সংরক্ষিত ক্লাস');saved.type='button';saved.setAttribute('aria-pressed',String(!!window.ArchiveSavedOnly));saved.addEventListener('click',()=>{window.ArchiveSavedOnly=!window.ArchiveSavedOnly;window.dispatchEvent(new Event('hashchange'));});slot.append(saved);}}
-   document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
+   document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=window.CyberNestLanguage?.originalText(row.querySelector('.class-meta')?.lastElementChild)||row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
   }
   const path=location.hash,match=vault?path.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/):path.match(/^#class\/(entry-[0-9]+)$/);
   if(match&&!host.querySelector('.enrollment-lock')){

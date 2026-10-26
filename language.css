@@ -1,0 +1,21 @@
+.language-control{display:inline-flex;flex:none;align-items:center;gap:2px;border:1px solid var(--a-line,#a6b4ad);border-radius:9px;padding:3px;background:var(--a-paper,#fff);color:var(--a-ink,#142032);font-family:"Segoe UI",Arial,sans-serif;white-space:nowrap}
+.language-control button{min-height:32px;border:0;border-radius:6px;background:transparent;color:inherit;font:600 12px/1.2 "Segoe UI",Arial,sans-serif;padding:6px 9px;cursor:pointer;transition:background-color .15s,color .15s}
+.language-control button[aria-pressed="true"]{background:var(--a-accent,#146b4c);color:var(--a-paper,#fff)}
+.language-control button:focus-visible{outline:2px solid var(--a-accent,#146b4c);outline-offset:2px}
+html[data-theme="dark"] .language-control{background:#1a2532;color:#f1f5fa;border-color:#4a5b6a}
+html[data-theme="dark"] .language-control button[aria-pressed="true"]{background:#85e7b5;color:#10231a}
+body>header>.language-control{margin-left:auto}body>header{gap:12px}
+@media(max-width:1400px){.delta-library .topbar .public-label{display:none}}
+@media(max-width:780px){.language-control button{padding:5px 7px;min-height:30px}.language-control{padding:2px}.topbar .central-account .account-entry{max-width:150px}}
+@media(max-width:760px){
+ .delta-library .topbar,.vault-library .topbar{height:108px;min-height:108px;flex-wrap:wrap;align-content:center;gap:5px 10px}
+ .delta-library .topbar-right{width:100%;justify-content:flex-end;gap:7px;margin:0}
+ .delta-library .academy-brand{flex:1}
+ .vault-library .topbar>.academy-brand{flex:1 0 calc(100% - 60px);margin:0}
+ .vault-library .topbar>.central-account{margin-left:auto;order:2}
+ .vault-library .topbar>.learning-top-actions{order:3;margin:0;gap:7px}
+ .delta-library .sidebar,.vault-library .sidebar{top:108px;height:calc(100dvh - 108px)}
+ .delta-library .app-shell,.vault-library .shell{padding-top:108px}
+ body>header{flex-wrap:wrap}
+}
+@media(prefers-reduced-motion:reduce){.language-control button{transition:none}}
