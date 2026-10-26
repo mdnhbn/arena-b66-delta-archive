@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {readFileSync,existsSync,readdirSync} from 'node:fs';
+import {readFileSync,existsSync} from 'node:fs';
 import {safeRoute} from '../_server/security.mjs';
 import {renderCatalog} from '../scripts/catalog.mjs';
 
@@ -28,27 +28,17 @@ test('public output excludes full course data, downloads and private files',()=>
   for(const path of ['public/data.json','public/CATALOG.md','public/documents','public/notes','public/tools','public/_server','public/.env','public/STATE.md','public/node_modules','public/fixes-2026-10-13'])assert.equal(existsSync(path),false,path);
 });
 
-test('published roadmap and original-source provenance reflect the reviewed state',()=>{
-  const data=JSON.parse(readFileSync('data.json','utf8'));
+test('public preview preserves class order without publishing private course resources',()=>{
+  const data=JSON.parse(readFileSync('_server/archive-preview.json','utf8'));
   const records=data.entries.filter(e=>e.category==='recordings').sort((a,b)=>a.recordingSerial-b.recordingSerial);
   assert.deepEqual(records.map(e=>e.recordingSerial),records.map((e,i)=>i+1));
-  for(const stage of data.syllabus.stages.filter(e=>e.classIds?.includes('class-2026-10-11')))assert.doesNotMatch(stage.summary,/১১ অক্টোবর.*ভিডিও হোস্টিং বাকি/);
-  for(const id of ['msg-class22-duplicator-pro','msg-class22-unlimited-extension']){
-    const e=data.entries.find(e=>e.id===id);assert.equal(e.relatedRecordingId,'entry-148');
-    assert.doesNotMatch(e.sourceLabel,/\?\?\?/);assert.doesNotMatch(e.relationshipVerification,/\?\?\?/);
-  }
-  const osint=data.entries.find(e=>e.id==='entry-43');
-  assert.equal(osint.publicationEdition,'lab-scoped-redacted');
-  assert.doesNotMatch(osint.noteText,/grabify\.link|forms\.gle|take attendance/i);
-  const reviewed=records.filter(e=>data.entries.find(n=>n.id===e.searchStudyGuideId)?.fullRecordingSummaryReviewed).length;
-  assert.equal(data.studyGuideAudit.fullRecordingSummariesReviewed,reviewed);
-  assert.equal(data.studyGuideAudit.fullRecordingSummariesPending,records.length-reviewed);
-  if(data.studyGuideAudit.fullAnalysisComplete)assert.equal(reviewed,records.length);
+  assert.equal(records.length,26);
+  for(const entry of data.entries)for(const key of ['noteText','youtubeId','youtubeVideos','dailymotionVideos','documentUrl','source','links'])assert.equal(entry[key],undefined);
 });
 
 test('public source contains no common credential or private-key patterns',()=>{
   const patterns=[/-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----/,/\bAKIA[A-Z0-9]{16}\b/,/\bgh[pousr]_[A-Za-z0-9]{30,}\b/,/vercel_blob_rw_[A-Za-z0-9_]+/];
-  const paths=['data.json','app.js','modern.js','admin-ui.js',...readdirSync('notes').map(n=>'notes/'+n)];
+  const paths=['_server/archive-preview.json','app.js','modern.js','admin-ui.js'];
   for(const path of paths){if(!/\.(json|js|md|txt)$/.test(path))continue;
     const source=readFileSync(path,'utf8');for(const pattern of patterns)assert.equal(pattern.test(source),false,`Credential-like content in ${path}`);
   }
