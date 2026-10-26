@@ -84,17 +84,5 @@
       "includeFiles": "_server/archive-preview.json"
     }
   },
-  "redirects": [
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "arena-b66-delta-archive.vercel.app"
-        }
-      ],
-      "destination": "https://cybernest-learn.vercel.app/:path*",
-      "permanent": true
-    }
-  ]
+  "redirects": []
 }
