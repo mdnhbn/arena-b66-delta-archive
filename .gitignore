@@ -3,3 +3,14 @@ public/
 .vercel/
 .env*
 *.local.json
+data.json
+CATALOG.md
+sources/
+notes/
+documents/
+tools/
+tools-manifest.json
+drive-backup-manifest.json
+
+.vercel
+.env*

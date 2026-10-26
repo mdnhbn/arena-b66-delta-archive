@@ -1,13 +1,15 @@
-# Delta Archive · Arena B66
+# CyberNest
 
-[Public website](https://arena-b66-delta-archive.vercel.app/) · [Catalogue](CATALOG.md) · [Tools audit](TOOLS-AUDIT.md)
+[Learning website](https://cybernest-learn.vercel.app/) · [Management Studio](https://cybernest-learn.vercel.app/studio)
 
-Bengali static course archive with22 ordered classes, searchable notes/documents, software downloads, light/dark themes and an official-syllabus comparison roadmap. Main-branch commits deploy to Vercel.
+Public application source for the CyberNest learning platform. Includes an English/Bengali course preview, shared accounts, explicit course approval, private resource delivery, course management, advertising controls and consent-based visitor analytics.
 
-## Updating
+## Content and access
 
-Add verified resources to data.json and associate them with the correct recording ID. Public visitors have no editing form. Missing resources remain explicitly unavailable. Do not store credentials, private meeting invitations, personal exam results, local file paths or signed URLs in the public repository.
+Course text, files, source-post snapshots and playable media metadata are managed in protected database storage, separately from public application source. Use Studio to edit courses; never commit course exports, notes, downloads, credentials or provider tokens. Registration does not grant course access. Payment collection is not connected.
 
-## Verification
+## Validation
 
-Syntax and DOM flow checks cover ordered classes, tools/documents associations, downloads, video embeds, search, theme switching and removal of private access information. Video readiness is based on actual playback checks. Collection remains incomplete; topic coverage does not imply every video was watched end to end.
+Run `npm ci --ignore-scripts`, `npm run build`, `npm test`. The build rejects private course exports and private/static credential artifacts. CI also scans Git history for credential patterns.
+
+Removing course files from the current branch does not revoke historical Git copies or previously shared media URLs. Previously downloaded copies cannot be erased remotely. Host-level signed or restricted playback is a separate requirement for stronger paid-content protection. See SECURITY.md.

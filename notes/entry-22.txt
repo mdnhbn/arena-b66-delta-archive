@@ -1,7 +1,0 @@
-Orientation Class: B66 Delta — নিরাপদ সম্পাদিত প্রকাশিত সংস্করণ
-
-এই মূল নোটে domain/TLD, front end/back end, Google Dork এবং 1337 লেখার ধারণা ছিল। তৃতীয় পক্ষের বাস্তব login-target তালিকা, login-bypass input এবং attendance form এই প্রকাশিত সংস্করণে রাখা হয়নি। শিক্ষক-প্রদত্ত মূল নোটের একটি কপি ব্যক্তিগত আর্কাইভে সংরক্ষিত আছে।
-
-Google Dork = Advanced Search technique। URL-এর শব্দ দিয়ে খোঁজা এবং নির্দিষ্ট domain-এ ফল সীমিত করা এই অংশের বিষয়। নিজের/লিখিত অনুমতিপ্রাপ্ত domain ছাড়া উদাহরণ ব্যবহার করবেন না। Google ফল কোনো vulnerability বা access permission-এর প্রমাণ নয়।
-
-ক্লাস ১-এর নতুন পাঠনোটে উপলব্ধ পূর্ণ ক্যাপশনের সারাংশ, যাচাই করা সময়চিহ্ন এবং নিজের lab-এর জন্য scope-এ সীমিত উদাহরণ রয়েছে।
