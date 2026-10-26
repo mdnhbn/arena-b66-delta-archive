@@ -1,3 +1,4 @@
+import {readManagedCourses,saveManagedCourses} from './managed-catalog.mjs';
 import {get,put,BlobPreconditionFailedError} from '@vercel/blob';
 const path='settings/secret-courses.json';
 export const CATEGORIES=Object.freeze(['ai','hacking','marketing','editing','trading','coding','design','ecommerce','youtube','other']);
@@ -16,6 +17,5 @@ export function cleanCourses(input){
  });
 }
 async function stored(){const file=await get(path,{access:'private',useCache:false});if(!file||file.statusCode===404)return {file:null,data:{courses:DEFAULT_COURSES,updatedAt:null}};if(file.statusCode!==200)throw new Error('Storage unavailable');const data=await new Response(file.stream).json();return {file,data:{courses:cleanCourses(data.courses),updatedAt:data.updatedAt}};}
-export async function readCourses(){return (await stored()).data;}
-export async function saveCourses(courses,expectedUpdatedAt){const old=await stored();if(old.data.updatedAt!==expectedUpdatedAt){const error=new Error('Changed elsewhere');error.status=409;throw error;}const data={courses:cleanCourses(courses),updatedAt:new Date().toISOString()};try{await put(path,JSON.stringify(data),{access:'private',contentType:'application/json',addRandomSuffix:false,allowOverwrite:!!old.file,...(old.file?{ifMatch:old.file.blob.etag}:{})});}catch(error){if(error instanceof BlobPreconditionFailedError)error.status=409;throw error;}return data;}
-
+export async function readCourses(){return readManagedCourses();}
+export async function saveCourses(courses,expectedUpdatedAt){return saveManagedCourses(cleanCourses(courses),expectedUpdatedAt);}

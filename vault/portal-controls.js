@@ -2,9 +2,9 @@
  const privacy=()=>navigator.globalPrivacyControl===true||navigator.doNotTrack==='1'||window.doNotTrack==='1';
  async function visit(){if(privacy()||document.visibilityState!=='visible')return;try{await fetch('/api/visit',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json'},body:JSON.stringify({route:location.hash.split('?')[0]||'#library'}),signal:AbortSignal.timeout(18000)});}catch{}}
  visit();setInterval(visit,120000);document.addEventListener('visibilitychange',visit);window.addEventListener('hashchange',visit);
- let settings=null,version=null;const mounted=new Map();
+ let settings=null,version=null,operationsEnabled=true;const mounted=new Map();
  function clear(slot){const item=mounted.get(slot);if(item){item.frame.removeAttribute('src');item.target.replaceChildren();item.target.hidden=true;mounted.delete(slot);}}
- function render(){for(const slot of ['middle','footer']){const target=document.querySelector('[data-vault-ad="'+slot+'"]');if(!target)continue;let closed=false;try{closed=sessionStorage.getItem('vault-ad-closed:'+slot)==='1';}catch{}
+ function render(){if(!operationsEnabled){for(const slot of ['middle','footer'])clear(slot);return;}for(const slot of ['middle','footer']){const target=document.querySelector('[data-vault-ad="'+slot+'"]');if(!target)continue;let closed=false;try{closed=sessionStorage.getItem('vault-ad-closed:'+slot)==='1';}catch{}
   const space=target.parentElement.clientWidth,width=space>=750?728:320,height=width===728?90:50,variant=width===728?'desktop':'mobile';
   if(!settings?.enabled||!settings.placements?.[slot]?.enabled||closed||space<width+2){clear(slot);target.hidden=true;continue;}
   const existing=mounted.get(slot);if(existing&&existing.variant===variant&&existing.version===version)continue;clear(slot);target.hidden=false;
@@ -12,6 +12,6 @@
   function expand(value){frame.hidden=!value;toggle.textContent=value?'Minimize':'Show ad';toggle.setAttribute('aria-expanded',String(value));if(value&&!frame.getAttribute('src'))frame.src='https://arena-b66-delta-ads.vercel.app/api/custom?'+new URLSearchParams({site:'secret',slot,variant,v:version||'default'});}
   toggle.addEventListener('click',()=>expand(toggle.getAttribute('aria-expanded')!=='true'));close.addEventListener('click',()=>{clear(slot);try{sessionStorage.setItem('vault-ad-closed:'+slot,'1');}catch{}});controls.append(toggle,close);caption.append(label,controls);target.append(caption,frame);mounted.set(slot,{target,frame,variant,version});expand(settings.defaultExpanded!==false);
  }}
- async function load(){try{const r=await fetch('/api/ads-config',{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(15000)});if(!r.ok)return;settings=await r.json();version=settings.updatedAt;render();}catch{}}
- load();window.addEventListener('resize',render);setInterval(()=>{if(document.visibilityState==='visible')load();},60000);
+ async function load(){try{const r=await fetch('/api/ads-config?site=secret',{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(15000)});if(!r.ok)return;settings=await r.json();version=settings.updatedAt;render();}catch{}}
+ window.addEventListener('cybernest:operations',e=>{operationsEnabled=e.detail.enabled.ads&&e.detail.enabled.site;render();});load();window.addEventListener('resize',render);setInterval(()=>{if(document.visibilityState==='visible')load();},60000);
 })();
