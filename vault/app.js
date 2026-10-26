@@ -1,6 +1,6 @@
 'use strict';
 const categories = [
-  ['ai', 'AI'], ['hacking', 'Hacking'], ['marketing', 'Marketing'],
+  ['ai', 'AI'], ['hacking', 'Cyber Security'], ['marketing', 'Marketing'],
   ['editing', 'Editing'], ['trading', 'Trading'], ['coding', 'Coding'],
   ['design', 'Design'], ['ecommerce', 'Ecommerce'], ['youtube', 'YouTube'], ['other','Other courses'],
 ];
