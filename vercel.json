@@ -49,17 +49,44 @@
           "value": "noindex,nofollow"
         }
       ]
+    },
+    {
+      "source": "/vault/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex,nofollow"
+        }
+      ]
     }
   ],
   "rewrites": [
     {
       "source": "/admin",
       "destination": "/api/admin/page"
+    },
+    {
+      "source": "/api/auth/:path*",
+      "destination": "/api/learning-auth?path=:path*"
     }
   ],
   "functions": {
     "api/**/*.js": {
-      "maxDuration": 30
+      "maxDuration": 30,
+      "includeFiles": "_server/archive-preview.json"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "arena-b66-delta-archive.vercel.app"
+        }
+      ],
+      "destination": "https://cybernest-learn.vercel.app/:path*",
+      "permanent": true
+    }
+  ]
 }

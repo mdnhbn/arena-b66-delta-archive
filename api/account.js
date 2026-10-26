@@ -1,0 +1,2 @@
+import {learningSession,grantedCourses,accountJSON} from '../_server/learning-auth.mjs';
+export async function GET(request){try{const session=await learningSession(request);if(!session)return accountJSON({user:null,courses:[]});return accountJSON({user:{id:session.user.id,name:session.user.name,email:session.user.email,emailVerified:session.user.emailVerified},courses:[...await grantedCourses(session)]});}catch{return accountJSON({error:'Account service unavailable'},503);}}
