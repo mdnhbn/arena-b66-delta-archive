@@ -1,3 +1,4 @@
+import {adminAccess,courseScopeAllowed} from '../../staff-access.mjs';
 import {list} from '@vercel/blob';
 import {adminAllowed,json} from '../../security.mjs';
 import {summarizeVisits,summarizePresence,ACTIVE_WINDOW} from '../../analytics.mjs';
@@ -5,7 +6,7 @@ import {cachedStat} from '../../stat-cache.mjs';
 import {siteFrom,sitePrefix} from '../../sites.mjs';
 async function blobsFor(prefix){let cursor,blobs=[],limited=false;do{const result=await list({prefix,limit:1000,cursor});blobs.push(...result.blobs);cursor=result.cursor;if(blobs.length>=3000){limited=result.hasMore;break;}if(!result.hasMore)break;}while(cursor);return {blobs,limited};}
 export async function GET(request){
-  if(!adminAllowed())return json({error:'Not found'},404);
+  const access=await adminAccess(request,'analytics.aggregate');if(access.response)return access.response;
   let site;try{site=siteFrom(request);}catch{return json({error:'Invalid site'},400);}const prefix=sitePrefix(site);
   const period=request && new URL(request.url).searchParams.get('days')==='28'?28:7;
   try{
