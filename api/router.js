@@ -23,6 +23,9 @@ import * as paymentRoute from '../_server/routes/admin/payments.mjs';
 import * as operationRoute from '../_server/routes/admin/operations.mjs';
 import * as configRoute from '../_server/routes/site-config.mjs';
 import {withRequestActor} from '../_server/request-actor.mjs';
+import * as campaignsRoute from '../_server/routes/admin/campaigns.mjs';
+import * as publicCampaignsRoute from '../_server/routes/ad-campaigns.mjs';
+import * as campaignCodeRoute from '../_server/routes/ad-campaign-code.mjs';
 import * as providersRoute from '../_server/routes/auth-providers.mjs';
 import * as integrationsRoute from '../_server/routes/admin/integrations.mjs';
 import * as teamRoute from '../_server/routes/admin/team.mjs';
@@ -36,7 +39,7 @@ async function handler(request){
  const url=new URL(request.url),route=url.searchParams.get('__route');
  if(typeof route!=='string'||route.length>160||route.split('/').some(part=>! /^[a-z0-9-]+$/.test(part)))return new Response(null,{status:404});
  url.searchParams.delete('__route');url.pathname='/api/'+route;
- const destination=route==='auth-providers'?providersRoute:route==='admin/integrations'?integrationsRoute:route==='admin/team'?teamRoute:route==='admin/me'?meRoute:route==='staff/page'?studioRoute:route==='activity'?activityRoute:route==='admin/history'?historyRoute:route==='admin/archive'?archiveRoute:route==='admin/payments'?paymentRoute:route==='admin/operations'?operationRoute:route==='site-config'?configRoute:route.startsWith('auth/')?routes['learning-auth']:routes[route];
+ const destination=route==='admin/campaigns'?campaignsRoute:route==='ad-campaigns'?publicCampaignsRoute:route==='ad-campaign-code'?campaignCodeRoute:route==='auth-providers'?providersRoute:route==='admin/integrations'?integrationsRoute:route==='admin/team'?teamRoute:route==='admin/me'?meRoute:route==='staff/page'?studioRoute:route==='activity'?activityRoute:route==='admin/history'?historyRoute:route==='admin/archive'?archiveRoute:route==='admin/payments'?paymentRoute:route==='admin/operations'?operationRoute:route==='site-config'?configRoute:route.startsWith('auth/')?routes['learning-auth']:routes[route];
  if(!destination?.[request.method])return new Response(null,{status:404,headers:{'Cache-Control':'no-store'}});
  if(!route.startsWith('admin/')&&!route.startsWith('staff/')&&route!=='site-config'&&route!=='activity'&&route!=='auth-providers'&&!['visit','secret/visit','account','auth/get-session','auth/sign-out'].includes(route)){
   try{const {settings}=await operations();if(blockedFeature(route,url.pathname,settings))return unavailable(settings.message);}catch{return unavailable('সেবা সাময়িকভাবে পাওয়া যাচ্ছে না। একটু পরে আবার চেষ্টা করুন।');}
