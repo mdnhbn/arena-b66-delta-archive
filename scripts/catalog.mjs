@@ -1,4 +1,4 @@
-const ORIGIN='https://arena-b66-delta-archive.vercel.app';
+const ORIGIN='https://cybernest-learn.vercel.app';
 const line=value=>String(value??'').replace(/[\r\n|]/g,' ').replace(/[\[\]<>]/g,'').trim();
 function link(value){
   try{const url=new URL(value,ORIGIN);return ['https:','http:'].includes(url.protocol)&&!url.username&&!url.password?url.href:null;}catch{return null;}
@@ -7,7 +7,7 @@ export function renderCatalog(data){
   const entries=data.entries||[],records=entries.filter(e=>e.category==='recordings').sort((a,b)=>a.recordingSerial-b.recordingSerial);
   const out=['# Delta Archive — পোস্ট ও রিসোর্স ক্যাটালগ','',
     'হালনাগাদ: '+line(data.updatedAt),'',
-    `${records.length}টি মূল ক্লাস এবং ${entries.length}টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট সাইট এবং data.json-এ আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।`,'',
+    `${records.length}টি মূল ক্লাস এবং ${entries.length}টি পোস্ট/রিসোর্সের বর্তমান সূচি। পূর্ণ লেখা ও নোট অনুমোদিত কোর্সের সুরক্ষিত অংশে আছে। এটি নতুন করে সকল মূল পোস্ট/ভিডিও সম্পূর্ণ যাচাই হয়েছে—এমন দাবি নয়।`,'',
     '## ক্লাসের সিরিয়াল','',
     '| ক্লাস | টপিক | ক্লাসের তারিখ | ভিডিও | পূর্ণ সামারি |',
     '|---|---|---|---|---|'];
