@@ -41,6 +41,6 @@ test('secret live presence writes only its own prefix',async()=>{
 
 test('isolated banner host keeps site selection scoped and rejects unknown sites',async()=>{
  const {GET}=await import('../ads/api/custom.js');const original=globalThis.fetch;const calls=[];globalThis.fetch=async url=>{calls.push(String(url));return Response.json({code:'<p>owned test banner</p>',format:'728x90'});};
- try{assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&variant=desktop&site=secret'))).status,200);assert.match(calls[0],/site=secret/);assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&site=invalid'))).status,404);assert.equal((await GET(new Request('https://ads.example/api/custom?slot=rail&site=secret'))).status,404);assert.equal(calls.length,1);}finally{globalThis.fetch=original;}
+ try{assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&variant=desktop&site=secret'))).status,200);assert.match(calls[0],/site=secret/);assert.equal(new URL(calls[0]).origin,'https://cybernest-learn.vercel.app');assert.equal((await GET(new Request('https://ads.example/api/custom?slot=middle&site=invalid'))).status,404);assert.equal((await GET(new Request('https://ads.example/api/custom?slot=rail&site=secret'))).status,404);assert.equal(calls.length,1);}finally{globalThis.fetch=original;}
 });
 
