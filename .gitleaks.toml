@@ -1,0 +1,26 @@
+title = "CyberNest secret protection"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "cybernest-blob-write-token"
+description = "Vercel Blob write credential"
+regex = '''vercel_blob_rw_[A-Za-z0-9_]{15,}'''
+keywords = ["vercel_blob_rw_"]
+
+[[rules]]
+id = "cybernest-neon-password"
+description = "Database URL containing a Neon password"
+regex = '''postgres(?:ql)?://[^\s:/"']+:[^\s@"']{12,}@[^\s"']*neon\.tech'''
+keywords = ["neon.tech"]
+
+# Exact historical finding: a publicly delivered advertising zone identifier,
+# not an account password. Other findings, even in this file, remain actionable.
+[[allowlists]]
+description = "Reviewed public banner zone in historical commit"
+condition = "AND"
+commits = ["0d70e212515b899edb5c6c21df1bbb4af4a2ce86"]
+paths = ['''^ads/banner\.html$''']
+regexTarget = "secret"
+regexes = ['''^84a00e9fc45be358f4e7b860de60d0c0$''']
