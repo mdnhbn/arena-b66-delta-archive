@@ -54,7 +54,7 @@
    }
   }
   if(vault){let completed=0,total=0;host.querySelectorAll('.lesson-list a').forEach(a=>{const m=a.hash.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/);if(!m)return;total++;const on=prefs.isComplete(m[1]+':'+m[2]);if(on)completed++;a.classList.toggle('lesson-done',on);});const side=host.querySelector('.lesson-sidebar');if(side&&total){let bar=side.querySelector('.learning-progress');if(!bar){bar=make('progress','learning-progress');bar.setAttribute('aria-label','Your completion progress');side.querySelector('.course-progress')?.after(bar);}bar.max=total;bar.value=completed;bar.title=completed+' of '+total+' lessons marked complete on this browser';}}
-  const resume=document.getElementById('resume-learning'),recent=prefs.recent();if(resume){resume.hidden=!recent;if(recent){resume.href=recent.href;resume.title='Continue: '+recent.title;}}
+  const resume=document.getElementById('resume-learning'),recent=prefs.recent();if(resume){resume.hidden=!recent;if(recent){resume.href=(recent.href.startsWith('#course/')?'/vault/':'/')+recent.href;resume.title='Continue: '+recent.title;}}
   observer?.observe(host,{childList:true,subtree:true});
  }
  function queue(){if(scheduled)return;scheduled=true;queueMicrotask(refresh);}
