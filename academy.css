@@ -14,3 +14,5 @@
 @media(max-width:520px){.catalog-grid{grid-template-columns:1fr}.catalog-cover{min-height:185px}.cover-name{font-size:33px}.catalog-card h3{font-size:17px}.catalog-description{font-size:14px}.account-entry{font-size:11px;padding:7px 8px}.academy-brand{font-size:17px}.account-dialog{padding:22px}.vault-library .topbar{gap:6px}}@media(prefers-reduced-motion:reduce){.catalog-card{transition:none}.catalog-card:hover{transform:none}}
 
 .vault-library .lesson-list small,.vault-library footer,.vault-library footer p{color:var(--a-muted)}
+
+.maintenance-screen{position:fixed;inset:0;z-index:10000;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:28px;background:var(--bg,#f3f7f4);color:var(--text,#142c23);text-align:center}.maintenance-screen[hidden]{display:none}.maintenance-screen h1{font-size:clamp(24px,5vw,42px)}.maintenance-screen p{max-width:600px;line-height:1.8}.site-announcement{padding:14px 20px;border:1px solid #76ad8b;background:#e6f4eb;color:#153b27;border-radius:12px}
