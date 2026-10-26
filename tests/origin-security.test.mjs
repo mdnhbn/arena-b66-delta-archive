@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {PUBLIC_ORIGINS,adminAllowed} from '../_server/security.mjs';
-import {POST} from '../api/visit.js';
+import {POST} from '../_server/routes/visit.mjs';
 test('new and original addresses accept consent opt-out while unrelated origins fail before storage',async()=>{
  const previous={VERCEL_ENV:process.env.VERCEL_ENV,ANALYTICS_INGEST_ENABLED:process.env.ANALYTICS_INGEST_ENABLED};
  Object.assign(process.env,{VERCEL_ENV:'production',ANALYTICS_INGEST_ENABLED:'1'});

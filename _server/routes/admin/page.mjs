@@ -1,5 +1,5 @@
-import { adminAllowed, ADMIN_ORIGIN, json } from '../../_server/security.mjs';
-import { adminPage } from '../../_server/admin-page.mjs';
+import { adminAllowed, ADMIN_ORIGIN, json } from '../../security.mjs';
+import { adminPage } from '../../admin-page.mjs';
 export function GET() {
   if (process.env.VERCEL_ENV === 'production') return new Response(null,{status:302,headers:{Location:ADMIN_ORIGIN+'/admin','Cache-Control':'no-store','Referrer-Policy':'no-referrer'}});
   if (!adminAllowed()) return json({error:'Not found'},404);

@@ -16,7 +16,7 @@
  const host=vault?document.getElementById('main'):document.getElementById('page');if(!host)return;
  let scheduled=false,lastRoute='',observer;
  const icons={ai:'AI',hacking:'⌘',marketing:'↗',editing:'▶',trading:'↗',coding:'</>',design:'◇',ecommerce:'▤',youtube:'▶',other:'✦'};
- function dialog(kind,title){
+ function dialog(kind,title){if(window.LearningAccount){if(kind==='enroll')window.LearningAccount.enroll(vault?(location.hash.match(/^#course\/([a-z0-9-]+)/)?.[1]||'arena-b66-delta'):'arena-b66-delta',title);else window.LearningAccount.open(kind);return;}
   document.querySelector('.learning-dialog')?.remove();const d=make('dialog','learning-dialog'),close=make('button','dialog-close','×');close.type='button';close.setAttribute('aria-label','Close');close.addEventListener('click',()=>d.close());d.append(close);
   if(kind==='enroll'){
    d.append(make('p','eyebrow','COURSE ENROLLMENT'),make('h2','',title),make('p','','Paid course access'));
@@ -33,7 +33,7 @@
   if(row.dataset.libraryReady)return;row.dataset.libraryReady='1';
   const shell=make('article','lib-card-shell');shell.dataset.courseKey=key;row.replaceWith(shell);row.prepend(cover(topic,serial));const paid=make('span','paid-course-label','Paid course');row.querySelector('.course-info,.class-main')?.before(paid);
   const save=make('button','lib-save');save.type='button';function draw(){const on=prefs.isSaved(key);save.textContent=on?'♥':'♡';save.setAttribute('aria-pressed',String(on));save.setAttribute('aria-label',(on?'Unsave ':'Save ')+title);}draw();save.addEventListener('click',()=>{prefs.toggleSaved(key);draw();if(vault&&typeof state!=='undefined'&&state.savedOnly)renderCourses();if(!vault&&window.ArchiveSavedOnly)window.dispatchEvent(new Event('hashchange'));});
-  const enroll=make('button','lib-enroll',vault?'Enrollment options':'কোর্সে ভর্তির অপশন');enroll.type='button';enroll.addEventListener('click',()=>dialog('enroll',vault?title:'Arena Web Security · B66 Delta'));shell.append(row,save,enroll);
+  const enroll=make('button','lib-enroll',vault?'Enrollment options':'কোর্সে ভর্তির অপশন');enroll.type='button';enroll.addEventListener('click',()=>window.LearningAccount?window.LearningAccount.enroll(vault?key:'arena-b66-delta',title):dialog('enroll',title));shell.append(row,save,enroll);
  }
  function refresh(){
   scheduled=false;observer?.disconnect();
@@ -47,7 +47,7 @@
    document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
   }
   const path=location.hash,match=vault?path.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/):path.match(/^#class\/(entry-[0-9]+)$/);
-  if(match){
+  if(match&&!host.querySelector('.enrollment-lock')){
    const key=vault?match[1]+':'+match[2]:match[1],title=host.querySelector(vault?'.lesson-title h2':'.page-heading h1')?.textContent;
    if(title){prefs.remember(path,title);let actions=host.querySelector('.learning-actions');if(!actions){actions=make('div','learning-actions');const done=make('button','learning-action');done.type='button';done.addEventListener('click',()=>{prefs.toggleComplete(key);queue();});actions.append(done,make('small','','Saved on this browser · completion is marked by you'));const anchor=host.querySelector(vault?'.lesson-pager':'.page-heading');anchor?.after(actions);}
     const done=actions.querySelector('button'),complete=prefs.isComplete(key);done.textContent=complete?'✓ Completed':'Mark lesson completed';done.setAttribute('aria-pressed',String(complete));
@@ -59,7 +59,7 @@
  }
  function queue(){if(scheduled)return;scheduled=true;queueMicrotask(refresh);}
  const controls=make('div','learning-top-actions'),resume=make('a','resume-learning',vault?'Continue learning':'শেখা চালিয়ে যান');resume.id='resume-learning';resume.hidden=true;controls.append(resume);
- for(const[kind,label,cls]of [['signin','Sign in','account-signin'],['register','Register','account-register']]){const b=make('button',cls,label);b.type='button';b.addEventListener('click',()=>dialog(kind));controls.append(b);}
+ for(const[kind,label,cls]of (window.LearningAccount?[]:[['signin','Sign in','account-signin'],['register','Register','account-register']])){const b=make('button',cls,label);b.type='button';b.addEventListener('click',()=>dialog(kind));controls.append(b);}
  if(vault){const theme=make('button','','☾ Dark');theme.id='library-theme-toggle';theme.type='button';controls.append(theme);}
  (document.querySelector(vault?'.topbar':'.topbar-left'))?.append(controls);
  if(vault){
