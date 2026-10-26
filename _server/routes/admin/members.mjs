@@ -1,5 +1,5 @@
 import { get, put } from '@vercel/blob';
-import { adminAllowed, adminMutationAllowed, json, limitedJSON, cleanMembers } from '../../_server/security.mjs';
+import { adminAllowed, adminMutationAllowed, json, limitedJSON, cleanMembers } from '../../security.mjs';
 const path='roster/facebook-delta.json';
 export async function GET(){
   if(!adminAllowed())return json({error:'Not found'},404);
