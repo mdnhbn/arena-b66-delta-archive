@@ -12,15 +12,16 @@ export function protectedURL(value){
 function rewriteFiles(value){if(typeof value==='string')return protectedURL(value);if(Array.isArray(value))return value.map(rewriteFiles);if(value&&typeof value==='object')return Object.fromEntries(Object.entries(value).map(([k,v])=>[k,rewriteFiles(v)]));return value;}
 export async function archiveContent(grants=new Set()){
  const allowed=grants.has(ARCHIVE_COURSE);
- if(!allowed)return structuredClone(preview);
+ let edits={};try{edits=(await authPool().query("SELECT payload FROM learning.site_controls WHERE key='archive-edits'")).rows[0]?.payload||{};}catch(error){if(allowed)throw error;}
+ if(!allowed){const result=structuredClone(preview);result.entries=result.entries.map(e=>previewEntry({...e,...edits[e.id]}));return result;}
  const {rows}=await authPool().query("SELECT payload FROM learning.source_snapshots WHERE payload ? 'entries' AND jsonb_typeof(payload->'entries')='array' LIMIT 1");
  if(!rows[0])throw Error('Archive unavailable');
- const archive=structuredClone(rows[0].payload);
+ const archive=structuredClone(rows[0].payload);archive.entries=archive.entries.map(e=>({...e,...edits[e.id]}));
  const {settings}=await operations();if(!settings.enabled.videos)for(const e of archive.entries){for(const key of ['youtubeId','pendingYoutubeId','youtubeVideos','dailymotionVideos','videoUrl','recordingUrl'])delete e[key];e.videoStatus='maintenance';}
  const result={updatedAt:archive.updatedAt,title:'CyberNest',entries:archive.entries.map(e=>allowed?{...rewriteFiles(e),access:'granted'}:previewEntry(e)),access:{courseId:ARCHIVE_COURSE,granted:allowed}};
  if(archive.syllabus){result.syllabus=structuredClone(archive.syllabus);if(allowed)result.syllabus=rewriteFiles(result.syllabus);else{delete result.syllabus.documentUrl;delete result.syllabus.sourceUrl;for(const s of result.syllabus.stages||[]){delete s.notes;delete s.resources;}}}
  result.schedule={exceptions:[]};result.studyGuideAudit=allowed?archive.studyGuideAudit:{};return result;
 }
-export async function vaultCatalog(){const {rows}=await authPool().query("SELECT id,serial,title,payload FROM learning.courses WHERE space='secret' ORDER BY serial");return rows.map(({id,serial,title,payload})=>({id,serial,title,category:payload.category||'other',categories:payload.categories||[],description:(payload.description||'').slice(0,250),tags:payload.tags||[],url:'https://cybernest-learn.vercel.app/vault/#course/'+id,access:'preview'}));}
+export async function vaultCatalog(){const {rows}=await authPool().query("SELECT id,serial,title,payload FROM learning.courses WHERE space='secret' AND COALESCE((payload->>'archived')::boolean,false)=false ORDER BY serial");return rows.map(({id,serial,title,payload})=>({id,serial,title,category:payload.category||'other',categories:payload.categories||[],description:(payload.description||'').slice(0,250),tags:payload.tags||[],url:'https://cybernest-learn.vercel.app/vault/#course/'+id,access:'preview'}));}
 export async function vaultCurriculum(courseId){const {settings}=await operations();const {rows}=await authPool().query('SELECT id,serial,title,payload FROM learning.lessons WHERE course_id=$1 ORDER BY serial',[courseId]);return {courseId,lessons:rows.map(r=>({...r.payload,id:r.id,serial:r.serial,title:r.title,...!settings.enabled.videos?{videos:[]}:{} ,...!settings.enabled.resources?{documents:[],tools:[]}:{} }))};}
 export async function vaultPreview(courseId){const {rows}=await authPool().query("SELECT id,serial,title FROM learning.lessons WHERE course_id=$1 ORDER BY serial",[courseId]);return {courseId,access:'preview',lessons:rows.map(r=>({id:r.id,serial:r.serial,title:r.title,videos:[],documents:[],tools:[]}))};}

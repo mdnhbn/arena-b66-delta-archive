@@ -18,6 +18,8 @@ import * as route16 from '../_server/routes/secret/courses.mjs';
 import * as route17 from '../_server/routes/secret/curriculum.mjs';
 import * as route18 from '../_server/routes/secret/visit.mjs';
 import * as route19 from '../_server/routes/visit.mjs';
+import * as archiveRoute from '../_server/routes/admin/archive.mjs';
+import * as paymentRoute from '../_server/routes/admin/payments.mjs';
 import * as operationRoute from '../_server/routes/admin/operations.mjs';
 import * as configRoute from '../_server/routes/site-config.mjs';
 import {operations,blockedFeature,unavailable} from '../_server/operations.mjs';
@@ -26,7 +28,7 @@ async function handler(request){
  const url=new URL(request.url),route=url.searchParams.get('__route');
  if(typeof route!=='string'||route.length>160||route.split('/').some(part=>! /^[a-z0-9-]+$/.test(part)))return new Response(null,{status:404});
  url.searchParams.delete('__route');url.pathname='/api/'+route;
- const destination=route==='admin/operations'?operationRoute:route==='site-config'?configRoute:route.startsWith('auth/')?routes['learning-auth']:routes[route];
+ const destination=route==='admin/archive'?archiveRoute:route==='admin/payments'?paymentRoute:route==='admin/operations'?operationRoute:route==='site-config'?configRoute:route.startsWith('auth/')?routes['learning-auth']:routes[route];
  if(!destination?.[request.method])return new Response(null,{status:404,headers:{'Cache-Control':'no-store'}});
  if(!route.startsWith('admin/')&&route!=='site-config'&&!['visit','secret/visit','account','auth/get-session','auth/sign-out'].includes(route)){
   try{const {settings}=await operations();if(blockedFeature(route,url.pathname,settings))return unavailable(settings.message);}catch{return unavailable('সেবা সাময়িকভাবে পাওয়া যাচ্ছে না। একটু পরে আবার চেষ্টা করুন।');}
