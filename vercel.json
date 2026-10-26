@@ -66,8 +66,8 @@
       "destination": "/api/admin/page"
     },
     {
-      "source": "/api/auth/:path*",
-      "destination": "/api/learning-auth?path=:path*"
+      "source": "/api/:path*",
+      "destination": "/api/router?__route=:path*"
     }
   ],
   "functions": {

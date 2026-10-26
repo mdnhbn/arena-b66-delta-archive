@@ -1,5 +1,5 @@
-import {accountJSON,requireCourse,authPool} from '../_server/learning-auth.mjs';
-import {ARCHIVE_COURSE} from '../_server/learning-content.mjs';
+import {accountJSON,requireCourse,authPool} from '../learning-auth.mjs';
+import {ARCHIVE_COURSE} from '../learning-content.mjs';
 export async function GET(request){
  const key=new URL(request.url).searchParams.get('key');if(typeof key!=='string'||key.length>250||! /^(documents|notes|tools)\/[a-zA-Z0-9._-]+\.(pdf|md|txt|zip)$/.test(key))return accountJSON({error:'Not found'},404);
  try{const permission=await requireCourse(request,ARCHIVE_COURSE);if(permission.response)return permission.response;

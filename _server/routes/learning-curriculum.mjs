@@ -1,3 +1,3 @@
-import {accountJSON,requireCourse} from '../_server/learning-auth.mjs';
-import {vaultCurriculum,vaultPreview} from '../_server/learning-content.mjs';
+import {accountJSON,requireCourse} from '../learning-auth.mjs';
+import {vaultCurriculum,vaultPreview} from '../learning-content.mjs';
 export async function GET(request){const id=new URL(request.url).searchParams.get('id');if(!/^vault-source-\d{4}$/.test(id||''))return accountJSON({error:'Invalid course'},400);try{const access=await requireCourse(request,id);if(access.response){return accountJSON({...await vaultPreview(id),reason:access.response.status===401?'sign_in_required':'enrollment_required'});}return accountJSON({...await vaultCurriculum(id),access:'granted'});}catch{return accountJSON({error:'Course service unavailable'},503);}}

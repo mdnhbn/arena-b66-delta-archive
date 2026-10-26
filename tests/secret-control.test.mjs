@@ -2,11 +2,11 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {siteFrom,sitePrefix,secretRoute} from '../_server/sites.mjs';
 import {cleanCourses,DEFAULT_COURSES} from '../_server/secret-courses.mjs';
-import {POST as collect} from '../api/secret/visit.js';
+import {POST as collect} from '../_server/routes/secret/visit.mjs';
 import {bridgeAllowed} from '../_server/secret-auth.mjs';
-import {GET as privateCatalog} from '../api/secret/courses.js';
-import {GET as stats} from '../api/admin/stats.js';
-import {GET as courses,POST as publish} from '../api/admin/courses.js';
+import {GET as privateCatalog} from '../_server/routes/secret/courses.mjs';
+import {GET as stats} from '../_server/routes/admin/stats.mjs';
+import {GET as courses,POST as publish} from '../_server/routes/admin/courses.mjs';
 import {touchPresence} from '../_server/presence.mjs';
 import {PROJECT_ID,ADMIN_ORIGIN} from '../_server/security.mjs';
 function env(values,fn){const old={...process.env};Object.assign(process.env,values);return Promise.resolve().then(fn).finally(()=>{for(const key of Object.keys(process.env))if(!(key in old))delete process.env[key];Object.assign(process.env,old);});}

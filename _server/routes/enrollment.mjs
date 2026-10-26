@@ -1,5 +1,5 @@
-import {learningSession,profileFor,authPool,accountJSON,LEARNING_ORIGIN} from '../_server/learning-auth.mjs';
-import {limitedJSON} from '../_server/security.mjs';
+import {learningSession,profileFor,authPool,accountJSON,LEARNING_ORIGIN} from '../learning-auth.mjs';
+import {limitedJSON} from '../security.mjs';
 export async function POST(request){
  if(request.headers.get('origin')!==LEARNING_ORIGIN&&request.headers.get('origin')!==process.env.CYBERNEST_AUTH_URL)return accountJSON({error:'Forbidden'},403);
  if(request.headers.get('content-type')?.split(';')[0]!=='application/json')return accountJSON({error:'Invalid format'},415);

@@ -1,9 +1,9 @@
 import { randomBytes } from 'node:crypto';
 import { put, list } from '@vercel/blob';
-import { PUBLIC_ORIGINS, json, cookies, sign, verify, digest, safeRoute, limitedJSON } from '../_server/security.mjs';
-import { takeRateToken } from '../_server/rate-limit.mjs';
-import {touchPresence} from '../_server/presence.mjs';
-import {countryCode,HEARTBEAT_INTERVAL} from '../_server/analytics.mjs';
+import { PUBLIC_ORIGINS, json, cookies, sign, verify, digest, safeRoute, limitedJSON } from '../security.mjs';
+import { takeRateToken } from '../rate-limit.mjs';
+import {touchPresence} from '../presence.mjs';
+import {countryCode,HEARTBEAT_INTERVAL} from '../analytics.mjs';
 export async function POST(request) {
   if (process.env.VERCEL_ENV !== 'production' || process.env.ANALYTICS_INGEST_ENABLED !== '1') return json({error:'Unavailable'},503);
   if (!PUBLIC_ORIGINS.includes(request.headers.get('origin')) || request.headers.get('sec-fetch-site') !== 'same-origin') return json({error:'Forbidden'},403);
