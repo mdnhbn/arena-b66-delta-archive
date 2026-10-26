@@ -4,7 +4,7 @@ import {existsSync} from 'node:fs';
 const workspace=path.resolve('.'),output=path.resolve('public');
 if(path.dirname(output)!==workspace||path.basename(output)!=='public')throw Error('Unexpected build output');
 await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});
-for(const file of ['index.html','app.js','theme.js','style.css','modern.css','modern.js','learning-library.css','learning-library.js','academy.css','account.js','catalog.js','admin-ui.js','admin-secret.js','admin-curriculum.js','admin-enrollments.js','admin-ui.css'])await copyFile(file,path.join(output,file));
+for(const file of ['index.html','app.js','theme.js','style.css','modern.css','modern.js','learning-library.css','learning-library.js','academy.css','account.js','catalog.js','admin-ui.js','admin-secret.js','admin-curriculum.js','admin-enrollments.js','admin-operations.js','site-operations.js','admin-ui.css'])await copyFile(file,path.join(output,file));
 if(existsSync('assets'))await cp('assets',path.join(output,'assets'),{recursive:true});
 await cp('vault',path.join(output,'vault'),{recursive:true});
 await mkdir(path.join(output,'ads'),{recursive:true});await copyFile('ads/controller.js',path.join(output,'ads/controller.js'));

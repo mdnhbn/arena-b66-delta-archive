@@ -18,15 +18,21 @@ import * as route16 from '../_server/routes/secret/courses.mjs';
 import * as route17 from '../_server/routes/secret/curriculum.mjs';
 import * as route18 from '../_server/routes/secret/visit.mjs';
 import * as route19 from '../_server/routes/visit.mjs';
+import * as operationRoute from '../_server/routes/admin/operations.mjs';
+import * as configRoute from '../_server/routes/site-config.mjs';
+import {operations,blockedFeature,unavailable} from '../_server/operations.mjs';
 const routes={"account":route0,"ad-code":route1,"admin/ads":route2,"admin/courses":route3,"admin/curriculum":route4,"admin/enrollments":route5,"admin/members":route6,"admin/page":route7,"admin/stats":route8,"ads-config":route9,"enrollment":route10,"learning-auth":route11,"learning-courses":route12,"learning-curriculum":route13,"learning-file":route14,"learning-library":route15,"secret/courses":route16,"secret/curriculum":route17,"secret/visit":route18,"visit":route19};
 async function handler(request){
  const url=new URL(request.url),route=url.searchParams.get('__route');
  if(typeof route!=='string'||route.length>160||route.split('/').some(part=>! /^[a-z0-9-]+$/.test(part)))return new Response(null,{status:404});
  url.searchParams.delete('__route');url.pathname='/api/'+route;
- const destination=route.startsWith('auth/')?routes['learning-auth']:routes[route];
+ const destination=route==='admin/operations'?operationRoute:route==='site-config'?configRoute:route.startsWith('auth/')?routes['learning-auth']:routes[route];
+ if(!destination?.[request.method])return new Response(null,{status:404,headers:{'Cache-Control':'no-store'}});
+ if(!route.startsWith('admin/')&&route!=='site-config'&&!['visit','secret/visit','account','auth/get-session','auth/sign-out'].includes(route)){
+  try{const {settings}=await operations();if(blockedFeature(route,url.pathname,settings))return unavailable(settings.message);}catch{return unavailable('সেবা সাময়িকভাবে পাওয়া যাচ্ছে না। একটু পরে আবার চেষ্টা করুন।');}
+ }
  if(route.startsWith('auth/')){url.pathname='/api/learning-auth';url.searchParams.set('path',route.slice(5));}
  if(!destination?.[request.method])return new Response(null,{status:404,headers:{'Cache-Control':'no-store'}});
  return destination[request.method](new Request(url,request));
 }
 export {handler as GET,handler as POST};
-
