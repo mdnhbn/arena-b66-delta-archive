@@ -16,3 +16,5 @@
 .vault-library .lesson-list small,.vault-library footer,.vault-library footer p{color:var(--a-muted)}
 
 .maintenance-screen{position:fixed;inset:0;z-index:10000;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:28px;background:var(--bg,#f3f7f4);color:var(--text,#142c23);text-align:center}.maintenance-screen[hidden]{display:none}.maintenance-screen h1{font-size:clamp(24px,5vw,42px)}.maintenance-screen p{max-width:600px;line-height:1.8}.site-announcement{padding:14px 20px;border:1px solid #76ad8b;background:#e6f4eb;color:#153b27;border-radius:12px}
+
+.activity-consent{position:fixed;bottom:16px;right:16px;left:16px;z-index:200;max-width:680px;margin-left:auto;padding:18px;border:1px solid var(--a-line);border-radius:12px;background:var(--a-paper);color:var(--a-ink);box-shadow:0 8px 30px #10202022}.activity-consent p{font-size:14px;line-height:1.7;margin:0 0 12px}.activity-consent button{margin:4px}.activity-preference{border:0;background:transparent;text-decoration:underline;color:inherit;cursor:pointer;padding:8px;font:inherit}.studio-login{max-width:680px;margin:130px auto;padding:24px}
