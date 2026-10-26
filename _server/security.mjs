@@ -46,7 +46,7 @@ export function safeRoute(value) {
   return '#overview';
 }
 export function adminMutationAllowed(request) {
-  const allowed = [ADMIN_ORIGIN, ...(process.env.VERCEL_URL ? ['https://' + process.env.VERCEL_URL] : [])];
+  const allowed = [ADMIN_ORIGIN,PUBLIC_ORIGIN, ...(process.env.VERCEL_URL ? ['https://' + process.env.VERCEL_URL] : [])];
   return allowed.includes(request.headers.get('origin')) && request.headers.get('x-delta-admin') === '1' && request.headers.get('content-type')?.split(';')[0] === 'application/json';
 }
 export async function limitedJSON(request, maxBytes) {
