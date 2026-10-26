@@ -1,5 +1,5 @@
-import {adminAllowed,adminMutationAllowed,json,limitedJSON} from '../../_server/security.mjs';
-import {readCourses,saveCourses,cleanCourses} from '../../_server/secret-courses.mjs';
+import {adminAllowed,adminMutationAllowed,json,limitedJSON} from '../../security.mjs';
+import {readCourses,saveCourses,cleanCourses} from '../../secret-courses.mjs';
 export async function GET(){if(!adminAllowed())return json({error:'Not found'},404);try{return json(await readCourses());}catch{return json({error:'Storage unavailable'},503);}}
 export async function POST(request){if(!adminAllowed())return json({error:'Not found'},404);if(!adminMutationAllowed(request))return json({error:'Forbidden'},403);let input;try{input=await limitedJSON(request,2097152);if(!input||Object.keys(input).some(k=>!['courses','updatedAt'].includes(k))||!(input.updatedAt===null||typeof input.updatedAt==='string'))throw new Error();input.courses=cleanCourses(input.courses);}catch{return json({error:'Invalid course list'},400);}try{return json(await saveCourses(input.courses,input.updatedAt));}catch(error){return json({error:error.status===409?'Changed elsewhere; reload before saving':'Could not publish'},error.status===409?409:503);}}
 

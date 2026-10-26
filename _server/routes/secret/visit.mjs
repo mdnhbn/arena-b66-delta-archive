@@ -1,11 +1,11 @@
 import {randomBytes} from 'node:crypto';
 import {put,list} from '@vercel/blob';
-import {PROJECT_ID,json,cookies,verify,sign,digest,limitedJSON} from '../../_server/security.mjs';
-import {secretRoute} from '../../_server/sites.mjs';
-import {touchPresence} from '../../_server/presence.mjs';
-import {countryCode,HEARTBEAT_INTERVAL} from '../../_server/analytics.mjs';
-import {takeRateToken} from '../../_server/rate-limit.mjs';
-import {bridgeAllowed} from '../../_server/secret-auth.mjs';
+import {PROJECT_ID,json,cookies,verify,sign,digest,limitedJSON} from '../../security.mjs';
+import {secretRoute} from '../../sites.mjs';
+import {touchPresence} from '../../presence.mjs';
+import {countryCode,HEARTBEAT_INTERVAL} from '../../analytics.mjs';
+import {takeRateToken} from '../../rate-limit.mjs';
+import {bridgeAllowed} from '../../secret-auth.mjs';
 export async function POST(request){
  if(process.env.VERCEL_ENV!=='production'||process.env.VERCEL_PROJECT_ID!==PROJECT_ID||process.env.ANALYTICS_INGEST_ENABLED!=='1')return json({error:'Unavailable'},503);
  if(!bridgeAllowed(request))return json({error:'Forbidden'},403);

@@ -1,20 +1,11 @@
-import { mkdir, copyFile, cp, readFile, writeFile } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import {mkdir,copyFile,cp,rm} from 'node:fs/promises';
 import path from 'node:path';
-import { renderCatalog } from './catalog.mjs';
-const output = path.resolve('public');
-await mkdir(output, { recursive: true });
-const archive=JSON.parse(await readFile('data.json','utf8'));
-await writeFile('CATALOG.md',renderCatalog(archive),'utf8');
-// Explicit public allowlist: server modules, API source, manifests and secrets never ship.
-const files = ['index.html','app.js','theme.js','style.css','modern.css','modern.js','data.json','CATALOG.md','sw.js','SECURITY.md','admin-ui.js','admin-secret.js','admin-curriculum.js','admin-ui.css'];
-for (const file of files) await copyFile(file, path.join(output, file));
-for (const dir of ['documents','notes','assets']) {
-  if (existsSync(dir)) await cp(dir, path.join(output, dir), { recursive: true });
-}
-// Preserve only the reviewed course plugin; private Messenger ZIPs stay excluded.
-await mkdir(path.join(output, 'tools'), { recursive: true });
-await copyFile('tools/all-in-one-wp-migration-7.48.zip', path.join(output, 'tools/all-in-one-wp-migration-7.48.zip'));
-await mkdir(path.join(output, 'ads'), { recursive: true });
-await copyFile('ads/controller.js', path.join(output, 'ads/controller.js'));
-console.log('Built public assets; backend source and private storage are excluded.');
+import {existsSync} from 'node:fs';
+const workspace=path.resolve('.'),output=path.resolve('public');
+if(path.dirname(output)!==workspace||path.basename(output)!=='public')throw Error('Unexpected build output');
+await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});
+for(const file of ['index.html','app.js','theme.js','style.css','modern.css','modern.js','learning-library.css','learning-library.js','academy.css','account.js','catalog.js','admin-ui.js','admin-secret.js','admin-curriculum.js','admin-enrollments.js','admin-ui.css'])await copyFile(file,path.join(output,file));
+if(existsSync('assets'))await cp('assets',path.join(output,'assets'),{recursive:true});
+await cp('vault',path.join(output,'vault'),{recursive:true});
+await mkdir(path.join(output,'ads'),{recursive:true});await copyFile('ads/controller.js',path.join(output,'ads/controller.js'));
+console.log('Built previews and shared account UI. Full data, course files and server code are excluded from static output.');

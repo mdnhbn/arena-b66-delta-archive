@@ -24,12 +24,8 @@ test('catalog has current resource links, rejects executable URLs and raw HTML',
   assert.match(catalog,/https:\/\/example.org\/manual.pdf/);assert.doesNotMatch(catalog,/javascript:|<script>/);
 });
 
-test('built catalog includes every current entry and public output excludes private files',()=>{
-  const data=JSON.parse(readFileSync('data.json','utf8'));
-  const catalog=readFileSync('public/CATALOG.md','utf8');
-  assert.equal(catalog,renderCatalog(data));
-  for(const entry of data.entries)assert.ok(catalog.includes(`### ${entry.id} — `));
-  for(const path of ['public/_server','public/.env','public/STATE.md','public/node_modules','public/fixes-2026-10-13'])assert.equal(existsSync(path),false);
+test('public output excludes full course data, downloads and private files',()=>{
+  for(const path of ['public/data.json','public/CATALOG.md','public/documents','public/notes','public/tools','public/_server','public/.env','public/STATE.md','public/node_modules','public/fixes-2026-10-13'])assert.equal(existsSync(path),false,path);
 });
 
 test('published roadmap and original-source provenance reflect the reviewed state',()=>{

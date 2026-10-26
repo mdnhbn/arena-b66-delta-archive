@@ -1,7 +1,7 @@
-import {adminAllowed,adminMutationAllowed,json,limitedJSON} from '../../_server/security.mjs';
-import {cleanAds} from '../../_server/ads.mjs';
-import {readAds,saveAds} from '../../_server/ad-store.mjs';
-import {siteFrom} from '../../_server/sites.mjs';
+import {adminAllowed,adminMutationAllowed,json,limitedJSON} from '../../security.mjs';
+import {cleanAds} from '../../ads.mjs';
+import {readAds,saveAds} from '../../ad-store.mjs';
+import {siteFrom} from '../../sites.mjs';
 export async function GET(request){if(!adminAllowed())return json({error:'Not found'},404);let site;try{site=siteFrom(request);}catch{return json({error:'Invalid site'},400);}try{return json(await readAds(site));}catch(error){console.error('Private ad settings unavailable',error.name);return json({error:'Storage unavailable'},503);}}
 export async function POST(request){
   if(!adminAllowed())return json({error:'Not found'},404);

@@ -1,5 +1,6 @@
 import { createHmac, timingSafeEqual } from 'node:crypto';
-export const PUBLIC_ORIGIN = 'https://arena-b66-delta-archive.vercel.app';
+export const PUBLIC_ORIGIN = 'https://cybernest-learn.vercel.app';
+export const PUBLIC_ORIGINS = Object.freeze([PUBLIC_ORIGIN,'https://arena-b66-delta-archive.vercel.app']);
 export const ADMIN_ORIGIN = 'https://arena-b66-delta-archive-git-admin-mdnhbns-projects.vercel.app';
 export const PROJECT_ID = 'prj_Ts514bqmcaw8dmhGxNXa9on4LwTl';
 export function adminAllowed(env = process.env) {

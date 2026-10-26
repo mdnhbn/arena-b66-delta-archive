@@ -1,0 +1,3136 @@
+{
+  "updatedAt": "2026-10-22",
+  "title": "CyberNest",
+  "entries": [
+    {
+      "id": "entry-15",
+      "category": "information",
+      "topic": "Orientation",
+      "title": "এরিনা ওয়েব সিকিউরিটি CEHF এর কোর্সে রেজিস্ট্রেশনকৃত সবাইকে স্বাগতম।",
+      "date": "2026-07-12",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-16",
+      "category": "classes",
+      "topic": "Orientation",
+      "title": "হোমওয়ার্ক প্যানেল ব্যবহারের নির্দেশনা",
+      "date": "2026-07-17",
+      "classDate": "2026-07-19",
+      "dateVerified": true,
+      "duration": "15:19",
+      "relatedRecordingId": "entry-20",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-14",
+      "category": "information",
+      "topic": "Orientation",
+      "title": "অরিয়েন্টেশন ক্লাস শুরু হয়ে গেছে, সবাই শুধুমাত্র এই লাইভেই জয়েন করুন। আমি পর্যায়ক্রমে সকল দিক নির্…",
+      "date": "2026-07-19",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-20",
+      "category": "recordings",
+      "recordingSerial": 1,
+      "topic": "Orientation",
+      "topicTitle": "Orientation — কোর্স পরিচিতি",
+      "title": "ক্লাস রেকর্ড — 19/07/2026",
+      "date": "2026-07-19",
+      "dateVerified": true,
+      "duration": "2:07:13",
+      "relatedTopics": [
+        "Orientation"
+      ],
+      "relatedResourceIds": [
+        "entry-22",
+        "notes-class01-google-dorks",
+        "entry-27",
+        "entry-23",
+        "entry-16"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-13",
+      "category": "information",
+      "topic": null,
+      "title": "INFORMATIONAL POST -01",
+      "date": "2026-07-20",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-25",
+      "category": "information",
+      "topic": "Vulnerability Basics",
+      "title": "আসুন, জেনে নেই -১",
+      "date": "2026-07-20",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-29",
+      "category": "information",
+      "topic": null,
+      "title": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!",
+      "date": "2026-07-21",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-12",
+      "category": "notices",
+      "topic": "SQL Injection",
+      "title": "সবাই ক্লাসে চলে আসুন।",
+      "date": "2026-07-24",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-39",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "First class: Cyber Safety, SQL Injection by tools",
+      "date": "2026-07-24",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-40",
+      "category": "recordings",
+      "recordingSerial": 2,
+      "topic": "SQL Injection",
+      "topicTitle": "Cyber Safety ও SQL Injection by Tools",
+      "title": "ক্লাস রেকর্ড — 24/07/2026",
+      "date": "2026-07-24",
+      "dateVerified": true,
+      "duration": "2:00:35",
+      "relatedTopics": [
+        "SQL Injection"
+      ],
+      "relatedResourceIds": [
+        "notes-class02-google-dorks",
+        "entry-24",
+        "portal-sqli-input-points"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-11",
+      "category": "information",
+      "topic": "SQL Injection",
+      "title": "আসুন জেনে নেই - ২",
+      "date": "2026-07-25",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-10",
+      "category": "notices",
+      "topic": null,
+      "title": "অফিশিয়াল যে কোন নোটিশ পেতে Arena Web Security পেজে লাইক দিয়ে রাখুন।",
+      "date": "2026-07-26",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-46",
+      "category": "recordings",
+      "recordingSerial": 3,
+      "topic": "OSINT",
+      "topicTitle": "OSINT — Open Source Intelligence",
+      "title": "ক্লাস রেকর্ড — 26/07/2026",
+      "date": "2026-07-26",
+      "dateVerified": true,
+      "duration": "2:11:13",
+      "relatedTopics": [
+        "OSINT"
+      ],
+      "relatedResourceIds": [
+        "notes-class03-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-9",
+      "category": "information",
+      "topic": "Google Dork",
+      "title": "আসুন গুগল ডর্ক সম্পর্কে একটু জেনে নেই!!",
+      "date": "2026-07-27",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-47",
+      "category": "tools",
+      "topic": "SQL Injection",
+      "title": "হাভিজ এর পোর্টেবল ভার্সান।",
+      "date": "2026-07-27",
+      "dateVerified": true,
+      "relatedRecordingId": "entry-40",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-8",
+      "category": "tools",
+      "topic": "Session & Redirect",
+      "title": "আমাদের পরবর্তী ক্লাসের জন্য Cyberfox টুলস টি সেটাপ করে নিন",
+      "date": "2026-07-28",
+      "classDate": "2026-07-31",
+      "dateVerified": true,
+      "duration": "0:01:11",
+      "relatedRecordingId": "entry-58",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-49",
+      "category": "information",
+      "topic": null,
+      "title": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!",
+      "date": "2026-07-28",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-6",
+      "category": "notices",
+      "topic": null,
+      "title": "মিড এক্সামের জন্য শুভ কামনা রইলো। কোন প্রশ্ন থাকলে এই পোষ্ট থেকে সহায়তা নিয়ে নিতে পারেন। ধন্যবাদ।",
+      "date": "2026-07-31",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-7",
+      "category": "documents",
+      "topic": "Session & Redirect",
+      "title": "Session hijacking / Blocking, Mid Exam prep - b66 Delta",
+      "date": "2026-07-31",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-58",
+      "category": "recordings",
+      "recordingSerial": 4,
+      "topic": "Session & Redirect",
+      "topicTitle": "Session hijacking, blocking ও Mid Exam প্রস্তুতি",
+      "title": "ক্লাস রেকর্ড — 31/07/2026",
+      "date": "2026-07-31",
+      "dateVerified": true,
+      "duration": "1:48:09",
+      "relatedTopics": [
+        "Session & Redirect"
+      ],
+      "relatedResourceIds": [
+        "notes-class04-google-dorks",
+        "entry-3",
+        "entry-60"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-4",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "INFORMATIONAL POST - 02",
+      "date": "2026-08-01",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-5",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "আসুন জেনে নেই- ৪",
+      "date": "2026-08-01",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-3",
+      "category": "classes",
+      "topic": "Session & Redirect",
+      "title": "Noredirect Practice",
+      "date": "2026-08-02",
+      "classDate": "2026-07-31",
+      "dateVerified": true,
+      "relatedRecordingId": "entry-58",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-62",
+      "category": "information",
+      "topic": "HTTP & HTTPS",
+      "title": "INFORMATIONAL POST-03",
+      "date": "2026-08-02",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-64",
+      "category": "recordings",
+      "recordingSerial": 5,
+      "topic": "SQL Injection",
+      "topicTitle": "Manual SQL Injection",
+      "title": "ক্লাস রেকর্ড — 02/08/2026",
+      "date": "2026-08-02",
+      "dateVerified": true,
+      "duration": "2:13:04",
+      "relatedTopics": [
+        "Session & Redirect",
+        "HTTP & HTTPS"
+      ],
+      "relatedResourceIds": [
+        "notes-class05-google-dorks",
+        "tool-link-gopher-class05",
+        "entry-71",
+        "entry-68",
+        "entry-66",
+        "portal-manual-sqli-study-copy",
+        "entry-69"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-73",
+      "category": "notices",
+      "topic": null,
+      "title": "1st-Mid Exam - Cyber Security & Ethical Hacking",
+      "date": "2026-08-07",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-80",
+      "category": "recordings",
+      "recordingSerial": 6,
+      "topic": "XSS",
+      "topicTitle": "Cross Site Scripting (XSS)",
+      "title": "ক্লাস রেকর্ড — 09/08/2026",
+      "date": "2026-08-09",
+      "dateVerified": true,
+      "duration": "2:25:42",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "msg-hw5-xss",
+        "notes-class06-google-dorks",
+        "tool-everything-class06"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-79",
+      "category": "information",
+      "topic": "XSS",
+      "title": "আসুন জেনে নেই-০৫",
+      "date": "2026-08-10",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-82",
+      "category": "notices",
+      "topic": null,
+      "title": "Messenger Group Notice!!",
+      "date": "2026-08-10",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-85",
+      "category": "notices",
+      "topic": null,
+      "title": "Messenger Group Notice!!",
+      "date": "2026-08-12",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-88",
+      "category": "recordings",
+      "recordingSerial": 7,
+      "topic": "WAF",
+      "topicTitle": "SQLi WAF ও IDS",
+      "title": "ক্লাস রেকর্ড — 14/08/2026",
+      "date": "2026-08-14",
+      "dateVerified": true,
+      "duration": "2:12:57",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class07-google-dorks",
+        "tool-virustotal-class07",
+        "entry-87"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-87",
+      "category": "classes",
+      "topic": "SQL Injection",
+      "title": "Errorbased SQLi",
+      "date": "2026-08-15",
+      "classDate": "2026-08-14",
+      "dateVerified": true,
+      "relatedRecordingId": "entry-88",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-90",
+      "category": "recordings",
+      "recordingSerial": 8,
+      "topic": "Burp Suite",
+      "topicTitle": "Burp Suite — Proxy ও Intruder",
+      "title": "ক্লাস রেকর্ড — 16/08/2026",
+      "date": "2026-08-16",
+      "dateVerified": true,
+      "duration": "2:25:37",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class08-google-dorks",
+        "tool-foxyproxy-class08",
+        "entry-92"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-99",
+      "category": "recordings",
+      "recordingSerial": 9,
+      "topic": "WebShell",
+      "topicTitle": "WebShell, Backdoor ও Deface Page",
+      "title": "ক্লাস রেকর্ড — 21/08/2026",
+      "date": "2026-08-21",
+      "dateVerified": true,
+      "duration": "2:01:51",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "msg-deface-example",
+        "notes-class09-google-dorks",
+        "entry-101",
+        "entry-97",
+        "tool-vscode-codepen-class09"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-105",
+      "category": "information",
+      "topic": "WAF",
+      "title": "আসুন জেনে নেই-০৭",
+      "date": "2026-08-23",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-107",
+      "category": "recordings",
+      "recordingSerial": 10,
+      "topic": "File Upload",
+      "topicTitle": "File Upload Vulnerabilities",
+      "title": "ক্লাস রেকর্ড — 23/08/2026",
+      "date": "2026-08-23",
+      "dateVerified": true,
+      "duration": "1:55:48",
+      "relatedTopics": [
+        "WAF"
+      ],
+      "relatedResourceIds": [
+        "notes-class10-google-dorks",
+        "entry-102",
+        "portal-advanced-upload-references"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-115",
+      "category": "recordings",
+      "recordingSerial": 11,
+      "topic": "PortSwigger Labs",
+      "topicTitle": "PortSwigger Labs — SQLi, XSS ও File Upload",
+      "title": "ক্লাস রেকর্ড — 29/08/2026",
+      "date": "2026-08-29",
+      "classDate": "2026-08-28",
+      "dateVerified": true,
+      "duration": "2:10:17",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class11-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-112",
+      "category": "recordings",
+      "recordingSerial": 12,
+      "topic": "Acunetix",
+      "topicTitle": "Acunetix — Scanner Setup ও Reports",
+      "title": "ক্লাস রেকর্ড — 30/08/2026",
+      "date": "2026-08-30",
+      "dateVerified": true,
+      "duration": "2:07:48",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class12-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-117",
+      "category": "recordings",
+      "recordingSerial": 13,
+      "topic": "Linux & Scripting",
+      "topicTitle": "Batch Scripting",
+      "title": "ক্লাস রেকর্ড — 04/09/2026",
+      "date": "2026-09-04",
+      "dateVerified": true,
+      "duration": "1:55:02",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class13-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-122",
+      "category": "recordings",
+      "recordingSerial": 14,
+      "topic": "Linux & Scripting",
+      "topicTitle": "Linux Installation ও Virtual Lab Setup",
+      "title": "ক্লাস রেকর্ড — 06/09/2026",
+      "date": "2026-09-06",
+      "dateVerified": true,
+      "duration": "1:58:02",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class14-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-121",
+      "category": "tools",
+      "topic": "Linux & Scripting",
+      "title": "Linux Installation & Virtual Lab Setup",
+      "date": "2026-09-07",
+      "dateVerified": true,
+      "duration": "0:08:20",
+      "relatedRecordingId": "entry-122",
+      "relatedRecordingIds": [
+        "entry-124"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-124",
+      "category": "recordings",
+      "recordingSerial": 15,
+      "topic": "Linux & Scripting",
+      "topicTitle": "Linux Command Line",
+      "title": "ক্লাস রেকর্ড — 11/09/2026",
+      "date": "2026-09-11",
+      "dateVerified": true,
+      "duration": "2:09:22",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class15-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-126",
+      "category": "recordings",
+      "recordingSerial": 16,
+      "topic": "Malware Concepts",
+      "topicTitle": "Crypter, Antivirus ও RAT Lab",
+      "title": "ক্লাস রেকর্ড — 13/09/2026",
+      "date": "2026-09-13",
+      "dateVerified": true,
+      "duration": "2:23:29",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class16-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-2",
+      "category": "information",
+      "topic": "Malware Concepts",
+      "title": "INFORMATIONAL POST-04",
+      "date": "2026-09-16",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-132",
+      "category": "recordings",
+      "recordingSerial": 17,
+      "topic": "LFI & Server Security",
+      "topicTitle": "LFI ও Web Server Security Lab",
+      "title": "ক্লাস রেকর্ড — 18/09/2026",
+      "date": "2026-09-18",
+      "dateVerified": true,
+      "duration": "2:17:14",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class17-google-dorks",
+        "entry-130"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-130",
+      "category": "classes",
+      "topic": "LFI / LFD",
+      "title": "LFI/LFD Basics",
+      "date": "2026-09-19",
+      "classDate": "2026-09-18",
+      "dateVerified": true,
+      "relatedRecordingId": "entry-132",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-134",
+      "category": "recordings",
+      "recordingSerial": 18,
+      "topic": "Linux & Scripting",
+      "topicTitle": "Kali Tools Setup — Java, Go ও Burp Suite",
+      "title": "ক্লাস রেকর্ড — 20/09/2026",
+      "date": "2026-09-20",
+      "dateVerified": true,
+      "duration": "2:16:44",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class18-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-142",
+      "category": "recordings",
+      "recordingSerial": 19,
+      "topic": "LFI & Server Security",
+      "topicTitle": "Advanced LFI, Path Traversal ও RCE Lab",
+      "title": "ক্লাস রেকর্ড — 25/09/2026",
+      "date": "2026-09-25",
+      "dateVerified": true,
+      "duration": "2:01:36",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class19-google-dorks",
+        "entry-141"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-145",
+      "category": "recordings",
+      "recordingSerial": 20,
+      "topic": "WordPress",
+      "topicTitle": "WordPress, phpMyAdmin ও Elementor",
+      "title": "ক্লাস রেকর্ড — 27/09/2026",
+      "date": "2026-09-27",
+      "dateVerified": true,
+      "duration": "2:13:34",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class20-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-147",
+      "category": "recordings",
+      "recordingSerial": 21,
+      "topic": "Recon",
+      "topicTitle": "Recon — VPS ও Shodan Setup",
+      "title": "ক্লাস রেকর্ড — 02/10/2026",
+      "date": "2026-10-02",
+      "dateVerified": true,
+      "duration": "1:35:44",
+      "relatedTopics": [],
+      "relatedResourceIds": [
+        "notes-class21-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-1",
+      "category": "information",
+      "topic": "Malware Removal",
+      "title": "Topic: Malware Removal Live Project (Part 1)",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-17",
+      "category": "information",
+      "topic": "Orientation",
+      "title": "আসসালামু আলাইকুম। কেমন আছেন সবাই?",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-18",
+      "category": "information",
+      "topic": "Orientation",
+      "title": "আর এক ঘন্টা পরেই",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-19",
+      "category": "information",
+      "topic": "Orientation",
+      "title": "আজকে রাত ৯ টা ৩০ মিনিটে অরিয়েন্টেশন ক্লাস, মনে আছে তো?",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-21",
+      "category": "information",
+      "topic": "Orientation",
+      "title": "অরিয়েন্টেশন ক্লাসের পরবর্তী নির্দেশনা",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-22",
+      "category": "documents",
+      "topic": "Orientation",
+      "title": "Orientation Class: B66 Delta",
+      "date": null,
+      "classDate": "2026-07-19",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-20",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-23",
+      "category": "classes",
+      "topic": null,
+      "title": "আসুন দেখে নেই যেভাবে আমরা আমাদের হোমওয়ার্কের জন্য পিডিএফ তৈরি করব!",
+      "date": null,
+      "classDate": "2026-07-19",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-20",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-24",
+      "category": "classes",
+      "topic": "SQL Injection",
+      "title": "Basic SQLI practice video",
+      "date": null,
+      "classDate": "2026-07-24",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-40",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-26",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "আমাদের পরবর্তী ক্লাসের জন্য উল্লিখিত টুলসগুলো অত্যন্ত গুরুত্বপূর্ণ।",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-40",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-27",
+      "category": "classes",
+      "topic": null,
+      "title": "হেল্প পোস্ট",
+      "date": null,
+      "classDate": "2026-07-19",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-20",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-28",
+      "category": "information",
+      "topic": null,
+      "title": "আজকের মত লাইভ সাপোর্টসেশন ক্লোজ হয়ে গিয়েছে। এখনো ক্লাস টপিক রিলেটেড কারো কোন প্রবলেম থেকে থাকলে…",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-30",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "Extra remote support session",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-31",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "শুধুমাত্র Mac ডিভাইস এর জন্য",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-40",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-32",
+      "category": "information",
+      "topic": null,
+      "title": "হোমওয়ার্ক আপডেট:",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-33",
+      "category": "tools",
+      "topic": null,
+      "title": "শুধুমাত্র ম্যাকবুকে টুলস সেটআপ সংক্রান্ত সাপোর্ট পোস্টে",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-34",
+      "category": "tools",
+      "topic": null,
+      "title": "এখনো অব্দি যারা",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-35",
+      "category": "tools",
+      "topic": "Orientation",
+      "title": "আজকে রাত ৯ টা ৩০ থেকে কিন্তু আপনাদের প্রথম ক্লাস, মনে আছে?",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-36",
+      "category": "tools",
+      "topic": "Session & Redirect",
+      "title": "Extra support session will start from 6:00 PM",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-37",
+      "category": "tools",
+      "topic": "SQL Injection",
+      "title": "Join for Havij tools related support",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-38",
+      "category": "information",
+      "topic": null,
+      "title": "ধন্যবাদ সবাইকে, ইন্টারনেট নিয়ে কয়েকজন struggle করলেও খুবই enjoyable একটা সেশন ছিলো আপনাদের সাথে।",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-41",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "Submit 3 SQLi site link with screenshot...",
+      "date": null,
+      "classDate": "2026-07-24",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-40",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-42",
+      "category": "information",
+      "topic": null,
+      "title": "চলুন কম্পিউটার নিয়ে একটু জেনে আসি!!",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-43",
+      "category": "documents",
+      "topic": "OSINT",
+      "title": "OSINT — নিরাপদ সম্পাদিত ক্লাস নোট",
+      "date": "2026-07-26",
+      "dateVerified": true,
+      "relatedRecordingId": "entry-46",
+      "relatedRecordingIds": [
+        "entry-46"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-44",
+      "category": "information",
+      "topic": null,
+      "title": "সবাই ক্লাসে চলে আসুন।",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-45",
+      "category": "information",
+      "topic": "OSINT",
+      "title": "OSINT - B66 Delta",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-48",
+      "category": "information",
+      "topic": null,
+      "title": "কি এক্ট্যা অবস্থা !!!",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-50",
+      "category": "tools",
+      "topic": "Session & Redirect",
+      "title": "Extra support session will start from 7:00 PM",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-51",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "CyberFox for Mac.txt",
+      "date": null,
+      "classDate": "2026-07-31",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-58",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-52",
+      "category": "information",
+      "topic": null,
+      "title": "Arena private Campus directory",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-53",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "সবাই ক্লাসে চলে আসুন।",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-54",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "Session hijacking / Blocking, Mid Exam prep",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-55",
+      "category": "notices",
+      "topic": null,
+      "title": "গুরুত্বপূর্ণ নোটিশঃ দ্বিতীয় ইন্সটলমেন্ট সংক্রান্ত পোস্ট, ১০% জরিমানা এবং সাসপেনশন এড়াতে ২য় ইন্সটল…",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-56",
+      "category": "documents",
+      "topic": null,
+      "title": "Gift for AWS Batch 66 Delta",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-57",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "যাদের cyberfox রিলেটেড ইস্যু আছে তারা এই লিংকে জয়েন করুন",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-59",
+      "category": "tools",
+      "topic": null,
+      "title": "CYBER-71 private exploit tools",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-60",
+      "category": "classes",
+      "topic": "Session & Redirect",
+      "title": "VIDEO FOR NO-REDIRECT",
+      "date": null,
+      "classDate": "2026-07-31",
+      "dateVerified": false,
+      "duration": "16:49",
+      "relatedRecordingId": "entry-58",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-61",
+      "category": "information",
+      "topic": "SQL Injection",
+      "title": "Manual SQL Injection",
+      "date": null,
+      "classDate": "2026-08-02",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-63",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "আপনাদের হোমওয়ার্ক:",
+      "date": null,
+      "classDate": "2026-08-02",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-65",
+      "category": "information",
+      "topic": "Session & Redirect",
+      "title": "CyberFox ultimate version",
+      "date": null,
+      "classDate": "2026-07-31",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-58",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-66",
+      "category": "classes",
+      "topic": "SQL Injection",
+      "title": "Manual SQLI practice video",
+      "date": null,
+      "classDate": "2026-08-02",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-67",
+      "category": "notices",
+      "topic": null,
+      "title": "যারা ২য় ইন্সটলম্যান্ট পেমেন্ট করেছেন তারা ইতিমধ্যেই ইমেইলে কনফার্মেশন পেয়ে গেছেন, কেউ কনফার্মেশন …",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-68",
+      "category": "classes",
+      "topic": "SQL Injection",
+      "title": "Manual SQL Injection practice output",
+      "date": null,
+      "classDate": "2026-08-02",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-69",
+      "category": "information",
+      "topic": "SQL Injection",
+      "title": "SQL Injection — ৩টি সংরক্ষিত PDF পাঠসংস্করণ",
+      "date": "2026-08-05",
+      "classDate": "2026-08-02",
+      "dateVerified": true,
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-70",
+      "category": "notices",
+      "topic": null,
+      "title": "কাল‌কে না‌কি পরীক্ষা!!",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-71",
+      "category": "classes",
+      "topic": "Google Dork",
+      "title": "Understanding Google dork",
+      "date": null,
+      "classDate": "2026-08-02",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-72",
+      "category": "notices",
+      "topic": null,
+      "title": "প্রিয় শিক্ষার্থীবৃন্দ,",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-74",
+      "category": "notices",
+      "topic": null,
+      "title": "২য় ইন্সটলম্যান্ট সংক্রান্ত সর্বশেষ পোষ্টঃ",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-75",
+      "category": "documents",
+      "topic": "XSS",
+      "title": "Cross Site Scripting (XSS) — Class Resource",
+      "date": null,
+      "classDate": "2026-08-09",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-80",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-76",
+      "category": "information",
+      "topic": "XSS",
+      "title": "Cross Site Scripting (XSS)",
+      "date": null,
+      "classDate": "2026-08-09",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-80",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-77",
+      "category": "documents",
+      "topic": null,
+      "title": "Correct Answers 1st Mid Exam CEHF",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-58",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-78",
+      "category": "information",
+      "topic": null,
+      "title": "কি অবস্থা সবার??",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-81",
+      "category": "information",
+      "topic": null,
+      "title": "মঙ্গলবারের সাপোর্ট সম্পর্কে গুরুত্বপূর্ণ আপডেট!",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-83",
+      "category": "documents",
+      "topic": "XSS",
+      "title": "XSS",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-84",
+      "category": "information",
+      "topic": "SQL Injection",
+      "title": "SQLi WAF",
+      "date": null,
+      "classDate": "2026-08-14",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-88",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-86",
+      "category": "information",
+      "topic": "SQL Injection",
+      "title": "WAF bypass tips-",
+      "date": null,
+      "classDate": "2026-08-14",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-88",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-89",
+      "category": "documents",
+      "topic": "WAF",
+      "title": "SQLi WAF — Class Resource",
+      "date": null,
+      "classDate": "2026-08-14",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-88",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-91",
+      "category": "information",
+      "topic": "Burp Suite",
+      "title": "Burp Suite",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-92",
+      "category": "classes",
+      "topic": "SQL Injection",
+      "title": "Post Based SQLi",
+      "date": null,
+      "classDate": "2026-08-16",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-90",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-93",
+      "category": "tools",
+      "topic": "Burp Suite",
+      "title": "বার্পসুইট ভিডিও রিসোর্স",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-90",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-94",
+      "category": "notices",
+      "topic": null,
+      "title": "আপনাদের প্রথম মিড এক্সাম এর রেজাল্ট পাবলিশ হয়েছে। যারা ১৪ এর কম পেয়েছেন তারা আগামী ৭২ঘন্টার মধ্যে…",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-95",
+      "category": "tools",
+      "topic": "Burp Suite",
+      "title": "সবাই ক্লাসে দেখানো প্রসেস অনুযায়ী Burp Suite ইন্সটল করে নিবেন।",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-90",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-96",
+      "category": "documents",
+      "topic": null,
+      "title": "Forensic Related Post",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-97",
+      "category": "classes",
+      "topic": "File Upload",
+      "title": "Deface page making",
+      "date": null,
+      "classDate": "2026-08-21",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-98",
+      "category": "information",
+      "topic": "File Upload",
+      "title": "আসুন জেনে নেই- ৬",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-100",
+      "category": "information",
+      "topic": "File Upload",
+      "title": "WebShell / Backdoor concept & deface page making",
+      "date": null,
+      "classDate": "2026-08-21",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-101",
+      "category": "classes",
+      "topic": "File Upload",
+      "title": "up_shell_fight",
+      "date": null,
+      "classDate": "2026-08-21",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-102",
+      "category": "classes",
+      "topic": "File Upload",
+      "title": "Upload vulnerability",
+      "date": null,
+      "classDate": "2026-08-23",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-107",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-103",
+      "category": "documents",
+      "topic": "File Upload",
+      "title": "Webshell-B.pdf",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-104",
+      "category": "information",
+      "topic": "File Upload",
+      "title": "Advance WebShell",
+      "date": null,
+      "classDate": "2026-08-21",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-106",
+      "category": "tools",
+      "topic": "File Upload",
+      "title": "Advanced Shell Resource",
+      "date": null,
+      "dateVerified": false,
+      "duration": "অংশ ১ · 42:03 | অংশ ২ · 21:42",
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-108",
+      "category": "documents",
+      "topic": "File Upload",
+      "title": "Files Uploading Vulnerabilities.pdf",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-107",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-109",
+      "category": "documents",
+      "topic": null,
+      "title": "FileUV.pdf",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-107",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-110",
+      "category": "information",
+      "topic": "Burp Suite",
+      "title": "Portswigger",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-111",
+      "category": "classes",
+      "topic": null,
+      "title": "Deepseek SSRF --BUT sandbox :(",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-113",
+      "category": "tools",
+      "topic": null,
+      "title": "Acunetix resource file",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-112",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-114",
+      "category": "information",
+      "topic": null,
+      "title": "Acunetix",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-116",
+      "category": "classes",
+      "topic": "Linux & Scripting",
+      "title": "Linux Installation & Virtual Lab Setup",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-122",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-118",
+      "category": "documents",
+      "topic": "Linux & Scripting",
+      "title": "Batch Scripting Resource",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-117",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-119",
+      "category": "information",
+      "topic": "Linux & Scripting",
+      "title": "Batch Scripting",
+      "date": null,
+      "classDate": "2026-09-04",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-117",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-120",
+      "category": "tools",
+      "topic": "Linux & Scripting",
+      "title": "Linux installation in VMware",
+      "date": null,
+      "dateVerified": false,
+      "duration": "9:25",
+      "relatedRecordingId": "entry-122",
+      "relatedRecordingIds": [
+        "entry-124"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-123",
+      "category": "information",
+      "topic": "Malware Concepts",
+      "title": "Topic: Keylogger, Spyware & RAT (Live/Practical)",
+      "date": null,
+      "classDate": "2026-09-13",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-126",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-125",
+      "category": "classes",
+      "topic": "Linux & Scripting",
+      "title": "Linux CLI & Fundamental",
+      "date": null,
+      "classDate": "2026-09-11",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-124",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-127",
+      "category": "documents",
+      "topic": "Malware Concepts",
+      "title": "What is Crypter Antivirus & Virus.pdf",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-126",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-128",
+      "category": "classes",
+      "topic": "LFI / LFD",
+      "title": "Local File Inclusion (LFI)",
+      "date": null,
+      "classDate": "2026-09-18",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-132",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-129",
+      "category": "classes",
+      "topic": "Linux & Scripting",
+      "title": "Linux Tools & Environment Setup, Burp in kali",
+      "date": null,
+      "classDate": "2026-09-20",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-134",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-131",
+      "category": "documents",
+      "topic": "LFI / LFD",
+      "title": "Local File Inclusion Vulnerability(Lfi):",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-132",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-133",
+      "category": "information",
+      "topic": null,
+      "title": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-135",
+      "category": "documents",
+      "topic": "Linux & Scripting",
+      "title": "Java & Go commands:",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-134",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-136",
+      "category": "tools",
+      "topic": "Burp Suite",
+      "title": "Burploader resource:",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-134",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-137",
+      "category": "classes",
+      "topic": "LFI / LFD",
+      "title": "LFI to Rce Final",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-138",
+      "category": "classes",
+      "topic": "LFI / LFD",
+      "title": "LFI — Not acceptable bypass",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-139",
+      "category": "classes",
+      "topic": "LFI / LFD",
+      "title": "Advance LFI to RCE",
+      "date": null,
+      "classDate": "2026-09-25",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-142",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-140",
+      "category": "information",
+      "topic": "Hosting & WordPress",
+      "title": "Topic: \"Web hosting Concept & Wordpress\"",
+      "date": "2026-09-27",
+      "dateVerified": true,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-141",
+      "category": "classes",
+      "topic": "LFI / LFD",
+      "title": "LFI to RFI",
+      "date": null,
+      "classDate": "2026-09-25",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-142",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-143",
+      "category": "classes",
+      "topic": "Recon",
+      "title": "Recon Part 1",
+      "date": null,
+      "classDate": "2026-10-02",
+      "dateVerified": false,
+      "duration": "1:35:45",
+      "relatedRecordingId": "entry-147",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-144",
+      "category": "information",
+      "topic": null,
+      "title": "আপনার ক্লাস টপিক রিলেটেড যে কোন সমস্যা সম্পর্কে এই পোস্টের কমেন্টে স্ক্রিনশট সহ বর্ণনা করুন। পাশা…",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-146",
+      "category": "information",
+      "topic": "LFI / LFD",
+      "title": "LFI to RFI",
+      "date": null,
+      "dateVerified": false,
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "entry-148",
+      "category": "recordings",
+      "recordingSerial": 22,
+      "topic": "WordPress",
+      "topicTitle": "WordPress Backup, Wordfence Malware Scan ও XAMPP Lab",
+      "title": "ক্লাস রেকর্ড — 04/10/2026",
+      "date": "2026-10-04",
+      "dateVerified": true,
+      "duration": "1:42:35",
+      "relatedTopics": [
+        "Malware Removal"
+      ],
+      "relatedResourceIds": [
+        "msg-wp-migration",
+        "msg-class22-duplicator-pro",
+        "msg-class22-unlimited-extension",
+        "notes-class22-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "msg-hw5-xss",
+      "category": "documents",
+      "topic": "XSS",
+      "title": "XSS — Homework Task 5 (HW5.pdf)",
+      "date": null,
+      "classDate": "2026-08-09",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-80",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "msg-deface-example",
+      "category": "documents",
+      "topic": "WebShell",
+      "title": "Deface Page — HTML অনুশীলন ফাইল",
+      "date": null,
+      "classDate": "2026-08-21",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "msg-wp-migration",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "WordPress Backup — All-in-One WP Migration 7.48",
+      "date": null,
+      "classDate": "2026-10-04",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-148",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-wordfence",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "Wordfence 9.0.2 — WordPress Security Scan",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-148",
+      "relatedRecordingIds": [
+        "entry-148"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-wordpress-lab",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "WordPress Local Lab — XAMPP ও phpMyAdmin",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-145",
+      "relatedRecordingIds": [
+        "entry-145",
+        "entry-148"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-elementor",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "Elementor — WordPress Page Builder",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-145",
+      "relatedRecordingIds": [
+        "entry-145"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-duplicator-official",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "Duplicator Lite — অফিসিয়াল Backup বিকল্প",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-148",
+      "relatedRecordingIds": [
+        "entry-148"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-burp-official",
+      "category": "tools",
+      "topic": "Burp Suite",
+      "title": "Burp Suite Community — অফিসিয়াল Setup",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-90",
+      "relatedRecordingIds": [
+        "entry-90",
+        "entry-115",
+        "entry-134",
+        "entry-107"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-linux-official",
+      "category": "tools",
+      "topic": "Linux & Scripting",
+      "title": "Kali Linux ও VMware — Virtual Lab Downloads",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-122",
+      "relatedRecordingIds": [
+        "entry-122",
+        "entry-134"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-go-recon",
+      "category": "tools",
+      "topic": "Recon & Enumeration",
+      "title": "Go, Python ও Git — Recon Prerequisites",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-134",
+      "relatedRecordingIds": [
+        "entry-134",
+        "entry-147",
+        "class-2026-10-09"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-shodan",
+      "category": "tools",
+      "topic": "Recon & Enumeration",
+      "title": "Shodan — Recon Web Tool",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-147",
+      "relatedRecordingIds": [
+        "entry-147"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-osint",
+      "category": "tools",
+      "topic": "OSINT",
+      "title": "OSINT — IP Lookup, WHOIS ও Web Archive",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-46",
+      "relatedRecordingIds": [
+        "entry-46"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-class22-lab-files",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "ক্লাস ২২ — Website/Database Practice Files",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-148",
+      "relatedRecordingIds": [
+        "entry-148"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-windows-batch",
+      "category": "tools",
+      "topic": "Linux & Scripting",
+      "title": "Windows Command Prompt — Batch Scripting সহায়ক রেফারেন্স",
+      "date": null,
+      "dateVerified": false,
+      "relatedRecordingId": "entry-117",
+      "relatedRecordingIds": [
+        "entry-117"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "msg-class22-duplicator-pro",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "Duplicator Pro 4.5.10 — কোর্স ফাইল ও যাচাই",
+      "date": null,
+      "classDate": "2026-10-04",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-148",
+      "relatedRecordingIds": [
+        "entry-148"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "msg-class22-unlimited-extension",
+      "category": "tools",
+      "topic": "WordPress",
+      "title": "All-in-One WP Migration Unlimited Extension — কোর্স ফাইল",
+      "date": null,
+      "classDate": "2026-10-04",
+      "dateVerified": false,
+      "relatedRecordingId": "entry-148",
+      "relatedRecordingIds": [
+        "entry-148"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "class-2026-10-09",
+      "category": "recordings",
+      "recordingSerial": 23,
+      "topic": "Recon",
+      "topicTitle": "Recon Part 2 — Web Application ও Directory Discovery",
+      "title": "Recon Part 2 — 09/10/2026",
+      "date": "2026-10-09",
+      "classDate": "2026-10-09",
+      "dateVerified": true,
+      "duration": "1:25:10",
+      "relatedResourceIds": [
+        "guide-recon-class23",
+        "tool-directory-discovery",
+        "tool-go-recon",
+        "notes-class23-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "guide-recon-class23",
+      "category": "documents",
+      "topic": "Recon",
+      "title": "Recon for Web Application — গাইড, নোট ও টুল সূচি",
+      "date": "2026-10-09",
+      "classDate": "2026-10-09",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-09",
+      "relatedRecordingIds": [
+        "entry-147",
+        "class-2026-10-09"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-directory-discovery",
+      "category": "tools",
+      "topic": "Recon",
+      "title": "ffuf ও SecLists — Directory Discovery",
+      "date": null,
+      "classDate": "2026-10-09",
+      "dateVerified": false,
+      "relatedRecordingId": "class-2026-10-09",
+      "relatedRecordingIds": [
+        "class-2026-10-09"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class12-acunetix",
+      "category": "documents",
+      "topic": "Acunetix",
+      "title": "Acunetix — সংক্ষিপ্ত সহায়ক পাঠনোট",
+      "date": "2026-10-11",
+      "classDate": "2026-08-30",
+      "relatedRecordingId": "entry-112",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class15-linux-cli",
+      "category": "documents",
+      "topic": "Linux & Scripting",
+      "title": "Linux Command Line — সহায়ক নোট ও অনুশীলন",
+      "date": "2026-10-11",
+      "classDate": "2026-09-11",
+      "relatedRecordingId": "entry-124",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class19-lfi-rce",
+      "category": "documents",
+      "topic": "LFI / RCE",
+      "title": "Advanced LFI / RCE — সহায়ক নোট ও অনুশীলন",
+      "date": "2026-10-11",
+      "classDate": "2026-09-25",
+      "relatedRecordingId": "entry-142",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "class-2026-10-11",
+      "category": "recordings",
+      "recordingSerial": 24,
+      "topic": "SQL Injection",
+      "topicTitle": "SQLMap ও Dalfox — SQL Injection ও XSS Tools",
+      "title": "SQLMap and Dalfox — 11/10/2026",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "dateVerified": true,
+      "duration": "1:43:09",
+      "relatedTopics": [
+        "XSS",
+        "Linux & Scripting"
+      ],
+      "relatedResourceIds": [
+        "notes-class24-sqlmap-dalfox",
+        "tool-sqlmap-class24",
+        "tool-dalfox-class24",
+        "notes-class24-google-dorks"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class24-sqlmap-dalfox",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "SQLMap ও Dalfox — সংরক্ষিত সহায়ক পাঠনোট",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "dateVerified": true,
+      "relatedTopics": [
+        "XSS"
+      ],
+      "relatedRecordingId": "class-2026-10-11",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-sqlmap-class24",
+      "category": "tools",
+      "topic": "SQL Injection",
+      "title": "SQLMap — Source ZIP, Python ও Setup",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-11",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-dalfox-class24",
+      "category": "tools",
+      "topic": "XSS",
+      "title": "Dalfox — XSS Tool, Releases ও Setup",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-11",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class01-google-dorks",
+      "category": "documents",
+      "topic": "Orientation",
+      "title": "ক্লাস 01 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-07-19",
+      "classDate": "2026-07-19",
+      "relatedRecordingId": "entry-20",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class02-google-dorks",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "ক্লাস 02 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-07-24",
+      "classDate": "2026-07-24",
+      "relatedRecordingId": "entry-40",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class03-google-dorks",
+      "category": "documents",
+      "topic": "OSINT",
+      "title": "ক্লাস 03 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-07-26",
+      "classDate": "2026-07-26",
+      "relatedRecordingId": "entry-46",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class04-google-dorks",
+      "category": "documents",
+      "topic": "Session & Redirect",
+      "title": "ক্লাস 04 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-07-31",
+      "classDate": "2026-07-31",
+      "relatedRecordingId": "entry-58",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class05-google-dorks",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "ক্লাস 05 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-02",
+      "classDate": "2026-08-02",
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class06-google-dorks",
+      "category": "documents",
+      "topic": "XSS",
+      "title": "ক্লাস 06 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-09",
+      "classDate": "2026-08-09",
+      "relatedRecordingId": "entry-80",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class07-google-dorks",
+      "category": "documents",
+      "topic": "WAF",
+      "title": "ক্লাস 07 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-14",
+      "classDate": "2026-08-14",
+      "relatedRecordingId": "entry-88",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class08-google-dorks",
+      "category": "documents",
+      "topic": "Burp Suite",
+      "title": "ক্লাস 08 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-16",
+      "classDate": "2026-08-16",
+      "relatedRecordingId": "entry-90",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class09-google-dorks",
+      "category": "documents",
+      "topic": "WebShell",
+      "title": "ক্লাস 09 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-21",
+      "classDate": "2026-08-21",
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class10-google-dorks",
+      "category": "documents",
+      "topic": "File Upload",
+      "title": "ক্লাস 10 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-23",
+      "classDate": "2026-08-23",
+      "relatedRecordingId": "entry-107",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class11-google-dorks",
+      "category": "documents",
+      "topic": "PortSwigger Labs",
+      "title": "ক্লাস 11 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-28",
+      "classDate": "2026-08-28",
+      "relatedRecordingId": "entry-115",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class12-google-dorks",
+      "category": "documents",
+      "topic": "Acunetix",
+      "title": "ক্লাস 12 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-08-30",
+      "classDate": "2026-08-30",
+      "relatedRecordingId": "entry-112",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class13-google-dorks",
+      "category": "documents",
+      "topic": "Linux & Scripting",
+      "title": "ক্লাস 13 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-04",
+      "classDate": "2026-09-04",
+      "relatedRecordingId": "entry-117",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class14-google-dorks",
+      "category": "documents",
+      "topic": "Linux & Scripting",
+      "title": "ক্লাস 14 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-06",
+      "classDate": "2026-09-06",
+      "relatedRecordingId": "entry-122",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class15-google-dorks",
+      "category": "documents",
+      "topic": "Linux & Scripting",
+      "title": "ক্লাস 15 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-11",
+      "classDate": "2026-09-11",
+      "relatedRecordingId": "entry-124",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class16-google-dorks",
+      "category": "documents",
+      "topic": "Malware Concepts",
+      "title": "ক্লাস 16 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-13",
+      "classDate": "2026-09-13",
+      "relatedRecordingId": "entry-126",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class17-google-dorks",
+      "category": "documents",
+      "topic": "LFI & Server Security",
+      "title": "ক্লাস 17 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-18",
+      "classDate": "2026-09-18",
+      "relatedRecordingId": "entry-132",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class18-google-dorks",
+      "category": "documents",
+      "topic": "Linux & Scripting",
+      "title": "ক্লাস 18 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-20",
+      "classDate": "2026-09-20",
+      "relatedRecordingId": "entry-134",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class19-google-dorks",
+      "category": "documents",
+      "topic": "LFI & Server Security",
+      "title": "ক্লাস 19 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-25",
+      "classDate": "2026-09-25",
+      "relatedRecordingId": "entry-142",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class20-google-dorks",
+      "category": "documents",
+      "topic": "WordPress",
+      "title": "ক্লাস 20 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-09-27",
+      "classDate": "2026-09-27",
+      "relatedRecordingId": "entry-145",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class21-google-dorks",
+      "category": "documents",
+      "topic": "Recon",
+      "title": "ক্লাস 21 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-10-02",
+      "classDate": "2026-10-02",
+      "relatedRecordingId": "entry-147",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class22-google-dorks",
+      "category": "documents",
+      "topic": "WordPress",
+      "title": "ক্লাস 22 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-10-04",
+      "classDate": "2026-10-04",
+      "relatedRecordingId": "entry-148",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class23-google-dorks",
+      "category": "documents",
+      "topic": "Recon",
+      "title": "ক্লাস 23 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-10-09",
+      "classDate": "2026-10-09",
+      "relatedRecordingId": "class-2026-10-09",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class24-google-dorks",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "ক্লাস 24 — পাঠনোট ও Google Advanced Search / Dork",
+      "date": "2026-10-11",
+      "classDate": "2026-10-11",
+      "relatedRecordingId": "class-2026-10-11",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "class-2026-10-16",
+      "category": "recordings",
+      "recordingSerial": 25,
+      "topic": "Vulnerability Scanning",
+      "topicTitle": "Nuclei ও Nikto — Scanner, Templates ও Report Verification",
+      "title": "Nuclei and Nikto — 16/10/2026",
+      "date": "2026-10-16",
+      "classDate": "2026-10-16",
+      "dateVerified": true,
+      "duration": "1:55:01",
+      "relatedTopics": [
+        "Linux & Scripting",
+        "Recon"
+      ],
+      "relatedResourceIds": [
+        "notes-class25-nuclei-nikto",
+        "homework-class25-revision",
+        "doc-class25-report-worksheet",
+        "tool-nuclei-class25",
+        "tool-nikto-class25",
+        "notice-class25-holiday"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class25-nuclei-nikto",
+      "category": "documents",
+      "topic": "Vulnerability Scanning",
+      "title": "ক্লাস ২৫ — NotebookLM বিশ্লেষণ ও সম্পাদিত পাঠনোট",
+      "date": "2026-10-16",
+      "classDate": "2026-10-16",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-16",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "homework-class25-revision",
+      "category": "information",
+      "topic": "Vulnerability Scanning",
+      "title": "ক্লাস ২৫ — হোমওয়ার্ক ও রিভিশন",
+      "date": "2026-10-16",
+      "classDate": "2026-10-16",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-16",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "doc-class25-report-worksheet",
+      "category": "documents",
+      "topic": "Vulnerability Scanning",
+      "title": "ক্লাস ২৫ — Report Verification Worksheet",
+      "date": "2026-10-16",
+      "classDate": "2026-10-16",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-16",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-nuclei-class25",
+      "category": "tools",
+      "topic": "Vulnerability Scanning",
+      "title": "Nuclei — Official Downloads, Templates ও Setup",
+      "date": "2026-10-16",
+      "classDate": "2026-10-16",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-16",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-nikto-class25",
+      "category": "tools",
+      "topic": "Vulnerability Scanning",
+      "title": "Nikto — Official Source ZIP, Perl ও Setup",
+      "date": "2026-10-16",
+      "classDate": "2026-10-16",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-16",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notice-class25-holiday",
+      "category": "information",
+      "topic": "Vulnerability Scanning",
+      "title": "ছুটির ঘোষণা — ১৮ অক্টোবরের ক্লাস ও ২১–২৬ অক্টোবরের বিরতি",
+      "date": "2026-10-16",
+      "classDate": "2026-10-16",
+      "dateVerified": true,
+      "relatedRecordingId": "class-2026-10-16",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-link-gopher-class05",
+      "category": "tools",
+      "topic": "SQL Injection",
+      "title": "Link Gopher — Official Firefox / Chrome Downloads ও Setup",
+      "date": "2026-10-17",
+      "classDate": "2026-08-02",
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-everything-class06",
+      "category": "tools",
+      "topic": "XSS",
+      "title": "Everything — Windows File Search, Official Downloads ও Setup",
+      "date": "2026-10-18",
+      "classDate": "2026-08-09",
+      "relatedRecordingId": "entry-80",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-virustotal-class07",
+      "category": "tools",
+      "topic": "WAF",
+      "title": "VirusTotal — Official Web Service ও ব্যবহারবিধি",
+      "date": "2026-10-18",
+      "classDate": "2026-08-14",
+      "relatedRecordingId": "entry-88",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "class-2026-10-18",
+      "category": "recordings",
+      "recordingSerial": 26,
+      "topic": "Report Writing",
+      "topicTitle": "Report Writing — Evidence, Findings ও Report Structure",
+      "title": "Report Writing — 18/10/2026",
+      "date": "2026-10-18",
+      "classDate": "2026-10-18",
+      "dateVerified": true,
+      "duration": "22:31 + 1:13:08",
+      "relatedResourceIds": [
+        "notes-class26-report-writing",
+        "doc-class26-report-worksheet",
+        "resource-class26-pentestreports",
+        "homework-class26-report",
+        "tools-class26-report-references"
+      ],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "notes-class26-report-writing",
+      "category": "documents",
+      "topic": "Report Writing",
+      "title": "ক্লাস ২৬ — Report Writing: পাঠনোট ও হোমওয়ার্ক",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "doc-class26-report-worksheet",
+      "category": "documents",
+      "topic": "Report Writing",
+      "title": "ক্লাস ২৬ — Report Writing Worksheet",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "resource-class26-pentestreports",
+      "category": "tools",
+      "topic": "Report Writing",
+      "title": "PentestReports — Public Report ও Template Library",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-foxyproxy-class08",
+      "category": "tools",
+      "topic": "Burp Suite",
+      "title": "FoxyProxy Standard — Official Browser Downloads ও Setup",
+      "date": "2026-10-19",
+      "classDate": "2026-08-16",
+      "relatedRecordingId": "entry-90",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "homework-class26-report",
+      "category": "homework",
+      "topic": "Report Writing",
+      "title": "ক্লাস ২৬ — একটি বাগ রিপোর্ট: শিক্ষকের হোমওয়ার্ক",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tools-class26-report-references",
+      "category": "tools",
+      "topic": "Report Writing",
+      "title": "ক্লাস ২৬ — উল্লেখিত টুলস ও রিপোর্টের রেফারেন্স",
+      "date": "2026-10-19",
+      "classDate": "2026-10-18",
+      "relatedRecordingId": "class-2026-10-18",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "tool-vscode-codepen-class09",
+      "category": "tools",
+      "topic": "WebShell",
+      "title": "VS Code ও CodePen — Official Downloads, Editor ও Setup",
+      "date": "2026-10-22",
+      "classDate": "2026-08-21",
+      "relatedRecordingId": "entry-99",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "portal-sqli-input-points",
+      "category": "information",
+      "topic": "SQL Injection",
+      "title": "SQL Injection Points — সম্পাদিত ধারণানোট",
+      "date": "2026-07-25",
+      "classDate": "2026-07-24",
+      "relatedRecordingId": "entry-40",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "portal-manual-sqli-study-copy",
+      "category": "documents",
+      "topic": "SQL Injection",
+      "title": "Manual SQLI — শিক্ষক-ডকের সম্পাদিত পাঠসংস্করণ",
+      "date": "2026-08-02",
+      "classDate": "2026-08-02",
+      "relatedRecordingId": "entry-64",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "portal-advanced-upload-references",
+      "category": "documents",
+      "topic": "File Upload",
+      "title": "File Upload — শিক্ষক-দেওয়া Resource Links ও Fake Filler",
+      "date": "2026-08-23",
+      "classDate": "2026-08-23",
+      "relatedRecordingId": "entry-107",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "portal-arena-toolkit",
+      "category": "tools",
+      "topic": "Recon",
+      "title": "Arena Web Security Toolkit — শিক্ষার্থীদের Web Tools",
+      "date": "2026-07-30",
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    }
+  ],
+  "syllabus": {
+    "version": "7.0",
+    "stages": [
+      {
+        "title": "কোর্স পরিচিতি ও Ethical Hacking",
+        "summary": "কোর্স পরিচিতি ও Cyber Safety ক্লাসের রেকর্ড আছে।",
+        "status": "covered",
+        "classIds": [
+          "entry-20",
+          "entry-40"
+        ]
+      },
+      {
+        "title": "SQL Injection",
+        "summary": "টুল দিয়ে SQLi, Manual SQLi, WAF এবং lab অনুশীলন শনাক্ত। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও YouTube-এ হোস্ট করা আছে এবং সাইটে প্লেব্যাক যাচাই হয়েছে।",
+        "status": "covered",
+        "classIds": [
+          "entry-40",
+          "entry-64",
+          "entry-88",
+          "entry-115",
+          "class-2026-10-11"
+        ]
+      },
+      {
+        "title": "OSINT ও তথ্য সংগ্রহ",
+        "summary": "OSINT এবং Recon ক্লাস পাওয়া গেছে।",
+        "status": "partial",
+        "classIds": [
+          "entry-46",
+          "entry-147"
+        ]
+      },
+      {
+        "title": "Denial of Service ও DDoS",
+        "summary": "সংগৃহীত মূল রেকর্ডে এই বিষয় নিশ্চিত করা হয়নি।",
+        "status": "pending",
+        "classIds": []
+      },
+      {
+        "title": "Session Security",
+        "summary": "Session hijacking এবং blocking-এর ক্লাস শনাক্ত।",
+        "status": "covered",
+        "classIds": [
+          "entry-58"
+        ]
+      },
+      {
+        "title": "Batch Scripting",
+        "summary": "Batch scripting-এর ক্লাস ও short notes পাওয়া গেছে।",
+        "status": "covered",
+        "classIds": [
+          "entry-117"
+        ]
+      },
+      {
+        "title": "Malware, Crypter ও Antivirus",
+        "summary": "Crypter, antivirus এবং RAT training lab শনাক্ত।",
+        "status": "partial",
+        "classIds": [
+          "entry-126"
+        ]
+      },
+      {
+        "title": "WAF ও IDS",
+        "summary": "WAF এবং IDS সম্পর্কিত SQLi ক্লাস শনাক্ত।",
+        "status": "covered",
+        "classIds": [
+          "entry-88"
+        ]
+      },
+      {
+        "title": "WebShell ও File Upload",
+        "summary": "WebShell, backdoor এবং file upload vulnerability ক্লাস আছে।",
+        "status": "covered",
+        "classIds": [
+          "entry-99",
+          "entry-107"
+        ]
+      },
+      {
+        "title": "WordPress ও Website Development",
+        "summary": "WordPress, theme, Elementor, backup ও local setup শনাক্ত।",
+        "status": "covered",
+        "classIds": [
+          "entry-145",
+          "entry-148"
+        ]
+      },
+      {
+        "title": "Keylogger ও Spyware",
+        "summary": "এই বিষয়গুলোর নিশ্চিত মূল ক্লাস এখনো শনাক্ত হয়নি।",
+        "status": "pending",
+        "classIds": []
+      },
+      {
+        "title": "LFI, RFI, RCE ও Server Security",
+        "summary": "LFI, path traversal এবং RCE lab পাওয়া গেছে।",
+        "status": "partial",
+        "classIds": [
+          "entry-132",
+          "entry-142"
+        ]
+      },
+      {
+        "title": "Cross Site Scripting",
+        "summary": "XSS ক্লাস এবং PortSwigger lab অনুশীলন পাওয়া গেছে। ১১ অক্টোবরের SQLMap ও Dalfox ক্লাসও সংশ্লিষ্ট; ভিডিও YouTube-এ হোস্ট করা আছে এবং সাইটে প্লেব্যাক যাচাই হয়েছে।",
+        "status": "covered",
+        "classIds": [
+          "entry-80",
+          "entry-115",
+          "class-2026-10-11"
+        ]
+      },
+      {
+        "title": "CSRF ও Social Engineering",
+        "summary": "CSRF, phishing ও social engineering-এর নিশ্চিত মূল ক্লাস পাওয়া যায়নি।",
+        "status": "pending",
+        "classIds": []
+      },
+      {
+        "title": "Kali Linux, Lab ও Burp Suite",
+        "summary": "Linux installation, virtual lab, command line, Burp Suite এবং tools setup পাওয়া গেছে।",
+        "status": "covered",
+        "classIds": [
+          "entry-90",
+          "entry-122",
+          "entry-124",
+          "entry-134"
+        ]
+      },
+      {
+        "title": "System Hacking ও Authentication Bypass",
+        "summary": "এই দুটি বিষয়ে নিশ্চিত মূল ক্লাসের প্রমাণ পাওয়া যায়নি।",
+        "status": "pending",
+        "classIds": []
+      },
+      {
+        "title": "PortSwigger Labs",
+        "summary": "SQLi, XSS ও file upload lab অনুশীলন শনাক্ত।",
+        "status": "covered",
+        "classIds": [
+          "entry-115"
+        ]
+      },
+      {
+        "title": "Recon ও Linux দিয়ে Footprinting",
+        "summary": "VPS/Shodan setup-এর ক্লাস ২১ এবং ৯ অক্টোবরের Recon live ক্লাস যুক্ত আছে; নতুন ক্লাসের নির্বাচিত অংশে directory discovery দেখা গেছে।",
+        "status": "partial",
+        "classIds": [
+          "entry-147",
+          "class-2026-10-09"
+        ]
+      },
+      {
+        "title": "Nmap ও Network Penetration Test",
+        "summary": "Nmap-এর FIN, XMAS, TCP, UDP ও IDLE scan ক্লাস এখনো নিশ্চিত নয়।",
+        "status": "pending",
+        "classIds": []
+      },
+      {
+        "title": "Website Penetration Testing",
+        "summary": "Acunetix, web lab এবং ১৬ অক্টোবরের Nuclei/Nikto ক্লাসে scanner, template, output report ও ফল যাচাই আলোচনা পাওয়া গেছে। Official PDF পৃষ্ঠা ৫-এর Website Penetration Testing Tools ও tools/manual process-এর সঙ্গে বিষয়ভিত্তিক মিল; PDF-তে Nuclei/Nikto নাম আলাদা করে নেই। ১৮ অক্টোবরের Report Writing-এর দ্বিতীয় অংশ বিশ্লেষণে report structure, evidence, impact, remediation ও একটি report-এর homework নিশ্চিত; worksheet যুক্ত।",
+        "status": "partial",
+        "classIds": [
+          "entry-112",
+          "entry-115",
+          "entry-142",
+          "class-2026-10-16",
+          "class-2026-10-18"
+        ]
+      },
+      {
+        "title": "Fiverr ও Upwork Freelancing",
+        "summary": "Freelancing, gig, order এবং payment ক্লাস এখনো শনাক্ত হয়নি।",
+        "status": "pending",
+        "classIds": []
+      },
+      {
+        "title": "HackerOne ও Bugcrowd",
+        "summary": "১৮ অক্টোবরের ক্লাসে HackerOne, Bugcrowd ও অন্যান্য platform পরিচয় এবং bug report-এর কাঠামো আলোচনা হয়েছে। Platform-এ প্রকৃত First Bug Report submit করার পূর্ণ প্রক্রিয়া যাচাই হয়নি।",
+        "status": "partial",
+        "classIds": [
+          "class-2026-10-18"
+        ]
+      },
+      {
+        "title": "Thesis ও Internship",
+        "summary": "Thesis, final assessment এবং internship-এর সমাপ্তির প্রমাণ এখনো নেই।",
+        "status": "pending",
+        "classIds": []
+      },
+      {
+        "title": "Tor, Mobile Security ও Proxy",
+        "summary": "সিলেবাসের ঐচ্ছিক ও bonus বিষয়গুলোর পূর্ণ ক্লাস যাচাই বাকি।",
+        "status": "pending",
+        "classIds": []
+      }
+    ]
+  },
+  "schedule": {
+    "exceptions": []
+  },
+  "studyGuideAudit": {},
+  "access": {
+    "courseId": "arena-b66-delta",
+    "granted": false
+  }
+}
