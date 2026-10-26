@@ -1,3 +1,4 @@
+import {socialProviders} from './social-providers.mjs';
 import {betterAuth} from 'better-auth';
 import pg from 'pg';
 const {Pool}=pg;
@@ -14,9 +15,9 @@ export function authOptions(database=authPool()){
  const baseURL=process.env.CYBERNEST_AUTH_URL||LEARNING_ORIGIN;
  if(!process.env.CYBERNEST_AUTH_SECRET||process.env.CYBERNEST_AUTH_SECRET.length<32)throw Error('Learning authentication unavailable');
  return {appName:'CyberNest',baseURL,basePath:'/api/auth',secret:process.env.CYBERNEST_AUTH_SECRET,database,
-  trustedOrigins:[baseURL],emailAndPassword:{enabled:true,minPasswordLength:12,maxPasswordLength:128,requireEmailVerification:false},
+  socialProviders:socialProviders(),trustedOrigins:[baseURL],emailAndPassword:{enabled:true,minPasswordLength:12,maxPasswordLength:128,requireEmailVerification:false},
   user:{modelName:'cybernest_user',changeEmail:{enabled:false}},session:{modelName:'cybernest_session',expiresIn:7*86400,updateAge:86400,cookieCache:{enabled:false}},
-  account:{modelName:'cybernest_account',accountLinking:{enabled:false}},verification:{modelName:'cybernest_verification'},
+  account:{modelName:'cybernest_account',encryptOAuthTokens:true,accountLinking:{enabled:true,disableImplicitLinking:true,allowDifferentEmails:false,trustedProviders:[]}},verification:{modelName:'cybernest_verification'},
   advanced:{cookiePrefix:'cybernest',database:{generateId:'uuid'},defaultCookieAttributes:{httpOnly:true,sameSite:'lax'}},
   rateLimit:{enabled:true,storage:'database',modelName:'cybernest_rate_limit',window:60,max:60,customRules:{'/sign-in/email':{window:60,max:5},'/sign-up/email':{window:3600,max:5},'/get-session':false}},
   logger:{disabled:true}

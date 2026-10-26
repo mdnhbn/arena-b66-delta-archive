@@ -1,0 +1,2 @@
+import {adminAccess} from '../../staff-access.mjs';import {socialAvailability} from '../../social-providers.mjs';import {json,PUBLIC_ORIGIN} from '../../security.mjs';
+export async function GET(request){const access=await adminAccess(request,'integrations.read');if(access.response)return access.response;return json({providers:socialAvailability(),callbacks:{google:PUBLIC_ORIGIN+'/api/auth/callback/google',github:PUBLIC_ORIGIN+'/api/auth/callback/github'},merchantConnected:false});}
