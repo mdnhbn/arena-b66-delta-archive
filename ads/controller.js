@@ -28,6 +28,7 @@
     if('IntersectionObserver' in window){item.observer=new IntersectionObserver(entries=>{item.visible=entries.some(entry=>entry.isIntersecting);load();},{threshold:0.01});item.observer.observe(target);}else{item.visible=true;load();}
   }
   function render(){if(!operationsEnabled){for(const id of ids)dispose(id);return;}for(const id of ids){const target=document.querySelector('[data-ad-position="'+id+'"]');if(!document.body.classList.contains('public-banner-layout')||!target){dispose(id);continue;}mount(target,id);}}
-  window.addEventListener('cybernest:operations',e=>{operationsEnabled=e.detail.enabled.ads&&e.detail.enabled.site;render();});window.addEventListener('delta:page',render);window.addEventListener('resize',render);
-  fetch('/api/ads-config',{cache:'no-store',credentials:'omit'}).then(async response=>{if(response.ok){settings=await response.json();render();}}).catch(()=>{});
+  window.addEventListener('cybernest:operations',e=>{operationsEnabled=e.detail.enabled.ads&&e.detail.enabled.site;render();});window.addEventListener('delta:page',load);window.addEventListener('resize',render);
+  function load(){const courseId=/^#class\//.test(location.hash)?'arena-b66-delta':'';fetch('/api/ads-config?'+new URLSearchParams({courseId}),{cache:'no-store',credentials:'same-origin'}).then(async response=>{if(response.ok){settings=await response.json();render();}}).catch(()=>{});}
+window.addEventListener('learning:account',load);load();
 })();
