@@ -34,6 +34,6 @@ export async function profileFor(session){
 }
 export async function grantedCourses(session){
  if(!session?.user?.id)return new Set();
- const {rows}=await authPool().query("SELECT a.course_id FROM learning.course_access a JOIN learning.profiles p ON p.id=a.user_id WHERE p.identity_provider='better-auth' AND p.identity_subject=$1 AND a.revoked_at IS NULL AND (a.expires_at IS NULL OR a.expires_at>now())",[session.user.id]);return new Set(rows.map(r=>r.course_id));
+ const {rows}=await authPool().query("SELECT a.course_id FROM learning.course_access a JOIN learning.courses c ON c.id=a.course_id JOIN learning.profiles p ON p.id=a.user_id WHERE p.identity_provider='better-auth' AND p.identity_subject=$1 AND COALESCE((c.payload->>'archived')::boolean,false)=false AND a.revoked_at IS NULL AND (a.expires_at IS NULL OR a.expires_at>now())",[session.user.id]);return new Set(rows.map(r=>r.course_id));
 }
 export async function requireCourse(request,courseId){const session=await learningSession(request);if(!session)return {response:accountJSON({error:'sign_in_required'},401)};if(!(await grantedCourses(session)).has(courseId))return {response:accountJSON({error:'enrollment_required'},403)};return {session};}
