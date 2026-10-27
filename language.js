@@ -1273,8 +1273,8 @@ const pairs=[
   "গোপনীয়তা"
  ],
  [
-  "Aggregate visits are counted without names. With permission, pages, approximate country and active-time history are saved; signed-in history is linked to your account. Raw IP addresses are not stored in visit history. Do Not Track / GPC is respected.",
-  "পরিচয় ছাড়া মোট ভিজিট গণনা করা হয়। অনুমতি দিলে পেজ, আনুমানিক দেশ ও সক্রিয় সময়ের ইতিহাস রাখা হয়; সাইন ইন থাকলে ইতিহাস অ্যাকাউন্টের সঙ্গে যুক্ত হয়। ভিজিট ইতিহাসে সরাসরি IP রাখা হয় না। Do Not Track / GPC মানা হয়।"
+  "Visitor counting requires your analytics permission. With permission, pages, approximate country and active-time history are saved; signed-in history is linked to your account. Raw IP addresses are not stored in visit history. Do Not Track / GPC is respected.",
+  "দর্শক গণনার জন্য আপনার পরিসংখ্যানের অনুমতি প্রয়োজন। অনুমতি দিলে পেজ, আনুমানিক দেশ ও সক্রিয় সময়ের ইতিহাস রাখা হয়; সাইন ইন থাকলে ইতিহাস অ্যাকাউন্টের সঙ্গে যুক্ত হয়। ভিজিট ইতিহাসে সরাসরি IP রাখা হয় না। Do Not Track / GPC মানা হয়।"
  ],
  [
   "Privacy · CyberNest",
@@ -1293,8 +1293,8 @@ const pairs=[
   "গোপনীয়তা ও আপনার তথ্য"
  ],
  [
-  "Last updated: 26 October 2026",
-  "সর্বশেষ হালনাগাদ: ২৬ অক্টোবর ২০২৬"
+  "Last updated: 27 October 2026",
+  "সর্বশেষ হালনাগাদ: ২৭ অক্টোবর ২০২৬"
  ],
  [
   "CyberNest lets you explore courses, watch approved lessons and use learning materials. You do not need to sign in to read this page.",
@@ -1317,8 +1317,8 @@ const pairs=[
   "ভিজিট ও শেখার ইতিহাস"
  ],
  [
-  "Aggregate visits are counted without names. Detailed history requires separate permission. With permission, pages, approximate country, visit times and estimated visible, active-tab time are saved. Signed-in activity may be linked to your account. Earlier guest history is not later reassigned to your name.",
-  "পরিচয় ছাড়া মোট ভিজিটের হিসাব রাখা হয়। বিস্তারিত ইতিহাসের জন্য আলাদা অনুমতি চাওয়া হয়। অনুমতি দিলে দেখা পেজ, আনুমানিক দেশ, ভিজিটের সময় এবং ট্যাব সামনে ও সক্রিয় থাকার আনুমানিক সময় রাখা হয়। সাইন ইন করা অবস্থার ইতিহাস অ্যাকাউন্টের সঙ্গে যুক্ত হতে পারে। অতিথির আগের ইতিহাস পরে তার নামে বদলে দেওয়া হয় না।"
+  "Visitor counting and detailed history require your analytics permission. Both use the same session records. Older aggregate records are kept separately and are not added to overlapping totals. With permission, pages, approximate country, visit times and estimated visible, active-tab time are saved. Signed-in activity may be linked to your account. Earlier guest history is not later reassigned to your name.",
+  "দর্শক গণনা ও বিস্তারিত ইতিহাসের জন্য আপনার পরিসংখ্যানের অনুমতি প্রয়োজন। দুটিতেই একই সেশনের তথ্য ব্যবহৃত হয়। আগের মোট হিসাব আলাদাভাবে রাখা আছে; একই সময়ের নতুন হিসাবের সঙ্গে যোগ করা হয় না। অনুমতি দিলে দেখা পেজ, আনুমানিক দেশ, ভিজিটের সময় এবং ট্যাব সামনে ও সক্রিয় থাকার আনুমানিক সময় রাখা হয়। সাইন ইন করা অবস্থার ইতিহাস অ্যাকাউন্টের সঙ্গে যুক্ত হতে পারে। অতিথির আগের ইতিহাস পরে তার নামে বদলে দেওয়া হয় না।"
  ],
  [
   "Raw IP addresses are not stored in visitor history. Limited abuse-prevention counters use a changing, secret-key-derived network identifier. Sign-in security sessions are separate. Do Not Track/GPC disables visitor counting. Change detailed-history permission through “Analytics preferences” on the main page. Opting out stops new collection; it does not automatically erase earlier records.",
