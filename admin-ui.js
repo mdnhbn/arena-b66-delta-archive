@@ -1,6 +1,6 @@
 (()=>{
   const $=id=>document.getElementById(id),num=x=>new Intl.NumberFormat('bn-BD').format(x),text=(tag,value,cls)=>{const el=document.createElement(tag);el.textContent=value;if(cls)el.className=cls;return el;};
-  let members=[],stats=null,liveSamples=[],period=28,statsRequest=0,adsRequest=0;
+  let members=[],rosterVersion=null,stats=null,liveSamples=[],period=28,statsRequest=0,adsRequest=0;
   const selectedSite=()=>$('managed-site').value;
   const regions=new Intl.DisplayNames(['bn'],{type:'region'});
   async function read(path){const response=await fetch(path,{cache:'no-store',credentials:'same-origin',signal:AbortSignal.timeout(20000)});if(!response.ok)throw new Error('Access unavailable');return response.json();}
@@ -51,7 +51,7 @@
   }
   async function loadStats(){const requestId=++statsRequest,site=selectedSite();$('refresh').disabled=true;try{const value=await read('/api/admin/stats?days='+period+'&site='+site);if(requestId!==statsRequest||site!==selectedSite())return;stats=value;drawStats();$('collection-start-note').textContent=stats.startDate+' UTC থেকে অনুমতি দেওয়া দর্শকদের হিসাব। পুরোনো গণনা আলাদাভাবে সংরক্ষিত; এখানে যোগ করা হয়নি।';}catch{if(requestId!==statsRequest)return;$('status').textContent='অ্যানালিটিক্স পাওয়া যাচ্ছে না। লগইন বা সংযোগ পরীক্ষা করুন।';$('live-status').textContent='লাইভ আপডেট সাময়িক বন্ধ';$('active-visitors').textContent='—';}finally{if(requestId===statsRequest)$('refresh').disabled=false;}}
   function renderMembers(){const query=$('member-search').value.toLocaleLowerCase();$('members').replaceChildren();const visible=members.filter(m=>m.name.toLocaleLowerCase().includes(query));for(const member of visible){const row=text('li','');row.append(text('span',member.name));if(member.profile){const u=new URL(member.profile);if(u.protocol==='https:'&&['facebook.com','www.facebook.com'].includes(u.hostname)&&!u.username&&!u.password){const link=text('a','Profile ↗');link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';row.append(link);}}$('members').append(row);}if(!visible.length)$('members').append(text('li',members.length?'এই নামে সদস্য পাওয়া যায়নি।':'যাচাইকৃত সদস্যতালিকা যোগ করুন।','hint'));}
-  async function loadMembers(){try{const roster=await read('/api/admin/members');members=roster.members;$('member-count').textContent=num(members.length);$('roster-source').textContent=roster.source+(roster.updatedAt?' · আপডেট '+new Date(roster.updatedAt).toLocaleString('bn-BD'):'');renderMembers();}catch{$('roster-source').textContent='সদস্যতালিকা পাওয়া যাচ্ছে না।';}}
+  async function loadMembers(){try{const roster=await read('/api/admin/members');members=roster.members;rosterVersion=roster.version;$('member-count').textContent=num(members.length);$('roster-source').textContent=roster.source+(roster.updatedAt?' · আপডেট '+new Date(roster.updatedAt).toLocaleString('bn-BD'):'');renderMembers();}catch{rosterVersion=null;$('roster-source').textContent='সদস্যতালিকা পাওয়া যাচ্ছে না।';}}
 
   function applyAds(s){
     $('ads-enabled').checked=s.enabled;$('ads-display').value=String(s.defaultExpanded);
@@ -68,8 +68,9 @@
   $('member-search').addEventListener('input',renderMembers);
   $('refresh').addEventListener('click',loadStats);$('chart-metric').addEventListener('change',drawStats);$('period').addEventListener('change',()=>{period=Number($('period').value);loadStats();});
   $('save-roster').addEventListener('click',async()=>{
+    if(rosterVersion===null){$('roster-feedback').textContent='সর্বশেষ সদস্যতালিকা লোড না হওয়া পর্যন্ত সংরক্ষণ বন্ধ।';return;}
     const list=$('roster-input').value.split(/\r?\n/).filter(line=>line.trim()).map(line=>{const [name,profile='']=line.split('\t');return {name:name.trim(),profile:profile.trim()};});if(!list.length){$('roster-feedback').textContent='সংরক্ষণের আগে সদস্যদের নাম দিন।';return;}$('save-roster').disabled=true;
-    try{const response=await fetch('/api/admin/members',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json','X-Delta-Admin':'1'},body:JSON.stringify({members:list,source:$('source-input').value})});if(!response.ok)throw new Error('Save failed');$('roster-input').value='';await loadMembers();$('roster-feedback').textContent='Private সদস্যতালিকা সংরক্ষণ হয়েছে।';}catch{$('roster-feedback').textContent='সংরক্ষণ হয়নি। নাম ও profile URL পরীক্ষা করুন।';}finally{$('save-roster').disabled=false;}
+    try{const response=await fetch('/api/admin/members',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json','X-Delta-Admin':'1'},body:JSON.stringify({members:list,source:$('source-input').value,version:rosterVersion})});if(response.status===409){await loadMembers();$('roster-feedback').textContent='অন্য জায়গা থেকে তালিকা বদলেছে। সর্বশেষ তালিকা দেখে আবার সংরক্ষণ করুন।';return;}if(!response.ok)throw new Error('Save failed');$('roster-input').value='';await loadMembers();$('roster-feedback').textContent='Private সদস্যতালিকা সংরক্ষণ হয়েছে।';}catch{$('roster-feedback').textContent='সংরক্ষণ হয়নি। নাম ও profile URL পরীক্ষা করুন।';}finally{$('save-roster').disabled=false;}
   });
   setInterval(()=>{if(document.visibilityState==='visible')loadStats();},60000);
   document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')loadStats();});

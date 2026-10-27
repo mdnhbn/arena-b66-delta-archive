@@ -1,16 +1,13 @@
-import {adminAccess,courseScopeAllowed} from '../../staff-access.mjs';
-import { get, put } from '@vercel/blob';
-import { adminAllowed, adminMutationAllowed, json, limitedJSON, cleanMembers } from '../../security.mjs';
-const path='roster/facebook-delta.json';
+import {adminAccess} from '../../staff-access.mjs';
+import {adminMutationAllowed,json,limitedJSON} from '../../security.mjs';
+import {cleanRoster,readMemberRoster,saveMemberRoster} from '../../member-roster.mjs';
 export async function GET(request){
-  const access=await adminAccess(request,'members.manage');if(access.response)return access.response;
-  try{const file=await get(path,{access:'private',useCache:false});if(!file||file.statusCode!==200)return json({members:[],source:'সদস্যতালিকা এখনও যোগ করা হয়নি',updatedAt:null});const data=await new Response(file.stream).json();return json({members:cleanMembers(data.members),source:String(data.source||'').slice(0,160),updatedAt:data.updatedAt||null});}
-  catch(error){console.error('Private roster unavailable',error.name);return json({error:'Private roster unavailable'},503);}
+ const access=await adminAccess(request,'members.manage');if(access.response)return access.response;
+ try{return json(await readMemberRoster());}catch{return json({error:'Private roster unavailable'},503);}
 }
 export async function POST(request){
-  const access=await adminAccess(request,'members.manage');if(access.response)return access.response;
-  if(!adminMutationAllowed(request))return json({error:'Forbidden'},403);
-  let data;try{const input=await limitedJSON(request,256000);data={members:cleanMembers(input.members),source:typeof input.source==='string'?input.source.trim().slice(0,160):'Owner import',updatedAt:new Date().toISOString()};}catch{return json({error:'Invalid member list'},400);}
-  try{await put(path,JSON.stringify(data),{access:'private',contentType:'application/json',addRandomSuffix:false,allowOverwrite:true});return json({saved:data.members.length,updatedAt:data.updatedAt});}
-  catch(error){console.error('Private roster save failed',error.name);return json({error:'Could not save'},503);}
+ const access=await adminAccess(request,'members.manage');if(access.response)return access.response;
+ if(!adminMutationAllowed(request))return json({error:'Forbidden'},403);
+ let input;try{input=cleanRoster(await limitedJSON(request,256000));}catch{return json({error:'Invalid member list or missing version'},400);}
+ try{return json(await saveMemberRoster(input));}catch(error){return json({error:error.status===409?'Roster changed; reload before saving':'Could not save private roster'},error.status===409?409:503);}
 }
