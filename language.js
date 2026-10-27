@@ -1,5 +1,6 @@
 (()=>{'use strict';
 const pairs=[
+ ["Playback verification pending","প্লেব্যাক যাচাই বাকি"],
  [
   "Class recordings",
   "ক্লাস রেকর্ডিং"
