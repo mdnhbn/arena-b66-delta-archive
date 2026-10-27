@@ -21,3 +21,5 @@ Current application source excludes private course exports. Protected file deliv
 Burp supplementary resource: nine of 27 ordered clips are verified, including the newly hosted private part 09 (10:33, 720p). Media links and member records are stored in the protected database rather than this public repository. Class 26 part 1 (22:31) remains available on Facebook but was not independently downloaded or hosted in this maintenance pass.
 
 Four older Arena training uploads that remained publicly listed on the video host were changed to private visibility and checked again. These uploads were not linked by the current archive; unrelated channel content was unchanged. Private links can still be watched by their holders, so private visibility is not account-bound video authorization.
+
+An encrypted course-content and roster backup was verified through temporary typed-table restoration. Its private offsite copy was downloaded and checked byte-for-byte, including 69 preserved resource files. See [RECOVERY.md](RECOVERY.md) for the scope, limits and recovery procedure; automatic scheduling and complete account/payment recovery remain pending.
