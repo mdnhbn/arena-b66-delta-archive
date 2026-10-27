@@ -19,7 +19,28 @@ function hasResourceKind(e,kind){return kind==='tools'?isToolResource(e):e.categ
 function records(){return entries.filter(e=>e.category==='recordings').sort((a,b)=>(a.recordingSerial||999)-(b.recordingSerial||999));}
 function title(e){return e.topicTitle||e.title;}
 function resourceHash(e){return '#'+(e.category==='recordings'?'class/':'resource/')+e.id;}
-function status(e){if(e.videoStatus==='recording-pending')return {text:e.sourceRecordingAvailable?"রেকর্ডিং পাওয়া গেছে · আপলোড বাকি":"লাইভ ক্লাস · রেকর্ডিং বাকি",cls:'pending'};if(e.archivedRecordingId){const original=entries.find(x=>x.id===e.archivedRecordingId&&x.category==='recordings');if(original)return status(original);}if(e.youtubeVideos?.length){const clips=youtubeClips(e),ready=clips.length>=Number(e.expectedVideoParts||e.youtubeVideos.length)&&clips.every(v=>v.playbackVerified);return {text:ready?'ভিডিও প্রস্তুত':'সহায়ক ভিডিওর কাজ চলছে',cls:ready?'ready':'pending'};}if((e.dailymotionVideos||[]).length){const clips=dailymotionClips(e),complete=clips.length>=Number(e.expectedVideoParts||e.dailymotionVideos.length),ready=complete&&clips.every(v=>v.playbackVerified);return {text:ready?'ভিডিও প্রস্তুত':complete?'ভিডিও প্রস্তুত হচ্ছে':'কিছু অংশের ভিডিও বাকি',cls:ready?'ready':'pending'};}if(e.videoStatus==='upload-blocked-dailymotion-limit')return {text:'আপলোড সীমা রিসেটের অপেক্ষায়',cls:'pending'};if(e.videoStatus==='upload-blocked-dailymotion-error')return {text:'আপলোড পুনরায় চেষ্টা বাকি',cls:'pending'};if(e.videoStatus==='upload-blocked-daily-limit')return {text:'YouTube আপলোড অপেক্ষায়',cls:'pending'};if(e.youtubeId)return {text:'ভিডিও প্রস্তুত',cls:'ready'};if(e.videoStatus==='uploading'||e.videoStatus==='uploaded-processing')return {text:'ভিডিও প্রস্তুত হচ্ছে',cls:'pending'};if(e.category==='recordings'||(e.videoStatus||'').startsWith('upload-'))return {text:'ভিডিও পরে যোগ হবে',cls:'pending'};return {text:e.noteText?'নোট পড়া যাবে':'রিসোর্স',cls:''};}
+function videoCoverage(e){
+ const groups=[youtubeClips(e),dailymotionClips(e)],clips=groups.flat();
+ if(!clips.length)return null;
+ const raw=e.expectedVideoParts,expected=raw===undefined?null:Number(raw);
+ if(expected!==null&&(!Number.isSafeInteger(expected)||expected<1||expected>1000))return {complete:false,ready:false};
+ if(expected===null)return {complete:true,ready:clips.every(v=>v.playbackVerified===true)};
+ const validPart=v=>Number.isSafeInteger(v.part)&&v.part>=1&&v.part<=expected;
+ const covers=(list,verified)=>{const parts=new Set(list.filter(v=>validPart(v)&&(!verified||v.playbackVerified===true)).map(v=>v.part));return parts.size===expected;};
+ const wholeProvider=(list,verified)=>{if(list.length<expected)return false;if(list.every(validPart))return covers(list,verified);const unique=new Map(list.map(v=>[v.privateId||v.videoId,v]));return unique.size>=expected&&(!verified||[...unique.values()].every(v=>v.playbackVerified===true));};
+ return {complete:covers(clips,false)||groups.some(g=>wholeProvider(g,false)),ready:covers(clips,true)||groups.some(g=>wholeProvider(g,true))};
+}
+function status(e){
+ if(e.videoStatus==='recording-pending')return {text:e.sourceRecordingAvailable?'রেকর্ডিং পাওয়া গেছে · আপলোড বাকি':'লাইভ ক্লাস · রেকর্ডিং বাকি',cls:'pending'};
+ if(e.archivedRecordingId){const original=entries.find(x=>x.id===e.archivedRecordingId&&x.category==='recordings');if(original)return status(original);}
+ const coverage=videoCoverage(e);if(coverage)return {text:coverage.ready?'ভিডিও প্রস্তুত':coverage.complete?'প্লেব্যাক যাচাই বাকি':'কিছু অংশের ভিডিও বাকি',cls:coverage.ready?'ready':'pending'};
+ if(e.videoStatus==='upload-blocked-dailymotion-limit')return {text:'আপলোড সীমা রিসেটের অপেক্ষায়',cls:'pending'};
+ if(e.videoStatus==='upload-blocked-dailymotion-error')return {text:'আপলোড পুনরায় চেষ্টা বাকি',cls:'pending'};
+ if(e.videoStatus==='upload-blocked-daily-limit')return {text:'YouTube আপলোড অপেক্ষায়',cls:'pending'};
+ if(e.videoStatus==='uploading'||e.videoStatus==='uploaded-processing')return {text:'ভিডিও প্রস্তুত হচ্ছে',cls:'pending'};
+ if(e.category==='recordings'||(e.videoStatus||'').startsWith('upload-'))return {text:'ভিডিও পরে যোগ হবে',cls:'pending'};
+ return {text:e.noteText?'নোট পড়া যাবে':'রিসোর্স',cls:''};
+}
 
 function dailymotionClips(e){return (e.dailymotionVideos||[]).filter(v=>/^[A-Za-z0-9]{5,40}$/.test(v.privateId||(v.visibility==='public'?v.videoId:'')||''));}
 function youtubeClips(e){const clips=e.youtubeVideos?.length?e.youtubeVideos:[{videoId:e.youtubeId||(e.videoStatus==='uploaded-processing'?e.pendingYoutubeId:null),playbackVerified:e.playbackVerified}];return clips.filter(v=>typeof v.videoId==='string'&&/^[A-Za-z0-9_-]{11}$/.test(v.videoId));}
