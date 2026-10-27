@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 20214)
-Total output lines: 2039
-
 (()=>{'use strict';
 const pairs=[
  ["Browse preserved resources →","সংরক্ষিত রিসোর্স খুলুন →"],
@@ -1050,7 +1047,224 @@ const pairs=[
   "সাইন ইন করুন"
  ],
  [
-  "…2214 tokens truncated… সঙ্গে যুক্ত হয়। ভিজিট ইতিহাসে সরাসরি IP রাখা হয় না। Do Not Track / GPC মানা হয়।"
+  "Use at least 12 characters. Each course requires separate approval after registration. Email ownership is not automatically verified at this step.",
+  "অন্তত ১২ অক্ষরের পাসওয়ার্ড দিন। নিবন্ধনের পর প্রতিটি কোর্সের জন্য আলাদা অনুমোদন প্রয়োজন। ইমেইলের মালিকানা এই ধাপে স্বয়ংক্রিয়ভাবে যাচাই করা হয় না।"
+ ],
+ [
+  "This account works across the main website and Course Library.",
+  "এই একই অ্যাকাউন্ট মূল সাইট এবং Course Library-তে কাজ করে।"
+ ],
+ [
+  "Checking…",
+  "যাচাই হচ্ছে…"
+ ],
+ [
+  "Your account",
+  "আপনার অ্যাকাউন্ট"
+ ],
+ [
+  "Approved courses: ",
+  "অনুমোদিত কোর্স: "
+ ],
+ [
+  "Explore Course Library",
+  "কোর্স লাইব্রেরি দেখুন"
+ ],
+ [
+  "Management Studio",
+  "ব্যবস্থাপকের Studio"
+ ],
+ [
+  "Sign out",
+  "সাইন আউট"
+ ],
+ [
+  "This course",
+  "এই কোর্স"
+ ],
+ [
+  "Course enrollment access",
+  "কোর্সে ভর্তির অনুমতি"
+ ],
+ [
+  "Your access to this course is active.",
+  "এই কোর্সে আপনার অনুমতি সক্রিয় আছে।"
+ ],
+ [
+  "You have an account. Approval for this specific course is needed to watch its videos and open its files.",
+  "আপনার অ্যাকাউন্ট আছে। ভিডিও ও ফাইল দেখতে এই নির্দিষ্ট কোর্সে অনুমোদন প্রয়োজন।"
+ ],
+ [
+  "Submit a request for the owner to review. No payment is collected here.",
+  "আবেদন জমা দিলে মালিক যাচাই করে অনুমতি দেবেন। এখানে কোনো টাকা কাটা হবে না।"
+ ],
+ [
+  "Send enrollment request",
+  "ভর্তির আবেদন পাঠান"
+ ],
+ [
+  "Saving your request…",
+  "আবেদন সংরক্ষণ হচ্ছে…"
+ ],
+ [
+  "This course is approved. Please refresh the page.",
+  "কোর্সটি অনুমোদিত। পেজ রিফ্রেশ করুন।"
+ ],
+ [
+  "Your request has been submitted. Videos and files remain locked until approval.",
+  "আপনার আবেদন জমা হয়েছে। অনুমোদন না পাওয়া পর্যন্ত ভিডিও ও ফাইল বন্ধ থাকবে।"
+ ],
+ [
+  "Course preview",
+  "কোর্সের প্রিভিউ"
+ ],
+ [
+  "Enrollment approval is required for this course's videos, full notes and files.",
+  "ভিডিও, পূর্ণ নোট ও ফাইল দেখতে এই কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+ ],
+ [
+  "You can view the course introduction. Sign in and obtain enrollment approval for videos, full notes and files.",
+  "কোর্সের পরিচিতি দেখতে পারবেন। ভিডিও, পূর্ণ নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+ ],
+ [
+  "Request enrollment",
+  "ভর্তির আবেদন করুন"
+ ],
+ [
+  "Sign in / Register",
+  "সাইন ইন / নিবন্ধন"
+ ],
+ [
+  "My learning",
+  "আমার শেখা"
+ ],
+ [
+  "Social sign-in was not completed. If you have an existing account, first sign in with email and then link Google/GitHub.",
+  "সামাজিক মাধ্যমে প্রবেশ সম্পন্ন হয়নি। পুরোনো অ্যাকাউন্ট থাকলে আগে ইমেইল দিয়ে সাইন ইন করে Google/GitHub সংযুক্ত করুন।"
+ ],
+ [
+  "Enrollment options",
+  "কোর্সে ভর্তির অপশন"
+ ],
+ [
+  "Search & filter",
+  "খুঁজুন ও ফিল্টার করুন"
+ ],
+ [
+  "♡ Saved classes only",
+  "♡ শুধু সংরক্ষিত ক্লাস"
+ ],
+ [
+  "Continue learning",
+  "শেখা চালিয়ে যান"
+ ],
+ [
+  "Arena Web Security · Batch 66 Delta · 26 ordered classes with related notes and tools.",
+  "Arena Web Security · Batch 66 Delta · ২৬টি ধারাবাহিক ক্লাস, সংশ্লিষ্ট নোট ও টুলস।"
+ ],
+ [
+  "Preview the course topics and lessons.",
+  "কোর্সের বিষয় ও পাঠগুলোর প্রিভিউ দেখুন।"
+ ],
+ [
+  "Find a course, understand the topic and learn at your own pace. Videos and files are available only to approved students.",
+  "কোর্স খুঁজুন, বিষয় বুঝুন, নিজের গতিতে শিখুন। ভিডিও ও ফাইল কেবল অনুমোদিত শিক্ষার্থীদের জন্য।"
+ ],
+ [
+  "No courses match this search.",
+  "এই খোঁজে কোনো কোর্স পাওয়া যায়নি।"
+ ],
+ [
+  "Analytics permission",
+  "পরিসংখ্যানের অনুমতি"
+ ],
+ [
+  "Allow us to save the pages you visit, approximate country and active time? When signed in, this activity is linked to your account.",
+  "কোন পেজ দেখা হচ্ছে, আনুমানিক দেশ ও সক্রিয় সময় সংরক্ষণ করতে দেবেন? লগইন থাকলে ওই সময়ের ব্যবহার আপনার অ্যাকাউন্টের সঙ্গে যুক্ত হবে।"
+ ],
+ [
+  "Allow",
+  "অনুমতি দিচ্ছি"
+ ],
+ [
+  "Not now",
+  "এখন নয়"
+ ],
+ [
+  "Analytics preferences",
+  "পরিসংখ্যানের পছন্দ"
+ ],
+ [
+  "Try again",
+  "আবার চেষ্টা করুন"
+ ],
+ [
+  " · maintenance",
+  " · রক্ষণাবেক্ষণ"
+ ],
+ [
+  "Check your connection",
+  "সংযোগ পরীক্ষা করুন"
+ ],
+ [
+  "Site status is unavailable. Please try again.",
+  "সাইটের অবস্থা পাওয়া যাচ্ছে না। আবার চেষ্টা করুন।"
+ ],
+ [
+  "Open advertisement link ↗",
+  "বিজ্ঞাপনের লিংক খুলুন ↗"
+ ],
+ [
+  "Close this advertisement",
+  "এই বিজ্ঞাপন বন্ধ করুন"
+ ],
+ [
+  "Close advertisement",
+  "বিজ্ঞাপন বন্ধ করুন"
+ ],
+ [
+  "CyberNest — learn Cyber Security, Ethical Hacking and AI. Classes, videos, notes, tools and roadmaps in one place.",
+  "CyberNest — Cyber Security, Ethical Hacking ও AI শেখার জায়গা। ক্লাস, ভিডিও, নোট, টুলস ও রোডম্যাপ একসঙ্গে।"
+ ],
+ [
+  "Skip to content",
+  "মূল কন্টেন্টে যান"
+ ],
+ [
+  "CyberNest home",
+  "CyberNest হোম"
+ ],
+ [
+  "Main navigation",
+  "মূল নেভিগেশন"
+ ],
+ [
+  "Class & resource filters",
+  "ক্লাস ও রিসোর্স ফিল্টার"
+ ],
+ [
+  "Learn together",
+  "একসঙ্গে শিখি"
+ ],
+ [
+  "Preparing your learning space…",
+  "আপনার শেখার জায়গাটি প্রস্তুত হচ্ছে…"
+ ],
+ [
+  "Keep learning organized.",
+  "শেখা হোক গোছানো।"
+ ],
+ [
+  "About the archive ↗",
+  "আর্কাইভ সম্পর্কে ↗"
+ ],
+ [
+  "Privacy",
+  "গোপনীয়তা"
+ ],
+ [
+  "Visitor counting requires your analytics permission. With permission, pages, approximate country and active-time history are saved; signed-in history is linked to your account. Raw IP addresses are not stored in visit history. Do Not Track / GPC is respected.",
+  "দর্শক গণনার জন্য আপনার পরিসংখ্যানের অনুমতি প্রয়োজন। অনুমতি দিলে পেজ, আনুমানিক দেশ ও সক্রিয় সময়ের ইতিহাস রাখা হয়; সাইন ইন থাকলে ইতিহাস অ্যাকাউন্টের সঙ্গে যুক্ত হয়। ভিজিট ইতিহাসে সরাসরি IP রাখা হয় না। Do Not Track / GPC মানা হয়।"
  ],
  [
   "Privacy · CyberNest",
