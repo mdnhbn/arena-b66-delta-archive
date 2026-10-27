@@ -1,5 +1,6 @@
 (()=>{'use strict';
 const pairs=[
+ ["Browse preserved resources →","সংরক্ষিত রিসোর্স খুলুন →"],
  ["Playback verification pending","প্লেব্যাক যাচাই বাকি"],
  [
   "Class recordings",
@@ -953,18 +954,12 @@ const pairs=[
   "Posts & information",
   "পোস্ট ও তথ্য"
  ],
- [
-  "Collected post text is preserved in data.json and CATALOG.md. Facebook links identify the source; Facebook is not required to read preserved text.",
-  "সংগৃহীত পোস্টের লেখা data.json এবং CATALOG.md-তে আছে। Facebook লিংক শুধু উৎসের পরিচয়; সংরক্ষিত লেখা পড়তে Facebook প্রয়োজন নেই।"
- ],
+ ["Post text and source references are preserved in protected course storage. Authorized students can read them here even if the original Facebook post is removed.","পোস্টের লেখা ও উৎসের পরিচয় কোর্সের সুরক্ষিত ডেটাবেসে সংরক্ষিত। অনুমতি পাওয়া শিক্ষার্থী সাইটেই পড়তে পারেন; মূল Facebook পোস্ট মুছে গেলেও সংরক্ষিত কপি থাকে।"],
  [
   "Notes & PDFs",
   "নোট ও PDF"
  ],
- [
-  "Full notes are in the GitHub notes folder. Owned PDF copies can be read and downloaded from the site's documents folder.",
-  "পূর্ণ নোট GitHub-এর notes ফোল্ডারে আছে। নিজস্ব PDF কপি সাইটের documents ফোল্ডার থেকে পড়া ও ডাউনলোড করা যায়।"
- ],
+ ["Full notes and preserved PDFs are served after course access is checked. File downloads require the same course permission.","পূর্ণ নোট ও সংরক্ষিত PDF কোর্সের অনুমতি যাচাই করে দেখানো হয়। ফাইল ডাউনলোডের সময়ও একই অনুমতি পরীক্ষা করা হয়।"],
  [
   "Verified recordings are hosted on YouTube as Unlisted, or on Dailymotion as link-accessible Private videos, and play in the site player. Downloaded copies are removed after upload and playback verification.",
   "যাচাই করা রেকর্ড আপনার YouTube-এ Unlisted অথবা Dailymotion-এ লিংক দিয়ে দেখা যায় এমন Private হিসেবে থাকে এবং সাইটের প্লেয়ারে চলে। আপলোড ও প্লেব্যাক যাচাইয়ের পর ডাউনলোড কপি সরানো হয়।"
@@ -973,14 +968,8 @@ const pairs=[
   "Tool files",
   "টুল ফাইল"
  ],
- [
-  "Small, redistributable tool files can be stored on GitHub. Keep extra copies of large files on your Drive/Terabox. Preserving setup instructions, versions, sources and checksums helps recovery.",
-  "ছোট ও পুনর্বিতরণযোগ্য টুল ফাইল GitHub-এ রাখা যায়। বড় ফাইলের জন্য আপনার Drive/Terabox-এ অতিরিক্ত কপি ভালো। সেটআপ, সংস্করণ, উৎস ও checksum সংরক্ষণ করলে পুনরুদ্ধার সহজ হয়।"
- ],
- [
-  "No online service guarantees permanent storage. Check GitHub, video hosts and separate Drive/Terabox backups regularly. External files without an owned copy are not yet preserved.",
-  "কোনো অনলাইন সেবা আজীবন সংরক্ষণের নিশ্চয়তা দেয় না। GitHub, ভিডিও হোস্ট ও আলাদা Drive/Terabox ব্যাকআপ নিয়মিত পরীক্ষা করা উচিত। নিজস্ব কপি যুক্ত হয়নি এমন বাহ্যিক ফাইল এখনো সংরক্ষিত নয়।"
- ],
+ ["Tool descriptions, setup guidance and preserved files are linked to their classes. An external source link does not by itself mean an independent copy has been preserved.","টুলের বিবরণ, সেটআপ ও সংরক্ষিত ফাইল সংশ্লিষ্ট ক্লাসের সঙ্গে যুক্ত। বাইরের উৎসের লিংক থাকলেই সেটির আলাদা কপি সংরক্ষিত আছে—এমন নিশ্চয়তা নেই।"],
+ ["Online services cannot guarantee permanent retention. An encrypted private backup of preserved course content and files has been tested; scheduled backups and a full recovery drill are still pending.","অনলাইন সেবা স্থায়ী সংরক্ষণের নিশ্চয়তা দেয় না। সংরক্ষিত কোর্সের তথ্য ও ফাইলের একটি এনক্রিপ্টেড ব্যক্তিগত ব্যাকআপ পরীক্ষা করা হয়েছে; নিয়মিত ব্যাকআপ ও পূর্ণ পুনরুদ্ধার পরীক্ষা এখনও বাকি।"],
  [
   "Download JSON data ↓",
   "তথ্যের JSON কপি ↓"
