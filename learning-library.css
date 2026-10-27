@@ -50,3 +50,9 @@
 @media(prefers-reduced-motion:reduce){.lib-card-shell,.vault-library .sidebar{transition:none}.lib-card-shell:hover{transform:none}}
 
 .category-total{margin-left:auto;color:var(--lib-muted);font-size:11px;width:auto!important}.vault-library .sidebar nav a .category-dot{flex:none}.sidebar-filters .saved-filter{margin-top:14px}
+
+/* Keep the lesson sidebar readable at its own narrow width. */
+.delta-library .detail-sidebar .class-list{display:flex;flex-direction:column;gap:0}
+.delta-library .detail-sidebar .class-row{align-items:flex-start;gap:10px;min-width:0}
+.delta-library .detail-sidebar .class-main h3{font-size:14px;line-height:1.55;min-height:0}
+.delta-library .detail-sidebar .class-meta{font-size:12px;line-height:1.6}
