@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import vm from 'node:vm';
 const source=readFileSync(new URL('../learning-library.js',import.meta.url),'utf8');
-function session(store=new Map(),blocked=false){const window={};vm.runInNewContext(source,{window,localStorage:{getItem:k=>store.get(k)||null,setItem:(k,v)=>{if(blocked)throw Error('Blocked');store.set(k,v);}}});return window.LibraryPreferences;}
+function session(store=new Map(),blocked=false,account=null){const window={LearningAccount:account};vm.runInNewContext(source,{window,localStorage:{getItem:k=>store.get(k)||null,setItem:(k,v)=>{if(blocked)throw Error('Blocked');store.set(k,v);}}});return window.LibraryPreferences;}
 test('saved courses and completion persist independently without account or payment data',()=>{
  const store=new Map(),first=session(store);assert.equal(first.toggleSaved('vault-source-0001'),true);assert.equal(first.toggleComplete('vault-source-0001:lesson-01'),true);
  const next=session(store);assert.equal(next.isSaved('vault-source-0001'),true);assert.equal(next.isComplete('vault-source-0001:lesson-01'),true);next.toggleSaved('vault-source-0001');assert.equal(next.isComplete('vault-source-0001:lesson-01'),true);
@@ -19,4 +19,11 @@ test('date-named archive classes support completion and resume without accepting
  p.remember(route,'Report Writing');p.toggleComplete('class-2026-10-18');
  const next=session(store);assert.equal(next.recent().href,route);assert.equal(next.isComplete('class-2026-10-18'),true);
  next.remember('#class/../studio','Bad path');next.remember('#class/entry-1?token=private','Query');assert.equal(next.recent().href,route);
+});
+
+test('signed-in learners read progress only from their own authorized account snapshot',()=>{
+ const store=new Map(),old=session(store);old.toggleComplete('vault-source-0001:lesson-01');
+ const account={state:{user:{id:'current'},courses:['vault-source-0001'],progress:{courses:{'vault-source-0001':{completed:['lesson-02']}},recent:{courseId:'vault-source-0001',lessonId:'lesson-02'}}},has(id){return this.state.courses.includes(id);},recent(){return {href:'#course/vault-source-0001/lesson/lesson-02',title:'Continue learning'};}};
+ const current=session(store,false,account);assert.equal(current.isComplete('vault-source-0001:lesson-01'),false);assert.equal(current.isComplete('vault-source-0001:lesson-02'),true);assert.equal(current.recent().href,'#course/vault-source-0001/lesson/lesson-02');
+ const other=session(store,false,{state:{user:{id:'other'},courses:[],progress:{courses:{}}},has(){return false;},recent(){return null;}});assert.equal(other.isComplete('vault-source-0001:lesson-01'),false);other.clearLearningProgress();assert.equal(other.recent(),null);
 });
