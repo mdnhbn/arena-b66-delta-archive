@@ -18,6 +18,6 @@ Removing course files from the current branch does not revoke historical Git cop
 
 Current application source excludes private course exports. Protected file delivery contains 69 preserved resources, including three course-scoped PDFs. Dashboard and detailed history share consented Postgres sessions; member management uses separate staff-only tables and versioned updates. The suspended legacy Blob data remains untouched.
 
-Burp supplementary resource: eight of 27 ordered clips are verified, including the newly hosted private part 08 (13:55, 720p). Media links and member records are stored in the protected database rather than this public repository. Class 26 part 1 (22:31) remains available on Facebook but was not independently downloaded or hosted in this maintenance pass.
+Burp supplementary resource: nine of 27 ordered clips are verified, including the newly hosted private part 09 (10:33, 720p). Media links and member records are stored in the protected database rather than this public repository. Class 26 part 1 (22:31) remains available on Facebook but was not independently downloaded or hosted in this maintenance pass.
 
 Four older Arena training uploads that remained publicly listed on the video host were changed to private visibility and checked again. These uploads were not linked by the current archive; unrelated channel content was unchanged. Private links can still be watched by their holders, so private visibility is not account-bound video authorization.
