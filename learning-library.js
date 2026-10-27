@@ -1,6 +1,6 @@
 (()=>{'use strict';
  const storageKey='learning-library-preferences-v1',idOK=x=>typeof x==='string'&&/^[a-z0-9:-]{1,180}$/.test(x);
- const routeOK=x=>typeof x==='string'&&/^#(?:course\/[a-z0-9-]+(?:\/lesson\/[a-z0-9-]+)?|class\/entry-[0-9]+)$/.test(x);
+ const routeOK=x=>typeof x==='string'&&/^#(?:course\/[a-z0-9-]+(?:\/lesson\/[a-z0-9-]+)?|class\/[a-z0-9-]{1,180})$/.test(x);
  let data={saved:[],completed:[],recent:null};
  try{const value=JSON.parse(localStorage.getItem(storageKey)||'null');if(value&&typeof value==='object'){data.saved=Array.isArray(value.saved)?value.saved.filter(idOK).slice(0,500):[];data.completed=Array.isArray(value.completed)?value.completed.filter(idOK).slice(0,2000):[];if(value.recent&&routeOK(value.recent.href)&&typeof value.recent.title==='string')data.recent={href:value.recent.href,title:value.recent.title.slice(0,200)};}}catch{}
  function persist(){try{localStorage.setItem(storageKey,JSON.stringify(data));}catch{}}
@@ -44,9 +44,9 @@
    const slot=document.getElementById('library-filters');
    if(lastRoute!==location.hash){slot?.replaceChildren();if(slot)slot.hidden=true;lastRoute=location.hash;}
    const filters=host.querySelector('.filter-bar');if(filters&&slot){slot.hidden=false;slot.replaceChildren(make('h2','','খুঁজুন ও ফিল্টার করুন'),filters);if(location.hash.startsWith('#classes')){const saved=make('button','saved-filter','♡ শুধু সংরক্ষিত ক্লাস');saved.type='button';saved.setAttribute('aria-pressed',String(!!window.ArchiveSavedOnly));saved.addEventListener('click',()=>{window.ArchiveSavedOnly=!window.ArchiveSavedOnly;window.dispatchEvent(new Event('hashchange'));});slot.append(saved);}}
-   document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=window.CyberNestLanguage?.originalText(row.querySelector('.class-meta')?.lastElementChild)||row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
+   document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{if(row.closest('.detail-sidebar'))return;const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=window.CyberNestLanguage?.originalText(row.querySelector('.class-meta')?.lastElementChild)||row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
   }
-  const path=location.hash,match=vault?path.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/):path.match(/^#class\/(entry-[0-9]+)$/);
+  const path=location.hash,match=vault?path.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/):path.match(/^#class\/([a-z0-9-]{1,180})$/);
   if(match&&!host.querySelector('.enrollment-lock')){
    const key=vault?match[1]+':'+match[2]:match[1],title=host.querySelector(vault?'.lesson-title h2':'.page-heading h1')?.textContent;
    if(title){prefs.remember(path,title);let actions=host.querySelector('.learning-actions');if(!actions){actions=make('div','learning-actions');const done=make('button','learning-action');done.type='button';done.addEventListener('click',()=>{prefs.toggleComplete(key);queue();});actions.append(done,make('small','','Saved on this browser · completion is marked by you'));const anchor=host.querySelector(vault?'.lesson-pager':'.page-heading');anchor?.after(actions);}
