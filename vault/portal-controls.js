@@ -1,7 +1,4 @@
 (()=>{
- const privacy=()=>navigator.globalPrivacyControl===true||navigator.doNotTrack==='1'||window.doNotTrack==='1';
- async function visit(){if(privacy()||document.visibilityState!=='visible')return;try{await fetch('/api/visit',{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/json'},body:JSON.stringify({route:location.hash.split('?')[0]||'#library'}),signal:AbortSignal.timeout(18000)});}catch{}}
- visit();setInterval(visit,120000);document.addEventListener('visibilitychange',visit);window.addEventListener('hashchange',visit);
  let settings=null,version=null,operationsEnabled=true;const mounted=new Map();
  function clear(slot){const item=mounted.get(slot);if(item){item.frame.removeAttribute('src');item.target.replaceChildren();item.target.hidden=true;mounted.delete(slot);}}
  function render(){if(!operationsEnabled){for(const slot of ['middle','footer'])clear(slot);return;}for(const slot of ['middle','footer']){const target=document.querySelector('[data-vault-ad="'+slot+'"]');if(!target)continue;let closed=false;try{closed=sessionStorage.getItem('vault-ad-closed:'+slot)==='1';}catch{}
