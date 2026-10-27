@@ -2,6 +2,9 @@ node_modules/
 public/
 .vercel/
 .env*
+*.cnbackup
+*.cnbackup.verification.json
+backups/
 *.local.json
 data.json
 CATALOG.md
