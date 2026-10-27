@@ -14,3 +14,9 @@ test('resume navigation accepts only known in-site learning routes',()=>{
 test('invalid saved data and blocked browser storage do not break the learning page',()=>{
  const store=new Map([['learning-library-preferences-v1','{broken']]),p=session(store,true);assert.equal(p.isSaved('entry-22'),false);assert.equal(p.toggleSaved('entry-22'),true);assert.equal(p.toggleSaved('../settings'),false);p.remember('#class/entry-22','Class');assert.equal(p.recent().href,'#class/entry-22');
 });
+test('date-named archive classes support completion and resume without accepting another path',()=>{
+ const store=new Map(),p=session(store),route='#class/class-2026-10-18';
+ p.remember(route,'Report Writing');p.toggleComplete('class-2026-10-18');
+ const next=session(store);assert.equal(next.recent().href,route);assert.equal(next.isComplete('class-2026-10-18'),true);
+ next.remember('#class/../studio','Bad path');next.remember('#class/entry-1?token=private','Query');assert.equal(next.recent().href,route);
+});
