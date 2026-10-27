@@ -18,6 +18,7 @@ import * as route16 from '../_server/routes/secret/courses.mjs';
 import * as route17 from '../_server/routes/secret/curriculum.mjs';
 import * as route18 from '../_server/routes/secret/visit.mjs';
 import * as route19 from '../_server/routes/visit.mjs';
+import * as progressRoute from '../_server/routes/learning-progress.mjs';
 import * as archiveRoute from '../_server/routes/admin/archive.mjs';
 import * as paymentRoute from '../_server/routes/admin/payments.mjs';
 import * as operationRoute from '../_server/routes/admin/operations.mjs';
@@ -34,7 +35,7 @@ import * as studioRoute from '../_server/routes/staff/page.mjs';
 import * as activityRoute from '../_server/routes/activity.mjs';
 import * as historyRoute from '../_server/routes/admin/history.mjs';
 import {operations,blockedFeature,unavailable} from '../_server/operations.mjs';
-const routes={"account":route0,"ad-code":route1,"admin/ads":route2,"admin/courses":route3,"admin/curriculum":route4,"admin/enrollments":route5,"admin/members":route6,"admin/page":route7,"admin/stats":route8,"ads-config":route9,"enrollment":route10,"learning-auth":route11,"learning-courses":route12,"learning-curriculum":route13,"learning-file":route14,"learning-library":route15,"secret/courses":route16,"secret/curriculum":route17,"secret/visit":route18,"visit":route19};
+const routes={"account":route0,"ad-code":route1,"admin/ads":route2,"admin/courses":route3,"admin/curriculum":route4,"admin/enrollments":route5,"admin/members":route6,"admin/page":route7,"admin/stats":route8,"ads-config":route9,"enrollment":route10,"learning-auth":route11,"learning-courses":route12,"learning-curriculum":route13,"learning-file":route14,"learning-library":route15,"secret/courses":route16,"secret/curriculum":route17,"secret/visit":route18,"visit":route19,"learning-progress":progressRoute};
 async function handler(request){
  const url=new URL(request.url),route=url.searchParams.get('__route');
  if(typeof route!=='string'||route.length>160||route.split('/').some(part=>! /^[a-z0-9-]+$/.test(part)))return new Response(null,{status:404});
@@ -49,3 +50,4 @@ async function handler(request){
  return destination[request.method](new Request(url,request));
 }
 const wrapped=request=>withRequestActor(()=>handler(request));export {wrapped as GET,wrapped as POST};
+

@@ -1695,6 +1695,30 @@ const pairs=[
   "এই ব্রাউজারে সংরক্ষিত · পাঠ শেষ হয়েছে আপনি নিজে চিহ্নিত করেন"
  ],
  [
+  "Synced to your account.",
+  "আপনার অ্যাকাউন্টে সিঙ্ক হয়েছে।"
+ ],
+ [
+  "Saving progress…",
+  "অগ্রগতি সংরক্ষণ হচ্ছে…"
+ ],
+ [
+  "Progress saved to your account.",
+  "অগ্রগতি আপনার অ্যাকাউন্টে সংরক্ষিত হয়েছে।"
+ ],
+ [
+  "Progress could not sync. Try again.",
+  "অগ্রগতি সিঙ্ক হয়নি। আবার চেষ্টা করুন।"
+ ],
+ [
+  "Saved courses stay on this browser. Enrolled lesson progress syncs to your account.",
+  "সংরক্ষিত কোর্স এই ব্রাউজারে থাকে। ভর্তি হওয়া কোর্সের পাঠের অগ্রগতি আপনার অ্যাকাউন্টে সিঙ্ক হয়।"
+ ],
+ [
+  "For signed-in learners with active access, CyberNest saves lesson completion and the most recently opened lesson to the learner account so they can continue on another device. This progress data is linked to the account and retrievable by that account holder.",
+  "অনুমতি থাকা কোর্সে সাইন ইন করে পড়লে CyberNest সম্পন্ন করা পাঠ ও সর্বশেষ খোলা পাঠ আপনার অ্যাকাউন্টে রাখে, যাতে অন্য ডিভাইস থেকেও চালিয়ে যেতে পারেন। এই অগ্রগতি আপনার অ্যাকাউন্টের সঙ্গে যুক্ত থাকে এবং সেই অ্যাকাউন্ট থেকেই দেখা যায়।"
+ ],
+ [
   "✓ Completed",
   "✓ সম্পন্ন"
  ],

@@ -21,6 +21,9 @@ test('current privacy notice describes consent in both languages',()=>{
  const {api}=boot('bn'),html=readFileSync('privacy.html','utf8'),paragraph=/<h2>Visitor & learning history<\/h2><p>(.*?)<\/p>/.exec(html)?.[1];assert.ok(paragraph);assert.match(api.t(paragraph),/একই সেশনের/);assert.doesNotMatch(api.t(paragraph),/^Visitor/);
  const footer=/class="privacy-notice">(.*?)<\/p>/.exec(readFileSync('index.html','utf8'))?.[1];assert.match(api.t(footer),/অনুমতি প্রয়োজন/);api.set('en');assert.match(api.t(footer),/^Visitor counting requires/);
 });
+test('account progress privacy notice and controls have English and Bengali text',()=>{
+ const {api}=boot('bn'),html=readFileSync('privacy.html','utf8'),copy=/For signed-in learners with active access, CyberNest saves lesson completion and the most recently opened lesson to the learner account so they can continue on another device\. This progress data is linked to the account and retrievable by that account holder\./.exec(html)?.[0];assert.ok(copy);assert.match(api.t(copy),/অ্যাকাউন্টে/);assert.match(api.t('Synced to your account.'),/সিঙ্ক/);api.set('en');assert.match(api.t('Progress saved to your account.'),/^Progress saved/);
+});
 test('blocked storage does not prevent switching; public entry points load the shared language assets',()=>{
  const {api}=boot(undefined,{blocked:true});assert.equal(api.get(),'en');assert.equal(api.set('bn'),true);assert.equal(api.t('Class information'),'ক্লাসের তথ্য');
  for(const name of ['index.html','vault/index.html','privacy.html']){const html=readFileSync(name,'utf8');assert.match(html,/<html lang="en"/);assert.match(html,/src="\/language.js"/);assert.match(html,/href="\/language.css"/);}
