@@ -23,6 +23,6 @@ export function cleanArchivePatch(input){
   p.youtubeId=p.youtubeVideos[0].videoId;p.playbackVerified=p.youtubeVideos.every(v=>v.playbackVerified);
  }
  if(input.documentUrl){const u=new URL(input.documentUrl);if(u.protocol!=='https:'||u.username||u.password||u.href.length>2048||[...u.searchParams.keys()].some(k=>/^(password|access_token|api_key|secret)$/i.test(k)))throw Error('Invalid file');p.documentUrl=u.href;}
- if(input.classDate){if(!/^20\d{2}-\\d{2}-\\d{2}$/.test(input.classDate)||new Date(input.classDate).toISOString().slice(0,10)!==input.classDate)throw Error('Invalid date');p.classDate=input.classDate;p.classDateVerified=true;}
+ if(input.classDate){if(!/^20\d{2}-\d{2}-\d{2}$/.test(input.classDate)||new Date(input.classDate).toISOString().slice(0,10)!==input.classDate)throw Error('Invalid date');p.classDate=input.classDate;p.classDateVerified=true;}
  return p;
 }
