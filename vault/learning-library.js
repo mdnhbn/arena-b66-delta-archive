@@ -36,7 +36,7 @@
   if(row.dataset.libraryReady)return;row.dataset.libraryReady='1';
   const shell=make('article','lib-card-shell');shell.dataset.courseKey=key;row.replaceWith(shell);row.prepend(cover(topic,serial));const paid=make('span','paid-course-label','Paid course');row.querySelector('.course-info,.class-main')?.before(paid);
   const save=make('button','lib-save');save.type='button';function draw(){const on=prefs.isSaved(key);save.textContent=on?'♥':'♡';save.setAttribute('aria-pressed',String(on));save.setAttribute('aria-label',(on?'Unsave ':'Save ')+title);}draw();save.addEventListener('click',()=>{prefs.toggleSaved(key);draw();if(vault&&typeof state!=='undefined'&&state.savedOnly)renderCourses();if(!vault&&window.ArchiveSavedOnly)window.dispatchEvent(new Event('hashchange'));});
-  const enroll=make('button','lib-enroll',vault?'Enrollment options':'কোর্সে ভর্তির অপশন');enroll.type='button';enroll.addEventListener('click',()=>window.LearningAccount?window.LearningAccount.enroll(vault?key:'arena-b66-delta',title):dialog('enroll',title));shell.append(row,save,enroll);
+  const enroll=make('button','lib-enroll',vault?'Enrollment options':'কোর্সে ভর্তির অপশন');enroll.type='button';enroll.dataset.courseId=vault?key:'arena-b66-delta';enroll.addEventListener('click',()=>window.LearningAccount?window.LearningAccount.enroll(vault?key:'arena-b66-delta',title):dialog('enroll',title));shell.append(row,save,enroll);
  }
  function refresh(){
   scheduled=false;observer?.disconnect();
@@ -49,6 +49,7 @@
    const filters=host.querySelector('.filter-bar');if(filters&&slot){slot.hidden=false;slot.replaceChildren(make('h2','','খুঁজুন ও ফিল্টার করুন'),filters);if(location.hash.startsWith('#classes')){const saved=make('button','saved-filter','♡ শুধু সংরক্ষিত ক্লাস');saved.type='button';saved.setAttribute('aria-pressed',String(!!window.ArchiveSavedOnly));saved.addEventListener('click',()=>{window.ArchiveSavedOnly=!window.ArchiveSavedOnly;window.dispatchEvent(new Event('hashchange'));});slot.append(saved);}}
    document.querySelectorAll('#page .class-list>.class-row').forEach(row=>{if(row.closest('.detail-sidebar'))return;const id=row.hash.split('/').pop()?.split('?')[0];if(!idOK(id))return;const topic=window.CyberNestLanguage?.originalText(row.querySelector('.class-meta')?.lastElementChild)||row.querySelector('.class-meta')?.lastElementChild?.textContent||'Web Security';decorate(row,id,topic,row.querySelector('.class-number')?.textContent,row.querySelector('h3')?.textContent||'Class');});
   }
+  document.querySelectorAll('.lib-enroll[data-course-id]').forEach(button=>{button.hidden=!!window.LearningAccount?.has(button.dataset.courseId);});
   const path=location.hash,match=vault?path.match(/^#course\/([a-z0-9-]+)\/lesson\/([a-z0-9-]+)$/):path.match(/^#class\/([a-z0-9-]{1,180})$/);
   if(match&&!host.querySelector('.enrollment-lock')){
    const courseId=vault?match[1]:'arena-b66-delta',lessonId=vault?match[2]:match[1],key=vault?courseId+':'+lessonId:lessonId,title=host.querySelector(vault?'.lesson-title h2':'.page-heading h1')?.textContent,account=window.LearningAccount;
