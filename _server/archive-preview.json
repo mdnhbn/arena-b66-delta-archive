@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-30",
   "title": "CyberNest",
   "entries": [
     {
@@ -2923,6 +2923,22 @@
       "access": "preview",
       "videoStatus": "enrollment-required",
       "text": "কোর্সের প্রিভিউ। সম্পূর্ণ ভিডিও, নোট ও ফাইলের জন্য সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
+    },
+    {
+      "id": "class-2026-10-30",
+      "category": "recordings",
+      "recordingSerial": 27,
+      "topic": "Network Testing",
+      "topicTitle": "Network Testing",
+      "title": "Network Testing — 30/10/2026",
+      "date": "2026-10-30",
+      "classDate": "2026-10-30",
+      "dateVerified": true,
+      "duration": "2:09:23",
+      "relatedResourceIds": [],
+      "access": "preview",
+      "videoStatus": "enrollment-required",
+      "text": "ক্লাসের বিষয়বস্তু দেখুন। সম্পূর্ণ ভিডিও, নোট ও ফাইল পেতে সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।"
     }
   ],
   "syllabus": {

@@ -32,8 +32,16 @@ test('public preview preserves class order without publishing private course res
   const data=JSON.parse(readFileSync('_server/archive-preview.json','utf8'));
   const records=data.entries.filter(e=>e.category==='recordings').sort((a,b)=>a.recordingSerial-b.recordingSerial);
   assert.deepEqual(records.map(e=>e.recordingSerial),records.map((e,i)=>i+1));
-  assert.equal(records.length,26);
-  for(const entry of data.entries)for(const key of ['noteText','youtubeId','youtubeVideos','dailymotionVideos','documentUrl','source','links'])assert.equal(entry[key],undefined);
+  assert.equal(records.length,27);
+  assert.equal(new Set(data.entries.map(e=>e.id)).size,data.entries.length);
+  assert.deepEqual(records.at(-1),{
+    id:'class-2026-10-30',category:'recordings',recordingSerial:27,
+    topic:'Network Testing',topicTitle:'Network Testing',title:'Network Testing — 30/10/2026',
+    date:'2026-10-30',classDate:'2026-10-30',dateVerified:true,duration:'2:09:23',
+    relatedResourceIds:[],access:'preview',videoStatus:'enrollment-required',
+    text:'ক্লাসের বিষয়বস্তু দেখুন। সম্পূর্ণ ভিডিও, নোট ও ফাইল পেতে সাইন ইন এবং কোর্সে ভর্তির অনুমতি প্রয়োজন।'
+  });
+  for(const entry of data.entries)for(const key of ['noteText','youtubeId','youtubeVideos','dailymotionVideos','documentUrl','source','liveSource','links'])assert.equal(entry[key],undefined);
 });
 
 test('public source contains no common credential or private-key patterns',()=>{
