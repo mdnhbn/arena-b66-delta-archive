@@ -27,3 +27,16 @@ test('signed-in learners read progress only from their own authorized account sn
  const current=session(store,false,account);assert.equal(current.isComplete('vault-source-0001:lesson-01'),false);assert.equal(current.isComplete('vault-source-0001:lesson-02'),true);assert.equal(current.recent().href,'#course/vault-source-0001/lesson/lesson-02');
  const other=session(store,false,{state:{user:{id:'other'},courses:[],progress:{courses:{}}},has(){return false;},recent(){return null;}});assert.equal(other.isComplete('vault-source-0001:lesson-01'),false);other.clearLearningProgress();assert.equal(other.recent(),null);
 });
+
+test('both libraries hide enrollment controls for accessible courses and restore them after access changes',()=>{
+ for(const file of ['learning-library.js','vault/learning-library.js']){
+  const handlers={},buttons=[{dataset:{courseId:'arena-b66-delta'}},{dataset:{courseId:'vault-source-0001'}}],account={state:{user:{id:'staff'},courses:['arena-b66-delta']},has(id){return this.state.courses.includes(id);},recent(){return null;}};
+  const host={querySelector(){return null;}},element=()=>({append(){},addEventListener(){},setAttribute(){}});
+  const document={body:{classList:{contains(){return false;}}},getElementById(id){return id==='page'?host:null;},createElement:element,querySelector(){return null;},querySelectorAll(selector){return selector==='.lib-enroll[data-course-id]'?buttons:[];}};
+  const tasks=[],context={document,location:{hash:'#overview'},window:{LearningAccount:account,addEventListener(name,fn){handlers[name]=fn;}},MutationObserver:class{disconnect(){}observe(){}},queueMicrotask(fn){tasks.push(fn);}};
+  vm.runInNewContext(readFileSync(new URL('../'+file,import.meta.url),'utf8'),context);
+  assert.equal(buttons[0].hidden,true);assert.equal(buttons[1].hidden,false);
+  account.state.courses=['vault-source-0001'];handlers['learning:account']();tasks.shift()();
+  assert.equal(buttons[0].hidden,false);assert.equal(buttons[1].hidden,true);
+ }
+});

@@ -1,4 +1,4 @@
-import {accountJSON,authPool,LEARNING_ORIGIN,learningSession,profileFor,requireCourse} from '../learning-auth.mjs';
+import {accountJSON,authPool,LEARNING_ORIGIN,learningSession,profileFor,requireCourse,grantedCourses} from '../learning-auth.mjs';
 import {ARCHIVE_COURSE} from '../learning-content.mjs';
 import {limitedJSON} from '../security.mjs';
 
@@ -17,9 +17,9 @@ export async function GET(request){
  const session=await learningSession(request).catch(()=>null);
  if(!session)return accountJSON({error:'sign_in_required'},401);
  try{
-  const userId=await profileFor(session),client=await authPool().connect();let rows;
+  const grants=await grantedCourses(session,request),userId=await profileFor(session),client=await authPool().connect();let rows;
   try{await client.query('BEGIN');await client.query("SELECT set_config('cybernest.user_id',$1,true)",[userId]);
-   rows=(await client.query("SELECT p.course_id,p.lesson_id,p.completed,p.last_opened_at FROM learning.lesson_progress p JOIN learning.course_access a ON a.user_id=p.user_id AND a.course_id=p.course_id JOIN learning.courses c ON c.id=p.course_id WHERE p.user_id=$1 AND a.revoked_at IS NULL AND (a.expires_at IS NULL OR a.expires_at>now()) AND COALESCE((c.payload->>'archived')::boolean,false)=false ORDER BY p.last_opened_at DESC NULLS LAST,p.updated_at DESC LIMIT 2000",[userId])).rows;
+   rows=(await client.query("SELECT p.course_id,p.lesson_id,p.completed,p.last_opened_at FROM learning.lesson_progress p JOIN learning.courses c ON c.id=p.course_id WHERE p.user_id=$1 AND p.course_id=ANY($2::text[]) AND COALESCE((c.payload->>'archived')::boolean,false)=false ORDER BY p.last_opened_at DESC NULLS LAST,p.updated_at DESC LIMIT 2000",[userId,[...grants]])).rows;
    await client.query('COMMIT');
   }catch{await client.query('ROLLBACK').catch(()=>{});throw Error();}finally{client.release();}
   const courses={};let recent=null;

@@ -1,6 +1,7 @@
 import {socialProviders} from './social-providers.mjs';
 import {betterAuth} from 'better-auth';
 import pg from 'pg';
+import {trustedManagementRequest,verifiedStaffIdentity} from './staff-policy.mjs';
 const {Pool}=pg;
 export const LEARNING_ORIGIN='https://cybernest-learn.vercel.app';
 let pool,auth;
@@ -33,8 +34,14 @@ export async function profileFor(session){
  if(!session?.user?.id)return null;
  const {rows}=await authPool().query("INSERT INTO learning.profiles(identity_provider,identity_subject,email,display_name) VALUES('better-auth',$1,$2,$3) ON CONFLICT(identity_provider,identity_subject) DO UPDATE SET email=excluded.email,display_name=excluded.display_name RETURNING id",[session.user.id,session.user.email,session.user.name]);return rows[0].id;
 }
-export async function grantedCourses(session){
+export async function grantedCourses(session,request){
  if(!session?.user?.id)return new Set();
- const {rows}=await authPool().query("SELECT a.course_id FROM learning.course_access a JOIN learning.courses c ON c.id=a.course_id JOIN learning.profiles p ON p.id=a.user_id WHERE p.identity_provider='better-auth' AND p.identity_subject=$1 AND COALESCE((c.payload->>'archived')::boolean,false)=false AND a.revoked_at IS NULL AND (a.expires_at IS NULL OR a.expires_at>now())",[session.user.id]);return new Set(rows.map(r=>r.course_id));
+ const database=authPool(),{rows}=await database.query("SELECT a.course_id FROM learning.course_access a JOIN learning.courses c ON c.id=a.course_id JOIN learning.profiles p ON p.id=a.user_id WHERE p.identity_provider='better-auth' AND p.identity_subject=$1 AND COALESCE((c.payload->>'archived')::boolean,false)=false AND a.revoked_at IS NULL AND (a.expires_at IS NULL OR a.expires_at>now())",[session.user.id]);
+ const grants=new Set(rows.map(r=>r.course_id));
+ if(trustedManagementRequest(request)){
+  const staff=await verifiedStaffIdentity(session,database);
+  if(staff){const {rows}=await database.query("SELECT id AS course_id FROM learning.courses WHERE COALESCE((payload->>'archived')::boolean,false)=false AND ($1::text[] IS NULL OR id=ANY($1::text[]))",[staff.owner||!staff.courseIds.length?null:staff.courseIds]);for(const row of rows)grants.add(row.course_id);}
+ }
+ return grants;
 }
-export async function requireCourse(request,courseId){const session=await learningSession(request);if(!session)return {response:accountJSON({error:'sign_in_required'},401)};if(!(await grantedCourses(session)).has(courseId))return {response:accountJSON({error:'enrollment_required'},403)};return {session};}
+export async function requireCourse(request,courseId){const session=await learningSession(request);if(!session)return {response:accountJSON({error:'sign_in_required'},401)};if(!(await grantedCourses(session,request)).has(courseId))return {response:accountJSON({error:'enrollment_required'},403)};return {session};}
