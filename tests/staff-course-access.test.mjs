@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {authPool,learningAuth,grantedCourses,requireCourse} from '../_server/learning-auth.mjs';
-import {ROLE_PERMISSIONS} from '../_server/staff-policy.mjs';
+import {ROLE_PERMISSIONS,verifiedStaffIdentity} from '../_server/staff-policy.mjs';
 import {GET as accountGET} from '../_server/routes/account.mjs';
 import {GET as libraryGET} from '../_server/routes/learning-library.mjs';
 import {GET as curriculumGET} from '../_server/routes/learning-curriculum.mjs';
@@ -52,6 +52,12 @@ test('verified staff can study without enrollment while account, scope and revoc
    assert.equal((await requireCourse(request('learning-curriculum'),'vault-source-0002')).response.status,403);
    enrolled=['vault-source-0002'];assert.deepEqual(new Set(await grants()),new Set(['vault-source-0001','vault-source-0002']));
    enrolled=[];scope=[];
+  });
+  await t.test('existing valid management scope identifiers do not invalidate the editor role',async()=>{
+   role='editor';scope=[Array(17).fill('a').join('-')];
+   const identity=await verifiedStaffIdentity(session,db);assert.equal(identity.role,'editor');assert.deepEqual(identity.courseIds,scope);
+   for(scope of [null,'vault-source-0001',['../studio']])assert.equal(await verifiedStaffIdentity(session,db),null);
+   scope=[];
   });
   await t.test('unverified, revoked, unknown and client-claimed roles cannot unlock course content',async()=>{
    role='admin';verified=false;assert.equal((await grants()).size,0);verified=true;revoked=true;assert.equal((await grants()).size,0);revoked=false;
