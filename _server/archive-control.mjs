@@ -14,9 +14,10 @@ export function cleanArchivePatch(input){
   if(!Array.isArray(input.youtubeVideos)||input.youtubeVideos.length<1||input.youtubeVideos.length>40)throw Error('Invalid video list');
   const seen=new Set();
   p.youtubeVideos=input.youtubeVideos.map(v=>{
-   if(!v||typeof v!=='object'||Array.isArray(v)||Object.keys(v).some(k=>!['videoId','label','playbackVerified'].includes(k))||typeof v.videoId!=='string'||!/^[A-Za-z0-9_-]{11}$/.test(v.videoId)||typeof v.playbackVerified!=='boolean')throw Error('Invalid video');
+   if(!v||typeof v!=='object'||Array.isArray(v)||Object.keys(v).some(k=>!['videoId','label','playbackVerified','part'].includes(k))||typeof v.videoId!=='string'||!/^[A-Za-z0-9_-]{11}$/.test(v.videoId)||typeof v.playbackVerified!=='boolean')throw Error('Invalid video');
    if(seen.has(v.videoId))throw Error('Duplicate video');seen.add(v.videoId);
    const item={videoId:v.videoId,playbackVerified:v.playbackVerified};
+   if(v.part!==undefined){if(!Number.isSafeInteger(v.part)||v.part<1||v.part>1000)throw Error('Invalid video part');item.part=v.part;}
    if(v.label!==undefined){if(typeof v.label!=='string'||v.label.length>160)throw Error('Invalid video label');if(v.label.trim())item.label=v.label.trim();}
    return item;
   });
