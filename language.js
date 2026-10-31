@@ -1159,10 +1159,6 @@ const pairs=[
   "শেখা চালিয়ে যান"
  ],
  [
-  "Arena Web Security · Batch 66 Delta · 26 ordered classes with related notes and tools.",
-  "Arena Web Security · Batch 66 Delta · ২৬টি ধারাবাহিক ক্লাস, সংশ্লিষ্ট নোট ও টুলস।"
- ],
- [
   "Preview the course topics and lessons.",
   "কোর্সের বিষয় ও পাঠগুলোর প্রিভিউ দেখুন।"
  ],
