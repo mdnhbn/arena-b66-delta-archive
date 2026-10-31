@@ -2,6 +2,8 @@ import {socialProviders} from './social-providers.mjs';
 import {betterAuth} from 'better-auth';
 import pg from 'pg';
 import {trustedManagementRequest,verifiedStaffIdentity} from './staff-policy.mjs';
+import {ARCHIVE_COURSE} from './course-policy.mjs';
+import {emailVerificationReady,sendVerificationEmail} from './email-verification.mjs';
 const {Pool}=pg;
 export const LEARNING_ORIGIN='https://cybernest-learn.vercel.app';
 let pool,auth;
@@ -15,8 +17,10 @@ export function authPool(){
 export function authOptions(database=authPool()){
  const baseURL=process.env.CYBERNEST_AUTH_URL||LEARNING_ORIGIN;
  if(!process.env.CYBERNEST_AUTH_SECRET||process.env.CYBERNEST_AUTH_SECRET.length<32)throw Error('Learning authentication unavailable');
+ const verification=emailVerificationReady();
  return {appName:'CyberNest',baseURL,basePath:'/api/auth',secret:process.env.CYBERNEST_AUTH_SECRET,database,
-  socialProviders:socialProviders(),trustedOrigins:[baseURL],emailAndPassword:{enabled:true,minPasswordLength:12,maxPasswordLength:128,requireEmailVerification:false},
+  socialProviders:socialProviders(),trustedOrigins:[baseURL],emailAndPassword:{enabled:true,minPasswordLength:12,maxPasswordLength:128,requireEmailVerification:verification},
+  ...(verification?{emailVerification:{sendVerificationEmail,sendOnSignUp:true,sendOnSignIn:true,autoSignInAfterVerification:false,expiresIn:3600}}:{}),
   user:{modelName:'cybernest_user',changeEmail:{enabled:false}},session:{modelName:'cybernest_session',expiresIn:7*86400,updateAge:86400,cookieCache:{enabled:false}},
   account:{modelName:'cybernest_account',encryptOAuthTokens:true,accountLinking:{enabled:true,disableImplicitLinking:true,allowDifferentEmails:false,trustedProviders:[]}},verification:{modelName:'cybernest_verification'},
   advanced:{cookiePrefix:'cybernest',database:{generateId:'uuid'},defaultCookieAttributes:{httpOnly:true,sameSite:'lax'}},
@@ -40,7 +44,11 @@ export async function grantedCourses(session,request){
  const grants=new Set(rows.map(r=>r.course_id));
  if(trustedManagementRequest(request)){
   const staff=await verifiedStaffIdentity(session,database);
-  if(staff){const {rows}=await database.query("SELECT id AS course_id FROM learning.courses WHERE COALESCE((payload->>'archived')::boolean,false)=false AND ($1::text[] IS NULL OR id=ANY($1::text[]))",[staff.owner||!staff.courseIds.length?null:staff.courseIds]);for(const row of rows)grants.add(row.course_id);}
+  if(staff){
+   const allCourses=staff.owner||!staff.courseIds.length;
+   const {rows}=await database.query("SELECT id AS course_id FROM learning.courses WHERE COALESCE((payload->>'archived')::boolean,false)=false AND ((id<>$1 AND ($2::boolean OR id=ANY($3::text[]))) OR (id=$1 AND ($4::boolean OR id=ANY($3::text[]))))",[ARCHIVE_COURSE,allCourses,staff.courseIds,staff.owner]);
+   for(const row of rows)grants.add(row.course_id);
+  }
  }
  return grants;
 }

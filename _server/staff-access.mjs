@@ -2,7 +2,9 @@ import {adminAllowed,json} from './security.mjs';
 import {learningSession,authPool,profileFor} from './learning-auth.mjs';
 import {recordActor} from './request-actor.mjs';
 import {ROLE_PERMISSIONS,trustedManagementRequest,verifiedStaffIdentity} from './staff-policy.mjs';
+import {privateCourseAllowed} from './course-policy.mjs';
 export {ROLE_PERMISSIONS,courseScopeAllowed} from './staff-policy.mjs';
+export {privateCourseAllowed} from './course-policy.mjs';
 export async function adminAccess(request,permission){
  if(adminAllowed()){recordActor(process.env.CYBERNEST_OWNER_PROFILE_ID);return {owner:true,role:'super_admin',permissions:ROLE_PERMISSIONS.super_admin,courseIds:[],actorId:process.env.CYBERNEST_OWNER_PROFILE_ID};}
  if(!trustedManagementRequest(request))return {response:json({error:'Not found'},404)};
