@@ -32,7 +32,7 @@ test('verified staff can study without enrollment while account, scope and revoc
   if(sql.includes('learning.course_access')){assert.match(sql,/a\.revoked_at IS NULL/);assert.match(sql,/a\.expires_at>now\(\)/);assert.match(sql,/archived/);assert.deepEqual(args,[session.user.id]);return {rows:enrolled.filter(id=>visible.includes(id)).map(course_id=>({course_id}))};}
   if(sql.includes('public.cybernest_account')){assert.deepEqual(args,[session.user.id,'github',process.env.CYBERNEST_OWNER_GITHUB_ACCOUNT_ID]);return {rows:binding?[binding]:[]};}
   if(sql.includes('learning.staff_roles')){staffReads++;if(broken)throw Error('Storage unavailable');assert.match(sql,/r\.revoked_at IS NULL/);assert.deepEqual(args,[session.user.id]);return {rows:role&&!revoked?[{role,verified,course_ids:scope}]:[]};}
-  if(sql.startsWith('SELECT id AS course_id')){assert.match(sql,/archived/);assert.match(sql,/id=ANY\(\$1::text\[\]\)/);return {rows:visible.filter(id=>args[0]===null||args[0].includes(id)).map(course_id=>({course_id}))};}
+  if(sql.startsWith('SELECT id AS course_id')){assert.match(sql,/archived/);assert.match(sql,/id=ANY\(\$3::text\[\]\)/);return {rows:visible.filter(id=>id==='arena-b66-delta'?(args[3]===true||args[2].includes(id)):(args[1]===true||args[2].includes(id))).map(course_id=>({course_id}))};}
   if(sql.includes('learning.site_controls'))return {rows:[]};
   if(sql.includes('learning.source_snapshots'))return {rows:[{payload:{entries:[{id:'entry-1',category:'recordings',title:'Synthetic class',youtubeId:'test0000001',noteText:'Protected note'}]}}]};
   if(sql.includes('learning.resource_files')){fileReads++;return {rows:args[1]==='vault-source-0001'?[{name:'test.pdf',mime:'application/pdf',content:Buffer.from('synthetic document')}]:[]};}
@@ -43,9 +43,10 @@ test('verified staff can study without enrollment while account, scope and revoc
  });
  const grants=()=>grantedCourses(session,request('account'));
  try{
-  await t.test('every assigned management role receives existing visible courses without payment or enrollment',async()=>{
-   for(role of Object.keys(ROLE_PERMISSIONS)){assert.deepEqual([...await grants()],visible);const access=await requireCourse(request('learning-curriculum'),'vault-source-0001');assert.equal(access.response,undefined);}
-   const account=await accountGET(request('account'));assert.deepEqual((await account.json()).courses,visible);assert.match(account.headers.get('cache-control'),/private, no-store/);
+  await t.test('management roles do not see the private archive unless explicitly scoped',async()=>{
+   const ordinaryVisible=visible.filter(id=>id!=='arena-b66-delta');
+   for(role of Object.keys(ROLE_PERMISSIONS)){assert.deepEqual([...await grants()],ordinaryVisible);const access=await requireCourse(request('learning-curriculum'),'vault-source-0001');assert.equal(access.response,undefined);}
+   const account=await accountGET(request('account'));assert.deepEqual((await account.json()).courses,ordinaryVisible);assert.match(account.headers.get('cache-control'),/private, no-store/);
   });
   await t.test('a scoped editor gains only assigned courses plus separately enrolled courses',async()=>{
    role='editor';scope=['vault-source-0001','archived-course','nonexistent-course'];assert.deepEqual([...await grants()],['vault-source-0001']);
