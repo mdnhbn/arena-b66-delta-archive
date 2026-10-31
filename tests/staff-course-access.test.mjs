@@ -80,11 +80,12 @@ test('verified staff can study without enrollment while account, scope and revoc
    assert.equal((await requireCourse(new Request('https://cybernest-learn.vercel.app/api/learning-file'),'vault-source-0001')).response.status,401);
   });
   await t.test('archive, vault player and files share staff access; file course binding is preserved',async()=>{
-   role='marketer';const archive=await libraryGET(request('learning-library')),data=await archive.json();assert.equal(data.access.granted,true);assert.equal(data.entries[0].youtubeId,'test0000001');
-   const curriculum=await (await curriculumGET(request('learning-curriculum?id=vault-source-0001'))).json();assert.equal(curriculum.access,'granted');assert.equal(curriculum.lessons[0].videos.length,1);
+   role='marketer';let archive=await libraryGET(request('learning-library')),data=await archive.json();assert.equal(data.access.granted,false);assert.deepEqual(data.entries,[]);
+   role='editor';scope=['arena-b66-delta'];archive=await libraryGET(request('learning-library'));data=await archive.json();assert.equal(data.access.granted,true);assert.equal(data.entries[0].youtubeId,'test0000001');
+   role='marketer';enrolled=['vault-source-0001','vault-source-0002'];const curriculum=await (await curriculumGET(request('learning-curriculum?id=vault-source-0001'))).json();assert.equal(curriculum.access,'granted');assert.equal(curriculum.lessons[0].videos.length,1);
    const file=await fileGET(request('learning-file?key=documents/test.pdf&courseId=vault-source-0001'));assert.equal(file.status,200);assert.equal(await file.text(),'synthetic document');
    assert.equal((await fileGET(request('learning-file?key=documents/test.pdf&courseId=vault-source-0002'))).status,404);
-   role='editor';scope=['vault-source-0002'];const before=fileReads;assert.equal((await fileGET(request('learning-file?key=documents/test.pdf&courseId=vault-source-0001'))).status,403);assert.equal(fileReads,before);scope=[];
+   role='editor';scope=['vault-source-0002'];enrolled=[];const before=fileReads;assert.equal((await fileGET(request('learning-file?key=documents/test.pdf&courseId=vault-source-0001'))).status,403);assert.equal(fileReads,before);scope=[];
    role=null;const preview=await (await curriculumGET(request('learning-curriculum?id=vault-source-0001'))).json();assert.equal(preview.access,'preview');assert.equal(preview.lessons[0].videos.length,0);
   });
   await t.test('staff progress saves and reads without enrollment, then disappears when role is revoked',async()=>{
