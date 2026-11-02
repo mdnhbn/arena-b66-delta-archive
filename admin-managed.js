@@ -44,8 +44,8 @@
    dm2=field(form,'নতুন Private Dailymotion ID · অংশ ২ (থাকলে)',''),
    expected=field(form,'মোট ভিডিও অংশ',''+(entry.expectedVideoParts||Math.max(1,currentDM.length||2)));
   dm1.autocomplete=dm2.autocomplete='off';expected.type='number';expected.min='1';expected.max='40';expected.step='1';
-  const dmVerified=checkbox(form,'নতুন Dailymotion অংশগুলো এই সাইটে চালিয়ে যাচাই করেছি');
   const ytVerified=checkbox(form,'নতুন YouTube ক্লিপটি চালিয়ে যাচাই করেছি');
+  const dmVerified=checkbox(form,'নতুন Dailymotion অংশগুলো এই সাইটে চালিয়ে যাচাই করেছি');
   const documentURL=field(form,'ডকুমেন্টের HTTPS লিংক · ফাঁকা রাখলে আগেরটি থাকবে',entry.documentUrl);documentURL.type='url';
   const save=el('button','এই পরিবর্তন প্রকাশ করুন'),status=el('p');save.type='submit';save.className='button primary';status.setAttribute('role','status');form.append(save,status);
   form.onsubmit=async event=>{
