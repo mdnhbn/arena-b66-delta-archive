@@ -46,6 +46,7 @@
   dm1.autocomplete=dm2.autocomplete='off';expected.type='number';expected.min='1';expected.max='40';expected.step='1';
   const ytVerified=checkbox(form,'নতুন YouTube ক্লিপটি চালিয়ে যাচাই করেছি');
   const dmVerified=checkbox(form,'নতুন Dailymotion অংশগুলো এই সাইটে চালিয়ে যাচাই করেছি');
+  const replaceDM=currentDM.length?checkbox(form,'পুরোনো Dailymotion অংশ সরিয়ে নিচের IDs দিয়ে প্রতিস্থাপন করুন'):null;
   const documentURL=field(form,'ডকুমেন্টের HTTPS লিংক · ফাঁকা রাখলে আগেরটি থাকবে',entry.documentUrl);documentURL.type='url';
   const save=el('button','এই পরিবর্তন প্রকাশ করুন'),status=el('p');save.type='submit';save.className='button primary';status.setAttribute('role','status');form.append(save,status);
   form.onsubmit=async event=>{
@@ -55,14 +56,15 @@
     const patch={id:creating?'class-'+dateValue:entry.id,title:title.value,topicTitle:topic.value,text:text.value,noteText:notes.value};
     if(dateValue)patch.classDate=dateValue;
     if(!creating)patch.documentUrl=documentURL.value;
-    const dmVideos=currentDM.map(video=>({...video,playbackVerified:dmVerified.checked?true:video.playbackVerified}));
+    const dmVideos=replaceDM?.checked?[]:currentDM.map(video=>({...video,playbackVerified:dmVerified.checked?true:video.playbackVerified}));
     for(const [value,part] of [[dm1.value.trim(),1],[dm2.value.trim(),2]]){
      if(!value)continue;
      if(!/^[A-Za-z0-9]{5,40}$/.test(value))throw Error('Dailymotion Private ID-টি যাচাই করুন।');
      if(dmVideos.some(video=>video.privateId===value))throw Error('এই Dailymotion ভিডিওটি আগে থেকেই তালিকায় আছে।');
      dmVideos.push({privateId:value,videoId:value,label:'অংশ '+part,part,playbackVerified:dmVerified.checked});
     }
-    if(dmVideos.length&&(creating||dm1.value.trim()||dm2.value.trim()||dmVerified.checked)){const count=Number(expected.value);if(!Number.isSafeInteger(count)||count<1||count>40)throw Error('ভিডিও অংশের সংখ্যা ঠিক করুন।');patch.dailymotionVideos=dmVideos;patch.expectedVideoParts=count;}
+    if(replaceDM?.checked&&dmVideos.length!==Number(expected.value))throw Error('প্রতিস্থাপনের জন্য মোট ভিডিও অংশের সব ID দিন।');
+    if(dmVideos.length&&(creating||dm1.value.trim()||dm2.value.trim()||dmVerified.checked||replaceDM?.checked)){const count=Number(expected.value);if(!Number.isSafeInteger(count)||count<1||count>40)throw Error('ভিডিও অংশের সংখ্যা ঠিক করুন।');patch.dailymotionVideos=dmVideos;patch.expectedVideoParts=count;}
     let ytId=youtube.value.trim();
     if(ytId.startsWith('https://')){const url=new URL(ytId);if(!['youtube.com','www.youtube.com','youtu.be'].includes(url.hostname))throw Error('সঠিক YouTube লিংক দিন।');ytId=url.searchParams.get('v')||url.pathname.split('/').filter(Boolean).at(-1);}
     if(ytId){if(!/^[A-Za-z0-9_-]{11}$/.test(ytId))throw Error('সঠিক YouTube ভিডিও লিংক বা ID দিন।');if(currentVideos.some(v=>v.videoId===ytId))throw Error('এই ভিডিওটি আগে থেকেই তালিকায় আছে।');const clip={videoId:ytId,label:clipLabel.value.trim()||('অংশ '+(currentVideos.length+1)),playbackVerified:ytVerified.checked},partValue=clipPart.value.trim();if(partValue){const part=Number(partValue);if(!Number.isSafeInteger(part)||part<1||part>1000)throw Error('সঠিক ভিডিও অংশ নম্বর দিন।');clip.part=part;}patch.youtubeVideos=[...currentVideos,clip];}
