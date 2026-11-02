@@ -33,7 +33,8 @@ async function editor(entry){
  await new Promise(resolve=>setImmediate(resolve));
  const archive=panels.find(panel=>panel.dataset.adminPanel==='archive'),all=descendants(archive);
  const field=label=>{const target=all.find(node=>node.tag==='label'&&node.textContent===label);assert.ok(target,label);return all.find(node=>node.id===target.htmlFor);};
- return {requests,field,form:all.find(node=>node.tag==='form'),verify:all.find(node=>node.type==='checkbox'),archive};
+ const check=label=>{const target=all.find(node=>node.tag==='label'&&node.children.some(child=>child.textContent.trim()===label));assert.ok(target,label);return target.children[0];};
+ return {requests,field,check,form:all.find(node=>node.tag==='form'),verify:all.find(node=>node.type==='checkbox'),archive};
 }
 
 test('appending the final archive clip preserves existing part metadata and completes mixed-host coverage',async()=>{
@@ -55,6 +56,28 @@ test('appending the final archive clip preserves existing part metadata and comp
  assert.equal(entry.youtubeVideos.length,16);
 });
 
+test('archive editor can replace stale private Dailymotion IDs with fresh verified embed IDs',async()=>{
+ const entry={...base,id:'class-2026-11-01',category:'recordings',recordingSerial:28,expectedVideoParts:2,dailymotionVideos:[{privateId:'xbsys3u',videoId:'xbsys3u',visibility:'private',playbackVerified:false,part:1},{privateId:'xbsysli',videoId:'xbsysli',visibility:'private',playbackVerified:false,part:2}]};
+ const ui=await editor(entry);
+ ui.field('নতুন Private Dailymotion ID · অংশ ১').value='k7iZukgRnZVBdzMiWLg';
+ ui.field('নতুন Private Dailymotion ID · অংশ ২ (থাকলে)').value='k61UJ1A6RMxlYmMiWVw';
+ ui.check('পুরোনো Dailymotion অংশ সরিয়ে নিচের IDs দিয়ে প্রতিস্থাপন করুন').checked=true;
+ await ui.form.onsubmit({preventDefault(){}});
+ assert.equal(ui.requests.length,1);
+ const patch=cleanArchivePatch(ui.requests[0].entry);
+ assert.deepEqual(patch.dailymotionVideos.map(v=>v.privateId),['k7iZukgRnZVBdzMiWLg','k61UJ1A6RMxlYmMiWVw']);
+ assert.ok(patch.dailymotionVideos.every(v=>v.playbackVerified===false));
+});
+
+test('archive editor rejects an incomplete private Dailymotion replacement',async()=>{
+ const entry={...base,id:'class-2026-11-01',category:'recordings',recordingSerial:28,expectedVideoParts:2,dailymotionVideos:[{privateId:'xbsys3u',videoId:'xbsys3u',visibility:'private',playbackVerified:false,part:1},{privateId:'xbsysli',videoId:'xbsysli',visibility:'private',playbackVerified:false,part:2}]};
+ const ui=await editor(entry);
+ ui.field('নতুন Private Dailymotion ID · অংশ ১').value='k7iZukgRnZVBdzMiWLg';
+ ui.check('পুরোনো Dailymotion অংশ সরিয়ে নিচের IDs দিয়ে প্রতিস্থাপন করুন').checked=true;
+ await ui.form.onsubmit({preventDefault(){}});
+ assert.equal(ui.requests.length,0);
+ assert.ok(descendants(ui.archive).some(node=>node.textContent==='প্রতিস্থাপনের জন্য মোট ভিডিও অংশের সব ID দিন।'));
+});
 test('the archive editor refuses an invalid new part before submitting',async()=>{
  const ui=await editor({...base,youtubeVideos:[clip(1)]});
  ui.field('নতুন YouTube ভিডিও লিংক বা ID · যোগ করলে আগের ভিডিও থাকবে').value=clip(2).videoId;
