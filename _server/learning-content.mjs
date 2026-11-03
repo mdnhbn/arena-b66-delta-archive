@@ -2,6 +2,7 @@ import {readFileSync} from 'node:fs';
 import {authPool} from './learning-auth.mjs';
 import {operations} from './operations.mjs';
 import {ARCHIVE_COURSE} from './course-policy.mjs';
+import {archiveSnapshot} from './archive-snapshot.mjs';
 export {ARCHIVE_COURSE} from './course-policy.mjs';
 const preview=JSON.parse(readFileSync(new URL('./archive-preview.json',import.meta.url),'utf8'));
 const ALLOWED=['id','category','recordingSerial','topic','topicTitle','title','date','classDate','verifiedClassDate','dateVerified','dateSource','dateStatus','weekday','duration','relatedTopics','relatedRecordingId','relatedRecordingIds','relatedResourceIds','classType'];
@@ -15,9 +16,7 @@ export async function archiveContent(grants=new Set()){
  const allowed=grants.has(ARCHIVE_COURSE);
  if(!allowed)return {entries:[],access:{granted:false}};
  let edits={};try{edits=(await authPool().query("SELECT payload FROM learning.site_controls WHERE key='archive-edits'")).rows[0]?.payload||{};}catch(error){if(allowed)throw error;}
- const {rows}=await authPool().query("SELECT payload FROM learning.source_snapshots WHERE payload ? 'entries' AND jsonb_typeof(payload->'entries')='array' LIMIT 1");
- if(!rows[0])throw Error('Archive unavailable');
- const archive=structuredClone(rows[0].payload);archive.entries=[...archive.entries.map(e=>({...e,...edits[e.id]})),...(Array.isArray(edits.__newEntries)?edits.__newEntries:[])];
+ const archive=structuredClone(await archiveSnapshot(authPool()));archive.entries=[...archive.entries.map(e=>({...e,...edits[e.id]})),...(Array.isArray(edits.__newEntries)?edits.__newEntries:[])];
  const {settings}=await operations();if(!settings.enabled.videos)for(const e of archive.entries){for(const key of ['youtubeId','pendingYoutubeId','youtubeVideos','dailymotionVideos','videoUrl','recordingUrl'])delete e[key];e.videoStatus='maintenance';}
  const result={updatedAt:archive.updatedAt,title:'CyberNest',entries:archive.entries.map(e=>allowed?{...rewriteFiles(e),access:'granted'}:previewEntry(e)),access:{courseId:ARCHIVE_COURSE,granted:allowed}};
  if(archive.syllabus){result.syllabus=structuredClone(archive.syllabus);if(allowed)result.syllabus=rewriteFiles(result.syllabus);else{delete result.syllabus.documentUrl;delete result.syllabus.sourceUrl;for(const s of result.syllabus.stages||[]){delete s.notes;delete s.resources;}}}
