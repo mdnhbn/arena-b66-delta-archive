@@ -70,3 +70,8 @@ input,select,textarea{border-radius:9px!important}input:focus,select:focus,texta
 @media(max-width:980px){.studio-sidebar{background:#0a1722}.studio-sidebar.is-open{box-shadow:18px 0 45px rgba(0,0,0,.35)}.studio-topbar{background:rgba(9,23,35,.95)}.analytics-layout{grid-template-columns:minmax(0,1fr) 260px}}
 @media(max-width:700px){.studio-workspace>main{padding:18px 14px 30px}.studio-topbar{height:62px;padding:10px 14px}.studio-page-title{padding:20px 18px;border-radius:15px}.studio-page-title h1{font-size:24px}.managed-site{padding:16px}.admin-tabs{gap:5px}.admin-tabs a{padding:7px 9px}.analytics-layout{grid-template-columns:1fr}.chart-panel .stats{gap:8px}.stats article{min-height:104px;padding:14px 12px}.stats strong{font-size:26px}.realtime{position:static}.chart-body{padding:18px 14px}.studio-profile{margin-top:14px}}
 @media(prefers-reduced-motion:reduce){body,.studio-sidebar nav a,.stats article,.button{transition:none!important}}
+
+
+/* Final navigation and brand polish. */
+.studio-brand strong{font-size:0;letter-spacing:0}.studio-brand strong::after{content:"CyberNest Studio";font-size:14px;letter-spacing:-.3px;color:var(--text)}.studio-brand strong span{display:none}
+.studio-sidebar nav a span{display:none}
