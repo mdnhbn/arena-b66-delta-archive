@@ -59,7 +59,7 @@
     const dmVideos=replaceDM?.checked?[]:currentDM.map(video=>({...video,playbackVerified:dmVerified.checked?true:video.playbackVerified}));
     for(const [value,part] of [[dm1.value.trim(),1],[dm2.value.trim(),2]]){
      if(!value)continue;
-     if(!/^[A-Za-z0-9]{5,40}$/.test(value))throw Error('Dailymotion Private ID-টি যাচাই করুন।');
+     if(!/^k[A-Za-z0-9]{4,39}$/.test(value))throw Error('সঠিক Dailymotion Private ID দিন; এটি k দিয়ে শুরু হয়।');
      if(dmVideos.some(video=>video.privateId===value))throw Error('এই Dailymotion ভিডিওটি আগে থেকেই তালিকায় আছে।');
      dmVideos.push({privateId:value,videoId:value,label:'অংশ '+part,part,playbackVerified:dmVerified.checked});
     }

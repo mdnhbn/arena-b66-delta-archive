@@ -19,7 +19,7 @@ function cleanDailymotionVideos(list){
  return list.map(v=>{
   if(!v||typeof v!=='object'||Array.isArray(v)||Object.keys(v).some(k=>!['privateId','videoId','label','playbackVerified','part'].includes(k))||typeof v.playbackVerified!=='boolean')throw Error('Invalid Dailymotion video');
   const id=typeof v.privateId==='string'?v.privateId:v.videoId;
-  if(typeof id!=='string'||!/^[A-Za-z0-9]{5,40}$/.test(id)||seen.has(id))throw Error('Invalid or duplicate Dailymotion video');seen.add(id);
+  if(typeof id!=='string'||!/^k[A-Za-z0-9]{4,39}$/.test(id)||seen.has(id))throw Error('Invalid or duplicate Dailymotion private video ID');seen.add(id);
   const item={privateId:id,videoId:id,visibility:'private',playbackVerified:v.playbackVerified};
   if(v.part!==undefined){if(!Number.isSafeInteger(v.part)||v.part<1||v.part>1000)throw Error('Invalid video part');item.part=v.part;}
   if(v.label!==undefined){if(typeof v.label!=='string'||v.label.length>160)throw Error('Invalid video label');if(v.label.trim())item.label=v.label.trim();}
