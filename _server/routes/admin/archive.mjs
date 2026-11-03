@@ -4,19 +4,20 @@ import {ownerPool} from '../../learning-admin.mjs';
 import {controlValue,saveControl} from '../../control-store.mjs';
 import {cleanArchivePatch,cleanArchiveCreate} from '../../archive-control.mjs';
 import {ARCHIVE_COURSE} from '../../course-policy.mjs';
+import {archiveSnapshot} from '../../archive-snapshot.mjs';
 
 export async function GET(request){
  const access=await adminAccess(request,'archive.manage');
  if(access.response)return access.response;
  if(!privateCourseAllowed(access,ARCHIVE_COURSE))return json({error:'Not permitted'},403);
  try{
-  const [{rows},saved]=await Promise.all([
-   ownerPool().query("SELECT payload FROM learning.source_snapshots WHERE payload ? 'entries' LIMIT 1"),
+  const [snapshot,saved]=await Promise.all([
+   archiveSnapshot(ownerPool()),
    controlValue('archive-edits')
   ]);
   const payload=saved?.payload||{};
   return json({entries:[
-   ...rows[0].payload.entries.map(e=>({...e,...payload[e.id]})),
+   ...snapshot.entries.map(e=>({...e,...payload[e.id]})),
    ...(Array.isArray(payload.__newEntries)?payload.__newEntries:[])
   ],version:saved?.version||0});
  }catch{return json({error:'Archive unavailable'},503);}
@@ -37,8 +38,8 @@ export async function POST(request){
  try{
   const old=await controlValue('archive-edits');
   const savedPayload=old?.payload||{};
-  const snapshot=await ownerPool().query("SELECT payload FROM learning.source_snapshots WHERE payload ? 'entries' LIMIT 1");
-  const sourceEntries=snapshot.rows[0]?.payload?.entries||[];
+  const snapshot=await archiveSnapshot(ownerPool());
+  const sourceEntries=snapshot.entries;
   if(input.create===true){
    const extra=Array.isArray(savedPayload.__newEntries)?savedPayload.__newEntries:[];
    if(sourceEntries.some(e=>e.id===patch.id)||extra.some(e=>e.id===patch.id))return json({error:'Class already exists'},409);
