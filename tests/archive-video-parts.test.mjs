@@ -39,7 +39,7 @@ async function editor(entry){
 
 test('appending the final archive clip preserves existing part metadata and completes mixed-host coverage',async()=>{
  const youtubeVideos=[1,2,3,4,...Array.from({length:12},(_,i)=>i+15)].map(clip);
- const entry={...base,category:'tools',expectedVideoParts:27,youtubeVideos,dailymotionVideos:Array.from({length:10},(_,i)=>({part:i+5,privateId:'private'+(i+5),playbackVerified:true}))};
+ const entry={...base,category:'tools',expectedVideoParts:27,youtubeVideos,dailymotionVideos:Array.from({length:10},(_,i)=>({part:i+5,privateId:'kprivate'+(i+5),playbackVerified:true}))};
  const ui=await editor(entry);
  ui.field('নতুন YouTube ভিডিও লিংক বা ID · যোগ করলে আগের ভিডিও থাকবে').value=clip(27).videoId;
  ui.field('নতুন YouTube ভিডিওর অংশ / নাম').value=clip(27).label;
@@ -67,6 +67,10 @@ test('archive editor can replace stale private Dailymotion IDs with fresh verifi
  const patch=cleanArchivePatch(ui.requests[0].entry);
  assert.deepEqual(patch.dailymotionVideos.map(v=>v.privateId),['k7iZukgRnZVBdzMiWLg','k61UJ1A6RMxlYmMiWVw']);
  assert.ok(patch.dailymotionVideos.every(v=>v.playbackVerified===false));
+});
+
+test('archive updates reject public Dailymotion IDs in the private-ID field',()=>{
+ assert.throws(()=>cleanArchivePatch({...base,dailymotionVideos:[{privateId:'xbsys3u',videoId:'xbsys3u',playbackVerified:false,part:1}]}),/Invalid or duplicate Dailymotion private video ID/);
 });
 
 test('archive editor rejects an incomplete private Dailymotion replacement',async()=>{
