@@ -81,7 +81,7 @@ test('verified staff can study without enrollment while account, scope and revoc
   });
   await t.test('archive, vault player and files share staff access; file course binding is preserved',async()=>{
    role='marketer';let archive=await libraryGET(request('learning-library')),data=await archive.json();assert.equal(data.access.granted,false);assert.deepEqual(data.entries,[]);
-   role='editor';scope=['arena-b66-delta'];archive=await libraryGET(request('learning-library'));data=await archive.json();assert.equal(data.access.granted,true);assert.equal(data.entries[0].youtubeId,'test0000001');
+   role='editor';scope=['arena-b66-delta'];archive=await libraryGET(request('learning-library'));data=await archive.json();assert.equal(data.access.granted,true);assert.equal(data.entries.find(entry=>entry.id==='entry-1')?.youtubeId,'test0000001');
    role='marketer';enrolled=['vault-source-0001','vault-source-0002'];const curriculum=await (await curriculumGET(request('learning-curriculum?id=vault-source-0001'))).json();assert.equal(curriculum.access,'granted');assert.equal(curriculum.lessons[0].videos.length,1);
    const file=await fileGET(request('learning-file?key=documents/test.pdf&courseId=vault-source-0001'));assert.equal(file.status,200);assert.equal(await file.text(),'synthetic document');
    assert.equal((await fileGET(request('learning-file?key=documents/test.pdf&courseId=vault-source-0002'))).status,404);
@@ -98,3 +98,4 @@ test('verified staff can study without enrollment while account, scope and revoc
   });
  }finally{t.mock.restoreAll();await db.end();for(const key of names)if(old[key]===undefined)delete process.env[key];else process.env[key]=old[key];}
 });
+
