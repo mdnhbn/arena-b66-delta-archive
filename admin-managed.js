@@ -30,7 +30,7 @@
   const entry=creating?{id:'',category:'recordings',recordingSerial:nextSerial,title:'',topicTitle:'',text:'',noteText:'',classDate:'',dailymotionVideos:[],expectedVideoParts:2}:archiveState.entries.find(item=>item.id===selected);
   if(!entry)return;
   const form=el('form');
-  if(creating)form.append(el('p','নতুন রেকর্ডিং যোগ হবে Class '+nextSerial+' হিসেবে। তারিখ, টপিক ও Private Dailymotion অংশগুলো যাচাই করে দিন.'));
+  if(creating)form.append(el('p','নতুন রেকর্ডিং যোগ হবে Class '+nextSerial+' হিসেবে। তারিখ ও টপিক দিন। ভিডিওর ID ফাঁকা রাখলে রেকর্ডিংয়ের অপেক্ষায় ক্লাসটি সংরক্ষিত হবে; পরে সব অংশ যোগ করতে পারবেন।'));
   const title=field(form,'শিরোনাম',entry.title),topic=field(form,'টপিকের নাম',entry.topicTitle),date=field(form,'যাচাই করা ক্লাসের তারিখ',entry.classDate);date.type='date';
   const text=field(form,'ক্লাসের তথ্য / বিবরণ',entry.text,true),notes=field(form,'পূর্ণ নোট',entry.noteText,true);
   let duration;
@@ -72,7 +72,7 @@
     if(creating){
      if(!dateValue)throw Error('ক্লাসের তারিখ দিন।');
      if(!topic.value.trim())throw Error('টপিকের নাম দিন।');
-     if(dmVideos.length!==Number(expected.value))throw Error('নতুন ক্লাসের সব Private Dailymotion অংশ যোগ করুন।');
+     if(dmVideos.length&&dmVideos.length!==Number(expected.value))throw Error('নতুন ক্লাসের সব Private Dailymotion অংশ যোগ করুন।');
      patch.category='recordings';patch.recordingSerial=entry.recordingSerial;patch.topic=topic.value;patch.expectedVideoParts=Number(expected.value);patch.dailymotionVideos=dmVideos;patch.duration=duration.value;
      body.create=true;
     }

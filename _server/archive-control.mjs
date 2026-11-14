@@ -58,7 +58,8 @@ export function cleanArchiveCreate(input){
  if(!input.title.trim()||!input.topicTitle.trim()||!input.topic.trim())throw Error('Class topic is required');
  if(input.duration!==undefined&&(typeof input.duration!=='string'||input.duration.length>30))throw Error('Invalid duration');
  if(!Number.isSafeInteger(input.expectedVideoParts)||input.expectedVideoParts<1||input.expectedVideoParts>40)throw Error('Invalid expected part count');
- const videos=cleanDailymotionVideos(input.dailymotionVideos);
- if(videos.length!==input.expectedVideoParts)throw Error('All video parts must be provided');
- return {id:input.id,category:'recordings',recordingSerial:input.recordingSerial,topic:input.topic.trim(),topicTitle:input.topicTitle.trim(),title:input.title.trim(),date,classDate:date,dateVerified:true,dateStatus:'verified',weekday:day===0?'Sunday':'Friday',duration:input.duration||'',relatedResourceIds:[],access:'preview',videoStatus:videos.every(v=>v.playbackVerified)?'ready':'uploaded-processing',expectedVideoParts:input.expectedVideoParts,dailymotionVideos:videos,text:input.text.trim(),noteText:input.noteText.trim()};
+ if(!Array.isArray(input.dailymotionVideos))throw Error('Invalid Dailymotion video list');
+ const videos=input.dailymotionVideos.length?cleanDailymotionVideos(input.dailymotionVideos):[];
+ if(videos.length&&videos.length!==input.expectedVideoParts)throw Error('All video parts must be provided');
+ return {id:input.id,category:'recordings',recordingSerial:input.recordingSerial,topic:input.topic.trim(),topicTitle:input.topicTitle.trim(),title:input.title.trim(),date,classDate:date,dateVerified:true,dateStatus:'verified',weekday:day===0?'Sunday':'Friday',duration:input.duration||'',relatedResourceIds:[],access:'preview',videoStatus:videos.length===0?'recording-pending':videos.every(v=>v.playbackVerified)?'ready':'uploaded-processing',expectedVideoParts:input.expectedVideoParts,dailymotionVideos:videos,text:input.text.trim(),noteText:input.noteText.trim()};
 }
