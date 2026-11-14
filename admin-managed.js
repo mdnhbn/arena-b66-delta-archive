@@ -33,6 +33,14 @@
   if(creating)form.append(el('p','নতুন রেকর্ডিং যোগ হবে Class '+nextSerial+' হিসেবে। তারিখ ও টপিক দিন। ভিডিওর ID ফাঁকা রাখলে রেকর্ডিংয়ের অপেক্ষায় ক্লাসটি সংরক্ষিত হবে; পরে সব অংশ যোগ করতে পারবেন।'));
   const title=field(form,'শিরোনাম',entry.title),topic=field(form,'টপিকের নাম',entry.topicTitle),date=field(form,'যাচাই করা ক্লাসের তারিখ',entry.classDate);date.type='date';
   const text=field(form,'ক্লাসের তথ্য / বিবরণ',entry.text,true),notes=field(form,'পূর্ণ নোট',entry.noteText,true);
+  let relatedResources;
+  if(entry.category==='recordings'){
+   const caption=el('label','সংশ্লিষ্ট ডকুমেন্ট, টুলস ও রিসোর্স');relatedResources=el('select');relatedResources.id='managed-related-resources';relatedResources.multiple=true;relatedResources.size=10;caption.htmlFor=relatedResources.id;
+   const chosen=new Set(Array.isArray(entry.relatedResourceIds)?entry.relatedResourceIds:[]),available=archiveState.entries.filter(item=>item.id!==entry.id&&item.category!=='recordings');
+   for(const item of available){const option=el('option',(item.topicTitle||item.title||item.id)+' · '+item.category);option.value=item.id;option.selected=chosen.has(item.id);relatedResources.append(option);chosen.delete(item.id);}
+   for(const id of chosen){const option=el('option','পাওয়া যায়নি · '+id+' · সংরক্ষণের আগে তালিকা থেকে বাদ দিন');option.value=id;option.selected=true;relatedResources.append(option);}
+   const hint=el('p','আগের সংযুক্ত রিসোর্সগুলো নির্বাচিত আছে। একাধিক রিসোর্স বাছতে Ctrl / Command চেপে ক্লিক করুন; কোনোটি খুলে দিতে সেটি অনির্বাচিত করুন।');hint.id='managed-related-resources-help';relatedResources.setAttribute('aria-describedby',hint.id);form.append(caption,relatedResources,hint);
+  }
   let duration;
   if(creating)duration=field(form,'রেকর্ডিংয়ের দৈর্ঘ্য','2:10:52');
   const currentVideos=Array.isArray(entry.youtubeVideos)&&entry.youtubeVideos.length?entry.youtubeVideos.map(v=>({videoId:v.videoId,label:typeof v.label==='string'?v.label:'',playbackVerified:!!v.playbackVerified,...(v.part===undefined?{}:{part:v.part})})):entry.youtubeId?[{videoId:entry.youtubeId,label:'',playbackVerified:!!entry.playbackVerified}]:[];
@@ -54,6 +62,7 @@
    try{
     const dateValue=date.value;
     const patch={id:creating?'class-'+dateValue:entry.id,title:title.value,topicTitle:topic.value,text:text.value,noteText:notes.value};
+    if(relatedResources)patch.relatedResourceIds=Array.from(relatedResources.children).filter(option=>option.selected).map(option=>option.value);
     if(dateValue)patch.classDate=dateValue;
     if(!creating)patch.documentUrl=documentURL.value;
     const dmVideos=replaceDM?.checked?[]:currentDM.map(video=>({...video,playbackVerified:dmVerified.checked?true:video.playbackVerified}));
