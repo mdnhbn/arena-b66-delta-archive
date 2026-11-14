@@ -30,7 +30,7 @@ function validateDocumentURL(value){const u=new URL(value);if(u.protocol!=='http
 export function cleanArchivePatch(input){
  const allowed=new Set(['id','title','topicTitle','text','noteText','youtubeId','youtubeVideos','dailymotionVideos','expectedVideoParts','documentUrl','classDate','playbackVerified']);
  if(!input||typeof input!=='object'||Array.isArray(input)||Object.keys(input).some(k=>!allowed.has(k))||!ID.test(input.id||'')||input.id.length>100)throw Error('Invalid class');
- const p={};
+ const p={id:input.id};
  for(const [k,max]of [['title',500],['topicTitle',500],['text',50000],['noteText',80000]]){if(typeof input[k]!=='string'||input[k].length>max)throw Error('Invalid text');p[k]=input[k].trim();}
  if(!p.title)throw Error('Missing title');
  if(input.playbackVerified!==undefined&&typeof input.playbackVerified!=='boolean')throw Error('Invalid playback state');
