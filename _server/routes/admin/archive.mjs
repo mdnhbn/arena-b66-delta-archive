@@ -2,7 +2,7 @@ import {adminAccess,privateCourseAllowed} from '../../staff-access.mjs';
 import {adminMutationAllowed,json,limitedJSON} from '../../security.mjs';
 import {ownerPool} from '../../learning-admin.mjs';
 import {controlValue,saveControl} from '../../control-store.mjs';
-import {cleanArchivePatch,cleanArchiveCreate} from '../../archive-control.mjs';
+import {cleanArchivePatch,cleanArchiveCreate,validateArchiveResourceReferences} from '../../archive-control.mjs';
 import {ARCHIVE_COURSE} from '../../course-policy.mjs';
 import {archiveSnapshot} from '../../archive-snapshot.mjs';
 
@@ -40,8 +40,9 @@ export async function POST(request){
   const savedPayload=old?.payload||{};
   const snapshot=await archiveSnapshot(ownerPool());
   const sourceEntries=snapshot.entries;
+  const extra=Array.isArray(savedPayload.__newEntries)?savedPayload.__newEntries:[];
+  try{validateArchiveResourceReferences(patch,[...sourceEntries,...extra]);}catch{return json({error:'Select existing documents, tools or resources; a class cannot link to itself or another recording'},400);}
   if(input.create===true){
-   const extra=Array.isArray(savedPayload.__newEntries)?savedPayload.__newEntries:[];
    if(sourceEntries.some(e=>e.id===patch.id)||extra.some(e=>e.id===patch.id))return json({error:'Class already exists'},409);
    const serials=[...sourceEntries,...extra].filter(e=>e.category==='recordings'&&Number.isSafeInteger(e.recordingSerial)).map(e=>e.recordingSerial);
    const nextSerial=Math.max(0,...serials)+1;
@@ -52,10 +53,9 @@ export async function POST(request){
   }
   const sourceExists=sourceEntries.some(e=>e.id===patch.id);
   if(sourceExists){
-   const saved=await saveControl('archive-edits',{...savedPayload,[patch.id]:patch},input.version);
+   const saved=await saveControl('archive-edits',{...savedPayload,[patch.id]:{...savedPayload[patch.id],...patch}},input.version);
    return json({saved:true,version:saved.version});
   }
-  const extra=Array.isArray(savedPayload.__newEntries)?savedPayload.__newEntries:[];
   const index=extra.findIndex(e=>e.id===patch.id);
   if(index<0)return json({error:'Unknown class'},404);
   const updated=extra.map((e,i)=>i===index?{...e,...patch}:e);
