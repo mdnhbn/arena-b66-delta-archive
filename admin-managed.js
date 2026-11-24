@@ -31,7 +31,7 @@
   if(!entry)return;
   const form=el('form');
   if(creating)form.append(el('p','নতুন রেকর্ডিং যোগ হবে Class '+nextSerial+' হিসেবে। তারিখ ও টপিক দিন। ভিডিওর ID ফাঁকা রাখলে রেকর্ডিংয়ের অপেক্ষায় ক্লাসটি সংরক্ষিত হবে; পরে সব অংশ যোগ করতে পারবেন।'));
-  const title=field(form,'শিরোনাম',entry.title),topic=field(form,'টপিকের নাম',entry.topicTitle),date=field(form,'যাচাই করা ক্লাসের তারিখ',entry.classDate);date.type='date';
+  const title=field(form,'শিরোনাম',entry.title),topic=field(form,'টপিকের নাম',entry.topicTitle||entry.topic),date=field(form,'যাচাই করা ক্লাসের তারিখ',entry.classDate);date.type='date';
   const text=field(form,'ক্লাসের তথ্য / বিবরণ',entry.text,true),notes=field(form,'পূর্ণ নোট',entry.noteText,true);
   let relatedResources;
   if(entry.category==='recordings'){
@@ -41,8 +41,11 @@
    for(const id of chosen){const option=el('option','পাওয়া যায়নি · '+id+' · সংরক্ষণের আগে তালিকা থেকে বাদ দিন');option.value=id;option.selected=true;relatedResources.append(option);}
    const hint=el('p','আগের সংযুক্ত রিসোর্সগুলো নির্বাচিত আছে। একাধিক রিসোর্স বাছতে Ctrl / Command চেপে ক্লিক করুন; কোনোটি খুলে দিতে সেটি অনির্বাচিত করুন।');hint.id='managed-related-resources-help';relatedResources.setAttribute('aria-describedby',hint.id);form.append(caption,relatedResources,hint);
   }
-  let duration;
-  if(creating)duration=field(form,'রেকর্ডিংয়ের দৈর্ঘ্য','2:10:52');
+  let duration,intro;
+  if(entry.category==='recordings'){
+   duration=field(form,'রেকর্ডিংয়ের দৈর্ঘ্য · ঐচ্ছিক',entry.duration);duration.maxLength=30;
+   intro=field(form,'ক্লাসের সংক্ষিপ্ত পরিচিতি · ঐচ্ছিক',entry.topicVerification,true);intro.maxLength=500;intro.rows=3;
+  }
   const currentVideos=Array.isArray(entry.youtubeVideos)&&entry.youtubeVideos.length?entry.youtubeVideos.map(v=>({videoId:v.videoId,label:typeof v.label==='string'?v.label:'',playbackVerified:!!v.playbackVerified,...(v.part===undefined?{}:{part:v.part})})):entry.youtubeId?[{videoId:entry.youtubeId,label:'',playbackVerified:!!entry.playbackVerified}]:[];
   const youtube=field(form,'নতুন YouTube ভিডিও লিংক বা ID · যোগ করলে আগের ভিডিও থাকবে','');
   const clipLabel=field(form,'নতুন YouTube ভিডিওর অংশ / নাম','');
@@ -62,6 +65,7 @@
    try{
     const dateValue=date.value;
     const patch={id:creating?'class-'+dateValue:entry.id,title:title.value,topicTitle:topic.value,text:text.value,noteText:notes.value};
+    if(entry.category==='recordings'){patch.topic=topic.value;patch.duration=duration.value;patch.topicVerification=intro.value;}
     if(relatedResources)patch.relatedResourceIds=Array.from(relatedResources.children).filter(option=>option.selected).map(option=>option.value);
     if(dateValue)patch.classDate=dateValue;
     if(!creating)patch.documentUrl=documentURL.value;
@@ -82,7 +86,7 @@
      if(!dateValue)throw Error('ক্লাসের তারিখ দিন।');
      if(!topic.value.trim())throw Error('টপিকের নাম দিন।');
      if(dmVideos.length&&dmVideos.length!==Number(expected.value))throw Error('নতুন ক্লাসের সব Private Dailymotion অংশ যোগ করুন।');
-     patch.category='recordings';patch.recordingSerial=entry.recordingSerial;patch.topic=topic.value;patch.expectedVideoParts=Number(expected.value);patch.dailymotionVideos=dmVideos;patch.duration=duration.value;
+     patch.category='recordings';patch.recordingSerial=entry.recordingSerial;patch.expectedVideoParts=Number(expected.value);patch.dailymotionVideos=dmVideos;
      body.create=true;
     }
     await api('archive',body);selected=patch.id;await loadArchive();archive.append(el('p','সংরক্ষণ হয়েছে। মূল সাইট রিফ্রেশ করলে দেখা যাবে।'));

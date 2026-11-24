@@ -13,6 +13,22 @@ const patchBase={id:base.id,title:base.title,topicTitle:base.topicTitle,text:bas
 const resources=[{id:'doc-a',category:'documents',title:'Document'},{id:'tool-b',category:'tools',title:'Tool'}];
 const draft={...base,id:'class-2026-11-08',recordingSerial:29,topic:'Topic',classDate:'2026-11-08',expectedVideoParts:2,dailymotionVideos:[]};
 
+test('recording metadata is optional, bounded text and can be intentionally cleared',()=>{
+ const metadata={topic:'  SSRF & OS Command Injection  ',duration:'  1:37:53  ',topicVerification:'  Verified class introduction.  '};
+ const cleaned=cleanArchivePatch({...patchBase,...metadata});
+ for(const key of Object.keys(metadata)){
+  assert.equal(cleaned[key],metadata[key].trim());
+  assert.equal(Object.hasOwn(cleanArchivePatch(patchBase),key),false);
+  assert.equal(cleanArchivePatch({...patchBase,[key]:''})[key],'');
+ }
+ const created=cleanArchiveCreate({...draft,duration:'',topicVerification:'New class introduction.'});
+ assert.equal(created.duration,'');assert.equal(created.topicVerification,'New class introduction.');
+ for(const [key,max]of [['topic',500],['duration',30],['topicVerification',500]])for(const value of [null,42,[],{},'x'.repeat(max+1)]){
+  assert.throws(()=>cleanArchivePatch({...patchBase,[key]:value}),/Invalid recording metadata/);
+  assert.throws(()=>cleanArchiveCreate({...draft,[key]:value}));
+ }
+});
+
 test('archive resource selection is bounded, safe, distinct and explicitly clearable',()=>{
  assert.deepEqual(cleanArchivePatch({...patchBase,relatedResourceIds:['doc-a','tool-b']}).relatedResourceIds,['doc-a','tool-b']);
  assert.deepEqual(cleanArchivePatch({...patchBase,relatedResourceIds:[]}).relatedResourceIds,[]);
@@ -54,17 +70,38 @@ test('archive picker preserves previous selections, excludes recordings and save
  assert.deepEqual(ui.requests[1].entry.relatedResourceIds,['tool-b']);
 });
 
+test('recording editor updates its topic, duration and introduction without replacing private media',async()=>{
+ const ui=await editor({...base,topicTitle:'',topic:'Legacy topic',duration:'1:00:00',topicVerification:'Previous introduction.',relatedResourceIds:['doc-a'],dailymotionVideos:[{privateId:'kSyntheticMetadataPart1',part:1,playbackVerified:true}],expectedVideoParts:1});
+ assert.equal(ui.field('টপিকের নাম').value,'Legacy topic');
+ assert.equal(ui.field('রেকর্ডিংয়ের দৈর্ঘ্য · ঐচ্ছিক').value,'1:00:00');
+ assert.equal(ui.field('ক্লাসের সংক্ষিপ্ত পরিচিতি · ঐচ্ছিক').value,'Previous introduction.');
+ ui.field('টপিকের নাম').value='SSRF & OS Command Injection';
+ ui.field('রেকর্ডিংয়ের দৈর্ঘ্য · ঐচ্ছিক').value='1:37:53';
+ ui.field('ক্লাসের সংক্ষিপ্ত পরিচিতি · ঐচ্ছিক').value='Verified class introduction.';
+ await ui.nodes().find(node=>node.tag==='form').onsubmit({preventDefault(){}});
+ const patch=cleanArchivePatch(ui.requests[0].entry);
+ assert.equal(patch.topic,'SSRF & OS Command Injection');assert.equal(patch.topicTitle,patch.topic);
+ assert.equal(patch.duration,'1:37:53');assert.equal(patch.topicVerification,'Verified class introduction.');
+ assert.equal(patch.dailymotionVideos,undefined);assert.equal(patch.expectedVideoParts,undefined);
+ assert.deepEqual(patch.relatedResourceIds,['doc-a']);
+});
+
 test('new class form includes selected resources without requiring a recording',async()=>{
  const ui=await editor(base);ui.nodes().find(node=>node.tag==='button'&&node.textContent==='＋ নতুন লাইভ ক্লাস যোগ করুন').onclick();
+ assert.equal(ui.field('রেকর্ডিংয়ের দৈর্ঘ্য · ঐচ্ছিক').value,'');
  ui.field('শিরোনাম').value='New class';ui.field('টপিকের নাম').value='Topic';ui.field('যাচাই করা ক্লাসের তারিখ').value='2026-11-08';ui.field('সংশ্লিষ্ট ডকুমেন্ট, টুলস ও রিসোর্স').children[1].selected=true;
+ ui.field('ক্লাসের সংক্ষিপ্ত পরিচিতি · ঐচ্ছিক').value='New class introduction.';
  await ui.nodes().find(node=>node.tag==='form').onsubmit({preventDefault(){}});
  assert.equal(ui.requests[0].create,true);assert.deepEqual(cleanArchiveCreate(ui.requests[0].entry).relatedResourceIds,['tool-b']);
+ assert.equal(cleanArchiveCreate(ui.requests[0].entry).topicVerification,'New class introduction.');assert.equal(cleanArchiveCreate(ui.requests[0].entry).duration,'');
 });
 
 test('authorized archive saves validate resources before writing and preserve older optional edits',async t=>{
  const env={VERCEL_ENV:'production',VERCEL_PROJECT_ID:'prj_Ts514bqmcaw8dmhGxNXa9on4LwTl',CYBERNEST_AUTH_SECRET:'synthetic-resource-test-'.repeat(3),CYBERNEST_DATABASE_URL:'postgresql://test:test@resource-test.neon.tech/app?sslmode=require',CYBERNEST_ADMIN_DATABASE_URL:'postgresql://test:test@resource-owner-test.neon.tech/app?sslmode=require'};
  const previous=Object.fromEntries([...Object.keys(env),'CYBERNEST_OWNER_GITHUB_ACCOUNT_ID'].map(key=>[key,process.env[key]]));Object.assign(process.env,env);delete process.env.CYBERNEST_OWNER_GITHUB_ACCOUNT_ID;
- const auth=authPool(),owner=ownerPool();let writes=0,payload={[base.id]:{documentUrl:'https://example.invalid/retained.pdf',relatedResourceIds:['doc-a']}};
+ const retained={dailymotionVideos:[{privateId:'kSyntheticMetadataPart1',videoId:'kSyntheticMetadataPart1',visibility:'private',part:1,playbackVerified:true}],expectedVideoParts:1,playbackVerified:true,videoStatus:'ready',documentUrl:'https://example.invalid/retained.pdf',relatedResourceIds:['doc-a']};
+ const oldMetadata={topic:'Old topic',duration:'1:00:00',topicVerification:'Previous introduction.'};
+ const auth=authPool(),owner=ownerPool();let writes=0,payload={[base.id]:{...structuredClone(retained),...oldMetadata}};
  const row=()=>({payload:structuredClone(payload),version:2});
  t.mock.method(learningAuth().api,'getSession',async()=>({user:{id:'synthetic-editor',email:'editor@example.invalid'}}));
  t.mock.method(auth,'query',async sql=>sql.includes('learning.staff_roles')?{rows:[{role:'editor',course_ids:['arena-b66-delta'],verified:true}]}:{rows:[{id:'aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee'}]});
@@ -74,8 +111,21 @@ test('authorized archive saves validate resources before writing and preserve ol
  try{
   for(const ids of [['missing'],[base.id]])assert.equal((await submit({...patchBase,relatedResourceIds:ids})).status,400);
   assert.equal((await submit({...draft,relatedResourceIds:[base.id]},true)).status,400);assert.equal(writes,0);
+  for(const key of ['topic','duration','topicVerification']){
+   assert.equal((await submit({...patchBase,id:'tool-b',[key]:'Recording metadata'})).status,400);
+   assert.equal((await submit({...patchBase,[key]:null})).status,400);
+  }
+  assert.equal(writes,0);
+  const metadata={topic:'SSRF & OS Command Injection',duration:'1:37:53',topicVerification:'Verified class introduction.'};
+  assert.equal((await submit({...patchBase,...metadata})).status,200);
+  for(const [key,value]of Object.entries({...retained,...metadata}))assert.deepEqual(payload[base.id][key],value);
+  assert.equal((await submit({...patchBase,title:'Legacy editor update'})).status,200);
+  for(const [key,value]of Object.entries({...retained,...metadata}))assert.deepEqual(payload[base.id][key],value);
   assert.equal((await submit({...patchBase,relatedResourceIds:['tool-b']})).status,200);assert.deepEqual(payload[base.id].relatedResourceIds,['tool-b']);assert.equal(payload[base.id].documentUrl,'https://example.invalid/retained.pdf');
   assert.equal((await submit({...patchBase,title:'Updated title'})).status,200);assert.deepEqual(payload[base.id].relatedResourceIds,['tool-b']);
   assert.equal((await submit({...draft,relatedResourceIds:['doc-a']},true)).status,200);assert.deepEqual(payload.__newEntries[0].relatedResourceIds,['doc-a']);
+  assert.equal((await submit({...patchBase,id:draft.id,...metadata})).status,200);
+  for(const [key,value]of Object.entries(metadata))assert.equal(payload.__newEntries[0][key],value);
+  assert.deepEqual(payload.__newEntries[0].relatedResourceIds,['doc-a']);
  }finally{t.mock.restoreAll();await auth.end();await owner.end();for(const [key,value]of Object.entries(previous)){if(value===undefined)delete process.env[key];else process.env[key]=value;}}
 });

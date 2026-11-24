@@ -27,6 +27,15 @@ function cleanDailymotionVideos(list){
  });
 }
 function validateDocumentURL(value){const u=new URL(value);if(u.protocol!=='https:'||u.username||u.password||u.href.length>2048||[...u.searchParams.keys()].some(k=>/^(password|access_token|api_key|secret)$/i.test(k)))throw Error('Invalid file');return u.href;}
+function cleanRecordingMetadata(input){
+ const metadata={};
+ for(const [key,max]of [['topic',500],['duration',30],['topicVerification',500]]){
+  if(input[key]===undefined)continue;
+  if(typeof input[key]!=='string'||input[key].length>max)throw Error('Invalid recording metadata');
+  metadata[key]=input[key].trim();
+ }
+ return metadata;
+}
 function cleanRelatedResourceIds(ids,selfId){
  if(!Array.isArray(ids)||ids.length>100)throw Error('Invalid related resources');
  const seen=new Set();
@@ -38,9 +47,9 @@ export function validateArchiveResourceReferences(patch,entries){
  for(const id of patch.relatedResourceIds)if(id===patch.id||!available.has(id)||available.get(id).category==='recordings')throw Error('Unknown or invalid related resource');
 }
 export function cleanArchivePatch(input){
- const allowed=new Set(['id','title','topicTitle','text','noteText','youtubeId','youtubeVideos','dailymotionVideos','expectedVideoParts','documentUrl','classDate','playbackVerified','relatedResourceIds']);
+ const allowed=new Set(['id','title','topicTitle','text','noteText','topic','duration','topicVerification','youtubeId','youtubeVideos','dailymotionVideos','expectedVideoParts','documentUrl','classDate','playbackVerified','relatedResourceIds']);
  if(!input||typeof input!=='object'||Array.isArray(input)||Object.keys(input).some(k=>!allowed.has(k))||!ID.test(input.id||'')||input.id.length>100)throw Error('Invalid class');
- const p={id:input.id};
+ const p={id:input.id,...cleanRecordingMetadata(input)};
  for(const [k,max]of [['title',500],['topicTitle',500],['text',50000],['noteText',80000]]){if(typeof input[k]!=='string'||input[k].length>max)throw Error('Invalid text');p[k]=input[k].trim();}
  if(!p.title)throw Error('Missing title');
  if(input.relatedResourceIds!==undefined)p.relatedResourceIds=cleanRelatedResourceIds(input.relatedResourceIds,p.id);
@@ -60,17 +69,17 @@ export function cleanArchivePatch(input){
  return p;
 }
 export function cleanArchiveCreate(input){
- const allowed=new Set(['id','category','recordingSerial','topic','topicTitle','title','classDate','duration','text','noteText','dailymotionVideos','expectedVideoParts','relatedResourceIds']);
+ const allowed=new Set(['id','category','recordingSerial','topic','topicTitle','title','classDate','duration','topicVerification','text','noteText','dailymotionVideos','expectedVideoParts','relatedResourceIds']);
  if(!input||typeof input!=='object'||Array.isArray(input)||Object.keys(input).some(k=>!allowed.has(k)))throw Error('Invalid new class');
  const date=input.classDate;
  if(!validDate(date)||input.id!=='class-'+date||input.category!=='recordings'||!Number.isSafeInteger(input.recordingSerial)||input.recordingSerial<1)throw Error('Invalid class identity');
  const day=new Date(date+'T00:00:00Z').getUTCDay();if(day!==0&&day!==5)throw Error('Class date is not on the regular schedule');
  for(const key of ['topic','topicTitle','title','text','noteText'])if(typeof input[key]!=='string'||input[key].length>(key==='noteText'?80000:50000))throw Error('Invalid class text');
  if(!input.title.trim()||!input.topicTitle.trim()||!input.topic.trim())throw Error('Class topic is required');
- if(input.duration!==undefined&&(typeof input.duration!=='string'||input.duration.length>30))throw Error('Invalid duration');
+ const metadata=cleanRecordingMetadata(input);
  if(!Number.isSafeInteger(input.expectedVideoParts)||input.expectedVideoParts<1||input.expectedVideoParts>40)throw Error('Invalid expected part count');
  if(!Array.isArray(input.dailymotionVideos))throw Error('Invalid Dailymotion video list');
  const videos=input.dailymotionVideos.length?cleanDailymotionVideos(input.dailymotionVideos):[];
  if(videos.length&&videos.length!==input.expectedVideoParts)throw Error('All video parts must be provided');
- return {id:input.id,category:'recordings',recordingSerial:input.recordingSerial,topic:input.topic.trim(),topicTitle:input.topicTitle.trim(),title:input.title.trim(),date,classDate:date,dateVerified:true,dateStatus:'verified',weekday:day===0?'Sunday':'Friday',duration:input.duration||'',relatedResourceIds:cleanRelatedResourceIds(input.relatedResourceIds===undefined?[]:input.relatedResourceIds,input.id),access:'preview',videoStatus:videos.length===0?'recording-pending':videos.every(v=>v.playbackVerified)?'ready':'uploaded-processing',expectedVideoParts:input.expectedVideoParts,dailymotionVideos:videos,text:input.text.trim(),noteText:input.noteText.trim()};
+ return {id:input.id,category:'recordings',recordingSerial:input.recordingSerial,topicTitle:input.topicTitle.trim(),title:input.title.trim(),date,classDate:date,dateVerified:true,dateStatus:'verified',weekday:day===0?'Sunday':'Friday',duration:'',...metadata,relatedResourceIds:cleanRelatedResourceIds(input.relatedResourceIds===undefined?[]:input.relatedResourceIds,input.id),access:'preview',videoStatus:videos.length===0?'recording-pending':videos.every(v=>v.playbackVerified)?'ready':'uploaded-processing',expectedVideoParts:input.expectedVideoParts,dailymotionVideos:videos,text:input.text.trim(),noteText:input.noteText.trim()};
 }
