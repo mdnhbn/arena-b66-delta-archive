@@ -51,14 +51,15 @@ export async function POST(request){
    const saved=await saveControl('archive-edits',next,input.version);
    return json({saved:true,created:true,version:saved.version});
   }
-  const sourceExists=sourceEntries.some(e=>e.id===patch.id);
-  if(sourceExists){
+  const sourceEntry=sourceEntries.find(e=>e.id===patch.id),extraIndex=extra.findIndex(e=>e.id===patch.id);
+  const existing=sourceEntry||extra[extraIndex];
+  if(!existing)return json({error:'Unknown class'},404);
+  if(existing.category!=='recordings'&&['topic','duration','topicVerification'].some(key=>patch[key]!==undefined))return json({error:'Recording metadata requires a class recording'},400);
+  if(sourceEntry){
    const saved=await saveControl('archive-edits',{...savedPayload,[patch.id]:{...savedPayload[patch.id],...patch}},input.version);
    return json({saved:true,version:saved.version});
   }
-  const index=extra.findIndex(e=>e.id===patch.id);
-  if(index<0)return json({error:'Unknown class'},404);
-  const updated=extra.map((e,i)=>i===index?{...e,...patch}:e);
+  const updated=extra.map((e,i)=>i===extraIndex?{...e,...patch}:e);
   const saved=await saveControl('archive-edits',{...savedPayload,__newEntries:updated},input.version);
   return json({saved:true,version:saved.version});
  }catch(e){
